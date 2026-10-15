@@ -1,0 +1,611 @@
+[
+  {
+    "单词": "across from",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 在…的正对面\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "next to",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "prep. 紧邻；在…近旁；仅次于；紧接\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "between",
+    "英音": "[bɪˈtwiːn]",
+    "美音": "[bɪˈtwiːn]",
+    "释义(中文)": "prep. 在…之间\nadv. 在中间",
+    "释义(英文)": "r. in the interval\nr. in between"
+  },
+  {
+    "单词": "restaurant",
+    "英音": "[ˈrestrɒnt]",
+    "美音": "[ˈrestrɑːnt; ˈrestərɑːnt]",
+    "释义(中文)": "n. 餐馆；[经] 饭店",
+    "释义(英文)": "n. a building where people go to eat"
+  },
+  {
+    "单词": "post office",
+    "英音": "[ˈpəust ɔfis]",
+    "美音": "[ˈpost ɔfɪs]",
+    "释义(中文)": "n. 邮局；邮政部门；邮政系统；邮差敲门游戏（儿童用假托的信件换取亲吻）\n",
+    "释义(英文)": "n. See under 4th Post."
+  },
+  {
+    "单词": "bank",
+    "英音": "[bæŋk]",
+    "美音": "[bæŋk]",
+    "释义(中文)": "n. 银行；岸；浅滩；储库\nvt. 将…存入银行；倾斜转弯\nvi. 堆积；倾斜转弯\n",
+    "释义(英文)": "n. sloping land (especially the slope beside a body of water)\nn. a long ridge or pile\nn. an arrangement of similar objects in a row or in tiers\nn. a supply or stock held in reserve for future use (especially in emergencies)"
+  },
+  {
+    "单词": "grocery",
+    "英音": "[ˈɡrəʊsəri]",
+    "美音": "[ˈɡroʊsəri]",
+    "释义(中文)": "n. 食品杂货店\n食品杂货",
+    "释义(英文)": "n. (usually plural) consumer goods sold by a grocer"
+  },
+  {
+    "单词": "turn left",
+    "英音": "[tɜ:n left]",
+    "美音": "[tɝ​n lɛft]",
+    "释义(中文)": "un. 向左转\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "turn right",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 转往右面\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "go straight",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 笔直走\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "crossroads",
+    "英音": "[ˈkrɒsrəʊdz]",
+    "美音": "[ˈkrɔːsroʊdz]",
+    "释义(中文)": "n. 十字路口；交叉路口；聚会的中心地点（crossroad的复数形式）",
+    "释义(英文)": "n. a point where a choice must be made"
+  },
+  {
+    "单词": "neighbourhood",
+    "英音": "[ˈneɪbəhʊd]",
+    "美音": "[ˈneɪbərhʊd]",
+    "释义(中文)": "n. 邻近；周围；邻居关系；附近一带",
+    "释义(英文)": "n a surrounding or nearby region\nn people living near one another"
+  },
+  {
+    "单词": "send",
+    "英音": "[send]",
+    "美音": "[send]",
+    "释义(中文)": "n. 上升运动\nvi. 派人；寄信\nvt. 发送，寄；派遣；使进入；发射\n",
+    "释义(英文)": "v. cause to go somewhere\nv. to cause or order to be taken, directed, or transmitted to another place\nv. transfer"
+  },
+  {
+    "单词": "get",
+    "英音": "[ɡet]",
+    "美音": "[ɡet]",
+    "释义(中文)": "n. 生殖；幼兽\nvi. 成为；变得；到达\nvt. 使得；获得；受到；变成",
+    "释义(英文)": "n. a return on a shot that seemed impossible to reach and would normally have resulted in a point for the opponent\nv. come into the possession of something concrete or abstract\nv. cause to move; cause to be in a certain position or condition\nv. succeed in catching or seizing, especially after a chase"
+  },
+  {
+    "单词": "money",
+    "英音": "[ˈmʌni]",
+    "美音": "[ˈmʌni]",
+    "释义(中文)": "n. 钱；货币；财富\n",
+    "释义(英文)": "n. the most common medium of exchange; functions as legal tender\nn. wealth reckoned in terms of money\nn. the official currency issued by a government or national bank"
+  },
+  {
+    "单词": "get to",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 接触到；开始；〈美口〉收买\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "before",
+    "英音": "[bɪˈfɔː(r)]",
+    "美音": "[bɪˈfɔːr]",
+    "释义(中文)": "prep. 在…之前，先于\nconj. 在…以前；在…之前\nadv. 以前；在前",
+    "释义(英文)": "r earlier in time; previously\nr at or in the front"
+  },
+  {
+    "单词": "leave",
+    "英音": "[liːv]",
+    "美音": "[liːv]",
+    "释义(中文)": "vt. 离开；留下；遗忘；委托\nvi. 离开，出发；留下\nn. 许可，同意；休假",
+    "释义(英文)": "n. the period of time during which you are absent from work or duty\nn. permission to do something\nv. go away from a place\nv. go and leave behind, either intentionally or by neglect or forgetfulness"
+  },
+  {
+    "单词": "toy",
+    "英音": "[tɔɪ]",
+    "美音": "[tɔɪ]",
+    "释义(中文)": "n. 玩具；小装饰品；不值钱的东西\nadj. 作为玩具的；玩物似的\nvi. 玩弄；调情；随随便便地对待\n",
+    "释义(英文)": "n. a nonfunctional replica of something else (frequently used as a modifier)\nn. a device regarded as providing amusement\nv. manipulate manually or in one's mind or imagination"
+  },
+  {
+    "单词": "hospital",
+    "英音": "[ˈhɒspɪt(ə)l]",
+    "美音": "[ˈhɑːspɪtl]",
+    "释义(中文)": "n. 医院\n",
+    "释义(英文)": "n. a health facility where patients receive treatment\nn. a medical institution where sick or injured people are given medical or surgical care"
+  },
+  {
+    "单词": "bookshop",
+    "英音": "[ˈbʊkʃɒp]",
+    "美音": "[ˈbʊkʃɑːp]",
+    "释义(中文)": "n. 书店",
+    "释义(英文)": "n. a shop where books are sold"
+  },
+  {
+    "单词": "school",
+    "英音": "[skuːl]",
+    "美音": "[skuːl]",
+    "释义(中文)": "n. 学校；学院；学派；鱼群\nvt. 教育",
+    "释义(英文)": "n. an educational institution\nn. a building where young people receive education\nn. the process of being formally educated at a school\nn. a body of creative artists or writers or thinkers linked by a similar style or by similar teachers"
+  },
+  {
+    "单词": "supermarket",
+    "英音": "[ˈsuːpəmɑːkɪt]",
+    "美音": "[ˈsuːpərmɑːrkɪt]",
+    "释义(中文)": "n. 超级市场；自助售货商店",
+    "释义(英文)": "n. a large self-service grocery store selling groceries and dairy products and household goods"
+  },
+  {
+    "单词": "ball",
+    "英音": "[bɔːl]",
+    "美音": "[bɔːl]",
+    "释义(中文)": "n. 球；舞会\nvt. 捏成球形\nvi. 成团块\n",
+    "释义(英文)": "n. round object that is hit or thrown or kicked in games\nn. an object with a spherical shape\nn. the people assembled at a lavish formal dance\nn. a spherical object used as a plaything"
+  },
+  {
+    "单词": "city",
+    "英音": "[ˈsɪti]",
+    "美音": "[ˈsɪti]",
+    "释义(中文)": "n. 城市，都市\nadj. 城市的；都会的",
+    "释义(英文)": "n. a large and densely populated urban area; may include several independent administrative districts\nn. an incorporated administrative district established by state charter\nn. people living in a large densely populated municipality"
+  },
+  {
+    "单词": "street",
+    "英音": "[striːt]",
+    "美音": "[striːt]",
+    "释义(中文)": "n. 街道\nadj. 街道的\n",
+    "释义(英文)": "n. a thoroughfare (usually including sidewalks) that is lined with buildings\nn. the part of a thoroughfare between the sidewalks; the part of the thoroughfare on which vehicles travel\nn. the streets of a city viewed as a depressed environment in which there is poverty and crime and prostitution and dereliction\nn. a situation offering opportunities"
+  },
+  {
+    "单词": "sports centre",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 体育运动中心, 运动场",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "hotel",
+    "英音": "[həʊˈtel]",
+    "美音": "[hoʊˈtel]",
+    "释义(中文)": "n. 旅馆，饭店；客栈\nvt. 使…在饭店下榻\nvi. 进行旅馆式办公\n",
+    "释义(英文)": "n. a building where travelers can pay for lodging and meals and other services"
+  },
+  {
+    "单词": "square",
+    "英音": "[skweə(r)]",
+    "美音": "[skwer]",
+    "释义(中文)": "n. 平方；广场；正方形\nadj. 平方的；正方形的；直角的；正直的\nvt. 使成方形；与…一致\nvi. 一致；成方形\nadv. 成直角地",
+    "释义(英文)": "n. (geometry) a plane rectangle with four equal sides and four right angles; a four-sided regular polygon\nn. the product of two equal terms\nn. something approximating the shape of a square\nn. someone who doesn't understand what is going on"
+  },
+  {
+    "单词": "buy toys",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "see a film",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 看电影；去看电影；去电影院看电影",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "go boating",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 乘船〔尤指划船〕游玩\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "busy",
+    "英音": "[ˈbɪzi]",
+    "美音": "[ˈbɪzi]",
+    "释义(中文)": "adj. 忙碌的；热闹的；正被占用的\nvt. 使忙于\n",
+    "释义(英文)": "v. keep busy with\na. actively or fully engaged or occupied\ns. overcrowded or cluttered with detail\ns. crowded with or characterized by much activity"
+  },
+  {
+    "单词": "station",
+    "英音": "[ˈsteɪʃ(ə)n]",
+    "美音": "[ˈsteɪʃn]",
+    "释义(中文)": "n. 车站；驻地；地位；身份\nvt. 配置；安置；驻扎",
+    "释义(英文)": "n. a facility equipped with special equipment and personnel for a particular purpose\nn. (nautical) the location to which a ship or fleet is assigned for duty\nn. the frequency assigned to a broadcasting station\nv. assign to a station"
+  },
+  {
+    "单词": "place",
+    "英音": "[pleɪs]",
+    "美音": "[pleɪs]",
+    "释义(中文)": "n. 地方；住所；座位\nvt. 放置；任命；寄予\nvi. 名列前茅；取得名次\n",
+    "释义(英文)": "n. any area set aside for a particular purpose\nn. an abstract mental location\nn. a general vicinity\nn. a particular situation"
+  },
+  {
+    "单词": "thing",
+    "英音": "[θɪŋ]",
+    "美音": "[θɪŋ]",
+    "释义(中文)": "n. 事情；东西；事物；情况",
+    "释义(英文)": "n. a special situation\nn. an action\nn. a special abstraction\nn. an artifact"
+  },
+  {
+    "单词": "stay",
+    "英音": "[steɪ]",
+    "美音": "[steɪ]",
+    "释义(中文)": "n. 逗留；停止；支柱\nvi. 停留；坚持；暂住；停下\nvt. 坚持；暂住；抑制",
+    "释义(英文)": "n. continuing or remaining in a place or state\nn. a judicial order forbidding some action until an event occurs or the order is lifted\nn. a thin strip of metal or bone that is used to stiffen a garment (e.g. a corset)\nn. (nautical) brace consisting of a heavy rope or wire cable used as a support for a mast or spar"
+  },
+  {
+    "单词": "star",
+    "英音": "[stɑː(r)]",
+    "美音": "[stɑːr]",
+    "释义(中文)": "n. 星，恒星；明星；星形物\nadj. 明星的，主角的；星形的\nvt. 用星号标于；由…主演，由…担任主角\nvi. 担任主角\n",
+    "释义(英文)": "n. (astronomy) a celestial body of hot gases that radiates energy derived from thermonuclear reactions in the interior\nn. any celestial body visible (as a point of light) from the Earth at night\nn. an actor who plays a principal role\nn. a plane figure with 5 or more points; often used as an emblem"
+  },
+  {
+    "单词": "king",
+    "英音": "[kɪŋ]",
+    "美音": "[kɪŋ]",
+    "释义(中文)": "n. 国王；最有势力者；王棋\nvi. 统治；做国王\nvt. 立…为王\nadj. 主要的，最重要的，最大的\n",
+    "释义(英文)": "n. a male sovereign; ruler of a kingdom\nn. a competitor who holds a preeminent position\nn. preeminence in a particular category or group or field\nn. United States woman tennis player (born in 1943)"
+  },
+  {
+    "单词": "central",
+    "英音": "[ˈsentrəl]",
+    "美音": "[ˈsentrəl]",
+    "释义(中文)": "n. 电话总机\nadj. 中心的；主要的；中枢的",
+    "释义(英文)": "n. a workplace that serves as a telecommunications facility where lines from telephones can be connected together to permit communication\na. in or near a center or constituting a center; the inner area"
+  },
+  {
+    "单词": "take photos",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 照相；拍照；拍照片",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "museum",
+    "英音": "[mjuˈziːəm]",
+    "美音": "[mjuˈziːəm]",
+    "释义(中文)": "n. 博物馆",
+    "释义(英文)": "n. a depository for collecting and displaying objects having scientific or historical or artistic value"
+  },
+  {
+    "单词": "dream",
+    "英音": "[driːm]",
+    "美音": "[driːm]",
+    "释义(中文)": "n. 梦想，愿望；梦\nadj. 梦的；理想的；不切实际的\nvt. 梦想；做梦；想到\nvi. 梦想；做梦，梦见；想到",
+    "释义(英文)": "n. a series of mental images and emotions occurring during sleep\nn. imaginative thoughts indulged in while awake\nn. a state of mind characterized by abstraction and release from reality\nn. someone or something wonderful"
+  },
+  {
+    "单词": "sea",
+    "英音": "[siː]",
+    "美音": "[siː]",
+    "释义(中文)": "n. 海；海洋；许多；大量",
+    "释义(英文)": "n. a division of an ocean or a large body of salt water partially enclosed by land\nn. turbulent water with swells of considerable size"
+  },
+  {
+    "单词": "ski",
+    "英音": "[skiː]",
+    "美音": "[skiː]",
+    "释义(中文)": "n. 滑雪橇\nvi. 滑雪\nadj. 滑雪（用）的",
+    "释义(英文)": "n. narrow wood or metal or plastic runners used in pairs for gliding over snow\nv. move along on skis"
+  },
+  {
+    "单词": "eat seafood",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "visit the Mogao Caves",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "West Lake",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 西湖；杭州西湖；浙江杭州",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "row a boat",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 划船；摇船；划船最好用",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "the Great Wall",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 长城；万里长城；中国万里长城",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "take photos",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 照相；拍照；拍照片",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "summer vacation",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 暑假\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "travel",
+    "英音": "[ˈtræv(ə)l]",
+    "美音": "[ˈtrævl]",
+    "释义(中文)": "n. 旅行；游历；漫游\nvt. 经过；在…旅行\nvi. 旅行；行进；步行；交往",
+    "释义(英文)": "n. the act of going from one place to another\nv. change location; move, travel, or proceed, also metaphorically\nv. undertake a journey or trip\nv. make a trip for pleasure"
+  },
+  {
+    "单词": "reading",
+    "英音": "[ˈriːdɪŋ]",
+    "美音": "[ˈriːdɪŋ]",
+    "释义(中文)": "n. 阅读，朗读；读物；读数\nv. 阅读（read的ing形式）\nadj. 阅读的",
+    "释义(英文)": "n. the cognitive process of understanding a written linguistic message\nn. a particular interpretation or performance\nn. a datum about some physical state that is presented to a user by a meter or similar instrument\nn. written material intended to be read"
+  },
+  {
+    "单词": "skateboarding",
+    "英音": "[ˈskeɪtbɔːdɪŋ]",
+    "美音": "[ˈskeɪtbɔːrdɪŋ]",
+    "释义(中文)": "n. 滑板运动",
+    "释义(英文)": "n. the sport of skating on a skateboard"
+  },
+  {
+    "单词": "singing",
+    "英音": "[ˈsɪŋɪŋ]",
+    "美音": "[ˈsɪŋɪŋ]",
+    "释义(中文)": "n. 歌唱；歌声；耳鸣；振鸣\nv. 唱歌（sing的ing形式）\nadj. 唱歌的；音乐般的",
+    "释义(英文)": "n. the act of singing vocal music"
+  },
+  {
+    "单词": "dancing",
+    "英音": "[ˈdɑːnsɪŋ]",
+    "美音": "[ˈdænsɪŋ]",
+    "释义(中文)": "n. 跳舞；舞蹈\nv. 跳舞；摇晃（dance的ing形式）",
+    "释义(英文)": "n. taking a series of rhythmical steps (and movements) in time to music"
+  },
+  {
+    "单词": "doing jigsaw puzzles",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "making models",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "collecting erasers",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "different",
+    "英音": "[ˈdɪfrənt]",
+    "美音": "[ˈdɪfrənt]",
+    "释义(中文)": "adj. 不同的；个别的，与众不同的",
+    "释义(英文)": "a. unlike in nature or quality or form or degree\ns. distinctly separate from the first\ns. differing from all others; not ordinary\ns. distinct or separate"
+  },
+  {
+    "单词": "hobby",
+    "英音": "[ˈhɒbi]",
+    "美音": "[ˈhɑːbi]",
+    "释义(中文)": "n. 嗜好；业余爱好\n",
+    "释义(英文)": "n. a child's plaything consisting of an imitation horse mounted on rockers; the child straddles it and pretends to ride\nn. small Old World falcon formerly trained and flown at small birds"
+  },
+  {
+    "单词": "stamp",
+    "英音": "[stæmp]",
+    "美音": "[stæmp]",
+    "释义(中文)": "n. 邮票；印记；标志；跺脚\nvt. 铭记；标出；盖章于…；贴邮票于…；用脚踩踏\nvi. 跺脚；捣碎；毁掉\n",
+    "释义(英文)": "n. a type or class\nn. a symbol that is the result of printing or engraving\nn. machine consisting of a heavy bar that moves vertically for pounding or crushing ores\nn. a block or die used to imprint a mark or design"
+  },
+  {
+    "单词": "catch",
+    "英音": "[kætʃ]",
+    "美音": "[kætʃ]",
+    "释义(中文)": "n. 捕捉；捕获物；窗钩\nvt. 赶上；抓住；感染；了解\nvi. 赶上；抓住",
+    "释义(英文)": "n. a drawback or difficulty that is not readily evident\nn. the quantity that was caught\nn. a person regarded as a good matrimonial prospect\nn. anything that is caught (especially if it is worth catching)"
+  },
+  {
+    "单词": "go for a picnic",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 去野餐；去野炊；出去野炊",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "play the violin",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 拉小提琴；弹小提琴；演奏小提琴",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "go skating",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 去滑冰；去溜冰；滑雪",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "go camping",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 去野营；去露营；宿营",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "do the housework",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 做家务；做家务活；料理家务",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "free",
+    "英音": "[friː]",
+    "美音": "[friː]",
+    "释义(中文)": "adj. 免费的；自由的，不受约束的；[化学] 游离的\nvt. 使自由，解放；释放\nadv. 自由地；免费\n",
+    "释义(英文)": "n. people who are free\nv. grant freedom to; free from confinement\nv. make (information) available for publication\nv. free from obligations or duties"
+  },
+  {
+    "单词": "never",
+    "英音": "[ˈnevə(r)]",
+    "美音": "[ˈnevər]",
+    "释义(中文)": "adv. 从未；决不",
+    "释义(英文)": "r. not ever; at no time in the past or future\nr. not at all; certainly not; not in any circumstances"
+  },
+  {
+    "单词": "once a week",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 一周一次；每周一次；一星期一次",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "twice a week",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 一周两次；每周两次；一星期两次",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "three times a week",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 一周三次；每周三次；一星期三次",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "Canada",
+    "英音": "[ˈkænədə]",
+    "美音": "[ˈkænədə]",
+    "释义(中文)": "n. 加拿大（北美洲国家）",
+    "释义(英文)": "n. a nation in northern North America; the French were the first Europeans to settle in mainland Canada"
+  },
+  {
+    "单词": "Australia",
+    "英音": "[ɒˈstreɪliə]",
+    "美音": "[ɔːˈstreɪliə]",
+    "释义(中文)": "n. 澳大利亚，澳洲",
+    "释义(英文)": "n. a nation occupying the whole of the Australian continent; Aboriginal tribes are thought to have migrated from southeastern Asia 20,000 years ago; first Europeans were British convicts sent there as a penal colony\nn. the smallest continent; between the South Pacific and the Indian Ocean"
+  },
+  {
+    "单词": "the UK",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "（等于the United Kingdom）英国",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "the USA",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 美国；美利坚合众国；现在我们有美国的大哥",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "China",
+    "英音": "[ˈtʃaɪnə]",
+    "美音": "[ˈtʃaɪnə]",
+    "释义(中文)": "n. 中国\nn. china，瓷器\nadj. 中国的；中国制造的\nadj. china，瓷制的",
+    "释义(英文)": "n. a communist nation that covers a vast territory in eastern Asia; the most populous country in the world\nn. high quality porcelain originally made only in China"
+  },
+  {
+    "单词": "koala",
+    "英音": "[kəʊˈɑːlə]",
+    "美音": "[koʊˈɑːlə]",
+    "释义(中文)": "n. 树袋熊，无尾熊（产于澳大利亚，又名考拉）",
+    "释义(英文)": "n. sluggish tailless Australian arboreal marsupial with grey furry ears and coat; feeds on eucalyptus leaves and bark"
+  },
+  {
+    "单词": "maple leaves",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 枫叶；枫树叶子；枫树留下",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "Big Ben",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 英国伦敦议会大厦顶的大钟, 美国得州西南部的国立大本德公园(Big Bend National Park)",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "Disneyland",
+    "英音": "[ˈdɪznilænd]",
+    "美音": "[ˈdɪznilænd]",
+    "释义(中文)": "n. 迪斯尼乐园；幻想世界",
+    "释义(英文)": "n. an amusement park in Anaheim created in 1955 by Walt Disney"
+  },
+  {
+    "单词": "campfire",
+    "英音": "[ˈkæmpfaɪə(r)]",
+    "美音": "[ˈkæmpfaɪər]",
+    "释义(中文)": "n. 营火；营火会",
+    "释义(英文)": "n. a small outdoor fire for warmth or cooking (as at a camp)"
+  },
+  {
+    "单词": "cute",
+    "英音": "[kjuːt]",
+    "美音": "[kjuːt]",
+    "释义(中文)": "adj. 可爱的；漂亮的；聪明的，伶俐的",
+    "释义(英文)": "s. obviously contrived to charm"
+  },
+  {
+    "单词": "country",
+    "英音": "[ˈkʌntri]",
+    "美音": "[ˈkʌntri]",
+    "释义(中文)": "n. 国家，国土；国民；乡下，农村；乡村；故乡\nadj. 祖国的，故乡的；地方的，乡村的；国家的；粗鲁的；乡村音乐的",
+    "释义(英文)": "n. the territory occupied by a nation\nn. an area outside of cities and towns"
+  },
+  {
+    "单词": "pretty",
+    "英音": "[ˈprɪti]",
+    "美音": "[ˈprɪti]",
+    "释义(中文)": "n. 有吸引力的事物（尤指饰品）；漂亮的人\nadj. 漂亮的；可爱的；优美的\nadv. 相当地；颇\n",
+    "释义(英文)": "s. pleasing by delicacy or grace; not imposing\ns. (used ironically) unexpectedly bad"
+  }
+]

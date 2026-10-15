@@ -1,0 +1,1101 @@
+[
+  {
+    "单词": "nice",
+    "英音": "[naɪs]",
+    "美音": "[naɪs]",
+    "释义(中文)": "adj. 精密的；美好的；细微的；和蔼的\n",
+    "释义(英文)": "n. a city in southeastern France on the Mediterranean; the leading resort on the French Riviera\na. pleasant or pleasing or agreeable in nature or appearance\ns. done with delicacy and skill"
+  },
+  {
+    "单词": "clever",
+    "英音": "[ˈklevə(r)]",
+    "美音": "[ˈklevər]",
+    "释义(中文)": "adj. 聪明的；机灵的；熟练的\n[ 比较级cleverer 最高级 cleverest ]",
+    "释义(英文)": "s. showing inventiveness and skill"
+  },
+  {
+    "单词": "naughty",
+    "英音": "[ˈnɔːti]",
+    "美音": "[ˈnɔːti]",
+    "释义(中文)": "adj. 顽皮的，淘气的；不听话的；没规矩的；不适当的；下流的",
+    "释义(英文)": "s. badly behaved"
+  },
+  {
+    "单词": "a bit",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 有点儿〔作副词用〕\n",
+    "释义(英文)": " 3d sing. pres. of Abide."
+  },
+  {
+    "单词": "shy",
+    "英音": "[ʃaɪ]",
+    "美音": "[ʃaɪ]",
+    "释义(中文)": "n. 投掷；惊跳\nadj. 害羞的；畏缩的，胆怯的\nvi. 投；畏缩；惊退；厌恶\nvt. 投；乱掷\n",
+    "释义(英文)": "n. a quick throw\nv. start suddenly, as from fright\nv. throw quickly\ns. short"
+  },
+  {
+    "单词": "answer",
+    "英音": "[ˈɑːnsə(r)]",
+    "美音": "[ˈænsər]",
+    "释义(中文)": "n. 回答；答案；答辩\nvt. 回答；符合\nvi. 回答；符合",
+    "释义(英文)": "n. a statement (either spoken or written) that is made to reply to a question or request or criticism or accusation\nn. the speech act of replying to a question\nn. the principal pleading by the defendant in response to plaintiff's complaint; in criminal law it consists of the defendant's plea of `guilty' or `not guilty' (or nolo contendere); in civil law it must contain denials of all allegations in the plaintiff's complaint that the defendant hopes to controvert and it can contain affirmative defenses or counterclaims\nn. a nonverbal reaction"
+  },
+  {
+    "单词": "call",
+    "英音": "[kɔːl]",
+    "美音": "[kɔːl]",
+    "释义(中文)": "n. 电话；呼叫；要求；访问\nvi. 呼叫；拜访；叫牌\nvt. 呼叫；称呼；召集\n",
+    "释义(英文)": "n. a telephone connection\nn. a special disposition (as if from a divine source) to pursue a particular course\nn. a demand especially in the phrase \"the call of duty\"\nn. a brief social visit"
+  },
+  {
+    "单词": "bad",
+    "英音": "[bæd]",
+    "美音": "[bæd]",
+    "释义(中文)": "n. 坏事；坏人\nadj. 坏的；严重的；劣质的\nadv. 很，非常；坏地；邪恶地\n",
+    "释义(英文)": "n. that which is below standard or expectations as of ethics or decency\na. having undesirable or negative qualities\ns. very intense\ns. feeling physical discomfort or pain (`tough' is occasionally used colloquially for `bad')"
+  },
+  {
+    "单词": "cool",
+    "英音": "[kuːl]",
+    "美音": "[kuːl]",
+    "释义(中文)": "n. 凉爽；凉爽的空气\nadj. 凉爽的；冷静的；出色的\nvt. 使…冷却；使…平静下来\nvi. 变凉；平息\nadv. 冷静地\n",
+    "释义(英文)": "n. the quality of being at a refreshingly low temperature\nv. make cool or cooler\nv. loose heat\nv. lose intensity"
+  },
+  {
+    "单词": "aunt",
+    "英音": "[ɑːnt]",
+    "美音": "[ænt]",
+    "释义(中文)": "n. 阿姨；姑妈；伯母；舅妈",
+    "释义(英文)": "n. the sister of your father or mother; the wife of your uncle"
+  },
+  {
+    "单词": "uncle",
+    "英音": "[ˈʌŋk(ə)l]",
+    "美音": "[ˈʌŋkl]",
+    "释义(中文)": "n. 叔叔；伯父；伯伯；舅父；姨丈；姑父",
+    "释义(英文)": "n. the brother of your father or mother; the husband of your aunt\nn. a source of help and advice and encouragement"
+  },
+  {
+    "单词": "big",
+    "英音": "[bɪɡ]",
+    "美音": "[bɪɡ]",
+    "释义(中文)": "adj. 大的；重要的；量大的\nadv. 大量地；顺利；夸大地\n",
+    "释义(英文)": "s. significant\ns. loud and firm\ns. conspicuous in position or importance\ns. prodigious"
+  },
+  {
+    "单词": "little",
+    "英音": "[ˈlɪt(ə)l]",
+    "美音": "[ˈlɪtl]",
+    "释义(中文)": "adj. 小的；很少的；短暂的；小巧可爱的\nadv. 完全不\nn. 少许；没有多少；短时间\n",
+    "释义(英文)": "n. a small amount or duration\na. (quantifier used with mass nouns) small in quantity or degree; not much or almost none or (with `a') at least some\ns. (of children and animals) young, immature\ns. (of a voice) faint"
+  },
+  {
+    "单词": "cute",
+    "英音": "[kjuːt]",
+    "美音": "[kjuːt]",
+    "释义(中文)": "adj. 可爱的；漂亮的；聪明的，伶俐的",
+    "释义(英文)": "s. obviously contrived to charm"
+  },
+  {
+    "单词": "city",
+    "英音": "[ˈsɪti]",
+    "美音": "[ˈsɪti]",
+    "释义(中文)": "n. 城市，都市\nadj. 城市的；都会的",
+    "释义(英文)": "n. a large and densely populated urban area; may include several independent administrative districts\nn. an incorporated administrative district established by state charter\nn. people living in a large densely populated municipality"
+  },
+  {
+    "单词": "ship",
+    "英音": "[ʃɪp]",
+    "美音": "[ʃɪp]",
+    "释义(中文)": "n. 船；舰；太空船\nvt. 运送，乘船；以船运送\nvi. 上船；乘船旅行；当船员\n",
+    "释义(英文)": "n. a vessel that carries passengers or freight\nv. hire for work on a ship\nv. travel by ship\nv. place on board a ship"
+  },
+  {
+    "单词": "beautiful",
+    "英音": "[ˈbjuːtɪf(ə)l]",
+    "美音": "[ˈbjuːtɪf(ə)l]",
+    "释义(中文)": "adj. 美丽的\n出色地\n出色的\n迷人的\n迷人地",
+    "释义(英文)": "a. delighting the senses or exciting intellectual or emotional admiration\ns. (of weather) highly enjoyable"
+  },
+  {
+    "单词": "whose",
+    "英音": "[huːz]",
+    "美音": "[huːz]",
+    "释义(中文)": "pron. 谁的（疑问代词）",
+    "释义(英文)": "pron. The possessive case of who or which. See Who, and Which."
+  },
+  {
+    "单词": "queen",
+    "英音": "[kwiːn]",
+    "美音": "[kwiːn]",
+    "释义(中文)": "n. 女王，王后；（纸牌中的）皇后；（蜜蜂等的）蜂王\nvt. 使…成为女王或王后\nvi. 做女王\n",
+    "释义(英文)": "n. the only fertile female in a colony of social insects such as bees and ants and termites; its function is to lay eggs\nn. a female sovereign ruler\nn. the wife or widow of a king\nn. something personified as a woman who is considered the best or most important of her kind"
+  },
+  {
+    "单词": "close",
+    "英音": "[kləʊz]",
+    "美音": "[kloʊz; kloʊs]",
+    "释义(中文)": "n. 结束\nadj. 紧密的；亲密的；亲近的\nvt. 关；结束；使靠近\nvi. 关；结束；关闭\nadv. 紧密地\n",
+    "释义(英文)": "v. move so that an opening or passage is obstructed; make shut\nv. become closed\nv. finish or terminate (meetings, speeches, etc.)\nv. complete a business deal, negotiation, or an agreement"
+  },
+  {
+    "单词": "old",
+    "英音": "[əʊld]",
+    "美音": "[oʊld]",
+    "释义(中文)": "adj. 陈旧的，古老的；年老的\nn. 古时\n",
+    "释义(英文)": "n. past times (especially in the phrase `in days of old')\na. (used especially of persons) having lived for a relatively long time or attained a specific age\na. of long duration; not new\ns. (used for emphasis) very familiar"
+  },
+  {
+    "单词": "famous",
+    "英音": "[ˈfeɪməs]",
+    "美音": "[ˈfeɪməs]",
+    "释义(中文)": "adj. 著名的；极好的，非常令人满意的",
+    "释义(英文)": "s widely known and esteemed"
+  },
+  {
+    "单词": "robot",
+    "英音": "[ˈrəʊbɒt]",
+    "美音": "[ˈroʊbɑːt]",
+    "释义(中文)": "n. 机器人；遥控设备，自动机械；机械般工作的人",
+    "释义(英文)": "n a mechanism that can move automatically"
+  },
+  {
+    "单词": "will",
+    "英音": "[wɪl]",
+    "美音": "[wɪl]",
+    "释义(中文)": "n. 意志；决心；情感；遗嘱；意图；心愿\nvt. 决心要；遗赠；用意志力使\nvi. 愿意；下决心\naux. 将；愿意；必须",
+    "释义(英文)": "n. a fixed and persistent intent or purpose\nn. a legal document declaring a person's wishes regarding the disposal of their property when they die\nv. decree or ordain\nv. determine by choice"
+  },
+  {
+    "单词": "everything",
+    "英音": "[ˈevriθɪŋ]",
+    "美音": "[ˈevriθɪŋ]",
+    "释义(中文)": "pron. 每件事物；最重要的东西；（有关的）一切；万事",
+    "释义(英文)": "n. Whatever pertains to the subject under consideration;\n   all things."
+  },
+  {
+    "单词": "one day",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 有一天；(过去或将来的)某一天\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "housework",
+    "英音": "[ˈhaʊswɜːk]",
+    "美音": "[ˈhaʊswɜːrk]",
+    "释义(中文)": "n. 家务事",
+    "释义(英文)": "n. the work of cleaning and running a house"
+  },
+  {
+    "单词": "learn",
+    "英音": "[lɜːn]",
+    "美音": "[lɜːrn]",
+    "释义(中文)": "vt. 学习；得知；认识到\nvi. 学习；获悉",
+    "释义(英文)": "v. gain knowledge or skills\nv. get to know or become aware of, usually accidentally\nv. be a student of a certain subject"
+  },
+  {
+    "单词": "our",
+    "英音": "[ɑː(r)]",
+    "美音": "[ɑːr]",
+    "释义(中文)": "pron. 我们的",
+    "释义(英文)": "pl.  of I\npossessive pron. Of or pertaining to us; belonging to us; as, our\n   country; our rights; our troops; our endeavors. See I."
+  },
+  {
+    "单词": "homework",
+    "英音": "[ˈhəʊmwɜːk]",
+    "美音": "[ˈhoʊmwɜːrk]",
+    "释义(中文)": "n. 家庭作业，课外作业",
+    "释义(英文)": "n. preparatory school work done outside school (especially at home)"
+  },
+  {
+    "单词": "won't",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "[澳大利亚、新西兰口语]厌恶；不能容忍；= will not",
+    "释义(英文)": " A colloquial contraction of woll not. Will not. See Will."
+  },
+  {
+    "单词": "will not",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "Tuesday",
+    "英音": "[ˈtjuːzdeɪ]",
+    "美音": "[ˈtuːzdeɪ]",
+    "释义(中文)": "n. 星期二",
+    "释义(英文)": "n. the third day of the week; the second working day"
+  },
+  {
+    "单词": "Wednesday",
+    "英音": "[ˈwenzdeɪ]",
+    "美音": "[ˈwenzdeɪ]",
+    "释义(中文)": "n. 星期三",
+    "释义(英文)": "n. the fourth day of the week; the third working day"
+  },
+  {
+    "单词": "Thursday",
+    "英音": "[ˈθɜːzdeɪ]",
+    "美音": "[ˈθɜːrzdeɪ]",
+    "释义(中文)": "n. 星期四",
+    "释义(英文)": "n. the fifth day of the week; the fourth working day"
+  },
+  {
+    "单词": "Friday",
+    "英音": "[ˈfraɪdeɪ]",
+    "美音": "[ˈfraɪdeɪ]",
+    "释义(中文)": "n. 星期五",
+    "释义(英文)": "n. the sixth day of the week; the fifth working day"
+  },
+  {
+    "单词": "have",
+    "英音": "[həv]",
+    "美音": "[həv; əv; hæv]",
+    "释义(中文)": "aux. 已经\nvt. 有；让；拿；从事；允许\n",
+    "释义(英文)": "v. have or possess, either in a concrete or an abstract sense\nv. have as a feature\nv. have a personal or business relationship with someone\nv. have left"
+  },
+  {
+    "单词": "next",
+    "英音": "[nekst]",
+    "美音": "[nekst]",
+    "释义(中文)": "adv. 然后；下次；其次\nadj. 下一个的；其次的；贴近的\nn. 下一个\nprep. 靠近；居于…之后",
+    "释义(英文)": "r. at the time or occasion immediately following"
+  },
+  {
+    "单词": "week",
+    "英音": "[wiːk]",
+    "美音": "[wiːk]",
+    "释义(中文)": "n. 周，星期",
+    "释义(英文)": "n. any period of seven consecutive days\nn. a period of seven consecutive days starting on Sunday"
+  },
+  {
+    "单词": "holiday",
+    "英音": "[ˈhɒlədeɪ]",
+    "美音": "[ˈhɑːlədeɪ]",
+    "释义(中文)": "n. 假日；节日；休息日\nvi. 外出度假\n",
+    "释义(英文)": "n. a day on which work is suspended by law or custom"
+  },
+  {
+    "单词": "take",
+    "英音": "[teɪk]",
+    "美音": "[teɪk]",
+    "释义(中文)": "vi. 拿；获得\nvt. 拿，取；采取；接受（礼物等）；买，花费；耗费（时间等）\nn. 捕获量；看法；利益，盈益；（入场券的）售得金额",
+    "释义(英文)": "n. the act of photographing a scene or part of a scene without interruption\nv. carry out\nv. require (time or space)\nv. get into one's hands, take physically"
+  },
+  {
+    "单词": "fly",
+    "英音": "[flaɪ]",
+    "美音": "[flaɪ]",
+    "释义(中文)": "n. 飞行；苍蝇；两翼昆虫\nadj. 敏捷的\nvi. 飞；驾驶飞机；飘扬\nvt. 飞行；飞越；使飘扬\n",
+    "释义(英文)": "n. two-winged insects characterized by active flight\nn. an opening in a garment that is closed by a zipper or by buttons concealed under a fold of cloth\nn. (baseball) a hit that flies up in the air\nn. fisherman's lure consisting of a fishhook decorated to look like an insect"
+  },
+  {
+    "单词": "picnic",
+    "英音": "[ˈpɪknɪk]",
+    "美音": "[ˈpɪknɪk]",
+    "释义(中文)": "n. 野餐\nvi. 去野餐",
+    "释义(英文)": "n. any informal meal eaten outside or on an excursion\nv. eat alfresco, in the open air"
+  },
+  {
+    "单词": "great",
+    "英音": "[ɡreɪt]",
+    "美音": "[ɡreɪt]",
+    "释义(中文)": "n. 大师；大人物；伟人们\nadj. 伟大的，重大的；极好的，好的；主要的",
+    "释义(英文)": "n. a person who has achieved distinction and honor in some field\ns. relatively large in size or number or extent; larger than others of its kind\ns. of major significance or importance\ns. remarkable or out of the ordinary in degree or magnitude or effect"
+  },
+  {
+    "单词": "why",
+    "英音": "[waɪ]",
+    "美音": "[waɪ]",
+    "释义(中文)": "int. 哎呀！什么？\nadv. 为什么",
+    "释义(英文)": "n. the cause or intention underlying an action or situation, especially in the phrase `the whys and wherefores'"
+  },
+  {
+    "单词": "Why not?",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 为什么不好[不行]\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "because",
+    "英音": "[bɪˈkəz, bɪˈkɒz]",
+    "美音": "[bɪˈkəz, bɪˈkɔːz]",
+    "释义(中文)": "conj. 因为",
+    "释义(英文)": "conj. By or for the cause that; on this account that; for the\n   reason that.\nconj. In order that; that."
+  },
+  {
+    "单词": "so",
+    "英音": "[səʊ]",
+    "美音": "[soʊ]",
+    "释义(中文)": "conj. 所以；因此\nadv. 如此，这么；确是如此\npron. 这样\n",
+    "释义(英文)": "r. to a very great extent or degree\nr. in a manner that facilitates\nr. in such a condition or manner, especially as expressed or implied\nr. to a certain unspecified extent or degree"
+  },
+  {
+    "单词": "cloudy",
+    "英音": "[ˈklaʊdi]",
+    "美音": "[ˈklaʊdi]",
+    "释义(中文)": "adj. 多云的；阴天的；愁容满面的",
+    "释义(英文)": "s. lacking definite form or limits\na. full of or covered with clouds\ns. (of liquids) clouded as with sediment"
+  },
+  {
+    "单词": "weather",
+    "英音": "[ˈweðə(r)]",
+    "美音": "[ˈweðər]",
+    "释义(中文)": "n. 天气；气象；气候；处境\nvt. 经受住；使风化；侵蚀；使受风吹雨打\nadj. 露天的；迎风的\nvi. 风化；受侵蚀；经受风雨\n",
+    "释义(英文)": "n. the atmospheric conditions that comprise the state of the atmosphere in terms of temperature and wind and clouds and precipitation\nv. face and withstand with courage\nv. cause to slope\nv. sail to the windward of"
+  },
+  {
+    "单词": "was",
+    "英音": "[wəz; wɒz]",
+    "美音": "[wəz; wʌz]",
+    "释义(中文)": "be的第一和第三人称单数过去式",
+    "释义(英文)": "n a state in northwestern United States on the Pacific\nv have the quality of being; (copula, used with an adjective or a predicate noun)\nv be identical to; be someone or something\nv occupy a certain position or area; be somewhere\nv have an existence, be extant\nv happen, occur, take place; this was during the visit to my parents' house\"\nv be identical or equivalent to\nv form or compose\nv work in a specific place, with a specific subject, or in a specific function\nv represent, as of a character on stage\nv spend or use time\nv have life, be alive\nv to remain unmolested, undisturbed, or uninterrupted -- used only in infinitive form\nv be priced at"
+  },
+  {
+    "单词": "am",
+    "英音": "[əm; æm]",
+    "美音": "[əm; æm]",
+    "释义(中文)": "abbr. 调幅\nv. 是\n",
+    "释义(英文)": "n a radioactive transuranic metallic element; discovered by bombarding uranium with helium atoms\nn a master's degree in arts and sciences\nn modulation of the amplitude of the (radio) carrier wave\nv have the quality of being; (copula, used with an adjective or a predicate noun)\nv be identical to; be someone or something\nv occupy a certain position or area; be somewhere\nv have an existence, be extant\nv happen, occur, take place; this was during the visit to my parents' house\"\nv be identical or equivalent to\nv form or compose\nv work in a specific place, with a specific subject, or in a specific function\nv represent, as of a character on stage\nv spend or use time\nv have life, be alive\nv to remain unmolested, undisturbed, or uninterrupted -- used only in infinitive form\nv be priced at"
+  },
+  {
+    "单词": "is",
+    "英音": "[ɪz]",
+    "美音": "[ɪz]",
+    "释义(中文)": "v. 是（be的三单形式）\nn. 存在",
+    "释义(英文)": "v have the quality of being; (copula, used with an adjective or a predicate noun)\nv be identical to; be someone or something\nv occupy a certain position or area; be somewhere\nv have an existence, be extant\nv happen, occur, take place; this was during the visit to my parents' house\"\nv be identical or equivalent to\nv form or compose\nv work in a specific place, with a specific subject, or in a specific function\nv represent, as of a character on stage\nv spend or use time\nv have life, be alive\nv to remain unmolested, undisturbed, or uninterrupted -- used only in infinitive form\nv be priced at"
+  },
+  {
+    "单词": "then",
+    "英音": "[ðen]",
+    "美音": "[ðen]",
+    "释义(中文)": "conj. 然后，当时\nn. 那时\nadv. 然后；那么；于是；当时；此外\n",
+    "释义(英文)": "n. that time; that moment\ns. at a specific prior time\nr. subsequently or soon afterward (often used as sentence connectors)\nr. in that case or as a consequence"
+  },
+  {
+    "单词": "grandparent",
+    "英音": "[ˈɡrænpeərənt]",
+    "美音": "[ˈɡrænperənt]",
+    "释义(中文)": "n. 祖父母；祖父或祖母；外祖父母；外祖父或外祖母",
+    "释义(英文)": "n. a parent of your father or mother"
+  },
+  {
+    "单词": "were",
+    "英音": "[wə(r); wɜː(r)]",
+    "美音": "[wər; wɜːr]",
+    "释义(中文)": "v. 是，在（are的过去式）\n",
+    "释义(英文)": "v have the quality of being; (copula, used with an adjective or a predicate noun)\nv be identical to; be someone or something\nv occupy a certain position or area; be somewhere\nv have an existence, be extant\nv happen, occur, take place; this was during the visit to my parents' house\"\nv be identical or equivalent to\nv form or compose\nv work in a specific place, with a specific subject, or in a specific function\nv represent, as of a character on stage\nv spend or use time\nv have life, be alive\nv to remain unmolested, undisturbed, or uninterrupted -- used only in infinitive form\nv be priced at"
+  },
+  {
+    "单词": "are",
+    "英音": "[ɑ:(r)]",
+    "美音": "[ər; ɑːr; er]",
+    "释义(中文)": "v. 是（be的第二人称单复数现在式）\nn. 公亩\n",
+    "释义(英文)": "n. a unit of surface area equal to 100 square meters"
+  },
+  {
+    "单词": "young",
+    "英音": "[jʌŋ]",
+    "美音": "[jʌŋ]",
+    "释义(中文)": "n. 年轻人；（动物的）崽，仔\nadj. 年轻的；初期的；没有经验的\n",
+    "释义(英文)": "n. any immature animal\nn. United States film and television actress (1913-2000)\nn. United States civil rights leader (1921-1971)\nn. British physicist and Egyptologist; he revived the wave theory of light and proposed a three-component theory of color vision; he also played an important role in deciphering the hieroglyphics on the Rosetta Stone (1773-1829)"
+  },
+  {
+    "单词": "old",
+    "英音": "[əʊld]",
+    "美音": "[oʊld]",
+    "释义(中文)": "adj. 陈旧的，古老的；年老的\nn. 古时\n",
+    "释义(英文)": "n. past times (especially in the phrase `in days of old')\na. (used especially of persons) having lived for a relatively long time or attained a specific age\na. of long duration; not new\ns. (used for emphasis) very familiar"
+  },
+  {
+    "单词": "hair",
+    "英音": "[heə(r)]",
+    "美音": "[her]",
+    "释义(中文)": "n. 头发；毛发；些微\nadj. 毛发的；护理毛发的；用毛发制成的\nvt. 除去…的毛发\nvi. 生长毛发；形成毛状纤维",
+    "释义(英文)": "n. a covering for the body (or parts of it) consisting of a dense growth of threadlike structures (as on the human head); helps to prevent heat loss\nn. filamentous hairlike growth on a plant\nn. any of the cylindrical filaments characteristically growing from the epidermis of a mammal\nn. a filamentous projection or process on an organism"
+  },
+  {
+    "单词": "so",
+    "英音": "[səʊ]",
+    "美音": "[soʊ]",
+    "释义(中文)": "conj. 所以；因此\nadv. 如此，这么；确是如此\npron. 这样\n",
+    "释义(英文)": "r. to a very great extent or degree\nr. in a manner that facilitates\nr. in such a condition or manner, especially as expressed or implied\nr. to a certain unspecified extent or degree"
+  },
+  {
+    "单词": "short",
+    "英音": "[ʃɔːt]",
+    "美音": "[ʃɔːrt]",
+    "释义(中文)": "n. 短；缺乏；短路；短裤\nadj. 短的；不足的；矮的，低的\nadv. 不足；突然；唐突地\n",
+    "释义(英文)": "n. the location on a baseball field where the shortstop is stationed\na. primarily temporal sense; indicating or being or seeming to be limited in duration\na. (primarily spatial sense) having little length or lacking in length\na. low in stature; not tall"
+  },
+  {
+    "单词": "long",
+    "英音": "[lɒŋ]",
+    "美音": "[lɔːŋ]",
+    "释义(中文)": "n. 长时间；[语] 长音节；（服装的）长尺寸；长裤\nadj. 长的；过长的；做多头的；长时间的；冗长的，长音\nvi. 渴望；热望\nadv. 长期地；始终\n",
+    "释义(英文)": "a. primarily temporal sense; being or indicating a relatively great or greater than average duration or passage of time or a duration as specified\na. primarily spatial sense; of relatively great or greater than average spatial extension or extension as specified\ns. of relatively great height\na. holding securities or commodities in expectation of a rise in prices"
+  },
+  {
+    "单词": "wasn't",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "prep. 不是（等于was not）",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "was not",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 不是；不在世；还不是",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "weren't",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "没有（were not 的简写，were是be的第二人称单数过去式）\n不是（were not 的简写，were是be的第二人称单数过去式）",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "were not",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "clean",
+    "英音": "[kliːn]",
+    "美音": "[kliːn]",
+    "释义(中文)": "n. 打扫\nadj. 清洁的，干净的；清白的\nvt. 使干净\nvi. 打扫，清扫\nadv. 完全地\n",
+    "释义(英文)": "v. make clean by removing dirt, filth, or unwanted substances from\nv. remove unwanted substances from, such as feathers or pits\nv. be cleanable\nv. deprive wholly of money in a gambling game, robbery, etc."
+  },
+  {
+    "单词": "dirty",
+    "英音": "[ˈdɜːti]",
+    "美音": "[ˈdɜːrti]",
+    "释义(中文)": "adj. 下流的，卑鄙的；肮脏的；恶劣的；暗淡的\nvt. 弄脏\nvi. 变脏",
+    "释义(英文)": "v. make soiled, filthy, or dirty\na. soiled or likely to soil with dirt or grime\na. (of behavior or especially language) characterized by obscenity or indecency\ns. vile; despicable"
+  },
+  {
+    "单词": "yesterday",
+    "英音": "[ˈjestədeɪ]",
+    "美音": "[ˈjestərdeɪ; ˈjestərdi]",
+    "释义(中文)": "n. 昨天；往昔\nadv. 昨天",
+    "释义(英文)": "n. the day immediately before today\nn. the recent past\nr. on the day preceding today\nr. in the recent past; only a short time ago"
+  },
+  {
+    "单词": "out",
+    "英音": "[aʊt]",
+    "美音": "[aʊt]",
+    "释义(中文)": "adv. 出现；在外；出局；出声地；不流行地\nadj. 外面的；出局的；下台的\nn. 出局\nprep. 向；离去\nvi. 出来；暴露\nvt. 使熄灭；驱逐",
+    "释义(英文)": "n. (baseball) a failure by a batter or runner to reach a base safely in baseball\nv. reveal (something) about somebody's identity or lifestyle\nv. be made known; be disclosed or revealed\na. not allowed to continue to bat or run"
+  },
+  {
+    "单词": "well",
+    "英音": "[wel]",
+    "美音": "[wel]",
+    "释义(中文)": "n. 井；源泉\nadj. 良好的；健康的；适宜的\nadv. 很好地；充分地；满意地；适当地\nv. 涌出\n\n",
+    "释义(英文)": "n. a deep hole or shaft dug or drilled to obtain water or oil or gas or brine\nn. a cavity or vessel used to contain liquid\nn. an abundant source\nn. an open shaft through the floors of a building (as for a stairway)"
+  },
+  {
+    "单词": "thanks",
+    "英音": "[θæŋks]",
+    "美音": "[θæŋks]",
+    "释义(中文)": "n. 谢谢（只用复数）\nint. 谢谢",
+    "释义(英文)": "n. an acknowledgment of appreciation\nn. with the help of or owing to"
+  },
+  {
+    "单词": "sun",
+    "英音": "[sʌn]",
+    "美音": "[sʌn]",
+    "释义(中文)": "n. 太阳\nvt. 使晒\nvi. 晒太阳",
+    "释义(英文)": "n. the star that is the source of light and heat for the planets in the solar system\nn. a person considered as a source of warmth or energy or glory etc\nn. any star around which a planetary system revolves\nv. expose one's body to the sun"
+  },
+  {
+    "单词": "lesson",
+    "英音": "[ˈlesn]",
+    "美音": "[ˈlesn]",
+    "释义(中文)": "n. 教训；课\nvt. 教训；上课",
+    "释义(英文)": "n. a unit of instruction\nn. a task assigned for individual study"
+  },
+  {
+    "单词": "village",
+    "英音": "[ˈvɪlɪdʒ]",
+    "美音": "[ˈvɪlɪdʒ]",
+    "释义(中文)": "n. 村庄；村民；（动物的）群落",
+    "释义(英文)": "n. a community of people smaller than a town\nn. a settlement smaller than a town"
+  },
+  {
+    "单词": "had",
+    "英音": "[həd; əd; hæd]",
+    "美音": "[həd; əd; hæd]",
+    "释义(中文)": "v. 有；吃；得到（动词have的过去式和过去分词）\naux. 已经（用于过去完成时和过去完成进行时）",
+    "释义(英文)": "v have or possess, either in a concrete or an abstract sense\nv have as a feature\nv go through (mental or physical states or experiences)\nv have ownership or possession of\nv cause to move; cause to be in a certain position or condition\nv serve oneself to, or consume regularly\nv have a personal or business relationship with someone\nv organize or be responsible for\nv have left\nv be confronted with\nv undergo\nv suffer from; be ill with\nv cause to do; cause to act in a specified manner\nv receive willingly something given or offered\nv get something; come into possession of\nv undergo (as of injuries and illnesses)\nv achieve a point or goal\nv cause to be born\nv have sex with; archaic use"
+  },
+  {
+    "单词": "have",
+    "英音": "[həv]",
+    "美音": "[həv; əv; hæv]",
+    "释义(中文)": "aux. 已经\nvt. 有；让；拿；从事；允许\n",
+    "释义(英文)": "v. have or possess, either in a concrete or an abstract sense\nv. have as a feature\nv. have a personal or business relationship with someone\nv. have left"
+  },
+  {
+    "单词": "phone",
+    "英音": "[fəʊn]",
+    "美音": "[foʊn]",
+    "释义(中文)": "n. 电话；耳机，听筒\nvt. 打电话\nvi. 打电话\n",
+    "释义(英文)": "n. (phonetics) an individual sound unit of speech without concern as to whether or not it is a phoneme of some language"
+  },
+  {
+    "单词": "cook",
+    "英音": "[kʊk]",
+    "美音": "[kʊk]",
+    "释义(中文)": "n. 厨师，厨子\nvt. 烹调，煮\nvi. 烹调，做菜\n",
+    "释义(英文)": "n. someone who cooks food\nn. English navigator who claimed the east coast of Australia for Britain and discovered several Pacific islands (1728-1779)\nv. prepare a hot meal\nv. prepare for eating by applying heat"
+  },
+  {
+    "单词": "really",
+    "英音": "[ˈriːəli]",
+    "美音": "[ˈriːəli]",
+    "释义(中文)": "adv. 实际上，事实上；真正地，真实地；真的吗？（表语气）",
+    "释义(英文)": "r in accordance with truth or fact or reality\nr in actual fact\nr in fact (used as intensifiers or sentence modifiers)\nr used as intensifiers; `real' is sometimes used informally for `really'; `rattling' is informal"
+  },
+  {
+    "单词": "wash",
+    "英音": "[wɒʃ]",
+    "美音": "[wɑːʃ]",
+    "释义(中文)": "n. 洗涤；洗的衣服；化妆水；冲积物\nvt. 洗涤；洗刷；冲走；拍打\nvi. 洗澡；被冲蚀\n",
+    "释义(英文)": "n. a thin coat of water-base paint\nn. the work of cleansing (usually with soap and water)\nn. the dry bed of an intermittent stream (as at the bottom of a canyon)\nn. a watercolor made by applying a series of monochrome washes one over the other"
+  },
+  {
+    "单词": "What about ...?",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "un. 不；…怎样\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "did",
+    "英音": "[dɪd]",
+    "美音": "[dɪd]",
+    "释义(中文)": "v. 做（do的过去式）",
+    "释义(英文)": "v engage in\nv carry out or perform an action\nv get (something) done\nv proceed or get along\nv give rise to; cause to happen or occur, not always intentionally\nv carry out or practice; as of jobs and professions\nv be sufficient; be adequate, either in quality or quantity\nv create or design, often in a certain way\nv behave in a certain manner; show a certain behavior; conduct or comport oneself\nv spend time in prison or in a labor camp\nv carry on or function\nv arrange attractively\nv travel or traverse (a distance)"
+  },
+  {
+    "单词": "do",
+    "英音": "[duː; də; du; dəʊ]",
+    "美音": "[duː; də; du; doʊ]",
+    "释义(中文)": "vi. 行，足够；生长\nn. 要求；规定；C大调音阶中的第一音\nv. 做；干；学习；研究；进行；完成；解答；整理；算出；引起；行过\naux. 助动词（构成疑问句和否定句）；（代替动词）；（用于加强语气）\nn. （口语）事件；（主英国口语）诈骗；（主英国、新西兰口语）宴会；（口语）必须做到的事情",
+    "释义(英文)": "n. the syllable naming the first (tonic) note of any major scale in solmization\nv. get (something) done\nv. proceed or get along\nv. create or design, often in a certain way"
+  },
+  {
+    "单词": "didn't",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "aux. did not的缩写",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "did not",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "computer",
+    "英音": "[kəmˈpjuːtə(r)]",
+    "美音": "[kəmˈpjuːtər]",
+    "释义(中文)": "n. 计算机；电脑；电子计算机",
+    "释义(英文)": "n. a machine for performing calculations automatically"
+  },
+  {
+    "单词": "love",
+    "英音": "[lʌv]",
+    "美音": "[lʌv]",
+    "释义(中文)": "n. 恋爱；亲爱的；酷爱；喜爱的事物；爱情，爱意；疼爱；热爱；爱人，所爱之物\nv. 爱，热爱；爱戴；赞美，称赞；喜爱；喜好；喜欢；爱慕\n",
+    "释义(英文)": "n. a strong positive emotion of regard and affection\nn. any object of warm affection or devotion; \nn. a deep feeling of sexual desire and attraction\nn. a score of zero in tennis or squash"
+  },
+  {
+    "单词": "him",
+    "英音": "[hɪm; ɪm]",
+    "美音": "[hɪm; ɪm]",
+    "释义(中文)": "pron. 他（宾格）\n",
+    "释义(英文)": "pron. Them. See Hem.\npron. The objective case of he. See He."
+  },
+  {
+    "单词": "Mrs",
+    "英音": "[ˈmɪsɪz]",
+    "美音": "[ˈmɪsɪz]",
+    "释义(中文)": "n. 太太；夫人（用于已婚妇女姓名前的尊称）",
+    "释义(英文)": "n. a form of address for a married woman"
+  },
+  {
+    "单词": "Miss",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 女士，小姐，年轻未婚女子\nvt. 错过，想念，缺（勤）",
+    "释义(英文)": "n. a failure to hit (or meet or find etc)\nn. a form of address for an unmarried woman\nv. fail to perceive or to catch with the senses or the mind\nv. feel or suffer from the lack of"
+  },
+  {
+    "单词": "sang",
+    "英音": "[sæŋ]",
+    "美音": "[sæŋ]",
+    "释义(中文)": "v. 唱，唱歌（sing的过去式）\n",
+    "释义(英文)": "n North American woodland herb similar to and used as substitute for the Chinese ginseng\nv deliver by singing\nv produce tones with the voice\nv to make melodious sounds\nv make a whining, ringing, or whistling sound\nv divulge confidential information or secrets"
+  },
+  {
+    "单词": "sing",
+    "英音": "[sɪŋ]",
+    "美音": "[sɪŋ]",
+    "释义(中文)": "n. 演唱；鸣声；呼啸声\nvt. 唱；用诗赞颂；唱着使\nvi. 唱歌；歌颂；鸣叫；呼号\n",
+    "释义(英文)": "v. deliver by singing\nv. produce tones with the voice\nv. to make melodious sounds"
+  },
+  {
+    "单词": "beautifully",
+    "英音": "[ˈbjuːtɪfli]",
+    "美音": "[ˈbjuːtɪfli]",
+    "释义(中文)": "adv. 漂亮地；美好地",
+    "释义(英文)": "r. in a beautiful manner"
+  },
+  {
+    "单词": "saw",
+    "英音": "[sɔː]",
+    "美音": "[sɔː]",
+    "释义(中文)": "n. 锯子；谚语\nv. see的过去式\nvi. 锯；用锯；将某物锯成小块\nvt. 看见；明白，了解；锯；锯成；锯开",
+    "释义(英文)": "n. hand tool having a toothed blade for cutting\nv. cut with a saw"
+  },
+  {
+    "单词": "see",
+    "英音": "[siː]",
+    "美音": "[siː]",
+    "释义(中文)": "vi. 看；看见；领会\nvt. 看见；理解；领会\n",
+    "释义(英文)": "n. the seat within a bishop's diocese where his cathedral is located\nv. perceive by sight or have the power to perceive by sight\nv. deem to be\nv. be careful or certain to do something; make certain of something"
+  },
+  {
+    "单词": "game",
+    "英音": "[ɡeɪm]",
+    "美音": "[ɡeɪm]",
+    "释义(中文)": "n. 游戏；比赛\nadj. 勇敢的\nvi. 赌博\n",
+    "释义(英文)": "n. a contest with rules to determine a winner\nn. a single play of a sport or other contest\nn. an amusement or pastime\nn. animal hunted for food or sport"
+  },
+  {
+    "单词": "last",
+    "英音": "[lɑːst]",
+    "美音": "[læst]",
+    "释义(中文)": "n. 末尾，最后；上个；鞋楦（做鞋的模型）\nadj. 最后的；最近的，最新的；仅剩的；最不可能…的\nvi. 持续；维持，够用；持久\nvt. 度过，拖过；使维持\nadv. 最后地；上次，最近；最后一点\n",
+    "释义(英文)": "n. the last or lowest in an ordering or series\nn. a person's dying act; the final thing a person can do\nn. a unit of weight equal to 4,000 pounds\nn. a unit of capacity for grain equal to 80 bushels"
+  },
+  {
+    "单词": "fun",
+    "英音": "[fʌn]",
+    "美音": "[fʌn]",
+    "释义(中文)": "n. 乐趣；玩笑；有趣的人或事\nadj. 供娱乐用的\nvi. 开玩笑",
+    "释义(英文)": "n. activities that are enjoyable or amusing\nn. verbal wit or mockery (often at another's expense but not to be taken seriously)\nn. violent and excited activity"
+  },
+  {
+    "单词": "went",
+    "英音": "[went]",
+    "美音": "[went]",
+    "释义(中文)": "v. 去，过去（go的过去式）\n",
+    "释义(英文)": "v change location; move, travel, or proceed, also metaphorically\nv follow a procedure or take a course\nv move away from a place into another direction\nv enter or assume a certain state or condition\nv be awarded; be allotted\nv have a particular form\nv stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point\nv follow a certain course\nv be abolished or discarded\nv be or continue to be in a certain condition\nv make a certain noise or sound\nv perform as expected when applied\nv to be spent or finished\nv progress by being changed\nv continue to live through hardship or adversity\nv pass, fare, or elapse; of a certain state of affairs or action\nv pass from physical life and lose all bodily attributes and functions necessary to sustain life\nv be in the right place or situation\nv be ranked or compare\nv begin or set in motion\nv have a turn; make one's move in a game\nv be contained in\nv be sounded, played, or expressed\nv blend or harmonize\nv lead, extend, or afford access\nv be the right size or shape; fit correctly or as desired\nv go through in search of something; search through someone's belongings in an unauthorized way\nv be spent\nv give support (to) or make a choice (of) one out of a group or number\nv stop operating or functioning"
+  },
+  {
+    "单词": "go",
+    "英音": "[ɡəʊ]",
+    "美音": "[ɡoʊ]",
+    "释义(中文)": "n. 去；进行；尝试\nvi. 走；达到；运转；趋于\nvt. 忍受；出产；以…打赌\n[复数 goes 第三人称单数 goes 过去式 went 过去分词 gone 现在分词 going]",
+    "释义(英文)": "n. a time for working (after which you will be relieved by someone else)\nn. a board game for two players who place counters on a grid; the object is to surround and so capture the opponent's counters\nv. follow a procedure or take a course\nv. move away from a place into another direction"
+  },
+  {
+    "单词": "there",
+    "英音": "[ðeə(r)]",
+    "美音": "[ðer]",
+    "释义(中文)": "n. 那个地方\nadv. 在那里；在那边；在那点上\nint. 你瞧",
+    "释义(英文)": "n. a location other than here; that place\nr. in or at that place\nr. in that matter\nr. to or toward that place; away from the speaker"
+  },
+  {
+    "单词": "ate",
+    "英音": "[et; eɪt]",
+    "美音": "[eɪt]",
+    "释义(中文)": "v. 吃（eat的过去式）",
+    "释义(英文)": "n. goddess of criminal rashness and its punishment"
+  },
+  {
+    "单词": "eat",
+    "英音": "[iːt]",
+    "美音": "[iːt]",
+    "释义(中文)": "vt. 吃，喝；腐蚀；烦扰\nvi. 进食；腐蚀，侵蚀",
+    "释义(英文)": "v. take in solid food\nv. eat a meal; take a meal\nv. worry or cause anxiety in a persistent way"
+  },
+  {
+    "单词": "drank",
+    "英音": "[dræŋk]",
+    "美音": "[dræŋk]",
+    "释义(中文)": "v. 喝；喝酒（drink的过去式）",
+    "释义(英文)": "v take in liquids\nv consume alcohol\nv propose a toast to\nv be fascinated or spell-bound by; pay close attention to\nv drink excessive amounts of alcohol; be an alcoholic"
+  },
+  {
+    "单词": "drink",
+    "英音": "[drɪŋk]",
+    "美音": "[drɪŋk]",
+    "释义(中文)": "n. 酒，饮料；喝酒\nvt. 喝，饮；吸收；举杯庆贺\nvi. 喝酒；饮水；干杯",
+    "释义(英文)": "n. a single serving of a beverage\nn. the act of drinking alcoholic beverages to excess\nn. any large deep body of water\nv. take in liquids"
+  },
+  {
+    "单词": "drink",
+    "英音": "[drɪŋk]",
+    "美音": "[drɪŋk]",
+    "释义(中文)": "n. 酒，饮料；喝酒\nvt. 喝，饮；吸收；举杯庆贺\nvi. 喝酒；饮水；干杯",
+    "释义(英文)": "n. a single serving of a beverage\nn. the act of drinking alcoholic beverages to excess\nn. any large deep body of water\nv. take in liquids"
+  },
+  {
+    "单词": "time",
+    "英音": "[taɪm]",
+    "美音": "[taɪm]",
+    "释义(中文)": "n. 时间；时代；次数；节拍；倍数\nadj. 定时的；定期的；分期的\nvt. 计时；测定…的时间；安排…的速度\n",
+    "释义(英文)": "n. an instance or single occasion for some event\nn. a period of time considered as a resource under your control and sufficient to accomplish something\nn. an indefinite period (usually marked by specific attributes or activities)\nn. a suitable moment"
+  },
+  {
+    "单词": "have a good time",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 过得愉快；很愉快\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "busy",
+    "英音": "[ˈbɪzi]",
+    "美音": "[ˈbɪzi]",
+    "释义(中文)": "adj. 忙碌的；热闹的；正被占用的\nvt. 使忙于\n",
+    "释义(英文)": "v. keep busy with\na. actively or fully engaged or occupied\ns. overcrowded or cluttered with detail\ns. crowded with or characterized by much activity"
+  },
+  {
+    "单词": "took",
+    "英音": "[tʊk]",
+    "美音": "[tʊk]",
+    "释义(中文)": "v. 拿；取；接受（take的过去式）",
+    "释义(英文)": "v carry out\nv require (time or space)\nv take somebody somewhere\nv get into one's hands, take physically\nv take on a certain form, attribute, or aspect\nv interpret something in a certain way; convey a particular meaning or impression\nv take something or somebody with oneself somewhere\nv take into one's possession\nv travel or go by means of a certain kind of transportation, or a certain route\nv pick out, select, or choose from a number of alternatives\nv receive willingly something given or offered\nv assume, as of positions or roles\nv take into consideration for exemplifying purposes\nv require as useful, just, or proper\nv experience or feel or submit to\nv make a film or photograph of something\nv remove something concrete, as by lifting, pushing, or taking off, or remove something abstract\nv serve oneself to, or consume regularly\nv accept or undergo, often unwillingly\nv make use of or accept for some purpose\nv take by force\nv occupy or take on\nv admit into a group or community\nv ascertain or determine by measuring, computing or take a reading from a dial\nv be a student of a certain subject\nv take as an undesirable consequence of some event or state of affairs\nv head into a specified direction\nv point or cause to go (blows, weapons, or objects such as photographic equipment) towards\nv be seized or affected in a specified way\nv have with oneself; have on one's person\nv engage for service under a term of contract\nv receive or obtain regularly\nv buy, select\nv to get into a position of having, e.g., safety, comfort\nv have sex with; archaic use\nv lay claim to; as of an idea\nv be designed to hold or take\nv be capable of holding or containing\nv develop a habit\nv proceed along in a vehicle\nv obtain by winning\nv be stricken by an illness, fall victim to an illness"
+  },
+  {
+    "单词": "take",
+    "英音": "[teɪk]",
+    "美音": "[teɪk]",
+    "释义(中文)": "vi. 拿；获得\nvt. 拿，取；采取；接受（礼物等）；买，花费；耗费（时间等）\nn. 捕获量；看法；利益，盈益；（入场券的）售得金额",
+    "释义(英文)": "n. the act of photographing a scene or part of a scene without interruption\nv. carry out\nv. require (time or space)\nv. get into one's hands, take physically"
+  },
+  {
+    "单词": "tell",
+    "英音": "[tel]",
+    "美音": "[tel]",
+    "释义(中文)": "vt. 告诉，说；辨别；吩咐；断定\nvi. 讲述；告发，泄密；识别\n",
+    "释义(英文)": "n. a Swiss patriot who lived in the early 14th century and who was renowned for his skill as an archer; according to legend an Austrian governor compelled him to shoot an apple from his son's head with his crossbow (which he did successfully without mishap)\nv. let something be known\nv. narrate or give a detailed account of\nv. discern or comprehend"
+  },
+  {
+    "单词": "great",
+    "英音": "[ɡreɪt]",
+    "美音": "[ɡreɪt]",
+    "释义(中文)": "n. 大师；大人物；伟人们\nadj. 伟大的，重大的；极好的，好的；主要的",
+    "释义(英文)": "n. a person who has achieved distinction and honor in some field\ns. relatively large in size or number or extent; larger than others of its kind\ns. of major significance or importance\ns. remarkable or out of the ordinary in degree or magnitude or effect"
+  },
+  {
+    "单词": "delicious",
+    "英音": "[dɪˈlɪʃəs]",
+    "美音": "[dɪˈlɪʃəs]",
+    "释义(中文)": "adj. 美味的；可口的",
+    "释义(英文)": "n. variety of sweet eating apples"
+  },
+  {
+    "单词": "made",
+    "英音": "[meɪd]",
+    "美音": "[meɪd]",
+    "释义(中文)": "adj. 成功的；创造的\nv. 做，使，安排（make的过去式和过去分词）\n",
+    "释义(英文)": "s. produced by a manufacturing process; rope and nails\"\na. (of a bed) having the sheets and blankets set in order\ns. successful or assured of success"
+  },
+  {
+    "单词": "make",
+    "英音": "[meɪk]",
+    "美音": "[meɪk]",
+    "释义(中文)": "vt. 使得；进行；布置，准备，整理；制造；认为；获得；形成；安排；引起；构成\nvi. 开始；前进；增大；被制造\nn. 制造；构造；性情\n",
+    "释义(英文)": "v. engage in\nv. give certain properties to something\nv. make or cause to be or to become\nv. compel or make somebody or something to act in a certain way"
+  },
+  {
+    "单词": "poster",
+    "英音": "[ˈpəʊstə(r)]",
+    "美音": "[ˈpoʊstər]",
+    "释义(中文)": "n. 海报，广告；招贴\n",
+    "释义(英文)": "n. a sign posted in a public place as an advertisement"
+  },
+  {
+    "单词": "welcome",
+    "英音": "[ˈwelkəm]",
+    "美音": "[ˈwelkəm]",
+    "释义(中文)": "n. 欢迎\nvt. 欢迎\nadj. 受欢迎的\nint. 欢迎\n",
+    "释义(英文)": "n. the state of being welcome\nn. a greeting or reception\nv. accept gladly\nv. bid welcome to; greet upon arrival"
+  },
+  {
+    "单词": "postcard",
+    "英音": "[ˈpəʊstkɑːd]",
+    "美音": "[ˈpoʊstkɑːrd]",
+    "释义(中文)": "n. 明信片",
+    "释义(英文)": "n. a card for sending messages by post without an envelope"
+  },
+  {
+    "单词": "cousin",
+    "英音": "[ˈkʌzn]",
+    "美音": "[ˈkʌzn]",
+    "释义(中文)": "n. 堂兄弟姊妹；表兄弟姊妹",
+    "释义(英文)": "n. the child of your aunt or uncle"
+  },
+  {
+    "单词": "dear",
+    "英音": "[dɪə(r)]",
+    "美音": "[dɪr]",
+    "释义(中文)": "n. 亲爱的人\nadj. 亲爱的；尊敬的；昂贵的\nadv. 高价地；疼爱地\nint. 哎呀\n",
+    "释义(英文)": "s. with or in a close or intimate relationship\ns. earnest"
+  },
+  {
+    "单词": "on holiday",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 在休假中\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "travel",
+    "英音": "[ˈtræv(ə)l]",
+    "美音": "[ˈtrævl]",
+    "释义(中文)": "n. 旅行；游历；漫游\nvt. 经过；在…旅行\nvi. 旅行；行进；步行；交往",
+    "释义(英文)": "n. the act of going from one place to another\nv. change location; move, travel, or proceed, also metaphorically\nv. undertake a journey or trip\nv. make a trip for pleasure"
+  },
+  {
+    "单词": "came",
+    "英音": "[keɪm]",
+    "美音": "[keɪm]",
+    "释义(中文)": "v. come的过去式",
+    "释义(英文)": "v move toward, travel toward something or somebody or approach something or somebody\nv reach a destination; arrive by movement or progress\nv come to pass; arrive, as in due course\nv reach or enter a state, relation, condition, use, or position\nv to be the product or result\nv be found or available; The furniture comes unassembled\"\nv come forth\nv be a native of\nv extend or reach\nv exist or occur in a certain point in a series\nv cover a certain distance\nv come under, be classified or included\nv happen as a result\nv add up in number or quantity\nv develop into\nv be received\nv come to one's mind; suggest itself\nv come from; be connected by a relationship of blood, for example\nv proceed or get along\nv experience orgasm\nv have a certain priority"
+  },
+  {
+    "单词": "come",
+    "英音": "[kʌm]",
+    "美音": "[kʌm]",
+    "释义(中文)": "vi. 来；开始；出现；发生；变成；到达\nvt. 做；假装；将满（…岁）\nint. 嗨！\n",
+    "释义(英文)": "v. move toward, travel toward something or somebody or approach something or somebody\nv. come to pass; arrive, as in due course\nv. reach or enter a state, relation, condition, use, or position\nv. to be the product or result"
+  },
+  {
+    "单词": "pop",
+    "英音": "[pɒp]",
+    "美音": "[pɑːp]",
+    "释义(中文)": "abbr. 卖点广告（Point of Purchase）",
+    "释义(英文)": "n. a sweet drink containing carbonated water and flavoring\nn. a sharp explosive sound as from a gunshot or drawing a cork\nv. hit a pop-fly\nv. make a sharp explosive noise"
+  },
+  {
+    "单词": "concert",
+    "英音": "[ˈkɒnsət]",
+    "美音": "[ˈkɑːnsərt]",
+    "释义(中文)": "n. 音乐会；一致；和谐\nadj. 音乐会用的；在音乐会上演出的\nvt. 使协调；协同安排\nvi. 协调；协力",
+    "释义(英文)": "n. a performance of music by players or singers not involving theatrical staging\nv. contrive (a plan) by mutual agreement\nv. settle by agreement"
+  },
+  {
+    "单词": "earth",
+    "英音": "[ɜːθ]",
+    "美音": "[ɜːrθ]",
+    "释义(中文)": "n. 地球；地表，陆地；土地，土壤；尘事，俗事；兽穴\nvt. 把（电线）[电] 接地；盖（土）；追赶入洞穴\nvi. 躲进地洞",
+    "释义(英文)": "n. the 3rd planet from the sun; the planet we live on\nn. the loose soft material that makes up a large part of the land surface\nn. the abode of mortals (as contrasted with Heaven or Hell)\nn. once thought to be one of four elements composing the universe (Empedocles)"
+  },
+  {
+    "单词": "fall",
+    "英音": "[fɔːl]",
+    "美音": "[fɔːl]",
+    "释义(中文)": "n. 下降；秋天；瀑布\nadj. 秋天的\nvi. 落下；变成；来临；减弱\nvt. 砍倒；击倒\n",
+    "释义(英文)": "n. the season when the leaves fall from the trees\nn. the lapse of mankind into sinfulness because of the sin of Adam and Eve\nn. a lapse into sin; a loss of innocence or of chastity\nn. a sudden decline in strength or number or importance"
+  },
+  {
+    "单词": "fall off",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 下降；(从马上)掉下来；扫兴颓丧；离开\n",
+    "释义(英文)": "n a noticeable deterioration in performance or quality"
+  },
+  {
+    "单词": "fell",
+    "英音": "[fel]",
+    "美音": "[fel]",
+    "释义(中文)": "n. [林] 一季所伐的木材；折缝；兽皮\nv. 掉下；摔倒；下垂；变坏（fall的过去式）\nadj. 凶猛的；毁灭性的\nvt. 砍伐；打倒；击倒\n",
+    "释义(英文)": "n. seam made by turning under or folding together and stitching the seamed materials to avoid rough edges\nn. the act of felling something (as a tree)\nv. cause to fall by or as if by delivering a blow\nv. sew a seam by folding the edges"
+  },
+  {
+    "单词": "fall",
+    "英音": "[fɔːl]",
+    "美音": "[fɔːl]",
+    "释义(中文)": "n. 下降；秋天；瀑布\nadj. 秋天的\nvi. 落下；变成；来临；减弱\nvt. 砍倒；击倒\n",
+    "释义(英文)": "n. the season when the leaves fall from the trees\nn. the lapse of mankind into sinfulness because of the sin of Adam and Eve\nn. a lapse into sin; a loss of innocence or of chastity\nn. a sudden decline in strength or number or importance"
+  },
+  {
+    "单词": "fall down",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. (向下游)流下；〔美俚〕失败；跌倒；同“fall”\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "found",
+    "英音": "[faʊnd]",
+    "美音": "[faʊnd]",
+    "释义(中文)": "v. 找到（find的过去分词）\nvt. 创立，建立；创办",
+    "释义(英文)": "n. food and lodging provided in addition to money\na. come upon unexpectedly or after searching"
+  },
+  {
+    "单词": "find",
+    "英音": "[faɪnd]",
+    "美音": "[faɪnd]",
+    "释义(中文)": "n. 发现\nvi. 裁决\nvt. 查找，找到；发现；认为；感到；获得\n",
+    "释义(英文)": "v. come upon, as if by accident; meet with\nv. come upon after searching; find the location of something that was missed or lost\nv. come to believe on the basis of emotion, intuitions, or indefinite grounds\nv. obtain through effort or management"
+  },
+  {
+    "单词": "town",
+    "英音": "[taʊn]",
+    "美音": "[taʊn]",
+    "释义(中文)": "n. 城镇，市镇；市内商业区\n",
+    "释义(英文)": "n. an urban area with a fixed boundary that is smaller than a city\nn. the people living in a municipality smaller than a city\nn. United States architect who was noted for his design and construction of truss bridges (1784-1844)"
+  },
+  {
+    "单词": "happen",
+    "英音": "[ˈhæpən]",
+    "美音": "[ˈhæpən]",
+    "释义(中文)": "vi. 发生；碰巧；偶然遇到",
+    "释义(英文)": "v. come to pass\nv. happen, occur, or be the case in the course of events or by chance\nv. chance to be or do something, without intention or causation\nv. come into being; become reality"
+  },
+  {
+    "单词": "ride",
+    "英音": "[raɪd]",
+    "美音": "[raɪd]",
+    "释义(中文)": "n. 骑；乘坐；交通工具；可供骑行的路；（乘坐汽车等的）旅行；乘骑；（乘车或骑车的）短途旅程；供乘骑的游乐设施\nvi. 骑马；乘车；依靠；漂浮\nvt. 骑；乘；控制；（骑马、自行车等）穿越；搭乘；飘浮\n",
+    "释义(英文)": "n. a mechanical device that you ride for amusement or excitement\nv. sit and travel on the back of animal, usually while controlling its motions\nv. be carried or travel on or in a vehicle\nv. continue undisturbed and without interference"
+  },
+  {
+    "单词": "then",
+    "英音": "[ðen]",
+    "美音": "[ðen]",
+    "释义(中文)": "conj. 然后，当时\nn. 那时\nadv. 然后；那么；于是；当时；此外\n",
+    "释义(英文)": "n. that time; that moment\ns. at a specific prior time\nr. subsequently or soon afterward (often used as sentence connectors)\nr. in that case or as a consequence"
+  },
+  {
+    "单词": "thirsty",
+    "英音": "[ˈθɜːsti]",
+    "美音": "[ˈθɜːrsti]",
+    "释义(中文)": "adj. 口渴的，口干的；渴望的，热望的",
+    "释义(英文)": "s. needing moisture\na. feeling a need or desire to drink\ns. able to take in large quantities of moisture"
+  },
+  {
+    "单词": "water",
+    "英音": "[ˈwɔːtə(r)]",
+    "美音": "[ˈwɔːtər]",
+    "释义(中文)": "n. 水；海水；雨水；海域，大片的水\nvt. 使湿；供以水；给…浇水\nvi. 加水；流泪；流口水\n",
+    "释义(英文)": "n. binary compound that occurs at room temperature as a clear colorless odorless tasteless liquid; freezes into ice below 0 degrees centigrade and boils above 100 degrees centigrade; widely used as a solvent\nn. once thought to be one of four elements composing the universe (Empedocles)\nn. a liquid necessary for the life of most animals and plants\nv. supply with water, as with channels or ditches or streams"
+  },
+  {
+    "单词": "bought",
+    "英音": "[bɔːt]",
+    "美音": "[bɔːt]",
+    "释义(中文)": "v. 买（buy的过去式和过去分词）",
+    "释义(英文)": "v obtain by purchase; acquire by means of a financial transaction\nv make illegal payments to in exchange for favors or influence\nv be worth or be capable of buying\nv acquire by trade or sacrifice or exchange\nv accept as true"
+  },
+  {
+    "单词": "buy",
+    "英音": "[baɪ]",
+    "美音": "[baɪ]",
+    "释义(中文)": "n. 购买，买卖；所购的物品\nvi. 买，采购\nvt. 购买；获得；贿赂\n",
+    "释义(英文)": "v. obtain by purchase; acquire by means of a financial transaction\nv. be worth or be capable of buying\nv. acquire by trade or sacrifice or exchange\nv. accept as true"
+  },
+  {
+    "单词": "watermelon",
+    "英音": "[ˈwɔːtəmelən]",
+    "美音": "[ˈwɔːtərmelən]",
+    "释义(中文)": "n. 西瓜",
+    "释义(英文)": "n. an African melon\nn. large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+  },
+  {
+    "单词": "carried",
+    "英音": "[ˈkærid]",
+    "美音": "[ˈkærid]",
+    "释义(中文)": "v. 保持（carry的过去式和过去分词）；搬运\nadj. 被运的；入神的；忘我的",
+    "释义(英文)": "v move while supporting, either in a vehicle or in one's hands or on one's body\nv have with oneself; have on one's person\nv transmit or serve as the medium for transmission\nv serve as a means for expressing something\nv bear or be able to bear the weight, pressure,or responsibility of\nv support or hold in a certain manner\nv contain or hold; have within\nv extend to a certain degree\nv continue or extend\nv be necessarily associated with or result in or involve\nv win in an election\nv include, as on a list\nv behave in a certain manner\nv have on hand\nv include as the content; broadcast or publicize\nv propel, \"Carry the ball\"\nv pass on a communication\nv have as an inherent or characteristic feature or have as a consequence\nv be conveyed over a certain distance\nv keep up with financial support\nv have or possess something abstract\nv be equipped with (a mast or sail)\nv win approval or support for\nv compensate for a weaker partner or member by one's own performance\nv take further or advance\nv have on the surface or on the skin\nv capture after a fight\nv transfer (entries) from one account book to another\nv transfer (a number, cipher, or remainder) to the next column or unit's place before or after, in addition or multiplication\nv pursue a line of scent or be a bearer\nv bear (a crop)\nv propel or give impetus to\nv drink alcohol without showing ill effects\nv be able to feed\nv have a certain range\nv cover a certain distance or advance beyond\nv secure the passage or adoption (of bills and motions)\nv be successful in\nv sing or play against other voices or parts\nv be pregnant with"
+  },
+  {
+    "单词": "carry",
+    "英音": "[ˈkæri]",
+    "美音": "[ˈkæri]",
+    "释义(中文)": "n. 运载；[计] 进位；射程\nvi. 能达到；被携带；被搬运\nvt. 拿，扛；携带；支持；搬运\n",
+    "释义(英文)": "n. the act of carrying something\nv. have with oneself; have on one's person\nv. serve as a means for expressing something\nv. bear or be able to bear the weight, pressure,or responsibility of"
+  },
+  {
+    "单词": "bump",
+    "英音": "[bʌmp]",
+    "美音": "[bʌmp]",
+    "释义(中文)": "n. 肿块，隆起物；撞击\nvi. 碰撞，撞击；颠簸而行\nvt. 碰，撞；颠簸\nadv. 突然地，猛烈地\n",
+    "释义(英文)": "n. a lump on the body caused by a blow\nv. knock against with force or violence\nv. dance erotically or dance with the pelvis thrust forward"
+  },
+  {
+    "单词": "hospital",
+    "英音": "[ˈhɒspɪt(ə)l]",
+    "美音": "[ˈhɑːspɪtl]",
+    "释义(中文)": "n. 医院\n",
+    "释义(英文)": "n. a health facility where patients receive treatment\nn. a medical institution where sick or injured people are given medical or surgical care"
+  },
+  {
+    "单词": "had",
+    "英音": "[həd; əd; hæd]",
+    "美音": "[həd; əd; hæd]",
+    "释义(中文)": "v. 有；吃；得到（动词have的过去式和过去分词）\naux. 已经（用于过去完成时和过去完成进行时）",
+    "释义(英文)": "v have or possess, either in a concrete or an abstract sense\nv have as a feature\nv go through (mental or physical states or experiences)\nv have ownership or possession of\nv cause to move; cause to be in a certain position or condition\nv serve oneself to, or consume regularly\nv have a personal or business relationship with someone\nv organize or be responsible for\nv have left\nv be confronted with\nv undergo\nv suffer from; be ill with\nv cause to do; cause to act in a specified manner\nv receive willingly something given or offered\nv get something; come into possession of\nv undergo (as of injuries and illnesses)\nv achieve a point or goal\nv cause to be born\nv have sex with; archaic use"
+  },
+  {
+    "单词": "have",
+    "英音": "[həv]",
+    "美音": "[həv; əv; hæv]",
+    "释义(中文)": "aux. 已经\nvt. 有；让；拿；从事；允许\n",
+    "释义(英文)": "v. have or possess, either in a concrete or an abstract sense\nv. have as a feature\nv. have a personal or business relationship with someone\nv. have left"
+  },
+  {
+    "单词": "chocolate",
+    "英音": "[ˈtʃɒklət]",
+    "美音": "[ˈtʃɔːklət]",
+    "释义(中文)": "n. 巧克力，巧克力糖；巧克力色\nadj. 巧克力色的；巧克力口味的\n",
+    "释义(英文)": "n. a food made from roasted ground cacao beans\nn. a medium brown to dark-brown color"
+  },
+  {
+    "单词": "stomach ache",
+    "英音": "[ˈstʌmək eɪk]",
+    "美音": "[ˈstʌmək eɪk]",
+    "释义(中文)": "n. 胃痛；腹痛\n",
+    "释义(英文)": "n. an ache localized in the stomach or abdominal region"
+  },
+  {
+    "单词": "cold",
+    "英音": "[kəʊld]",
+    "美音": "[kəʊld]",
+    "释义(中文)": "n. 寒冷；感冒\nadj. 寒冷的；冷淡的，不热情的；失去知觉的\nadv. 完全地",
+    "释义(英文)": "n. a mild viral infection involving the nose and respiratory passages (but not the lungs)\nn. the sensation produced by low temperatures\na. having a low or inadequate temperature or feeling a sensation of coldness or having been made cold by e.g. ice or refrigeration\na. extended meanings; especially of psychological coldness; without human warmth or emotion"
+  },
+  {
+    "单词": "headache",
+    "英音": "[ˈhedeɪk]",
+    "美音": "[ˈhedeɪk]",
+    "释义(中文)": "n. 头痛；麻烦；令人头痛之事",
+    "释义(英文)": "n. pain in the head caused by dilation of cerebral arteries or muscle contractions or a reaction to drugs"
+  },
+  {
+    "单词": "fever",
+    "英音": "[ˈfiːvə(r)]",
+    "美音": "[ˈfiːvər]",
+    "释义(中文)": "n. 发烧，发热；狂热\nvt. 使发烧；使狂热；使患热病\nvi. 发烧；狂热；患热病",
+    "释义(英文)": "n. a rise in the temperature of the body; frequently a symptom of infection\nn. intense nervous anticipation"
+  }
+]

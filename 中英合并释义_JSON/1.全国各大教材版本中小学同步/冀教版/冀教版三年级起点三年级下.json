@@ -1,0 +1,534 @@
+[
+  {
+    "单词": "farm",
+    "英音": "[fɑːm]",
+    "美音": "[fɑːrm]",
+    "释义(中文)": "n. 农场；农家；畜牧场\nvt. 养殖；耕种；佃出（土地）\nvi. 种田，务农；经营农场",
+    "释义(英文)": "n. workplace consisting of farm buildings and cultivated land as a unit\nv. be a farmer; work as a farmer\nv. collect fees or profits"
+  },
+  {
+    "单词": "farmer",
+    "英音": "[ˈfɑːmə(r)]",
+    "美音": "[ˈfɑːrmər]",
+    "释义(中文)": "n. 农夫，农民\n",
+    "释义(英文)": "n. a person who operates a farm\nn. United States civil rights leader who in 1942 founded the Congress of Racial Equality (born in 1920)\nn. an expert on cooking whose cookbook has undergone many editions (1857-1915)"
+  },
+  {
+    "单词": "pig",
+    "英音": "[pɪɡ]",
+    "美音": "[pɪɡ]",
+    "释义(中文)": "n. 猪；猪肉\nvi. 生小猪；像猪一样过活\nn. 警察（俚语，带有攻击性）",
+    "释义(英文)": "n. a crude block of metal (lead or iron) poured from a smelting furnace\nv. live like a pig, in squalor"
+  },
+  {
+    "单词": "cow",
+    "英音": "[kaʊ]",
+    "美音": "[kaʊ]",
+    "释义(中文)": "n. 奶牛，母牛；母兽\nvt. 威胁，恐吓",
+    "释义(英文)": "n. female of domestic cattle: \"`moo-cow' is a child's term\"\nn. mature female of mammals of which the male is called `bull'\nn. a large unpleasant woman"
+  },
+  {
+    "单词": "sheep",
+    "英音": "[ʃiːp]",
+    "美音": "[ʃiːp]",
+    "释义(中文)": "n. 羊，绵羊；胆小鬼\n",
+    "释义(英文)": "n. woolly usually horned ruminant mammal related to the goat\nn. a timid defenseless simpleton who is readily preyed upon\nn. a docile and vulnerable person who would rather follow than make an independent decision"
+  },
+  {
+    "单词": "a",
+    "英音": "[ə]",
+    "美音": "[ə; eɪ]",
+    "释义(中文)": "n. 字母A；第一流的；学业成绩达最高标准的评价符号\nabbr. [物]安（ampere）",
+    "释义(英文)": "n. the 1st letter of the Roman alphabet\nn. the blood group whose red cells carry the A antigen"
+  },
+  {
+    "单词": "an",
+    "英音": "[ən]",
+    "美音": "[ən; æn]",
+    "释义(中文)": "art. 一（在元音音素前）",
+    "释义(英文)": "n an associate degree in nursing"
+  },
+  {
+    "单词": "cat",
+    "英音": "[kæt]",
+    "美音": "[kæt]",
+    "释义(中文)": "n. 猫，猫科动物",
+    "释义(英文)": "n. feline mammal usually having thick soft fur and no ability to roar: domestic cats; wildcats\nn. a spiteful woman gossip\nv. beat with a cat-o'-nine-tails"
+  },
+  {
+    "单词": "dog",
+    "英音": "[dɒɡ]",
+    "美音": "[dɔːɡ]",
+    "释义(中文)": "n. 狗；丑女人；卑鄙的人；(俚)朋友\nvt. 跟踪；尾随",
+    "释义(英文)": "n. a member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds\nn. informal term for a man"
+  },
+  {
+    "单词": "duck",
+    "英音": "[dʌk]",
+    "美音": "[dʌk]",
+    "释义(中文)": "n. 鸭子；鸭肉；（英）宝贝儿；零分\nvt. 躲避；猛按…入水\nvi. 闪避；没入水中\n",
+    "释义(英文)": "n. small wild or domesticated web-footed broad-billed swimming bird usually having a depressed body and short legs\nn. (cricket) a score of nothing by a batsman\nn. flesh of a duck (domestic or wild)\nn. a heavy cotton fabric of plain weave; used for clothing and tents"
+  },
+  {
+    "单词": "fish",
+    "英音": "[fɪʃ]",
+    "美音": "[fɪʃ]",
+    "释义(中文)": "n. 鱼，鱼类\nvt. 钓鱼，捕鱼；搜寻\nvi. 捕鱼，钓鱼；用钩捞取\n",
+    "释义(英文)": "n. any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills\nn. the flesh of fish used as food\nv. seek indirectly\nv. catch or try to catch fish or shellfish"
+  },
+  {
+    "单词": "bird",
+    "英音": "[bɜːd]",
+    "美音": "[bɜːrd]",
+    "释义(中文)": "n. 鸟；家伙；羽毛球\nvt. 向…喝倒彩；起哄\nvi. 猎鸟；观察研究野鸟\n",
+    "释义(英文)": "n. warm-blooded egg-laying vertebrates characterized by feathers and forelimbs modified as wings\nn. the flesh of a bird or fowl (wild or domestic) used as food\nv. watch and study birds in their natural habitat"
+  },
+  {
+    "单词": "animal",
+    "英音": "[ˈænɪm(ə)l]",
+    "美音": "[ˈænɪm(ə)l]",
+    "释义(中文)": "n. 动物\n动物的",
+    "释义(英文)": "n. a living organism characterized by voluntary movement\ns. marked by the appetites and passions of the body"
+  },
+  {
+    "单词": "horse",
+    "英音": "[hɔːs]",
+    "美音": "[hɔːrs]",
+    "释义(中文)": "n. 马；骑兵；脚架；海洛因\nvt. 使骑马；系马于；捉弄\nvi. 骑马；作弄人\n",
+    "释义(英文)": "n. solid-hoofed herbivorous quadruped domesticated since prehistoric times\nn. a padded gymnastic apparatus on legs\nv. provide with a horse or horses"
+  },
+  {
+    "单词": "yes",
+    "英音": "[jes]",
+    "美音": "[jes]",
+    "释义(中文)": "n. 是（表示肯定）\nadv. 是, 是的",
+    "释义(英文)": "n. an affirmative"
+  },
+  {
+    "单词": "no",
+    "英音": "[nəʊ]",
+    "美音": "[noʊ]",
+    "释义(中文)": "adv. 不\nadj. 没有；不是\nn. 不；否决票\nabbr. 数字（number）；元素锘（nobelium）的符号\n",
+    "释义(英文)": "n. a negative\na. quantifier; used with either mass nouns or plural count nouns for indicating a complete or almost complete lack or zero quantity of\nr. referring to the degree to which a certain quality is present\nr. not in any degree or manner; not at all"
+  },
+  {
+    "单词": "in",
+    "英音": "[ɪn]",
+    "美音": "[ɪn]",
+    "释义(中文)": "prep. 按照（表示方式）；从事于；在…之内\nn. 执政者；门路；知情者\nadj. 在里面的；时髦的\nadv. 进入；当选；（服装等）时髦；在屋里\n",
+    "释义(英文)": "s. holding office\ns. directed or bound inward\ns. currently fashionable\nr. to or toward the inside of"
+  },
+  {
+    "单词": "on",
+    "英音": "[ɒn]",
+    "美音": "[ɑːn]",
+    "释义(中文)": "adv. 向前地；作用中，行动中；继续着\nprep. 向，朝……；关于；在……之上；在……时候\nadj. 开着的；发生着的，正在进行中\n",
+    "释义(英文)": "a. in operation or operational\na. (of events) planned or scheduled\nr. indicates continuity or persistence or concentration\nr. in a state required for something to function or be effective"
+  },
+  {
+    "单词": "under",
+    "英音": "[ˈʌndə(r)]",
+    "美音": "[ˈʌndər]",
+    "释义(中文)": "prep. 低于，少于；在...之下\nadj. 下面的；从属的\nadv. 在下面；在下方",
+    "释义(英文)": "s. lower in rank, power, or authority\nr. down to defeat, death, or ruin\nr. through a range downward\nr. into unconsciousness"
+  },
+  {
+    "单词": "box",
+    "英音": "[bɒks]",
+    "美音": "[bɑːks]",
+    "释义(中文)": "n. 箱，盒子；包厢；一拳\nvt. 拳击；装…入盒中；打耳光\nvi. 拳击\n",
+    "释义(英文)": "n. a (usually rectangular) container; may have a lid\nn. private area in a theater or grandstand where a small group can watch the performance\nn. the quantity contained in a box\nn. a rectangular drawing"
+  },
+  {
+    "单词": "zoo",
+    "英音": "[zuː]",
+    "美音": "[zuː]",
+    "释义(中文)": "n. 动物园; <美俚>（铁路货车的最后一节）守车; <美俚>核粒子园",
+    "释义(英文)": "n the facility where wild animals are housed for exhibition"
+  },
+  {
+    "单词": "panda",
+    "英音": "[ˈpændə]",
+    "美音": "[ˈpændə]",
+    "释义(中文)": "n. 熊猫；猫熊\n",
+    "释义(英文)": "n large black-and-white herbivorous mammal of bamboo forests of China and Tibet; in some classifications considered a member of the bear family or of a separate family Ailuropodidae\nn reddish-brown Old World raccoon-like carnivore; in some classifications considered unrelated to the giant pandas"
+  },
+  {
+    "单词": "monkey",
+    "英音": "[ˈmʌŋki]",
+    "美音": "[ˈmʌŋki]",
+    "释义(中文)": "n. 猴子；顽童\nvi. 胡闹；捣蛋\nvt. 嘲弄",
+    "释义(英文)": "n. any of various long-tailed primates (excluding the prosimians)"
+  },
+  {
+    "单词": "elephant",
+    "英音": "[ˈelɪfənt]",
+    "美音": "[ˈelɪfənt]",
+    "释义(中文)": "n. 象；大号图画纸",
+    "释义(英文)": "n. five-toed pachyderm\nn. the symbol of the Republican Party; introduced in cartoons by Thomas Nast in 1874"
+  },
+  {
+    "单词": "big",
+    "英音": "[bɪɡ]",
+    "美音": "[bɪɡ]",
+    "释义(中文)": "adj. 大的；重要的；量大的\nadv. 大量地；顺利；夸大地\n",
+    "释义(英文)": "s. significant\ns. loud and firm\ns. conspicuous in position or importance\ns. prodigious"
+  },
+  {
+    "单词": "small",
+    "英音": "[smɔːl]",
+    "美音": "[smɔːl]",
+    "释义(中文)": "n. 小件物品；矮小的人\nadj. 少的，小的；微弱的；几乎没有的；不重要的；幼小的\nadv. 小小地；卑鄙地\n",
+    "释义(英文)": "n. the slender part of the back\nn. a garment size for a small person\na. limited or below average in number or quantity or magnitude or extent\ns. slight or limited; especially in degree or intensity or scope"
+  },
+  {
+    "单词": "tiger",
+    "英音": "[ˈtaɪɡə(r)]",
+    "美音": "[ˈtaɪɡər]",
+    "释义(中文)": "n. 老虎；凶暴的人\n",
+    "释义(英文)": "n. a fierce or audacious person\nn. large feline of forests in most of Asia having a tawny coat with black stripes; endangered"
+  },
+  {
+    "单词": "bear",
+    "英音": "[beə(r)]",
+    "美音": "[ber]",
+    "释义(中文)": "n. 熊\nvt. 结果实，开花（正式）\nvt. 忍受；承受；具有；支撑\n",
+    "释义(英文)": "n. massive plantigrade carnivorous or omnivorous mammals with long shaggy coats and strong claws\nn. an investor with a pessimistic market outlook; an investor who expects prices to fall and so sells now in order to buy later at a lower price\nv. have\nv. move while holding up or supporting"
+  },
+  {
+    "单词": "long",
+    "英音": "[lɒŋ]",
+    "美音": "[lɔːŋ]",
+    "释义(中文)": "n. 长时间；[语] 长音节；（服装的）长尺寸；长裤\nadj. 长的；过长的；做多头的；长时间的；冗长的，长音\nvi. 渴望；热望\nadv. 长期地；始终\n",
+    "释义(英文)": "a. primarily temporal sense; being or indicating a relatively great or greater than average duration or passage of time or a duration as specified\na. primarily spatial sense; of relatively great or greater than average spatial extension or extension as specified\ns. of relatively great height\na. holding securities or commodities in expectation of a rise in prices"
+  },
+  {
+    "单词": "short",
+    "英音": "[ʃɔːt]",
+    "美音": "[ʃɔːrt]",
+    "释义(中文)": "n. 短；缺乏；短路；短裤\nadj. 短的；不足的；矮的，低的\nadv. 不足；突然；唐突地\n",
+    "释义(英文)": "n. the location on a baseball field where the shortstop is stationed\na. primarily temporal sense; indicating or being or seeming to be limited in duration\na. (primarily spatial sense) having little length or lacking in length\na. low in stature; not tall"
+  },
+  {
+    "单词": "one",
+    "英音": "[wʌn]",
+    "美音": "[wʌn]",
+    "释义(中文)": "pron. 一个人；任何人\nadj. 一的；唯一的\nn. 一\nnum. 一；一个\n",
+    "释义(英文)": "n. the smallest whole number or a numeral representing this number\nn. a single person or thing\ns. used of a single unit or thing; not two or more\ns. having the indivisible character of a unit"
+  },
+  {
+    "单词": "two",
+    "英音": "[tuː]",
+    "美音": "[tuː]",
+    "释义(中文)": "num. 二\nn. 两个\nadj. 两个的",
+    "释义(英文)": "n. the cardinal number that is the sum of one and one or a numeral representing this number\ns. being one more than one"
+  },
+  {
+    "单词": "three",
+    "英音": "[θriː]",
+    "美音": "[θriː]",
+    "释义(中文)": "num. 三\nn. 三，三个\nadj. 三的，三个的",
+    "释义(英文)": "n. the cardinal number that is the sum of one and one and one\ns. being one more than two"
+  },
+  {
+    "单词": "four",
+    "英音": "[fɔː(r)]",
+    "美音": "[fɔːr]",
+    "释义(中文)": "num. 四；四个\nadj. 四的；四个的\n",
+    "释义(英文)": "n. the cardinal number that is the sum of three and one\ns. being one more than three"
+  },
+  {
+    "单词": "five",
+    "英音": "[faɪv]",
+    "美音": "[faɪv]",
+    "释义(中文)": "num. 五，五个\nn. 五，五个；五美元钞票\nadj. 五的；五个的\n",
+    "释义(英文)": "n. the cardinal number that is the sum of four and one\ns. being one more than four"
+  },
+  {
+    "单词": "six",
+    "英音": "[sɪks]",
+    "美音": "[sɪks]",
+    "释义(中文)": "num. 六，六个\nn. 六，六个\n",
+    "释义(英文)": "n. the cardinal number that is the sum of five and one\ns. denoting a quantity consisting of six items or units"
+  },
+  {
+    "单词": "seven",
+    "英音": "[ˈsev(ə)n]",
+    "美音": "[ˈsev(ə)n]",
+    "释义(中文)": "num. 七个，七\nn. 七个，七\nadj. 七的；七个的\n",
+    "释义(英文)": "n. the cardinal number that is the sum of six and one\ns. being one more than six"
+  },
+  {
+    "单词": "eight",
+    "英音": "[eɪt]",
+    "美音": "[eɪt]",
+    "释义(中文)": "num. 八；八个；第八\nn. 八字形\nadj. 八的",
+    "释义(英文)": "n. the cardinal number that is the sum of seven and one\ns. being one more than seven"
+  },
+  {
+    "单词": "nine",
+    "英音": "[naɪn]",
+    "美音": "[naɪn]",
+    "释义(中文)": "n. 九，九个\nnum. 九；九个\nadj. 九的，九个的\n",
+    "释义(英文)": "n. the cardinal number that is the sum of eight and one\ns. denoting a quantity consisting of one more than eight and one less than ten"
+  },
+  {
+    "单词": "ten",
+    "英音": "[ten]",
+    "美音": "[ten]",
+    "释义(中文)": "num. 十个，十\n",
+    "释义(英文)": "n. the cardinal number that is the sum of nine and one; the base of the decimal system\ns. being one more than nine"
+  },
+  {
+    "单词": "river",
+    "英音": "[ˈrɪvə(r)]",
+    "美音": "[ˈrɪvər]",
+    "释义(中文)": "n. 河，江\n",
+    "释义(英文)": "n. a large natural stream of water (larger than a creek)"
+  },
+  {
+    "单词": "tree",
+    "英音": "[triː]",
+    "美音": "[triː]",
+    "释义(中文)": "n. 树；木料；树状物\nvt. 把...赶上树\nvi. 爬上树；逃上树\n",
+    "释义(英文)": "n. a tall perennial woody plant having a main trunk and branches forming a distinct elevated crown; includes both gymnosperms and angiosperms\nn. a figure that branches from a single root\nn. English actor and theatrical producer noted for his lavish productions of Shakespeare (1853-1917)\nv. plant with trees"
+  },
+  {
+    "单词": "grass",
+    "英音": "[ɡrɑːs]",
+    "美音": "[ɡræs]",
+    "释义(中文)": "n. 草；草地，草坪\nvt. 放牧；使……长满草；使……吃草\nvi. 长草\n",
+    "释义(英文)": "n. narrow-leaved green herbage: grown as lawns; used as pasture for grazing animals; cut and dried as hay\nn. German writer of novels and poetry and plays (born 1927)\nv. shoot down, of birds\nv. cover with grass"
+  },
+  {
+    "单词": "banana",
+    "英音": "[bəˈnɑːnə]",
+    "美音": "[bəˈnænə]",
+    "释义(中文)": "n. 香蕉；喜剧演员；大鹰钩鼻\n",
+    "释义(英文)": "n. any of several tropical and subtropical treelike herbs of the genus Musa having a terminal crown of large entire leaves and usually bearing hanging clusters of elongated fruits\nn. elongated crescent-shaped yellow fruit with soft sweet flesh"
+  },
+  {
+    "单词": "food",
+    "英音": "[fuːd]",
+    "美音": "[fuːd]",
+    "释义(中文)": "n. 食物；养料",
+    "释义(英文)": "n. any substance that can be metabolized by an animal to give energy and build tissue\nn. any solid substance (as opposed to liquid) that is used as a source of nourishment\nn. anything that provides mental stimulus for thinking"
+  },
+  {
+    "单词": "eat",
+    "英音": "[iːt]",
+    "美音": "[iːt]",
+    "释义(中文)": "vt. 吃，喝；腐蚀；烦扰\nvi. 进食；腐蚀，侵蚀",
+    "释义(英文)": "v. take in solid food\nv. eat a meal; take a meal\nv. worry or cause anxiety in a persistent way"
+  },
+  {
+    "单词": "drink",
+    "英音": "[drɪŋk]",
+    "美音": "[drɪŋk]",
+    "释义(中文)": "n. 酒，饮料；喝酒\nvt. 喝，饮；吸收；举杯庆贺\nvi. 喝酒；饮水；干杯",
+    "释义(英文)": "n. a single serving of a beverage\nn. the act of drinking alcoholic beverages to excess\nn. any large deep body of water\nv. take in liquids"
+  },
+  {
+    "单词": "juice",
+    "英音": "[dʒuːs]",
+    "美音": "[dʒuːs]",
+    "释义(中文)": "n. （水果）汁，液；果汁",
+    "释义(英文)": "n. the liquid part that can be extracted from plant or animal tissue by squeezing or cooking\nn. energetic vitality\nn. electric current\nn. any of several liquids of the body"
+  },
+  {
+    "单词": "I",
+    "英音": "[aɪ]",
+    "美音": "[aɪ]",
+    "释义(中文)": "n. 碘元素；英语字母I\npron. 我",
+    "释义(英文)": "n. the 9th letter of the Roman alphabet"
+  },
+  {
+    "单词": "soup",
+    "英音": "[suːp]",
+    "美音": "[suːp]",
+    "释义(中文)": "n. 汤，羹；马力\nvt. 加速；增加马力",
+    "释义(英文)": "n. liquid food especially of meat or fish or vegetable stock often containing pieces of solid food\nn. any composition having a consistency suggestive of soup\nn. an unfortunate situation\nv. dope (a racehorse)"
+  },
+  {
+    "单词": "noodle",
+    "英音": "[ˈnuːd(ə)l]",
+    "美音": "[ˈnuːd(ə)l]",
+    "释义(中文)": "n. 面条；笨蛋",
+    "释义(英文)": "n. a ribbonlike strip of pasta"
+  },
+  {
+    "单词": "rice",
+    "英音": "[raɪs]",
+    "美音": "[raɪs]",
+    "释义(中文)": "n. 稻；米饭\nvt. 把…捣成米糊状\n",
+    "释义(英文)": "n. grains used as food either unpolished or more often polished\nn. annual or perennial rhizomatous marsh grasses; seed used for food; straw used for paper\nn. English lyricist who frequently worked with Andrew Lloyd Webber (born in 1944)\nn. United States playwright (1892-1967)"
+  },
+  {
+    "单词": "chicken",
+    "英音": "[ˈtʃɪkɪn]",
+    "美音": "[ˈtʃɪkɪn]",
+    "释义(中文)": "n. 鸡肉；小鸡；胆小鬼，懦夫\nadj. 鸡肉的；胆怯的；幼小的",
+    "释义(英文)": "n. the flesh of a chicken used for food\nn. a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl\nn. a foolhardy competition; a dangerous activity that is continued until one competitor becomes afraid and stops\ns. easily frightened"
+  },
+  {
+    "单词": "vegetable",
+    "英音": "[ˈvedʒtəb(ə)l]",
+    "美音": "[ˈvedʒtəbl]",
+    "释义(中文)": "n. 蔬菜；植物；植物人\nadj. 蔬菜的；植物的",
+    "释义(英文)": "n. edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant\nn. any of various herbaceous plants cultivated for an edible part such as the fruit or the root of the beet or the leaf of spinach or the seeds of bean plants or the flower buds of broccoli or cauliflower"
+  },
+  {
+    "单词": "fruit",
+    "英音": "[fruːt]",
+    "美音": "[fruːt]",
+    "释义(中文)": "n. 水果；产物\nvt. 使……结果实\nvi. 结果实\n",
+    "释义(英文)": "n. the ripened reproductive body of a seed plant\nn. the consequence of some effort or action\nv. cause to bear fruit\nv. bear fruit"
+  },
+  {
+    "单词": "like",
+    "英音": "[laɪk]",
+    "美音": "[laɪk]",
+    "释义(中文)": "vt. 喜欢；想；愿意\nvi. 喜欢；希望\nprep. 像；如同\nadj. 同样的；相似的\nn. 爱好；同样的人或物\nadv. 可能\nconj. 好像",
+    "释义(英文)": "n. a similar kind\nn. a kind of person\nv. find enjoyable or agreeable\nv. be fond of"
+  },
+  {
+    "单词": "good",
+    "英音": "[ɡʊd]",
+    "美音": "[ɡʊd]",
+    "释义(中文)": "n. 好处；善行；慷慨的行为\nadj. 好的；优良的；愉快的；虔诚的\nadv. 好\n",
+    "释义(英文)": "n. benefit\nn. moral excellence or admirableness\nn. that which is pleasing or valuable or useful\na. having desirable or positive qualities especially those suitable for a thing specified"
+  },
+  {
+    "单词": "milk",
+    "英音": "[mɪlk]",
+    "美音": "[mɪlk]",
+    "释义(中文)": "n. 牛奶；乳状物\nvt. 榨取；挤…的奶\nvi. 挤奶\n",
+    "释义(英文)": "n. a white nutritious liquid secreted by mammals and used as food by human beings\nn. produced by mammary glands of female mammals for feeding their young\nn. a river that rises in the Rockies in northwestern Montana and flows eastward to become a tributary of the Missouri River\nn. any of several nutritive milklike liquids"
+  },
+  {
+    "单词": "egg",
+    "英音": "[eɡ]",
+    "美音": "[eɡ]",
+    "释义(中文)": "n. 蛋；卵子；家伙；鸡蛋\nvt. 煽动；怂恿\n",
+    "释义(英文)": "n. animal reproductive body consisting of an ovum or embryo together with nutritive and protective envelopes; especially the thin-shelled reproductive body laid by e.g. female birds\nn. oval reproductive body of a fowl (especially a hen) used as food\nv. throw eggs at\nv. coat with beaten egg"
+  },
+  {
+    "单词": "bread",
+    "英音": "[bred]",
+    "美音": "[bred]",
+    "释义(中文)": "n. 面包；生计\nvt. 在…上洒面包屑",
+    "释义(英文)": "n. food made from dough of flour or meal and usually raised with yeast or baking powder and then baked\nv. cover with bread crumbs"
+  },
+  {
+    "单词": "apple",
+    "英音": "[ˈæp(ə)l]",
+    "美音": "[ˈæpl]",
+    "释义(中文)": "n. 苹果，苹果树，苹果似的东西；[美俚]炸弹，手榴弹，（棒球的）球；[美俚]人，家伙。",
+    "释义(英文)": "n. fruit with red or yellow or green skin and sweet to tart crisp whitish flesh\nn. native Eurasian tree widely cultivated in many varieties for its firm rounded edible fruits"
+  },
+  {
+    "单词": "orange",
+    "英音": "[ˈɒrɪndʒ]",
+    "美音": "[ˈɔrɪndʒ]",
+    "释义(中文)": "adj. 橙色的；橘色的\nn. 橙；橙色；桔子\n",
+    "释义(英文)": "n. round yellow to orange fruit of any of several citrus trees\nn. orange color or pigment; any of a range of colors between red and yellow\nn. any citrus tree bearing oranges\nn. any pigment producing the orange color"
+  },
+  {
+    "单词": "eleven",
+    "英音": "[ɪˈlev(ə)n]",
+    "美音": "[ɪˈlevn]",
+    "释义(中文)": "num. 十一；十一个\nn. 十一；十一个\nadj. 十一的；十一个的",
+    "释义(英文)": "n. the cardinal number that is the sum of ten and one\ns. being one more than ten"
+  },
+  {
+    "单词": "twelve",
+    "英音": "[twelv]",
+    "美音": "[twelv]",
+    "释义(中文)": "num. 十二；十二个\nn. 十二；十二个\nadj. 十二的；十二个的",
+    "释义(英文)": "n. the cardinal number that is the sum of eleven and one\ns. denoting a quantity consisting of 12 items or units"
+  },
+  {
+    "单词": "thirteen",
+    "英音": "[ˌθɜːˈtiːn]",
+    "美音": "[ˌθɜːrˈtiːn]",
+    "释义(中文)": "n. 十三；十三岁；十三个\nnum. 十三\nadj. 十三的；十三个的",
+    "释义(英文)": "n. the cardinal number that is the sum of twelve and one\ns. being one more than twelve"
+  },
+  {
+    "单词": "fourteen",
+    "英音": "[ˌfɔːˈtiːn]",
+    "美音": "[ˌfɔːrˈtiːn]",
+    "释义(中文)": "num. 十四；十四个；第十四\nn. 十四的记号；十四岁；十四点钟；十五世纪",
+    "释义(英文)": "n. the cardinal number that is the sum of thirteen and one\ns. being one more than thirteen"
+  },
+  {
+    "单词": "fifteen",
+    "英音": "[ˌfɪfˈtiːn]",
+    "美音": "[ˌfɪfˈtiːn]",
+    "释义(中文)": "n. 十五；十五个；十五人组成的橄榄球队\nnum. 十五\nadj. 十五的",
+    "释义(英文)": "n. the cardinal number that is the sum of fourteen and one\ns. being one more than fourteen"
+  },
+  {
+    "单词": "ice cream",
+    "英音": "[ˈaɪs kriːm]",
+    "美音": "[ˈaɪs kriːm]",
+    "释义(中文)": "n. 【食】冰淇淋\n",
+    "释义(英文)": "n frozen dessert containing cream and sugar and flavoring"
+  },
+  {
+    "单词": "sixteen",
+    "英音": "[ˌsɪksˈtiːn]",
+    "美音": "[ˌsɪksˈtiːn]",
+    "释义(中文)": "num. 十六\nadj. 十六的，十六个的",
+    "释义(英文)": "n. the cardinal number that is the sum of fifteen and one\ns. being one more than fifteen"
+  },
+  {
+    "单词": "seventeen",
+    "英音": "[ˌsev(ə)nˈtiːn]",
+    "美音": "[ˌsevnˈtiːn]",
+    "释义(中文)": "n. 十七，十七个\nnum. 十七\nadj. 十七岁的；十七的，十七个的\n",
+    "释义(英文)": "n. the cardinal number that is the sum of sixteen and one\ns. being one more than sixteen"
+  },
+  {
+    "单词": "eighteen",
+    "英音": "[ˌeɪˈtiːn]",
+    "美音": "[ˌeɪˈtiːn]",
+    "释义(中文)": "n. 十八，十八个\nnum. 十八\nadj. 十八个的，十八的",
+    "释义(英文)": "n. the cardinal number that is the sum of seventeen and one\ns. being one more than seventeen"
+  },
+  {
+    "单词": "nineteen",
+    "英音": "[ˌnaɪnˈtiːn]",
+    "美音": "[ˌnaɪnˈtiːn]",
+    "释义(中文)": "num. 十九",
+    "释义(英文)": "n. the cardinal number that is the sum of eighteen and one\ns. being one more than eighteen"
+  },
+  {
+    "单词": "twenty",
+    "英音": "[ˈtwenti]",
+    "美音": "[ˈtwenti]",
+    "释义(中文)": "num. 二十\nn. 二十；二十年代\nadj. 二十的",
+    "释义(英文)": "n. the cardinal number that is the sum of nineteen and one\ns. denoting a quantity consisting of 20 items or units"
+  },
+  {
+    "单词": "please",
+    "英音": "[pliːz]",
+    "美音": "[pliːz]",
+    "释义(中文)": "int. 请（礼貌用语）\nvt. 使喜欢；使高兴，使满意\nvi. 讨人喜欢；令人高兴",
+    "释义(英文)": "v. give pleasure to or be pleasing to\nv. be the will of or have the will (to)\nv. give satisfaction\nr. used in polite request"
+  },
+  {
+    "单词": "thanks",
+    "英音": "[θæŋks]",
+    "美音": "[θæŋks]",
+    "释义(中文)": "n. 谢谢（只用复数）\nint. 谢谢",
+    "释义(英文)": "n. an acknowledgment of appreciation\nn. with the help of or owing to"
+  },
+  {
+    "单词": "welcome",
+    "英音": "[ˈwelkəm]",
+    "美音": "[ˈwelkəm]",
+    "释义(中文)": "n. 欢迎\nvt. 欢迎\nadj. 受欢迎的\nint. 欢迎\n",
+    "释义(英文)": "n. the state of being welcome\nn. a greeting or reception\nv. accept gladly\nv. bid welcome to; greet upon arrival"
+  }
+]

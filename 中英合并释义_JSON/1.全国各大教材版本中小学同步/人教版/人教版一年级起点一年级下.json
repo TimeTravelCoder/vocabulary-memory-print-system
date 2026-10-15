@@ -1,0 +1,317 @@
+[
+  {
+    "单词": "chair",
+    "英音": "[tʃeə(r)]",
+    "美音": "[tʃer]",
+    "释义(中文)": "n. 椅子；讲座；（会议的）主席位；大学教授的职位\nvt. 担任（会议的）主席；使…入座；使就任要职\n",
+    "释义(英文)": "n. a seat for one person, with a support for the back\nn. a particular seat in an orchestra\nv. act or preside as chair, as of an academic department in a university"
+  },
+  {
+    "单词": "desk",
+    "英音": "[desk]",
+    "美音": "[desk]",
+    "释义(中文)": "n. 办公桌；服务台；编辑部；（美）讲道台；乐谱架\nadj. 书桌的；桌上用的；伏案做的",
+    "释义(英文)": "n. a piece of furniture with a writing surface and usually drawers or other compartments"
+  },
+  {
+    "单词": "blackboard",
+    "英音": "[ˈblækbɔːd]",
+    "美音": "[ˈblækbɔːrd]",
+    "释义(中文)": "n. 黑板",
+    "释义(英文)": "n. sheet of slate; for writing with chalk"
+  },
+  {
+    "单词": "on",
+    "英音": "[ɒn]",
+    "美音": "[ɑːn]",
+    "释义(中文)": "adv. 向前地；作用中，行动中；继续着\nprep. 向，朝……；关于；在……之上；在……时候\nadj. 开着的；发生着的，正在进行中\n",
+    "释义(英文)": "a. in operation or operational\na. (of events) planned or scheduled\nr. indicates continuity or persistence or concentration\nr. in a state required for something to function or be effective"
+  },
+  {
+    "单词": "under",
+    "英音": "[ˈʌndə(r)]",
+    "美音": "[ˈʌndər]",
+    "释义(中文)": "prep. 低于，少于；在...之下\nadj. 下面的；从属的\nadv. 在下面；在下方",
+    "释义(英文)": "s. lower in rank, power, or authority\nr. down to defeat, death, or ruin\nr. through a range downward\nr. into unconsciousness"
+  },
+  {
+    "单词": "in",
+    "英音": "[ɪn]",
+    "美音": "[ɪn]",
+    "释义(中文)": "prep. 按照（表示方式）；从事于；在…之内\nn. 执政者；门路；知情者\nadj. 在里面的；时髦的\nadv. 进入；当选；（服装等）时髦；在屋里\n",
+    "释义(英文)": "s. holding office\ns. directed or bound inward\ns. currently fashionable\nr. to or toward the inside of"
+  },
+  {
+    "单词": "where",
+    "英音": "[weə(r)]",
+    "美音": "[wer]",
+    "释义(中文)": "conj. 在…的地方\nn. 地点\nadv. 在哪里\npron. 哪里",
+    "释义(英文)": "pron. & conj. Whether.\nadv. At or in what place; hence, in what situation, position,\n   or circumstances; -- used interrogatively.\nadv. At or in which place; at the place in which; hence, in the\n   case or instance in which; -- used relatively.\nadv. To what or which place; hence, to what goal, result, or\n   issue; whither; -- used interrogatively and relatively; as, where are\n   you going?\nconj. Whereas.\nn. Place; situation."
+  },
+  {
+    "单词": "the",
+    "英音": "[ðə]",
+    "美音": "[ðə; ði; ðiː]",
+    "释义(中文)": "art. 这；那\nadv. 更加（用于比较级，最高级前）",
+    "释义(英文)": "v. i. See Thee.\ndefinite article. A word placed before nouns to limit or\n   individualize their meaning.\nadv. By that; by how much; by so much; on that account; -- used\n   before comparatives; as, the longer we continue in sin, the more\n   difficult it is to reform."
+  },
+  {
+    "单词": "light",
+    "英音": "[laɪt]",
+    "美音": "[laɪt]",
+    "释义(中文)": "n. 光；光线；灯；打火机；领悟；浅色；天窗\nadj. 轻的；浅色的；明亮的；轻松的；容易的；清淡的\nvi. 点着；变亮；着火\nvt. 照亮；点燃；着火\nadv. 轻地；清楚地；轻便地\n",
+    "释义(英文)": "n. (physics) electromagnetic radiation that can produce a visual sensation\nn. any device serving as a source of illumination\nn. a particular perspective or aspect of a situation\nn. an illuminated area"
+  },
+  {
+    "单词": "bed",
+    "英音": "[bed]",
+    "美音": "[bed]",
+    "释义(中文)": "n. 床；基础；河底， 海底\nvt. 使睡觉；安置，嵌入；栽种\nvi. 上床；分层",
+    "释义(英文)": "n. a piece of furniture that provides a place to sleep\nn. a plot of ground in which plants are growing\nn. a depression forming the ground under a body of water\nn. (geology) a stratum of rock (especially sedimentary rock)"
+  },
+  {
+    "单词": "door",
+    "英音": "[dɔː(r)]",
+    "美音": "[dɔːr]",
+    "释义(中文)": "n. 门；家，户；门口；通道\n",
+    "释义(英文)": "n. a swinging or sliding barrier that will close the entrance to a room or building or vehicle\nn. anything providing a means of access (or escape)\nn. a structure where people live or work (usually ordered along a street or road)\nn. a room that is entered via a door"
+  },
+  {
+    "单词": "box",
+    "英音": "[bɒks]",
+    "美音": "[bɑːks]",
+    "释义(中文)": "n. 箱，盒子；包厢；一拳\nvt. 拳击；装…入盒中；打耳光\nvi. 拳击\n",
+    "释义(英文)": "n. a (usually rectangular) container; may have a lid\nn. private area in a theater or grandstand where a small group can watch the performance\nn. the quantity contained in a box\nn. a rectangular drawing"
+  },
+  {
+    "单词": "near",
+    "英音": "[nɪə(r)]",
+    "美音": "[nɪr]",
+    "释义(中文)": "adj. 近的；亲近的；近似的\nadv. 近；接近\nprep. 靠近；近似于",
+    "释义(英文)": "a. not far distant in time or space or degree or circumstances\ns. being on the left side\ns. closely resembling the genuine article\nr. near in time or place or relationship"
+  },
+  {
+    "单词": "behind",
+    "英音": "[bɪˈhaɪnd]",
+    "美音": "[bɪˈhaɪnd]",
+    "释义(中文)": "prep. 落后于；支持；晚于\nn. 屁股\nadv. 在后地；在原处",
+    "释义(英文)": "s. having the lower score or lagging position in a contest\nr. in or to or toward the rear\nr. remaining in a place or condition that has been left or departed from\nr. of timepieces"
+  },
+  {
+    "单词": "plane",
+    "英音": "[pleɪn]",
+    "美音": "[pleɪn]",
+    "释义(中文)": "n. 飞机；平面；程度，水平\nadj. 平的；平面的\nvt. 刨平；用刨子刨；掠过水面\nvi. 刨；乘飞机旅行；翱翔\n",
+    "释义(英文)": "n. (mathematics) an unbounded two-dimensional shape\nn. a level of existence or development\nn. a power tool for smoothing or shaping wood\nn. a carpenter's hand tool with an adjustable blade for smoothing or shaping wood"
+  },
+  {
+    "单词": "ball",
+    "英音": "[bɔːl]",
+    "美音": "[bɔːl]",
+    "释义(中文)": "n. 球；舞会\nvt. 捏成球形\nvi. 成团块\n",
+    "释义(英文)": "n. round object that is hit or thrown or kicked in games\nn. an object with a spherical shape\nn. the people assembled at a lavish formal dance\nn. a spherical object used as a plaything"
+  },
+  {
+    "单词": "doll",
+    "英音": "[dɒl]",
+    "美音": "[dɑːl]",
+    "释义(中文)": "n. 洋娃娃；玩偶；无头脑的美丽女人\nvt. 把…打扮得花枝招展\n",
+    "释义(英文)": "n. a small replica of a person; used as a toy"
+  },
+  {
+    "单词": "train",
+    "英音": "[treɪn]",
+    "美音": "[treɪn]",
+    "释义(中文)": "n. 火车；行列；长队；裙裾\nv. 培养；训练；瞄准\n",
+    "释义(英文)": "n. public transport provided by a line of railway cars coupled together and drawn by a locomotive\nn. a series of consequences wrought by an event\nn. piece of cloth forming the long back section of a gown that is drawn along the floor\nv. create by training and teaching"
+  },
+  {
+    "单词": "car",
+    "英音": "[kɑː(r)]",
+    "美音": "[kɑːr]",
+    "释义(中文)": "n. 汽车；车厢\n",
+    "释义(英文)": "n. a motor vehicle with four wheels; usually propelled by an internal combustion engine\nn. a wheeled vehicle adapted to the rails of railroad\nn. the compartment that is suspended from an airship and that carries personnel and the cargo and the power plant\nn. where passengers ride up and down"
+  },
+  {
+    "单词": "bear",
+    "英音": "[beə(r)]",
+    "美音": "[ber]",
+    "释义(中文)": "n. 熊\nvt. 结果实，开花（正式）\nvt. 忍受；承受；具有；支撑\n",
+    "释义(英文)": "n. massive plantigrade carnivorous or omnivorous mammals with long shaggy coats and strong claws\nn. an investor with a pessimistic market outlook; an investor who expects prices to fall and so sells now in order to buy later at a lower price\nv. have\nv. move while holding up or supporting"
+  },
+  {
+    "单词": "can",
+    "英音": "[kən; kæn]",
+    "美音": "[kən; kæn]",
+    "释义(中文)": "aux. 能； 能够； 可以； 可能\nn. 罐头； （用金属或塑料制作的）容器； （马口铁或其他金属制作的）食品罐头\nvt. 将…装入密封罐中保存",
+    "释义(英文)": "n. airtight sealed metal container for food or drink or paint etc.\nn. the quantity contained in a can\nn. a buoy with a round bottom and conical top\nv. preserve in a can or tin"
+  },
+  {
+    "单词": "sure",
+    "英音": "[ʃʊə(r)]",
+    "美音": "[ʃʊr]",
+    "释义(中文)": "adj. 确信的；可靠的；必定的\nadv. 当然；的确\n",
+    "释义(英文)": "s. physically secure or dependable\ns. (of persons) worthy of trust or confidence\ns. infallible or unfailing\ns. certain not to fail"
+  },
+  {
+    "单词": "sorry",
+    "英音": "[ˈsɒri]",
+    "美音": "[ˈsɑːri]",
+    "释义(中文)": "adj. 遗憾的；对不起的，抱歉的\nint. 对不起，抱歉（表示委婉的拒绝等）",
+    "释义(英文)": "a feeling or expressing regret or sorrow or a sense of loss over something done or undone\ns bad; unfortunate\ns without merit\ns causing dejection"
+  },
+  {
+    "单词": "rice",
+    "英音": "[raɪs]",
+    "美音": "[raɪs]",
+    "释义(中文)": "n. 稻；米饭\nvt. 把…捣成米糊状\n",
+    "释义(英文)": "n. grains used as food either unpolished or more often polished\nn. annual or perennial rhizomatous marsh grasses; seed used for food; straw used for paper\nn. English lyricist who frequently worked with Andrew Lloyd Webber (born in 1944)\nn. United States playwright (1892-1967)"
+  },
+  {
+    "单词": "noodles",
+    "英音": "[ˈnuːd(ə)lz]",
+    "美音": "[ˈnuːd(ə)lz]",
+    "释义(中文)": "n. 面条，挂面（noodle的复数形式)",
+    "释义(英文)": "n a ribbonlike strip of pasta\nn informal terms for a human head"
+  },
+  {
+    "单词": "vegetable",
+    "英音": "[ˈvedʒtəb(ə)l]",
+    "美音": "[ˈvedʒtəbl]",
+    "释义(中文)": "n. 蔬菜；植物；植物人\nadj. 蔬菜的；植物的",
+    "释义(英文)": "n. edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant\nn. any of various herbaceous plants cultivated for an edible part such as the fruit or the root of the beet or the leaf of spinach or the seeds of bean plants or the flower buds of broccoli or cauliflower"
+  },
+  {
+    "单词": "fish",
+    "英音": "[fɪʃ]",
+    "美音": "[fɪʃ]",
+    "释义(中文)": "n. 鱼，鱼类\nvt. 钓鱼，捕鱼；搜寻\nvi. 捕鱼，钓鱼；用钩捞取\n",
+    "释义(英文)": "n. any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills\nn. the flesh of fish used as food\nv. seek indirectly\nv. catch or try to catch fish or shellfish"
+  },
+  {
+    "单词": "chicken",
+    "英音": "[ˈtʃɪkɪn]",
+    "美音": "[ˈtʃɪkɪn]",
+    "释义(中文)": "n. 鸡肉；小鸡；胆小鬼，懦夫\nadj. 鸡肉的；胆怯的；幼小的",
+    "释义(英文)": "n. the flesh of a chicken used for food\nn. a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl\nn. a foolhardy competition; a dangerous activity that is continued until one competitor becomes afraid and stops\ns. easily frightened"
+  },
+  {
+    "单词": "egg",
+    "英音": "[eɡ]",
+    "美音": "[eɡ]",
+    "释义(中文)": "n. 蛋；卵子；家伙；鸡蛋\nvt. 煽动；怂恿\n",
+    "释义(英文)": "n. animal reproductive body consisting of an ovum or embryo together with nutritive and protective envelopes; especially the thin-shelled reproductive body laid by e.g. female birds\nn. oval reproductive body of a fowl (especially a hen) used as food\nv. throw eggs at\nv. coat with beaten egg"
+  },
+  {
+    "单词": "hungry",
+    "英音": "[ˈhʌŋɡri]",
+    "美音": "[ˈhʌŋɡri]",
+    "释义(中文)": "adj. 饥饿的；渴望的；荒年的；不毛的",
+    "释义(英文)": "a. feeling hunger; feeling a need or desire to eat food"
+  },
+  {
+    "单词": "want",
+    "英音": "[wɒnt]",
+    "美音": "[wɑːnt]",
+    "释义(中文)": "n. 需要；缺乏；贫困；必需品\nvt. 需要；希望；应该；缺少\nvi. 需要；缺少",
+    "释义(英文)": "v. have need of\nv. hunt or look for; want for a particular reason\nv. wish or demand the presence of\nv. be without, lack; be deficient in"
+  },
+  {
+    "单词": "and",
+    "英音": "[ənd]",
+    "美音": "[ənd; ən; n; ænd]",
+    "释义(中文)": "conj. 和，与；就；而且；但是；然后\n",
+    "释义(英文)": "conj. A particle which expresses the relation of connection or\n   addition. It is used to conjoin a word with a word, a clause with a\n   clause, or a sentence with a sentence.\nconj. In order to; -- used instead of the infinitival to,\n   especially after try, come, go.\nconj. It is sometimes, in old songs, a mere expletive.\nconj. If; though. See An, conj."
+  },
+  {
+    "单词": "juice",
+    "英音": "[dʒuːs]",
+    "美音": "[dʒuːs]",
+    "释义(中文)": "n. （水果）汁，液；果汁",
+    "释义(英文)": "n. the liquid part that can be extracted from plant or animal tissue by squeezing or cooking\nn. energetic vitality\nn. electric current\nn. any of several liquids of the body"
+  },
+  {
+    "单词": "tea",
+    "英音": "[tiː]",
+    "美音": "[tiː]",
+    "释义(中文)": "n. 茶叶；茶树；茶点\nvt. 给…沏茶\nvi. 喝茶；进茶点\n",
+    "释义(英文)": "n. a beverage made by steeping tea leaves in water\nn. a light midafternoon meal of tea and sandwiches or cakes\nn. a tropical evergreen shrub or small tree extensively cultivated in e.g. China and Japan and India; source of tea leaves\nn. a reception or party at which tea is served"
+  },
+  {
+    "单词": "milk",
+    "英音": "[mɪlk]",
+    "美音": "[mɪlk]",
+    "释义(中文)": "n. 牛奶；乳状物\nvt. 榨取；挤…的奶\nvi. 挤奶\n",
+    "释义(英文)": "n. a white nutritious liquid secreted by mammals and used as food by human beings\nn. produced by mammary glands of female mammals for feeding their young\nn. a river that rises in the Rockies in northwestern Montana and flows eastward to become a tributary of the Missouri River\nn. any of several nutritive milklike liquids"
+  },
+  {
+    "单词": "water",
+    "英音": "[ˈwɔːtə(r)]",
+    "美音": "[ˈwɔːtər]",
+    "释义(中文)": "n. 水；海水；雨水；海域，大片的水\nvt. 使湿；供以水；给…浇水\nvi. 加水；流泪；流口水\n",
+    "释义(英文)": "n. binary compound that occurs at room temperature as a clear colorless odorless tasteless liquid; freezes into ice below 0 degrees centigrade and boils above 100 degrees centigrade; widely used as a solvent\nn. once thought to be one of four elements composing the universe (Empedocles)\nn. a liquid necessary for the life of most animals and plants\nv. supply with water, as with channels or ditches or streams"
+  },
+  {
+    "单词": "thirsty",
+    "英音": "[ˈθɜːsti]",
+    "美音": "[ˈθɜːrsti]",
+    "释义(中文)": "adj. 口渴的，口干的；渴望的，热望的",
+    "释义(英文)": "s. needing moisture\na. feeling a need or desire to drink\ns. able to take in large quantities of moisture"
+  },
+  {
+    "单词": "thanks",
+    "英音": "[θæŋks]",
+    "美音": "[θæŋks]",
+    "释义(中文)": "n. 谢谢（只用复数）\nint. 谢谢",
+    "释义(英文)": "n. an acknowledgment of appreciation\nn. with the help of or owing to"
+  },
+  {
+    "单词": "shirt",
+    "英音": "[ʃɜːt]",
+    "美音": "[ʃɜːrt]",
+    "释义(中文)": "n. 衬衫；汗衫，内衣",
+    "释义(英文)": "n. a garment worn on the upper half of the body\nv. put a shirt on"
+  },
+  {
+    "单词": "T-shirt",
+    "英音": "[ˈtiː ʃɜːt]",
+    "美音": "[ˈtiː ʃɜːrt]",
+    "释义(中文)": "n. 短袖圆领汗衫",
+    "释义(英文)": "n a close-fitting pullover shirt"
+  },
+  {
+    "单词": "skirt",
+    "英音": "[skɜːt]",
+    "美音": "[skɜːrt]",
+    "释义(中文)": "n. 裙子\nvt. 绕过，回避；位于…边缘\nvi. 沿边走，绕开；环绕",
+    "释义(英文)": "n. cloth covering that forms the part of a garment below the waist\nn. a garment hanging from the waist; worn mainly by girls and women\nv. pass around or about; move along the border\nv. form the edge of"
+  },
+  {
+    "单词": "dress",
+    "英音": "[dres]",
+    "美音": "[dres]",
+    "释义(中文)": "n. 连衣裙；女装\nvt. 给…穿衣\nvi. 穿衣\n",
+    "释义(英文)": "n. a one-piece garment for a woman; has skirt and bodice\nv. put on clothes\nv. provide with clothes or put clothes on\nv. put a finish on"
+  },
+  {
+    "单词": "socks",
+    "英音": "[sɒks]",
+    "美音": "[sɑːks]",
+    "释义(中文)": "n. 袜子（sock的复数）",
+    "释义(英文)": "n hosiery consisting of a cloth covering for the foot; worn inside the shoe; reaches to between the ankle and the knee\nn a truncated cloth cone mounted on a mast; used (e.g., at airports) to show the direction of the wind\nv hit hard"
+  },
+  {
+    "单词": "shorts",
+    "英音": "[ʃɔːts]",
+    "美音": "[ʃɔːrts]",
+    "释义(中文)": "n. 短裤\n",
+    "释义(英文)": "n trousers that end at or above the knee\nn underpants worn by men\nn the location on a baseball field where the shortstop is stationed\nn accidental contact between two points in an electric circuit that have a potential difference\nn the fielding position of the player on a baseball team who is stationed between second and third base\nv cheat someone by not returning him enough money\nv create a short circuit in"
+  },
+  {
+    "单词": "your",
+    "英音": "[jɔː(r); jə(r)]",
+    "美音": "[jʊr; jər]",
+    "释义(中文)": "pron. 你的，你们的",
+    "释义(英文)": "pron. & a. The form of the possessive case of the personal\n   pronoun you."
+  }
+]

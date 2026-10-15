@@ -1,0 +1,905 @@
+[
+  {
+    "单词": "hungry",
+    "英音": "[ˈhʌŋɡri]",
+    "美音": "[ˈhʌŋɡri]",
+    "释义(中文)": "adj. 饥饿的；渴望的；荒年的；不毛的",
+    "释义(英文)": "a. feeling hunger; feeling a need or desire to eat food"
+  },
+  {
+    "单词": "home",
+    "英音": "[həʊm]",
+    "美音": "[hoʊm]",
+    "释义(中文)": "n. 家，住宅；产地；家乡；避难所\nadj. 国内的，家庭的；有效的\nvt. 归巢，回家\nadv. 在家，回家；深入地\n",
+    "释义(英文)": "n. where you live at a particular time\nn. the country or state or city where you live\nn. place where something began and flourished\nn. an environment offering affection and security"
+  },
+  {
+    "单词": "sick",
+    "英音": "[sɪk]",
+    "美音": "[sɪk]",
+    "释义(中文)": "adj. 厌恶的；病态的；不舒服；渴望的；恶心的 ；生病的\nn. 病人\nvt. 使狗去咬；呕吐；追击",
+    "释义(英文)": "n. people who are sick\ns. deeply affected by a strong feeling"
+  },
+  {
+    "单词": "some",
+    "英音": "[sʌm]",
+    "美音": "[sʌm; səm]",
+    "释义(中文)": "adj. 一些；某个；大约；相当多的\npron. 一些；若干；其中的一部分；（数量不确切时用）有些人\nadv. 非常；相当；<美>稍微",
+    "释义(英文)": "a. quantifier; used with either mass nouns or plural count nouns to indicate an unspecified number or quantity\ns. relatively much but unspecified in amount or extent\ns. relatively many but unspecified in number\ns. remarkable"
+  },
+  {
+    "单词": "sandwich",
+    "英音": "[ˈsænwɪtʃ; ˈsænwɪdʒ]",
+    "美音": "[ˈsænwɪtʃ; ˈsænwɪdʒ]",
+    "释义(中文)": "n. 三明治；夹心面包\nvt. 夹入；挤进；把...做成三明治",
+    "释义(英文)": "n. two (or more) slices of bread with a filling between them\nv. make into a sandwich\nv. insert or squeeze tightly between two people or objects"
+  },
+  {
+    "单词": "hot",
+    "英音": "[hɒt]",
+    "美音": "[hɑːt]",
+    "释义(中文)": "adj. 热的；辣的；热情的；激动的；紧迫的\nvt. 增加；给…加温\nadv. 热；紧迫地\nvi. 变热\n",
+    "释义(英文)": "a. used of physical heat; having a high or higher than desirable temperature or giving off heat or feeling or causing a sensation of heat or burning\ns. characterized by violent and forceful activity or movement; very intense\na. extended meanings; especially of psychological heat; marked by intensity or vehemence especially of passion or enthusiasm\ns. (color) bold and intense"
+  },
+  {
+    "单词": "hot dog",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 热狗（香肠面包）；（滑雪、滑雪板运动或冲浪的）灵巧动作表演者\nadj. 〈美俚〉极好的\n",
+    "释义(英文)": "v perform intricate maneuvers while skiing"
+  },
+  {
+    "单词": "great",
+    "英音": "[ɡreɪt]",
+    "美音": "[ɡreɪt]",
+    "释义(中文)": "n. 大师；大人物；伟人们\nadj. 伟大的，重大的；极好的，好的；主要的",
+    "释义(英文)": "n. a person who has achieved distinction and honor in some field\ns. relatively large in size or number or extent; larger than others of its kind\ns. of major significance or importance\ns. remarkable or out of the ordinary in degree or magnitude or effect"
+  },
+  {
+    "单词": "thirsty",
+    "英音": "[ˈθɜːsti]",
+    "美音": "[ˈθɜːrsti]",
+    "释义(中文)": "adj. 口渴的，口干的；渴望的，热望的",
+    "释义(英文)": "s. needing moisture\na. feeling a need or desire to drink\ns. able to take in large quantities of moisture"
+  },
+  {
+    "单词": "milk",
+    "英音": "[mɪlk]",
+    "美音": "[mɪlk]",
+    "释义(中文)": "n. 牛奶；乳状物\nvt. 榨取；挤…的奶\nvi. 挤奶\n",
+    "释义(英文)": "n. a white nutritious liquid secreted by mammals and used as food by human beings\nn. produced by mammary glands of female mammals for feeding their young\nn. a river that rises in the Rockies in northwestern Montana and flows eastward to become a tributary of the Missouri River\nn. any of several nutritive milklike liquids"
+  },
+  {
+    "单词": "want",
+    "英音": "[wɒnt]",
+    "美音": "[wɑːnt]",
+    "释义(中文)": "n. 需要；缺乏；贫困；必需品\nvt. 需要；希望；应该；缺少\nvi. 需要；缺少",
+    "释义(英文)": "v. have need of\nv. hunt or look for; want for a particular reason\nv. wish or demand the presence of\nv. be without, lack; be deficient in"
+  },
+  {
+    "单词": "water",
+    "英音": "[ˈwɔːtə(r)]",
+    "美音": "[ˈwɔːtər]",
+    "释义(中文)": "n. 水；海水；雨水；海域，大片的水\nvt. 使湿；供以水；给…浇水\nvi. 加水；流泪；流口水\n",
+    "释义(英文)": "n. binary compound that occurs at room temperature as a clear colorless odorless tasteless liquid; freezes into ice below 0 degrees centigrade and boils above 100 degrees centigrade; widely used as a solvent\nn. once thought to be one of four elements composing the universe (Empedocles)\nn. a liquid necessary for the life of most animals and plants\nv. supply with water, as with channels or ditches or streams"
+  },
+  {
+    "单词": "more",
+    "英音": "[mɔː(r)]",
+    "美音": "[mɔːr]",
+    "释义(中文)": "adv. 更多；此外；更大程度地\nadj. 更多的；附加的\npron. 更多的数量\nn. 更多\n",
+    "释义(英文)": "n. English statesman who opposed Henry VIII's divorce from Catherine of Aragon and was imprisoned and beheaded; recalled for his concept of Utopia, the ideal state\na. (comparative of `much' used with mass nouns) a quantifier meaning greater in size or amount or extent or degree\na. (comparative of `many' used with count nouns) quantifier meaning greater in number\nr. used to form the comparative of some adjectives and adverbs"
+  },
+  {
+    "单词": "full",
+    "英音": "[fʊl]",
+    "美音": "[fʊl]",
+    "释义(中文)": "n. 全部；完整\nadj. 完全的，完整的；满的，充满的；丰富的；完美的；丰满的；详尽的\nvt. 把衣服缝得宽大\nadv. 十分，非常；完全地；整整",
+    "释义(英文)": "v. beat for the purpose of cleaning and thickening\nv. make (a garment) fuller by pleating or gathering\na. containing as much or as many as is possible or normal\ns. complete in extent or degree and in every particular"
+  },
+  {
+    "单词": "let's",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "让我们（let us的简写）",
+    "释义(英文)": "n a brutal terrorist group active in Kashmir; fights against India with the goal of restoring Islamic rule of India\nn a serve that strikes the net before falling into the receiver's court; the ball must be served again\nv make it possible through a specific action or lack of action for something to happen\nv actively cause something to happen\nv consent to, give permission\nv cause to move; cause to be in a certain position or condition\nv leave unchanged\nv grant use or occupation of under a term of contract"
+  },
+  {
+    "单词": "clean",
+    "英音": "[kliːn]",
+    "美音": "[kliːn]",
+    "释义(中文)": "n. 打扫\nadj. 清洁的，干净的；清白的\nvt. 使干净\nvi. 打扫，清扫\nadv. 完全地\n",
+    "释义(英文)": "v. make clean by removing dirt, filth, or unwanted substances from\nv. remove unwanted substances from, such as feathers or pits\nv. be cleanable\nv. deprive wholly of money in a gambling game, robbery, etc."
+  },
+  {
+    "单词": "clean up",
+    "英音": "[ˈkliːn ʌp]",
+    "美音": "[ˈkliːn ʌp]",
+    "释义(中文)": "na. 收拾干净；【机械工程】改正；〔俚语〕赚厚利\n",
+    "释义(英文)": "n. (baseball) the fourth position in the batting order (usually filled by the best batter on the team)"
+  },
+  {
+    "单词": "all right",
+    "英音": "[ˌɔːl ˈraɪt]",
+    "美音": "[ɔːl raɪt]",
+    "释义(中文)": "adj. 可接受（的）；满意（的）；安全健康（的）；平安无恙（的）\nint. 是不是；（表示同意）好；没什么；（引起注意）哎\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "apple",
+    "英音": "[ˈæp(ə)l]",
+    "美音": "[ˈæpl]",
+    "释义(中文)": "n. 苹果，苹果树，苹果似的东西；[美俚]炸弹，手榴弹，（棒球的）球；[美俚]人，家伙。",
+    "释义(英文)": "n. fruit with red or yellow or green skin and sweet to tart crisp whitish flesh\nn. native Eurasian tree widely cultivated in many varieties for its firm rounded edible fruits"
+  },
+  {
+    "单词": "bread",
+    "英音": "[bred]",
+    "美音": "[bred]",
+    "释义(中文)": "n. 面包；生计\nvt. 在…上洒面包屑",
+    "释义(英文)": "n. food made from dough of flour or meal and usually raised with yeast or baking powder and then baked\nv. cover with bread crumbs"
+  },
+  {
+    "单词": "table",
+    "英音": "[ˈteɪb(ə)l]",
+    "美音": "[ˈteɪbl]",
+    "释义(中文)": "n. 桌子；表格；平地层\nvt. 制表；搁置；嵌合\nadj. 桌子的\n",
+    "释义(英文)": "n. a set of data arranged in rows and columns\nn. a piece of furniture having a smooth flat top that is usually supported by one or more vertical legs\nn. a piece of furniture with tableware for a meal laid out on it\nn. a company of people assembled at a table for a meal or game"
+  },
+  {
+    "单词": "How old ...?",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "conj. 多少岁\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "today",
+    "英音": "[təˈdeɪ]",
+    "美音": "[təˈdeɪ]",
+    "释义(中文)": "n. 今天；现今\nadv. 今天；现今\n",
+    "释义(英文)": "n. the present time or age\nn. the day that includes the present moment (as opposed to yesterday or tomorrow)\nr. on this day as distinct from yesterday or tomorrow"
+  },
+  {
+    "单词": "birthday",
+    "英音": "[ˈbɜːθdeɪ]",
+    "美音": "[ˈbɜːrθdeɪ]",
+    "释义(中文)": "n. 生日，诞辰；诞生的日子",
+    "释义(英文)": "n. an anniversary of the day on which a person was born (or the celebration of it)\nn. the date on which a person was born"
+  },
+  {
+    "单词": "happy",
+    "英音": "[ˈhæpi]",
+    "美音": "[ˈhæpi]",
+    "释义(中文)": "adj. 幸福的；高兴的；巧妙的\n",
+    "释义(英文)": "a. enjoying or showing or marked by joy or pleasure\ns. well expressed and to the point"
+  },
+  {
+    "单词": "sixteen",
+    "英音": "[ˌsɪksˈtiːn]",
+    "美音": "[ˌsɪksˈtiːn]",
+    "释义(中文)": "num. 十六\nadj. 十六的，十六个的",
+    "释义(英文)": "n. the cardinal number that is the sum of fifteen and one\ns. being one more than fifteen"
+  },
+  {
+    "单词": "eleven",
+    "英音": "[ɪˈlev(ə)n]",
+    "美音": "[ɪˈlevn]",
+    "释义(中文)": "num. 十一；十一个\nn. 十一；十一个\nadj. 十一的；十一个的",
+    "释义(英文)": "n. the cardinal number that is the sum of ten and one\ns. being one more than ten"
+  },
+  {
+    "单词": "twelve",
+    "英音": "[twelv]",
+    "美音": "[twelv]",
+    "释义(中文)": "num. 十二；十二个\nn. 十二；十二个\nadj. 十二的；十二",
+    "释义(英文)": "n. the cardinal number that is the sum of eleven and one\ns. denoting a quantity consisting of 12 items or units"
+  },
+  {
+    "单词": "thirteen",
+    "英音": "[ˌθɜːˈtiːn]",
+    "美音": "[ˌθɜːrˈtiːn]",
+    "释义(中文)": "n. 十三；十三岁；十三个\nnum. 十三\nadj. 十三的；十三个的",
+    "释义(英文)": "n. the cardinal number that is the sum of twelve and one\ns. being one more than twelve"
+  },
+  {
+    "单词": "fourteen",
+    "英音": "[ˌfɔːˈtiːn]",
+    "美音": "[ˌfɔːrˈtiːn]",
+    "释义(中文)": "num. 十四；十四个；第十四\nn. 十四的记号；十四岁；十四点钟；十五世纪",
+    "释义(英文)": "n. the cardinal number that is the sum of thirteen and one\ns. being one more than thirteen"
+  },
+  {
+    "单词": "fifteen",
+    "英音": "[ˌfɪfˈtiːn]",
+    "美音": "[ˌfɪfˈtiːn]",
+    "释义(中文)": "n. 十五；十五个；十五人组成的橄榄球队\nnum. 十五\nadj. 十五的",
+    "释义(英文)": "n. the cardinal number that is the sum of fourteen and one\ns. being one more than fourteen"
+  },
+  {
+    "单词": "for",
+    "英音": "[fə(r)]",
+    "美音": "[fər; fɔːr]",
+    "释义(中文)": "prep. 为，为了；因为；给；对于；至于；适合于\nconj. 因为",
+    "释义(英文)": "prep. In the most general sense, indicating that in consideration\n   of, in view of, or with reference to, which anything is done or takes\n   place.\nprep. Indicating the antecedent cause or occasion of an action;\n   the motive or inducement accompanying and prompting to an act or state;\n   the reason of anything; that on account of which a thing is or is done.\nprep. Indicating the remoter and indirect object of an act; the\n   end or final cause with reference to which anything is, acts, serves,\n   or is done.\nprep. Indicating that in favor of which, or in promoting which,\n   anything is, or is done; hence, in behalf of; in favor of; on the side\n   of; -- opposed to against.\nprep. Indicating that toward which the action of anything is\n   directed, or the point toward which motion is made; /ntending to go to.\nprep. Indicating that on place of or instead of which anything\n   acts or serves, or that to which a substitute, an equivalent, a\n   compensation, or the like, is offered or made; instead of, or place of.\nprep. Indicating that in the character of or as being which\n   anything is regarded or treated; to be, or as being.\nprep. Indicating that instead of which something else controls in\n   the performing of an action, or that in spite of which anything is\n   done, occurs, or is; hence, equivalent to notwithstanding, in spite of;\n   -- generally followed by all, aught, anything, etc.\nprep. Indicating the space or time through which an action or\n   state extends; hence, during; in or through the space or time of.\nprep. Indicating that in prevention of which, or through fear of\n   which, anything is done.\nconj. Because; by reason that; for that; indicating, in Old\n   English, the reason of anything.\nconj. Since; because; introducing a reason of something before\n   advanced, a cause, motive, explanation, justification, or the like, of\n   an action related or a statement made. It is logically nearly\n   equivalent to since, or because, but connects less closely, and is\n   sometimes used as a very general introduction to something suggested by\n   what has gone before.\nn. One who takes, or that which is said on, the affrimative side;\n   that which is said in favor of some one or something; -- the antithesis\n   of against, and commonly used in connection with it."
+  },
+  {
+    "单词": "You're welcome.",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 不客气；别客气；不用谢",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "cake",
+    "英音": "[keɪk]",
+    "美音": "[keɪk]",
+    "释义(中文)": "n. 蛋糕；块状物；利益总额\nvt. 使结块\nvi. 结成块状\n",
+    "释义(英文)": "n. a block of solid substance (such as soap or wax)\nn. baked goods made from or based on a mixture of flour, sugar, eggs, and fat"
+  },
+  {
+    "单词": "candle",
+    "英音": "[ˈkænd(ə)l]",
+    "美音": "[ˈkændl]",
+    "释义(中文)": "n. 蜡烛；烛光；烛形物\nvt. 对着光检查",
+    "释义(英文)": "n. stick of wax with a wick in the middle\nn. the basic unit of luminous intensity adopted under the Systeme International d'Unites; equal to 1/60 of the luminous intensity per square centimeter of a black body radiating at the temperature of 2,046 degrees Kelvin\nv. examine eggs for freshness by holding them against a light"
+  },
+  {
+    "单词": "How many ...?",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 多少\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "count",
+    "英音": "[kaʊnt]",
+    "美音": "[kaʊnt]",
+    "释义(中文)": "n. 计数；计算；伯爵\nvt. 计算；认为\nvi. 计数；有价值\n",
+    "释义(英文)": "n. the total number counted\nn. the act of counting; reciting numbers in ascending order\nn. a nobleman (in various countries) having rank equal to a British earl\nv. determine the number or amount of"
+  },
+  {
+    "单词": "them",
+    "英音": "[ðəm; ðem]",
+    "美音": "[ðəm; ðem]",
+    "释义(中文)": "pron. 他们；它们；她们\n",
+    "释义(英文)": "pron. The objective case of they. See They."
+  },
+  {
+    "单词": "seventeen",
+    "英音": "[ˌsev(ə)nˈtiːn]",
+    "美音": "[ˌsevnˈtiːn]",
+    "释义(中文)": "n. 十七，十七个\nnum. 十七\nadj. 十七岁的",
+    "释义(英文)": "n. the cardinal number that is the sum of sixteen and one\ns. being one more than sixteen"
+  },
+  {
+    "单词": "eighteen",
+    "英音": "[ˌeɪˈtiːn]",
+    "美音": "[ˌeɪˈtiːn]",
+    "释义(中文)": "n. 十八，十八个\nnum. 十八\nadj. 十八个的，十八的",
+    "释义(英文)": "n. the cardinal number that is the sum of seventeen and one\ns. being one more than seventeen"
+  },
+  {
+    "单词": "nineteen",
+    "英音": "[ˌnaɪnˈtiːn]",
+    "美音": "[ˌnaɪnˈtiːn]",
+    "释义(中文)": "num. 十九",
+    "释义(英文)": "n. the cardinal number that is the sum of eighteen and one\ns. being one more than eighteen"
+  },
+  {
+    "单词": "twenty",
+    "英音": "[ˈtwenti]",
+    "美音": "[ˈtwenti]",
+    "释义(中文)": "num. 二十\nn. 二十；二十年代\nadj. 二十的",
+    "释义(英文)": "n. the cardinal number that is the sum of nineteen and one\ns. denoting a quantity consisting of 20 items or units"
+  },
+  {
+    "单词": "blow out",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 取消；停止鼓风；(吹)胀；吹破\n",
+    "释义(英文)": "n. The cleaning of the flues of a boiler from scale, etc.,\n   by a blast of steam."
+  },
+  {
+    "单词": "much",
+    "英音": "[mʌtʃ]",
+    "美音": "[mʌtʃ]",
+    "释义(中文)": "adv. 非常，很\nadj. 大量的\nn. 许多，大量\npron. 许多，大量\n",
+    "释义(英文)": "n. a great amount or extent\na. (quantifier used with mass nouns) great in quantity or degree or extent\nr. to a great degree or extent\nr. very"
+  },
+  {
+    "单词": "How much ...?",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "conj. 多少\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "can",
+    "英音": "[kən; kæn]",
+    "美音": "[kən; kæn]",
+    "释义(中文)": "aux. 能； 能够； 可以； 可能\nn. 罐头； （用金属或塑料制作的）容器； （马口铁或其他金属制作的）食品罐头\nvt. 将…装入密封罐中保存",
+    "释义(英文)": "n. airtight sealed metal container for food or drink or paint etc.\nn. the quantity contained in a can\nn. a buoy with a round bottom and conical top\nv. preserve in a can or tin"
+  },
+  {
+    "单词": "help",
+    "英音": "[help]",
+    "美音": "[help]",
+    "释义(中文)": "n. 帮助；补救办法；帮忙者；有益的东西\nvt. 帮助；促进；治疗；补救\nvi. 帮助；有用；招待\n",
+    "释义(英文)": "v. give help or assistance; be of service\nv. improve the condition of\nv. be of use\nv. contribute to the furtherance of"
+  },
+  {
+    "单词": "they",
+    "英音": "[ðeɪ]",
+    "美音": "[ðeɪ]",
+    "释义(中文)": "pron. 他们；它们；她们",
+    "释义(英文)": "obj. The plural of he, she, or it. They is never used\n   adjectively, but always as a pronoun proper, and sometimes refers to\n   persons without an antecedent expressed."
+  },
+  {
+    "单词": "dollar",
+    "英音": "[ˈdɒlə(r)]",
+    "美音": "[ˈdɑːlər]",
+    "释义(中文)": "n. 美元\n",
+    "释义(英文)": "n. the basic monetary unit in many countries; equal to 100 cents\nn. a piece of paper money worth one dollar\nn. a United States coin worth one dollar\nn. a symbol of commercialism or greed"
+  },
+  {
+    "单词": "pear",
+    "英音": "[peə(r)]",
+    "美音": "[per]",
+    "释义(中文)": "n. [园艺] 梨树；梨子\n",
+    "释义(英文)": "n. sweet juicy gritty-textured fruit available in many varieties\nn. Old World tree having sweet gritty-textured juicy fruit; widely cultivated in many varieties"
+  },
+  {
+    "单词": "these",
+    "英音": "[ðiːz]",
+    "美音": "[ðiːz]",
+    "释义(中文)": "adj. 这些的\npron. 这些",
+    "释义(英文)": "pron. The plural of this. See This.\npl.  of This"
+  },
+  {
+    "单词": "pineapple",
+    "英音": "[ˈpaɪnæp(ə)l]",
+    "美音": "[ˈpaɪnæpl]",
+    "释义(中文)": "n. [园艺] 菠萝；[园艺] 凤梨\nadj. 凤梨科的",
+    "释义(英文)": "n. a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics\nn. large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated"
+  },
+  {
+    "单词": "watermelon",
+    "英音": "[ˈwɔːtəmelən]",
+    "美音": "[ˈwɔːtərmelən]",
+    "释义(中文)": "n. 西瓜",
+    "释义(英文)": "n. an African melon\nn. large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+  },
+  {
+    "单词": "Don't ...",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 禁忌（等于do not）\naux. 表示否定（等于do not）",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "banana",
+    "英音": "[bəˈnɑːnə]",
+    "美音": "[bəˈnænə]",
+    "释义(中文)": "n. 香蕉；喜剧演员；大鹰钩鼻\n",
+    "释义(英文)": "n. any of several tropical and subtropical treelike herbs of the genus Musa having a terminal crown of large entire leaves and usually bearing hanging clusters of elongated fruits\nn. elongated crescent-shaped yellow fruit with soft sweet flesh"
+  },
+  {
+    "单词": "orange",
+    "英音": "[ˈɒrɪndʒ]",
+    "美音": "[ˈɔrɪndʒ]",
+    "释义(中文)": "adj. 橙色的；橘色的\nn. 橙；橙色；桔子\n",
+    "释义(英文)": "n. round yellow to orange fruit of any of several citrus trees\nn. orange color or pigment; any of a range of colors between red and yellow\nn. any citrus tree bearing oranges\nn. any pigment producing the orange color"
+  },
+  {
+    "单词": "touch",
+    "英音": "[tʌtʃ]",
+    "美音": "[tʌtʃ]",
+    "释义(中文)": "n. 接触；触觉；格调；少许\nvt. 接触；触动；使轻度受害\nvi. 触摸；涉及；接近；提到\n",
+    "释义(英文)": "n. the event of something coming in contact with the body\nn. the faculty by which external objects or forces are perceived through contact with the body (especially the hands)\nn. a suggestion of some quality\nn. a distinguishing style"
+  },
+  {
+    "单词": "red",
+    "英音": "[red]",
+    "美音": "[red]",
+    "释义(中文)": "n. 红色，红颜料；赤字\nadj. 红色的；红肿的，充血的",
+    "释义(英文)": "n. red color or pigment; the chromatic color resembling the hue of blood\nn. a tributary of the Mississippi River that flows eastward from Texas along the southern boundary of Oklahoma and through Louisiana\ns. of a color at the end of the color spectrum (next to orange); resembling the color of blood or cherries or tomatoes or rubies"
+  },
+  {
+    "单词": "box",
+    "英音": "[bɒks]",
+    "美音": "[bɑːks]",
+    "释义(中文)": "n. 箱，盒子；包厢；一拳\nvt. 拳击；装…入盒中；打耳光\nvi. 拳击\n",
+    "释义(英文)": "n. a (usually rectangular) container; may have a lid\nn. private area in a theater or grandstand where a small group can watch the performance\nn. the quantity contained in a box\nn. a rectangular drawing"
+  },
+  {
+    "单词": "hat",
+    "英音": "[hæt]",
+    "美音": "[hæt]",
+    "释义(中文)": "n. 帽子\nvt. 给……戴上帽子\nvi. 供应帽子；制造帽子\n",
+    "释义(英文)": "n. headdress that protects the head from bad weather; has shaped crown and usually a brim\nn. an informal term for a person's role\nv. put on or wear a hat\nv. furnish with a hat"
+  },
+  {
+    "单词": "color",
+    "英音": "[ˈkʌlə(r)]",
+    "美音": "[ˈkʌlər]",
+    "释义(中文)": "n. 颜色；肤色；颜料；脸色\nvt. 粉饰；给...涂颜色；歪曲\nvi. 变色；获得颜色",
+    "释义(英文)": "n. a visual attribute of things that results from the light they emit or transmit or reflect\nn. interest and variety and intensity\nn. the timbre of a musical sound"
+  },
+  {
+    "单词": "yellow",
+    "英音": "[ˈjeləʊ]",
+    "美音": "[ˈjeloʊ]",
+    "释义(中文)": "n. 黄色；黄种人；黄色颜料\nadj. 黄色的；黄皮肤的\nvt. 使变黄或发黄\nvi. 变黄或发黄",
+    "释义(英文)": "n. yellow color or pigment; the chromatic color resembling the hue of sunflowers or ripe lemons\nv. turn yellow\ns. of the color intermediate between green and orange in the color spectrum; of something resembling the color of an egg yolk\ns. changed to a yellowish color by age"
+  },
+  {
+    "单词": "blue",
+    "英音": "[bluː]",
+    "美音": "[bluː]",
+    "释义(中文)": "adj. 蓝色的；沮丧的，忧郁的；下流的\nn. 蓝色；[复数]（美国海、陆、空三军穿的）蓝色制服；蓝颜料；[the blue(s)][用作单数或复数]布鲁斯（歌曲）（一种伤感的美国黑人民歌\nvi. 变成蓝色，呈蓝色\nvt. 把…染成蓝色；使成蓝色；给…用上蓝剂；用上蓝剂于\n",
+    "释义(英文)": "n. blue color or pigment; resembling the color of the clear sky in the daytime\nn. blue clothing\nn. any organization or party whose uniforms or badges are blue\nn. any of numerous small butterflies of the family Lycaenidae"
+  },
+  {
+    "单词": "put on",
+    "英音": "[pʊt ɒn]",
+    "美音": "[pʊt ɑːn]",
+    "释义(中文)": "na. 假话\n",
+    "释义(英文)": "n a composition that imitates or misrepresents somebody's style, usually in a humorous way\nn something intended to deceive; deliberate trickery intended to gain an advantage\nn a ludicrous or grotesque act done for fun and amusement"
+  },
+  {
+    "单词": "black",
+    "英音": "[blæk]",
+    "美音": "[blæk]",
+    "释义(中文)": "n. 黑色；黑人；黑颜料\nadj. 黑色的；黑人的；邪恶的\nvt. 使变黑；把鞋油等涂在…上；把（眼眶）打成青肿\nvi. 变黑\n",
+    "释义(英文)": "n. the quality or state of the achromatic color of least lightness (bearing the least resemblance to white)\nn. British chemist who identified carbon dioxide and who formulated the concepts of specific heat and latent heat (1728-1799)\nn. popular child actress of the 1930's (born in 1928)\nn. a person with dark skin who comes from Africa (or whose ancestors came from Africa)"
+  },
+  {
+    "单词": "green",
+    "英音": "[ɡriːn]",
+    "美音": "[ɡriːn]",
+    "释义(中文)": "n. 绿色；青春\nadj. 绿色的；青春的\nvt. 使…变绿色\nvi. 变绿色",
+    "释义(英文)": "n. green color or pigment; resembling the color of growing grass\nn. United States labor leader who was president of the American Federation of Labor from 1924 to 1952 and who led the struggle with the Congress of Industrial Organizations (1873-1952)\nn. an environmentalist who belongs to the Green Party\nn. a river that rises in western Wyoming and flows southward through Utah to become a tributary of the Colorado River"
+  },
+  {
+    "单词": "moon",
+    "英音": "[muːn]",
+    "美音": "[muːn]",
+    "释义(中文)": "n. 月亮；月球；月光；卫星\nvi. 闲荡；出神\nvt. 虚度\n",
+    "释义(英文)": "n. the natural satellite of the Earth\nn. any object resembling a moon\nn. United States religious leader (born in Korea) who founded the Unification Church in 1954; was found guilty of conspiracy to evade taxes (born in 1920)\nn. any natural satellite of a planet"
+  },
+  {
+    "单词": "sun",
+    "英音": "[sʌn]",
+    "美音": "[sʌn]",
+    "释义(中文)": "n. 太阳\nvt. 使晒\nvi. 晒太阳",
+    "释义(英文)": "n. the star that is the source of light and heat for the planets in the solar system\nn. a person considered as a source of warmth or energy or glory etc\nn. any star around which a planetary system revolves\nv. expose one's body to the sun"
+  },
+  {
+    "单词": "many",
+    "英音": "[ˈmeni]",
+    "美音": "[ˈmeni]",
+    "释义(中文)": "pron. 许多；许多人\nadj. 许多的\n",
+    "释义(英文)": "a. a quantifier that can be used with count nouns and is often preceded by `as' or `too' or `so' or `that'; amounting to a large but indefinite number"
+  },
+  {
+    "单词": "star",
+    "英音": "[stɑː(r)]",
+    "美音": "[stɑːr]",
+    "释义(中文)": "n. 星，恒星；明星；星形物\nadj. 明星的，主角的；星形的\nvt. 用星号标于；由…主演，由…担任主角\nvi. 担任主角\n",
+    "释义(英文)": "n. (astronomy) a celestial body of hot gases that radiates energy derived from thermonuclear reactions in the interior\nn. any celestial body visible (as a point of light) from the Earth at night\nn. an actor who plays a principal role\nn. a plane figure with 5 or more points; often used as an emblem"
+  },
+  {
+    "单词": "white",
+    "英音": "[waɪt]",
+    "美音": "[waɪt]",
+    "释义(中文)": "n. 白色；洁白；白种人\nadj. 白色的；白种的；纯洁的",
+    "释义(英文)": "n. a member of the Caucasoid race\nn. the quality or state of the achromatic color of greatest lightness (bearing the least resemblance to black)\nn. United States jurist appointed chief justice of the United States Supreme Court in 1910 by President Taft; noted for his work on antitrust legislation (1845-1921)\nn. Australian writer (1912-1990)"
+  },
+  {
+    "单词": "cut ... out",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 割掉；除去；剪下；开辟\n",
+    "释义(英文)": "n. a switch that interrupts an electric circuit in the event of an overload\nn. a photograph from which the background has been cut away\nn. a part that is cut out or is intended to be cut out"
+  },
+  {
+    "单词": "skirt",
+    "英音": "[skɜːt]",
+    "美音": "[skɜːrt]",
+    "释义(中文)": "n. 裙子\nvt. 绕过，回避；位于…边缘\nvi. 沿边走，绕开；环绕",
+    "释义(英文)": "n. cloth covering that forms the part of a garment below the waist\nn. a garment hanging from the waist; worn mainly by girls and women\nv. pass around or about; move along the border\nv. form the edge of"
+  },
+  {
+    "单词": "How about ...?",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 怎么样；如何；怎麽样",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "pretty",
+    "英音": "[ˈprɪti]",
+    "美音": "[ˈprɪti]",
+    "释义(中文)": "n. 有吸引力的事物（尤指饰品）；漂亮的人\nadj. 漂亮的；可爱的；优美的\nadv. 相当地；颇\n",
+    "释义(英文)": "s. pleasing by delicacy or grace; not imposing\ns. (used ironically) unexpectedly bad"
+  },
+  {
+    "单词": "show",
+    "英音": "[ʃəʊ]",
+    "美音": "[ʃoʊ]",
+    "释义(中文)": "n. 显示；表演；炫耀\nvt. 显示；说明；演出；展出\nvi. 显示；说明；指示\n",
+    "释义(英文)": "n. the act of publicly exhibiting or entertaining\nn. a social event involving a public performance or entertainment\nv. give an exhibition of to an interested audience\nv. make visible or noticeable"
+  },
+  {
+    "单词": "but",
+    "英音": "[bət]",
+    "美音": "[bət; bʌt]",
+    "释义(中文)": "conj. 但是；而是；然而\nadv. 仅仅，只\nprep. 除…以外\n",
+    "释义(英文)": "r and nothing more"
+  },
+  {
+    "单词": "pants",
+    "英音": "[pænts]",
+    "美音": "[pænts]",
+    "释义(中文)": "n. 裤子",
+    "释义(英文)": "n underpants worn by women\nn the noise made by a short puff of steam (as from an engine)\nn (usually in the plural) a garment extending from the waist to the knee or ankle, covering each leg separately\nn a short labored intake of breath with the mouth open\nv breathe noisily, as when one is exhausted\nv utter while panting, as if out of breath"
+  },
+  {
+    "单词": "sock",
+    "英音": "[sɒk]",
+    "美音": "[sɑːk]",
+    "释义(中文)": "vt. 重击；给……穿袜\nn. 短袜；一击\nadv. 正着地；不偏不倚地\nadj. 非常成功的\n",
+    "释义(英文)": "n. hosiery consisting of a cloth covering for the foot; worn inside the shoe; reaches to between the ankle and the knee\nv. hit hard"
+  },
+  {
+    "单词": "coat",
+    "英音": "[kəʊt]",
+    "美音": "[koʊt]",
+    "释义(中文)": "n. 外套\nvt. 覆盖…的表面\n",
+    "释义(英文)": "n. an outer garment that has sleeves and covers the body from shoulder down; worn outdoors\nn. growth of hair or wool or fur covering the body of an animal\nv. put a coat on; cover the surface of; furnish with a surface\nv. cover or provide with a coat"
+  },
+  {
+    "单词": "take off",
+    "英音": "[ˈteɪk ɒf]",
+    "美音": "[ˈteɪk ɔːf]",
+    "释义(中文)": "v. (飞机)起飞；出去；拿掉；移送\n",
+    "释义(英文)": "n. a departure; especially of airplanes\nn. the initial ascent of an airplane as it becomes airborne"
+  },
+  {
+    "单词": "time",
+    "英音": "[taɪm]",
+    "美音": "[taɪm]",
+    "释义(中文)": "n. 时间；时代；次数；节拍；倍数\nadj. 定时的；定期的；分期的\nvt. 计时；测定…的时间；安排…的速度\n",
+    "释义(英文)": "n. an instance or single occasion for some event\nn. a period of time considered as a resource under your control and sufficient to accomplish something\nn. an indefinite period (usually marked by specific attributes or activities)\nn. a suitable moment"
+  },
+  {
+    "单词": "thirty",
+    "英音": "[ˈθɜːti]",
+    "美音": "[ˈθɜːrti]",
+    "释义(中文)": "num. 三十\nn. 三十年代\nadj. 三十个的",
+    "释义(英文)": "n. the cardinal number that is the product of ten and three\ns. being ten more than twenty"
+  },
+  {
+    "单词": "late",
+    "英音": "[leɪt]",
+    "美音": "[leɪt]",
+    "释义(中文)": "adj. 晚的；迟的；已故的；最近的\nadv. 晚；迟；最近；在晚期",
+    "释义(英文)": "a. being or occurring at an advanced period of time or after a usual or expected time\ns. of the immediate past or just previous to the present time\ns. having died recently\na. of a later stage in the development of a language or literature; used especially of dead languages"
+  },
+  {
+    "单词": "sleep",
+    "英音": "[sliːp]",
+    "美音": "[sliːp]",
+    "释义(中文)": "n. 睡眠\nvi. 睡，睡觉\n",
+    "释义(英文)": "n. a natural and periodic state of rest during which consciousness of the world is suspended\nn. a torpid state resembling deep sleep\nn. a period of time spent sleeping\nv. be asleep"
+  },
+  {
+    "单词": "hey",
+    "英音": "[heɪ]",
+    "美音": "[heɪ]",
+    "释义(中文)": "n. 干草（等于hay）\nint. 喂！（引起注意等）；你好！（表示问候）\n",
+    "释义(英文)": "a. High.\ninterj. An exclamation of joy, surprise, or encouragement.\ninterj. A cry to set dogs on."
+  },
+  {
+    "单词": "turn off",
+    "英音": "[tɜ:n ɒf]",
+    "美音": "[tɜːrn ɔ:f]",
+    "释义(中文)": "v. 关掉\n",
+    "释义(英文)": "n. something causing antagonism or loss of interest\nn. a side road where you can turn off"
+  },
+  {
+    "单词": "light",
+    "英音": "[laɪt]",
+    "美音": "[laɪt]",
+    "释义(中文)": "n. 光；光线；灯；打火机；领悟；浅色；天窗\nadj. 轻的；浅色的；明亮的；轻松的；容易的；清淡的\nvi. 点着；变亮；着火\nvt. 照亮；点燃；着火\nadv. 轻地；清楚地；轻便地\n",
+    "释义(英文)": "n. (physics) electromagnetic radiation that can produce a visual sensation\nn. any device serving as a source of illumination\nn. a particular perspective or aspect of a situation\nn. an illuminated area"
+  },
+  {
+    "单词": "soap",
+    "英音": "[səʊp]",
+    "美音": "[soʊp]",
+    "释义(中文)": "n. 肥皂\nvt. 将肥皂涂在……上；对……拍马屁（俚语）\nvi. 用肥皂擦洗",
+    "释义(英文)": "n. a cleansing agent made from the salts of vegetable or animal fats\nn. money offered as a bribe\nn. street names for gamma hydroxybutyrate\nv. rub soap all over, usually with the purpose of cleaning"
+  },
+  {
+    "单词": "turn on",
+    "英音": "[tɜ:n ɒn]",
+    "美音": "[tɜːrn ɑːn]",
+    "释义(中文)": "na. 转向；对…进行突击\n",
+    "释义(英文)": "n. something causing excitement or stimulating interest"
+  },
+  {
+    "单词": "get up",
+    "英音": "[ɡet ʌp]",
+    "美音": "[ɡet ʌp]",
+    "释义(中文)": "na. 起床；起身；站起来；叫…起床\n",
+    "释义(英文)": "n a set of clothing (with accessories)"
+  },
+  {
+    "单词": "well",
+    "英音": "[wel]",
+    "美音": "[wel]",
+    "释义(中文)": "n. 井；源泉\nadj. 良好的；健康的；适宜的\nadv. 很好地；充分地；满意地；适当地\nv. 涌出\n\n",
+    "释义(英文)": "n. a deep hole or shaft dug or drilled to obtain water or oil or gas or brine\nn. a cavity or vessel used to contain liquid\nn. an abundant source\nn. an open shaft through the floors of a building (as for a stairway)"
+  },
+  {
+    "单词": "thirty-one",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "num. 三十一",
+    "释义(英文)": "s being one more than thirty"
+  },
+  {
+    "单词": "thirty-two",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "num. 三十二",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "forty",
+    "英音": "[ˈfɔːti]",
+    "美音": "[ˈfɔːrti]",
+    "释义(中文)": "n. 四十\nadj. 四十的；四十个的",
+    "释义(英文)": "n. the cardinal number that is the product of ten and four\ns. being ten more than thirty"
+  },
+  {
+    "单词": "fifty",
+    "英音": "[ˈfɪfti]",
+    "美音": "[ˈfɪfti]",
+    "释义(中文)": "n. 五十；五十个；编号为50的东西\nadj. 五十的；五十个的；众多的",
+    "释义(英文)": "n. the cardinal number that is the product of ten and five\ns. being ten more than forty"
+  },
+  {
+    "单词": "o'clock",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "abbr. …点钟（等于of the clock）",
+    "释义(英文)": "r. according to the clock"
+  },
+  {
+    "单词": "where",
+    "英音": "[weə(r)]",
+    "美音": "[wer]",
+    "释义(中文)": "conj. 在…的地方\nn. 地点\nadv. 在哪里\npron. 哪里",
+    "释义(英文)": "pron. & conj. Whether.\nadv. At or in what place; hence, in what situation, position,\n   or circumstances; -- used interrogatively.\nadv. At or in which place; at the place in which; hence, in the\n   case or instance in which; -- used relatively.\nadv. To what or which place; hence, to what goal, result, or\n   issue; whither; -- used interrogatively and relatively; as, where are\n   you going?\nconj. Whereas.\nn. Place; situation."
+  },
+  {
+    "单词": "play",
+    "英音": "[pleɪ]",
+    "美音": "[pleɪ]",
+    "释义(中文)": "n. 游戏；比赛；剧本\nvt. 游戏；扮演；演奏；播放；同…比赛\nvi. 演奏；玩耍；上演；参加比赛\n",
+    "释义(英文)": "n. a dramatic work intended for performance by actors on a stage\nn. a theatrical performance of a drama\nn. a preset plan of action in team sports\nn. a state in which action is feasible"
+  },
+  {
+    "单词": "hide-and-seek",
+    "英音": "[ˌhaɪd ən ˈsiːk]",
+    "美音": "[ˌhaɪd ən ˈsiːk]",
+    "释义(中文)": "n. 捉迷藏",
+    "释义(英文)": "n. a game in which a child covers his eyes while the other players hide then tries to find them"
+  },
+  {
+    "单词": "under",
+    "英音": "[ˈʌndə(r)]",
+    "美音": "[ˈʌndər]",
+    "释义(中文)": "prep. 低于，少于；在...之下\nadj. 下面的；从属的\nadv. 在下面；在下方",
+    "释义(英文)": "s. lower in rank, power, or authority\nr. down to defeat, death, or ruin\nr. through a range downward\nr. into unconsciousness"
+  },
+  {
+    "单词": "bed",
+    "英音": "[bed]",
+    "美音": "[bed]",
+    "释义(中文)": "n. 床；基础；河底， 海底\nvt. 使睡觉；安置，嵌入；栽种\nvi. 上床；分层",
+    "释义(英文)": "n. a piece of furniture that provides a place to sleep\nn. a plot of ground in which plants are growing\nn. a depression forming the ground under a body of water\nn. (geology) a stratum of rock (especially sedimentary rock)"
+  },
+  {
+    "单词": "behind",
+    "英音": "[bɪˈhaɪnd]",
+    "美音": "[bɪˈhaɪnd]",
+    "释义(中文)": "prep. 落后于；支持；晚于\nn. 屁股\nadv. 在后地；在原处",
+    "释义(英文)": "s. having the lower score or lagging position in a contest\nr. in or to or toward the rear\nr. remaining in a place or condition that has been left or departed from\nr. of timepieces"
+  },
+  {
+    "单词": "door",
+    "英音": "[dɔː(r)]",
+    "美音": "[dɔːr]",
+    "释义(中文)": "n. 门；家，户；门口；通道\n",
+    "释义(英文)": "n. a swinging or sliding barrier that will close the entrance to a room or building or vehicle\nn. anything providing a means of access (or escape)\nn. a structure where people live or work (usually ordered along a street or road)\nn. a room that is entered via a door"
+  },
+  {
+    "单词": "on",
+    "英音": "[ɒn]",
+    "美音": "[ɑːn]",
+    "释义(中文)": "adv. 向前地；作用中，行动中；继续着\nprep. 向，朝……；关于；在……之上；在……时候\nadj. 开着的；发生着的，正在进行中\n",
+    "释义(英文)": "a. in operation or operational\na. (of events) planned or scheduled\nr. indicates continuity or persistence or concentration\nr. in a state required for something to function or be effective"
+  },
+  {
+    "单词": "next to",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "prep. 紧邻；在…近旁；仅次于；紧接\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "ice cream",
+    "英音": "[ˈaɪs kriːm]",
+    "美音": "[ˈaɪs kriːm]",
+    "释义(中文)": "n. 【食】冰淇淋\n",
+    "释义(英文)": "n frozen dessert containing cream and sugar and flavoring"
+  },
+  {
+    "单词": "cold",
+    "英音": "[kəʊld]",
+    "美音": "[kəʊld]",
+    "释义(中文)": "n. 寒冷；感冒\nadj. 寒冷的；冷淡的，不热情的；失去知觉的\nadv. 完全地",
+    "释义(英文)": "n. a mild viral infection involving the nose and respiratory passages (but not the lungs)\nn. the sensation produced by low temperatures\na. having a low or inadequate temperature or feeling a sensation of coldness or having been made cold by e.g. ice or refrigeration\na. extended meanings; especially of psychological coldness; without human warmth or emotion"
+  },
+  {
+    "单词": "rainy",
+    "英音": "[ˈreɪni]",
+    "美音": "[ˈreɪni]",
+    "释义(中文)": "adj. 下雨的；多雨的\n",
+    "释义(英文)": "s (of weather) wet by periods of rain"
+  },
+  {
+    "单词": "rain",
+    "英音": "[reɪn]",
+    "美音": "[reɪn]",
+    "释义(中文)": "n. 雨；下雨；雨天；雨季\nvt. 大量地给；使大量落下\nvi. 下雨；降雨\n",
+    "释义(英文)": "n. water falling in drops from vapor condensed in the atmosphere\nn. drops of fresh water that fall as precipitation from clouds\nn. anything happening rapidly or in quick successive\nv. precipitate as rain"
+  },
+  {
+    "单词": "sunny",
+    "英音": "[ˈsʌni]",
+    "美音": "[ˈsʌni]",
+    "释义(中文)": "adj. 阳光充足的，和煦的；快活的；性情开朗的",
+    "释义(英文)": "s bright and pleasant; promoting a feeling of cheer"
+  },
+  {
+    "单词": "rainbow",
+    "英音": "[ˈreɪnbəʊ]",
+    "美音": "[ˈreɪnboʊ]",
+    "释义(中文)": "n. 彩虹；五彩缤纷的排列；幻想\nadj. 五彩缤纷的；彩虹状的\nvt. 使呈彩虹状；如彩虹般装饰\nvi. 呈彩虹状\n",
+    "释义(英文)": "n. an arc of colored light in the sky caused by refraction of the sun's rays by rain\nn. an illusory hope"
+  },
+  {
+    "单词": "sky",
+    "英音": "[skaɪ]",
+    "美音": "[skaɪ]",
+    "释义(中文)": "n. 天空；顶点\nvt. 把…投向空中；把…挂得过高\nvi. 踢或击高空球；把桨叶翘得过高；飞涨\n",
+    "释义(英文)": "n. the atmosphere and outer space as viewed from the earth"
+  },
+  {
+    "单词": "take out",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 取出；带出(散步等)；除去(污点等)；取得(专卖权等)\n",
+    "释义(英文)": "n. prepared food that is intended to be eaten off of the premises\nn. (bridge) a bid that asks your partner to bid another suit\ns. of or involving food to be taken and eaten off the premises"
+  },
+  {
+    "单词": "put away",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "v. 把…收起来；储存\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "Sunday",
+    "英音": "[ˈsʌndeɪ]",
+    "美音": "[ˈsʌndeɪ]",
+    "释义(中文)": "n. 星期日；礼拜日",
+    "释义(英文)": "n. first day of the week; observed as a day of rest and worship by most Christians\nn. United States evangelist (1862-1935)"
+  },
+  {
+    "单词": "we",
+    "英音": "[wi; wiː]",
+    "美音": "[wi]",
+    "释义(中文)": "pron. 我们（主格）；笔者，本人（作者或演讲人使用）；朕，寡人\n",
+    "释义(英文)": "pl.  of I\nobj. The plural nominative case of the pronoun of the first\n   person; the word with which a person in speaking or writing denotes a\n   number or company of which he is one, as the subject of an action\n   expressed by a verb."
+  },
+  {
+    "单词": "swim",
+    "英音": "[swɪm]",
+    "美音": "[swɪm]",
+    "释义(中文)": "n. 游泳；漂浮；眩晕\nadj. 游泳时穿戴的\nvi. 游泳；漂浮；浸；眩晕\nvt. 游过；使浮起",
+    "释义(英文)": "v. travel through water\nv. be dizzy or giddy\nv. be covered with or submerged in a liquid\nv. move as if gliding through water"
+  },
+  {
+    "单词": "Wednesday",
+    "英音": "[ˈwenzdeɪ]",
+    "美音": "[ˈwenzdeɪ]",
+    "释义(中文)": "n. 星期三",
+    "释义(英文)": "n. the fourth day of the week; the third working day"
+  },
+  {
+    "单词": "game",
+    "英音": "[ɡeɪm]",
+    "美音": "[ɡeɪm]",
+    "释义(中文)": "n. 游戏；比赛\nadj. 勇敢的\nvi. 赌博\n",
+    "释义(英文)": "n. a contest with rules to determine a winner\nn. a single play of a sport or other contest\nn. an amusement or pastime\nn. animal hunted for food or sport"
+  },
+  {
+    "单词": "Saturday",
+    "英音": "[ˈsætədeɪ]",
+    "美音": "[ˈsætərdeɪ]",
+    "释义(中文)": "n. 星期六",
+    "释义(英文)": "n. the seventh and last day of the week; observed as the Sabbath by Jews and some Christians"
+  },
+  {
+    "单词": "say",
+    "英音": "[seɪ]",
+    "美音": "[seɪ]",
+    "释义(中文)": "vt. 讲；说明；例如；声称；假设；指明\nvi. 讲；表示；念；假定；背诵\n\n",
+    "释义(英文)": "n. the chance to speak\nv. communicate or express nonverbally\nv. utter aloud\nv. state as one's opinion or judgement; declare"
+  },
+  {
+    "单词": "love",
+    "英音": "[lʌv]",
+    "美音": "[lʌv]",
+    "释义(中文)": "n. 恋爱；亲爱的；酷爱；喜爱的事物；爱情，爱意；疼爱；热爱；爱人，所爱之物\nv. 爱，热爱；爱戴；赞美，称赞；喜爱；喜好；喜欢；爱慕\n",
+    "释义(英文)": "n. a strong positive emotion of regard and affection\nn. any object of warm affection or devotion; \nn. a deep feeling of sexual desire and attraction\nn. a score of zero in tennis or squash"
+  },
+  {
+    "单词": "soon",
+    "英音": "[suːn]",
+    "美音": "[suːn]",
+    "释义(中文)": "adv. 快；不久，一会儿；立刻；宁愿",
+    "释义(英文)": "r. in the near future"
+  },
+  {
+    "单词": "Monday",
+    "英音": "[ˈmʌndeɪ]",
+    "美音": "[ˈmʌndeɪ]",
+    "释义(中文)": "n. 星期一",
+    "释义(英文)": "n. the second day of the week; the first working day"
+  },
+  {
+    "单词": "Tuesday",
+    "英音": "[ˈtjuːzdeɪ]",
+    "美音": "[ˈtuːzdeɪ]",
+    "释义(中文)": "n. 星期二",
+    "释义(英文)": "n. the third day of the week; the second working day"
+  },
+  {
+    "单词": "Thursday",
+    "英音": "[ˈθɜːzdeɪ]",
+    "美音": "[ˈθɜːrzdeɪ]",
+    "释义(中文)": "n. 星期四",
+    "释义(英文)": "n. the fifth day of the week; the fourth working day"
+  },
+  {
+    "单词": "Friday",
+    "英音": "[ˈfraɪdeɪ]",
+    "美音": "[ˈfraɪdeɪ]",
+    "释义(中文)": "n. 星期五",
+    "释义(英文)": "n. the sixth day of the week; the fifth working day"
+  },
+  {
+    "单词": "point",
+    "英音": "[pɔɪnt]",
+    "美音": "[pɔɪnt]",
+    "释义(中文)": "n. 要点；得分；标点；[机] 尖端\nvt. 指向；弄尖；加标点于\nvi. 表明；指向\n",
+    "释义(英文)": "n. a geometric element that has position but no extension\nn. the precise location of something; a spatially limited location\nn. a brief version of the essential meaning of something\nn. an instant of time"
+  }
+]

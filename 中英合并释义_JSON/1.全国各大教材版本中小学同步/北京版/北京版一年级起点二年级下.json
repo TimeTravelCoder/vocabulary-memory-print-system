@@ -1,0 +1,555 @@
+[
+  {
+    "单词": "time",
+    "英音": "[taɪm]",
+    "美音": "[taɪm]",
+    "释义(中文)": "n. 时间；时代；次数；节拍；倍数\nadj. 定时的；定期的；分期的\nvt. 计时；测定…的时间；安排…的速度\n",
+    "释义(英文)": "n. an instance or single occasion for some event\nn. a period of time considered as a resource under your control and sufficient to accomplish something\nn. an indefinite period (usually marked by specific attributes or activities)\nn. a suitable moment"
+  },
+  {
+    "单词": "o'clock",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "abbr. …点钟（等于of the clock）",
+    "释义(英文)": "r. according to the clock"
+  },
+  {
+    "单词": "nice",
+    "英音": "[naɪs]",
+    "美音": "[naɪs]",
+    "释义(中文)": "adj. 精密的；美好的；细微的；和蔼的\n",
+    "释义(英文)": "n. a city in southeastern France on the Mediterranean; the leading resort on the French Riviera\na. pleasant or pleasing or agreeable in nature or appearance\ns. done with delicacy and skill"
+  },
+  {
+    "单词": "when",
+    "英音": "[wen]",
+    "美音": "[wen]",
+    "释义(中文)": "conj. 考虑到；既然；当…时；在…时；如果\nn. 时间，时候；日期；场合\nadv. 什么时候，何时；（用于时间的表达方式之后）在那时；其时；当时\npron. 那时；什么时侯",
+    "释义(英文)": "adv. At what time; -- used interrogatively.\nadv. At what time; at, during, or after the time that; at or\n   just after, the moment that; -- used relatively.\nadv. While; whereas; although; -- used in the manner of a\n   conjunction to introduce a dependent adverbial sentence or clause,\n   having a causal, conditional, or adversative relation to the principal\n   proposition; as, he chose to turn highwayman when he might have\n   continued an honest man; he removed the tree when it was the best in\n   the grounds.\nadv. Which time; then; -- used elliptically as a noun."
+  },
+  {
+    "单词": "thirty",
+    "英音": "[ˈθɜːti]",
+    "美音": "[ˈθɜːrti]",
+    "释义(中文)": "num. 三十\nn. 三十年代\nadj. 三十个的",
+    "释义(英文)": "n. the cardinal number that is the product of ten and three\ns. being ten more than twenty"
+  },
+  {
+    "单词": "home",
+    "英音": "[həʊm]",
+    "美音": "[hoʊm]",
+    "释义(中文)": "n. 家，住宅；产地；家乡；避难所\nadj. 国内的，家庭的；有效的\nvt. 归巢，回家\nadv. 在家，回家；深入地\n",
+    "释义(英文)": "n. where you live at a particular time\nn. the country or state or city where you live\nn. place where something began and flourished\nn. an environment offering affection and security"
+  },
+  {
+    "单词": "five",
+    "英音": "[faɪv]",
+    "美音": "[faɪv]",
+    "释义(中文)": "num. 五，五个\nn. 五，五个；五美元钞票\nadj. 五的；五个的\n",
+    "释义(英文)": "n. the cardinal number that is the sum of four and one\ns. being one more than four"
+  },
+  {
+    "单词": "fifty",
+    "英音": "[ˈfɪfti]",
+    "美音": "[ˈfɪfti]",
+    "释义(中文)": "n. 五十；五十个；编号为50的东西\nadj. 五十的；五十个的；众多的",
+    "释义(英文)": "n. the cardinal number that is the product of ten and five\ns. being ten more than forty"
+  },
+  {
+    "单词": "nine",
+    "英音": "[naɪn]",
+    "美音": "[naɪn]",
+    "释义(中文)": "n. 九，九个\nnum. 九；九个\nadj. 九的，九个的\n",
+    "释义(英文)": "n. the cardinal number that is the sum of eight and one\ns. denoting a quantity consisting of one more than eight and one less than ten"
+  },
+  {
+    "单词": "twenty",
+    "英音": "[ˈtwenti]",
+    "美音": "[ˈtwenti]",
+    "释义(中文)": "num. 二十\nn. 二十；二十年代\nadj. 二十的",
+    "释义(英文)": "n. the cardinal number that is the sum of nineteen and one\ns. denoting a quantity consisting of 20 items or units"
+  },
+  {
+    "单词": "sleep",
+    "英音": "[sliːp]",
+    "美音": "[sliːp]",
+    "释义(中文)": "n. 睡眠\nvi. 睡，睡觉\n",
+    "释义(英文)": "n. a natural and periodic state of rest during which consciousness of the world is suspended\nn. a torpid state resembling deep sleep\nn. a period of time spent sleeping\nv. be asleep"
+  },
+  {
+    "单词": "good",
+    "英音": "[ɡʊd]",
+    "美音": "[ɡʊd]",
+    "释义(中文)": "n. 好处；善行；慷慨的行为\nadj. 好的；优良的；愉快的；虔诚的\nadv. 好\n",
+    "释义(英文)": "n. benefit\nn. moral excellence or admirableness\nn. that which is pleasing or valuable or useful\na. having desirable or positive qualities especially those suitable for a thing specified"
+  },
+  {
+    "单词": "one",
+    "英音": "[wʌn]",
+    "美音": "[wʌn]",
+    "释义(中文)": "pron. 一个人；任何人\nadj. 一的；唯一的\nn. 一\nnum. 一；一个\n",
+    "释义(英文)": "n. the smallest whole number or a numeral representing this number\nn. a single person or thing\ns. used of a single unit or thing; not two or more\ns. having the indivisible character of a unit"
+  },
+  {
+    "单词": "dad",
+    "英音": "[dæd]",
+    "美音": "[dæd]",
+    "释义(中文)": "n. 爸爸；爹爹\n",
+    "释义(英文)": "n. an informal term for a father; probably derived from baby talk"
+  },
+  {
+    "单词": "for",
+    "英音": "[fə(r)]",
+    "美音": "[fər; fɔːr]",
+    "释义(中文)": "prep. 为，为了；因为；给；对于；至于；适合于\nconj. 因为",
+    "释义(英文)": "prep. In the most general sense, indicating that in consideration\n   of, in view of, or with reference to, which anything is done or takes\n   place.\nprep. Indicating the antecedent cause or occasion of an action;\n   the motive or inducement accompanying and prompting to an act or state;\n   the reason of anything; that on account of which a thing is or is done.\nprep. Indicating the remoter and indirect object of an act; the\n   end or final cause with reference to which anything is, acts, serves,\n   or is done.\nprep. Indicating that in favor of which, or in promoting which,\n   anything is, or is done; hence, in behalf of; in favor of; on the side\n   of; -- opposed to against.\nprep. Indicating that toward which the action of anything is\n   directed, or the point toward which motion is made; /ntending to go to.\nprep. Indicating that on place of or instead of which anything\n   acts or serves, or that to which a substitute, an equivalent, a\n   compensation, or the like, is offered or made; instead of, or place of.\nprep. Indicating that in the character of or as being which\n   anything is regarded or treated; to be, or as being.\nprep. Indicating that instead of which something else controls in\n   the performing of an action, or that in spite of which anything is\n   done, occurs, or is; hence, equivalent to notwithstanding, in spite of;\n   -- generally followed by all, aught, anything, etc.\nprep. Indicating the space or time through which an action or\n   state extends; hence, during; in or through the space or time of.\nprep. Indicating that in prevention of which, or through fear of\n   which, anything is done.\nconj. Because; by reason that; for that; indicating, in Old\n   English, the reason of anything.\nconj. Since; because; introducing a reason of something before\n   advanced, a cause, motive, explanation, justification, or the like, of\n   an action related or a statement made. It is logically nearly\n   equivalent to since, or because, but connects less closely, and is\n   sometimes used as a very general introduction to something suggested by\n   what has gone before.\nn. One who takes, or that which is said on, the affrimative side;\n   that which is said in favor of some one or something; -- the antithesis\n   of against, and commonly used in connection with it."
+  },
+  {
+    "单词": "bread",
+    "英音": "[bred]",
+    "美音": "[bred]",
+    "释义(中文)": "n. 面包；生计\nvt. 在…上洒面包屑",
+    "释义(英文)": "n. food made from dough of flour or meal and usually raised with yeast or baking powder and then baked\nv. cover with bread crumbs"
+  },
+  {
+    "单词": "milk",
+    "英音": "[mɪlk]",
+    "美音": "[mɪlk]",
+    "释义(中文)": "n. 牛奶；乳状物\nvt. 榨取；挤…的奶\nvi. 挤奶\n",
+    "释义(英文)": "n. a white nutritious liquid secreted by mammals and used as food by human beings\nn. produced by mammary glands of female mammals for feeding their young\nn. a river that rises in the Rockies in northwestern Montana and flows eastward to become a tributary of the Missouri River\nn. any of several nutritive milklike liquids"
+  },
+  {
+    "单词": "egg",
+    "英音": "[eɡ]",
+    "美音": "[eɡ]",
+    "释义(中文)": "n. 蛋；卵子；家伙；鸡蛋\nvt. 煽动；怂恿\n",
+    "释义(英文)": "n. animal reproductive body consisting of an ovum or embryo together with nutritive and protective envelopes; especially the thin-shelled reproductive body laid by e.g. female birds\nn. oval reproductive body of a fowl (especially a hen) used as food\nv. throw eggs at\nv. coat with beaten egg"
+  },
+  {
+    "单词": "an",
+    "英音": "[ən]",
+    "美音": "[ən; æn]",
+    "释义(中文)": "art. 一（在元音音素前）",
+    "释义(英文)": "n an associate degree in nursing"
+  },
+  {
+    "单词": "fish",
+    "英音": "[fɪʃ]",
+    "美音": "[fɪʃ]",
+    "释义(中文)": "n. 鱼，鱼类\nvt. 钓鱼，捕鱼；搜寻\nvi. 捕鱼，钓鱼；用钩捞取\n",
+    "释义(英文)": "n. any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills\nn. the flesh of fish used as food\nv. seek indirectly\nv. catch or try to catch fish or shellfish"
+  },
+  {
+    "单词": "rice",
+    "英音": "[raɪs]",
+    "美音": "[raɪs]",
+    "释义(中文)": "n. 稻；米饭\nvt. 把…捣成米糊状\n",
+    "释义(英文)": "n. grains used as food either unpolished or more often polished\nn. annual or perennial rhizomatous marsh grasses; seed used for food; straw used for paper\nn. English lyricist who frequently worked with Andrew Lloyd Webber (born in 1944)\nn. United States playwright (1892-1967)"
+  },
+  {
+    "单词": "noodle",
+    "英音": "[ˈnuːd(ə)l]",
+    "美音": "[ˈnuːd(ə)l]",
+    "释义(中文)": "n. 面条；笨蛋",
+    "释义(英文)": "n. a ribbonlike strip of pasta"
+  },
+  {
+    "单词": "down",
+    "英音": "[daʊn]",
+    "美音": "[daʊn]",
+    "释义(中文)": "prep. 沿着，往下\nn. 软毛，绒毛；[地质] 开阔的高地\nadj. 向下的\nvt. 打倒，击败\nadv. 向下，下去；在下面\nvi. 下降；下去\n",
+    "释义(英文)": "n. soft fine feathers\nn. (American football) a complete play to advance the football\nn. English physician who first described Down's syndrome (1828-1896)\nn. (usually plural) a rolling treeless highland with little soil"
+  },
+  {
+    "单词": "ice cream",
+    "英音": "[ˈaɪs kriːm]",
+    "美音": "[ˈaɪs kriːm]",
+    "释义(中文)": "n. 【食】冰淇淋\n",
+    "释义(英文)": "n frozen dessert containing cream and sugar and flavoring"
+  },
+  {
+    "单词": "back",
+    "英音": "[bæk]",
+    "美音": "[bæk]",
+    "释义(中文)": "n. 后面；背部；靠背；足球等的后卫；书报等的末尾\nadj. 后面的；过去的；拖欠的\nvt. 支持；后退；背书；下赌注\nadv. 以前；向后地；来回地；上溯；回来；回原处\nvi. 后退；背靠；倒退\n",
+    "释义(英文)": "n. the posterior part of a human (or animal) body from the neck to the end of the spine\nn. the part of something that is furthest from the normal viewer\nn. (football) a person who plays in the backfield\nn. the part of a garment that covers the back of your body"
+  },
+  {
+    "单词": "hungry",
+    "英音": "[ˈhʌŋɡri]",
+    "美音": "[ˈhʌŋɡri]",
+    "释义(中文)": "adj. 饥饿的；渴望的；荒年的；不毛的",
+    "释义(英文)": "a. feeling hunger; feeling a need or desire to eat food"
+  },
+  {
+    "单词": "hello",
+    "英音": "[həˈləʊ]",
+    "美音": "[həˈləʊ]",
+    "释义(中文)": "n. 表示问候， 惊奇或唤起注意时的用语\nint. 喂；哈罗\n",
+    "释义(英文)": "n. an expression of greeting"
+  },
+  {
+    "单词": "dear",
+    "英音": "[dɪə(r)]",
+    "美音": "[dɪr]",
+    "释义(中文)": "n. 亲爱的人\nadj. 亲爱的；尊敬的；昂贵的\nadv. 高价地；疼爱地\nint. 哎呀\n",
+    "释义(英文)": "s. with or in a close or intimate relationship\ns. earnest"
+  },
+  {
+    "单词": "orange",
+    "英音": "[ˈɒrɪndʒ]",
+    "美音": "[ˈɔrɪndʒ]",
+    "释义(中文)": "adj. 橙色的；橘色的\nn. 橙；橙色；桔子\n",
+    "释义(英文)": "n. round yellow to orange fruit of any of several citrus trees\nn. orange color or pigment; any of a range of colors between red and yellow\nn. any citrus tree bearing oranges\nn. any pigment producing the orange color"
+  },
+  {
+    "单词": "vegetable",
+    "英音": "[ˈvedʒtəb(ə)l]",
+    "美音": "[ˈvedʒtəbl]",
+    "释义(中文)": "n. 蔬菜；植物；植物人\nadj. 蔬菜的；植物的",
+    "释义(英文)": "n. edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant\nn. any of various herbaceous plants cultivated for an edible part such as the fruit or the root of the beet or the leaf of spinach or the seeds of bean plants or the flower buds of broccoli or cauliflower"
+  },
+  {
+    "单词": "evening",
+    "英音": "[ˈiːvnɪŋ]",
+    "美音": "[ˈiːvnɪŋ]",
+    "释义(中文)": "n. 晚上；傍晚；（联欢性的）晚会；后期\nadj. 在晚上的；为晚上的；晚上用的\nint. 晚上好（等于good evening）",
+    "释义(英文)": "n. the latter part of the day (the period of decreasing daylight from late afternoon until nightfall)\nn. a later concluding time period\nn. the early part of night (from dinner until bedtime) spent in a special way"
+  },
+  {
+    "单词": "room",
+    "英音": "[ruːm]",
+    "美音": "[ruːm; rʊm]",
+    "释义(中文)": "n. 房间；空间；余地；机会；房间里所有的人\nvt. 为…提供住处；租房，合住；投宿，住宿；留",
+    "释义(英文)": "n. an area within a building enclosed by walls and floor and ceiling\nn. space for movement\nn. opportunity for\nn. the people who are present in a room"
+  },
+  {
+    "单词": "love",
+    "英音": "[lʌv]",
+    "美音": "[lʌv]",
+    "释义(中文)": "n. 恋爱；亲爱的；酷爱；喜爱的事物；爱情，爱意；疼爱；热爱；爱人，所爱之物\nv. 爱，热爱；爱戴；赞美，称赞；喜爱；喜好；喜欢；爱慕\n",
+    "释义(英文)": "n. a strong positive emotion of regard and affection\nn. any object of warm affection or devotion; \nn. a deep feeling of sexual desire and attraction\nn. a score of zero in tennis or squash"
+  },
+  {
+    "单词": "bed",
+    "英音": "[bed]",
+    "美音": "[bed]",
+    "释义(中文)": "n. 床；基础；河底， 海底\nvt. 使睡觉；安置，嵌入；栽种\nvi. 上床；分层",
+    "释义(英文)": "n. a piece of furniture that provides a place to sleep\nn. a plot of ground in which plants are growing\nn. a depression forming the ground under a body of water\nn. (geology) a stratum of rock (especially sedimentary rock)"
+  },
+  {
+    "单词": "big",
+    "英音": "[bɪɡ]",
+    "美音": "[bɪɡ]",
+    "释义(中文)": "adj. 大的；重要的；量大的\nadv. 大量地；顺利；夸大地\n",
+    "释义(英文)": "s. significant\ns. loud and firm\ns. conspicuous in position or importance\ns. prodigious"
+  },
+  {
+    "单词": "chair",
+    "英音": "[tʃeə(r)]",
+    "美音": "[tʃer]",
+    "释义(中文)": "n. 椅子；讲座；（会议的）主席位；大学教授的职位\nvt. 担任（会议的）主席；使…入座；使就任要职\n",
+    "释义(英文)": "n. a seat for one person, with a support for the back\nn. a particular seat in an orchestra\nv. act or preside as chair, as of an academic department in a university"
+  },
+  {
+    "单词": "sit",
+    "英音": "[sɪt]",
+    "美音": "[sɪt]",
+    "释义(中文)": "vi. 坐；位于\nvt. 使就座\n",
+    "释义(英文)": "v. be seated\nv. be around, often idly or without specific purpose\nv. be in session\nv. be located or situated somewhere"
+  },
+  {
+    "单词": "kitchen",
+    "英音": "[ˈkɪtʃɪn]",
+    "美音": "[ˈkɪtʃɪn]",
+    "释义(中文)": "n. 厨房；炊具；炊事人员\n",
+    "释义(英文)": "n. a room equipped for preparing meals"
+  },
+  {
+    "单词": "fridge",
+    "英音": "[frɪdʒ]",
+    "美音": "[frɪdʒ]",
+    "释义(中文)": "n. 电冰箱\n",
+    "释义(英文)": "n a refrigerator in which the coolant is pumped around by an electric motor"
+  },
+  {
+    "单词": "table",
+    "英音": "[ˈteɪb(ə)l]",
+    "美音": "[ˈteɪbl]",
+    "释义(中文)": "n. 桌子；表格；平地层\nvt. 制表；搁置；嵌合\nadj. 桌子的\n",
+    "释义(英文)": "n. a set of data arranged in rows and columns\nn. a piece of furniture having a smooth flat top that is usually supported by one or more vertical legs\nn. a piece of furniture with tableware for a meal laid out on it\nn. a company of people assembled at a table for a meal or game"
+  },
+  {
+    "单词": "bathroom",
+    "英音": "[ˈbɑːθruːm; ˈbɑːθrʊm]",
+    "美音": "[ˈbæθruːm]",
+    "释义(中文)": "n. 浴室；厕所；盥洗室",
+    "释义(英文)": "n. a room (as in a residence) containing a bathtub or shower and usually a washbasin and toilet"
+  },
+  {
+    "单词": "want",
+    "英音": "[wɒnt]",
+    "美音": "[wɑːnt]",
+    "释义(中文)": "n. 需要；缺乏；贫困；必需品\nvt. 需要；希望；应该；缺少\nvi. 需要；缺少",
+    "释义(英文)": "v. have need of\nv. hunt or look for; want for a particular reason\nv. wish or demand the presence of\nv. be without, lack; be deficient in"
+  },
+  {
+    "单词": "call",
+    "英音": "[kɔːl]",
+    "美音": "[kɔːl]",
+    "释义(中文)": "n. 电话；呼叫；要求；访问\nvi. 呼叫；拜访；叫牌\nvt. 呼叫；称呼；召集\n",
+    "释义(英文)": "n. a telephone connection\nn. a special disposition (as if from a divine source) to pursue a particular course\nn. a demand especially in the phrase \"the call of duty\"\nn. a brief social visit"
+  },
+  {
+    "单词": "mum",
+    "英音": "[mʌm]",
+    "美音": "[mʌm]",
+    "释义(中文)": "adj. 沉默的\nn. 妈妈（口语）；沉默；菊花\nvi. 演哑剧\nint. 别说话",
+    "释义(英文)": "n. secrecy\ns. failing to speak or communicate etc when expected to"
+  },
+  {
+    "单词": "phone",
+    "英音": "[fəʊn]",
+    "美音": "[foʊn]",
+    "释义(中文)": "n. 电话；耳机，听筒\nvt. 打电话\nvi. 打电话\n",
+    "释义(英文)": "n. (phonetics) an individual sound unit of speech without concern as to whether or not it is a phoneme of some language"
+  },
+  {
+    "单词": "where",
+    "英音": "[weə(r)]",
+    "美音": "[wer]",
+    "释义(中文)": "conj. 在…的地方\nn. 地点\nadv. 在哪里\npron. 哪里",
+    "释义(英文)": "pron. & conj. Whether.\nadv. At or in what place; hence, in what situation, position,\n   or circumstances; -- used interrogatively.\nadv. At or in which place; at the place in which; hence, in the\n   case or instance in which; -- used relatively.\nadv. To what or which place; hence, to what goal, result, or\n   issue; whither; -- used interrogatively and relatively; as, where are\n   you going?\nconj. Whereas.\nn. Place; situation."
+  },
+  {
+    "单词": "shirt",
+    "英音": "[ʃɜːt]",
+    "美音": "[ʃɜːrt]",
+    "释义(中文)": "n. 衬衫；汗衫，内衣",
+    "释义(英文)": "n. a garment worn on the upper half of the body\nv. put a shirt on"
+  },
+  {
+    "单词": "find",
+    "英音": "[faɪnd]",
+    "美音": "[faɪnd]",
+    "释义(中文)": "n. 发现\nvi. 裁决\nvt. 查找，找到；发现；认为；感到；获得\n",
+    "释义(英文)": "v. come upon, as if by accident; meet with\nv. come upon after searching; find the location of something that was missed or lost\nv. come to believe on the basis of emotion, intuitions, or indefinite grounds\nv. obtain through effort or management"
+  },
+  {
+    "单词": "coat",
+    "英音": "[kəʊt]",
+    "美音": "[koʊt]",
+    "释义(中文)": "n. 外套\nvt. 覆盖…的表面\n",
+    "释义(英文)": "n. an outer garment that has sleeves and covers the body from shoulder down; worn outdoors\nn. growth of hair or wool or fur covering the body of an animal\nv. put a coat on; cover the surface of; furnish with a surface\nv. cover or provide with a coat"
+  },
+  {
+    "单词": "sofa",
+    "英音": "[ˈsəʊfə]",
+    "美音": "[ˈsoʊfə]",
+    "释义(中文)": "n. 沙发；长椅\n",
+    "释义(英文)": "n. an upholstered seat for more than one person"
+  },
+  {
+    "单词": "this",
+    "英音": "[ðɪs]",
+    "美音": "[ðɪs]",
+    "释义(中文)": "adj. 这；本；这个；今\npron. 这；这个；这里\nadv. 这样地；这么\n",
+    "释义(英文)": "pron. & a. As a demonstrative pronoun, this denotes something\n   that is present or near in place or time, or something just mentioned,\n   or that is just about to be mentioned.\npron. & a. As an adjective, this has the same demonstrative\n   force as the pronoun, but is followed by a noun; as, this book; this\n   way to town."
+  },
+  {
+    "单词": "jacket",
+    "英音": "[ˈdʒækɪt]",
+    "美音": "[ˈdʒækɪt]",
+    "释义(中文)": "n. 羽绒滑雪衫；西装短外套；短上衣，夹克；土豆皮；书籍的护封；文件套，公文夹\nvt. 给…穿夹克；给…装护套；给…包上护封；〈口〉打",
+    "释义(英文)": "n. a short coat\nn. an outer wrapping or casing\nn. the outer skin of a potato\nn. the tough metal shell casing for certain kinds of ammunition"
+  },
+  {
+    "单词": "that",
+    "英音": "[ðæt]",
+    "美音": "[ðæt]",
+    "释义(中文)": "conj. 因为；以至于\nadj. 那；那个\npron. 那；那个\nadv. 那么；那样\n",
+    "释义(英文)": "pron., a., conj., &  As a demonstrative pronoun (pl. Those),\n   that usually points out, or refers to, a person or thing previously\n   mentioned, or supposed to be understood. That, as a demonstrative, may\n   precede the noun to which it refers; as, that which he has said is\n   true; those in the basket are good apples.\npron., a., conj., &  As an adjective, that has the same\n   demonstrative force as the pronoun, but is followed by a noun.\npron., a., conj., &  As a relative pronoun, that is\n   equivalent to who or which, serving to point out, and make definite, a\n   person or thing spoken of, or alluded to, before, and may be either\n   singular or plural.\npron., a., conj., &  As a conjunction, that retains much of\n   its force as a demonstrative pronoun.\npron., a., conj., &  To introduce a clause employed as the\n   object of the preceding verb, or as the subject or predicate nominative\n   of a verb.\npron., a., conj., &  To introduce, a reason or cause; --\n   equivalent to for that, in that, for the reason that, because.\npron., a., conj., &  To introduce a purpose; -- usually\n   followed by may, or might, and frequently preceded by so, in order, to\n   the end, etc.\npron., a., conj., &  To introduce a consequence, result, or\n   effect; -- usually preceded by so or such, sometimes by that.\npron., a., conj., &  In an elliptical sentence to introduce\n   a dependent sentence expressing a wish, or a cause of surprise,\n   indignation, or the like.\npron., a., conj., &  As adverb: To such a degree; so; as, he\n   was that frightened he could say nothing."
+  },
+  {
+    "单词": "schoolbag",
+    "英音": "[ˈskuːlbæɡ]",
+    "美音": "[ˈskuːlˌbæɡ]",
+    "释义(中文)": "n. 书包",
+    "释义(英文)": "n. a bag for carrying school books and supplies"
+  },
+  {
+    "单词": "shorts",
+    "英音": "[ʃɔːts]",
+    "美音": "[ʃɔːrts]",
+    "释义(中文)": "n. 短裤\n",
+    "释义(英文)": "n trousers that end at or above the knee\nn underpants worn by men\nn the location on a baseball field where the shortstop is stationed\nn accidental contact between two points in an electric circuit that have a potential difference\nn the fielding position of the player on a baseball team who is stationed between second and third base\nv cheat someone by not returning him enough money\nv create a short circuit in"
+  },
+  {
+    "单词": "not",
+    "英音": "[nɒt]",
+    "美音": "[nɑːt]",
+    "释义(中文)": "adv. 表示否定，不\nn. “非”（计算机中逻辑运算的一种）",
+    "释义(英文)": "r. negation of a word or group of words"
+  },
+  {
+    "单词": "bag",
+    "英音": "[bæɡ]",
+    "美音": "[bæɡ]",
+    "释义(中文)": "n. 袋；猎获物；（俚）一瓶啤酒\nvt. 猎获；把…装入袋中；占据，私吞；使膨大\nvi. 松垂",
+    "释义(英文)": "n. a flexible container with a single opening\nn. the quantity of game taken in a particular period (usually by one person)\nn. a container used for carrying money and small personal items or accessories (especially by women)\nn. the quantity that a bag will hold"
+  },
+  {
+    "单词": "trousers",
+    "英音": "[ˈtraʊzəz]",
+    "美音": "[ˈtraʊzərz]",
+    "释义(中文)": "n. 裤子，长裤",
+    "释义(英文)": "n (usually in the plural) a garment extending from the waist to the knee or ankle, covering each leg separately\nn a garment (or part of a garment) designed for or relating to trousers"
+  },
+  {
+    "单词": "how",
+    "英音": "[haʊ]",
+    "美音": "[haʊ]",
+    "释义(中文)": "adv. 如何；多少；多么\nn. 方法；方式\nconj. 如何\n",
+    "释义(英文)": "adv. In what manner or way; by what means or process.\nadv. To what degree or extent, number or amount; in what\n   proportion; by what measure or quality.\nadv. For what reason; from what cause.\nadv. In what state, condition, or plight.\nadv. By what name, designation, or title.\nadv. At what price; how dear."
+  },
+  {
+    "单词": "bus",
+    "英音": "[bʌs]",
+    "美音": "[bʌs]",
+    "释义(中文)": "n. 公共汽车\n乘公共汽车",
+    "释义(英文)": "n. a vehicle carrying many passengers; used for public transport\nn. a car that is old and unreliable\nv. send or move around by bus\nv. ride in a bus"
+  },
+  {
+    "单词": "by",
+    "英音": "[baɪ]",
+    "美音": "[baɪ]",
+    "释义(中文)": "prep. 通过；被；依据；经由；在附近；在……之前\nadv. 通过；经过；附近；[互联网] 白俄罗斯的国家代码顶级域名",
+    "释义(英文)": "r. so as to pass a given point"
+  },
+  {
+    "单词": "car",
+    "英音": "[kɑː(r)]",
+    "美音": "[kɑːr]",
+    "释义(中文)": "n. 汽车；车厢\n",
+    "释义(英文)": "n. a motor vehicle with four wheels; usually propelled by an internal combustion engine\nn. a wheeled vehicle adapted to the rails of railroad\nn. the compartment that is suspended from an airship and that carries personnel and the cargo and the power plant\nn. where passengers ride up and down"
+  },
+  {
+    "单词": "work",
+    "英音": "[wɜːk]",
+    "美音": "[wɜːrk]",
+    "释义(中文)": "n. 工作；[物] 功；产品；操作；职业；行为；事业；工厂；著作；文学、音乐或艺术作品\nvt. 使工作；操作；经营；使缓慢前进\nvi. 工作；运作；起作用\n",
+    "释义(英文)": "n. activity directed toward making or doing something\nn. a product produced or accomplished through the effort or activity or agency of a person or thing\nn. (physics) a manifestation of energy; the transfer of energy from one physical system to another expressed as the product of a force and the distance through which it moves a body in the direction of that force\nv. exert oneself by doing mental or physical work for a purpose or out of necessity"
+  },
+  {
+    "单词": "she",
+    "英音": "[ʃi]",
+    "美音": "[ʃi; ʃiː]",
+    "释义(中文)": "n. 女人；雌性动物\npron. 她（主格）；它（用来指雌性动物或国家、船舶、地球、月亮等）\n",
+    "释义(英文)": "obj. This or that female; the woman understood or referred to;\n   the animal of the female sex, or object personified as feminine, which\n   was spoken of.\nobj. A woman; a female; -- used substantively."
+  },
+  {
+    "单词": "bike",
+    "英音": "[baɪk]",
+    "美音": "[baɪk]",
+    "释义(中文)": "n. 自行车；脚踏车\nvi. 骑自行车（或摩托车）\n",
+    "释义(英文)": "n a motor vehicle with two wheels and a strong frame\nn a wheeled vehicle that has two wheels and is moved by foot pedals\nv ride a bicycle"
+  },
+  {
+    "单词": "he",
+    "英音": "[hi; iː; i; hiː]",
+    "美音": "[hi; iː; i; hiː]",
+    "释义(中文)": "n. 男孩，男人；它（雄性动物）\npron. 他\n",
+    "释义(英文)": "n. the 5th letter of the Hebrew alphabet"
+  },
+  {
+    "单词": "come",
+    "英音": "[kʌm]",
+    "美音": "[kʌm]",
+    "释义(中文)": "vi. 来；开始；出现；发生；变成；到达\nvt. 做；假装；将满（…岁）\nint. 嗨！\n",
+    "释义(英文)": "v. move toward, travel toward something or somebody or approach something or somebody\nv. come to pass; arrive, as in due course\nv. reach or enter a state, relation, condition, use, or position\nv. to be the product or result"
+  },
+  {
+    "单词": "taxi",
+    "英音": "[ˈtæksi]",
+    "美音": "[ˈtæksi]",
+    "释义(中文)": "n. 出租汽车\nvt. 使滑行；用出租车送\nvi. 乘出租车；滑行",
+    "释义(英文)": "v. travel slowly\nv. ride in a taxicab"
+  },
+  {
+    "单词": "they",
+    "英音": "[ðeɪ]",
+    "美音": "[ðeɪ]",
+    "释义(中文)": "pron. 他们；它们；她们",
+    "释义(英文)": "obj. The plural of he, she, or it. They is never used\n   adjectively, but always as a pronoun proper, and sometimes refers to\n   persons without an antecedent expressed."
+  },
+  {
+    "单词": "sky",
+    "英音": "[skaɪ]",
+    "美音": "[skaɪ]",
+    "释义(中文)": "n. 天空；顶点\nvt. 把…投向空中；把…挂得过高\nvi. 踢或击高空球；把桨叶翘得过高；飞涨\n",
+    "释义(英文)": "n. the atmosphere and outer space as viewed from the earth"
+  },
+  {
+    "单词": "blue",
+    "英音": "[bluː]",
+    "美音": "[bluː]",
+    "释义(中文)": "adj. 蓝色的；沮丧的，忧郁的；下流的\nn. 蓝色；[复数]（美国海、陆、空三军穿的）蓝色制服；蓝颜料；[the blue(s)][用作单数或复数]布鲁斯（歌曲）（一种伤感的美国黑人民歌\nvi. 变成蓝色，呈蓝色\nvt. 把…染成蓝色；使成蓝色；给…用上蓝剂；用上蓝剂于\n",
+    "释义(英文)": "n. blue color or pigment; resembling the color of the clear sky in the daytime\nn. blue clothing\nn. any organization or party whose uniforms or badges are blue\nn. any of numerous small butterflies of the family Lycaenidae"
+  },
+  {
+    "单词": "green",
+    "英音": "[ɡriːn]",
+    "美音": "[ɡriːn]",
+    "释义(中文)": "n. 绿色；青春\nadj. 绿色的；青春的\nvt. 使…变绿色\nvi. 变绿色",
+    "释义(英文)": "n. green color or pigment; resembling the color of growing grass\nn. United States labor leader who was president of the American Federation of Labor from 1924 to 1952 and who led the struggle with the Congress of Industrial Organizations (1873-1952)\nn. an environmentalist who belongs to the Green Party\nn. a river that rises in western Wyoming and flows southward through Utah to become a tributary of the Colorado River"
+  },
+  {
+    "单词": "white",
+    "英音": "[waɪt]",
+    "美音": "[waɪt]",
+    "释义(中文)": "n. 白色；洁白；白种人\nadj. 白色的；白种的；纯洁的",
+    "释义(英文)": "n. a member of the Caucasoid race\nn. the quality or state of the achromatic color of greatest lightness (bearing the least resemblance to black)\nn. United States jurist appointed chief justice of the United States Supreme Court in 1910 by President Taft; noted for his work on antitrust legislation (1845-1921)\nn. Australian writer (1912-1990)"
+  },
+  {
+    "单词": "snow",
+    "英音": "[snəʊ]",
+    "美音": "[snoʊ]",
+    "释义(中文)": "n. 雪，积雪；下雪\nvt. 使纷纷落下；使变白\nvi. 降雪\n",
+    "释义(英文)": "n. precipitation falling from clouds in the form of ice crystals\nn. a layer of snowflakes (white crystals of frozen water) covering the ground\nn. English writer of novels about moral dilemmas in academe (1905-1980)\nv. fall as snow"
+  },
+  {
+    "单词": "cool",
+    "英音": "[kuːl]",
+    "美音": "[kuːl]",
+    "释义(中文)": "n. 凉爽；凉爽的空气\nadj. 凉爽的；冷静的；出色的\nvt. 使…冷却；使…平静下来\nvi. 变凉；平息\nadv. 冷静地\n",
+    "释义(英文)": "n. the quality of being at a refreshingly low temperature\nv. make cool or cooler\nv. loose heat\nv. lose intensity"
+  },
+  {
+    "单词": "cold",
+    "英音": "[kəʊld]",
+    "美音": "[kəʊld]",
+    "释义(中文)": "n. 寒冷；感冒\nadj. 寒冷的；冷淡的，不热情的；失去知觉的\nadv. 完全地",
+    "释义(英文)": "n. a mild viral infection involving the nose and respiratory passages (but not the lungs)\nn. the sensation produced by low temperatures\na. having a low or inadequate temperature or feeling a sensation of coldness or having been made cold by e.g. ice or refrigeration\na. extended meanings; especially of psychological coldness; without human warmth or emotion"
+  },
+  {
+    "单词": "make",
+    "英音": "[meɪk]",
+    "美音": "[meɪk]",
+    "释义(中文)": "vt. 使得；进行；布置，准备，整理；制造；认为；获得；形成；安排；引起；构成\nvi. 开始；前进；增大；被制造\nn. 制造；构造；性情\n",
+    "释义(英文)": "v. engage in\nv. give certain properties to something\nv. make or cause to be or to become\nv. compel or make somebody or something to act in a certain way"
+  },
+  {
+    "单词": "which",
+    "英音": "[wɪtʃ]",
+    "美音": "[wɪtʃ]",
+    "释义(中文)": "adj. 哪一个；哪一些\npron. 哪/那一个；哪/那一些",
+    "释义(英文)": "a. Of what sort or kind; what; what a; who.\na. A interrogative pronoun, used both substantively and\n   adjectively, and in direct and indirect questions, to ask for, or refer\n   to, an individual person or thing among several of a class; as, which\n   man is it? which woman was it? which is the house? he asked which route\n   he should take; which is best, to live or to die? See the Note under\n   What, pron., 1.\npron. A relative pronoun, used esp. in referring to an\n   antecedent noun or clause, but sometimes with reference to what is\n   specified or implied in a sentence, or to a following noun or clause\n   (generally involving a reference, however, to something which has\n   preceded). It is used in all numbers and genders, and was formerly used\n   of persons.\npron. A compound relative or indefinite pronoun, standing for\n   any one which, whichever, that which, those which, the . . . which, and\n   the like; as, take which you will."
+  },
+  {
+    "单词": "spring",
+    "英音": "[sprɪŋ]",
+    "美音": "[sprɪŋ]",
+    "释义(中文)": "n. 春天；弹簧；泉水；活力；跳跃\nadj. 春天的\nvt. 使跳起；使爆炸；突然提出；使弹开\nvi. 生长；涌出；跃出；裂开\n",
+    "释义(英文)": "n. the season of growth\nn. a metal elastic device that returns to its shape or position when pushed or pulled or pressed\nn. a natural flow of ground water\nn. a point at which water issues forth"
+  }
+]

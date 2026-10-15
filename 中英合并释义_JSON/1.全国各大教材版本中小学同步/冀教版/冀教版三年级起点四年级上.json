@@ -1,0 +1,548 @@
+[
+  {
+    "单词": "shirt",
+    "英音": "[ʃɜːt]",
+    "美音": "[ʃɜːrt]",
+    "释义(中文)": "n. 衬衫；汗衫，内衣",
+    "释义(英文)": "n. a garment worn on the upper half of the body\nv. put a shirt on"
+  },
+  {
+    "单词": "skirt",
+    "英音": "[skɜːt]",
+    "美音": "[skɜːrt]",
+    "释义(中文)": "n. 裙子\nvt. 绕过，回避；位于…边缘\nvi. 沿边走，绕开；环绕",
+    "释义(英文)": "n. cloth covering that forms the part of a garment below the waist\nn. a garment hanging from the waist; worn mainly by girls and women\nv. pass around or about; move along the border\nv. form the edge of"
+  },
+  {
+    "单词": "trousers",
+    "英音": "[ˈtraʊzəz]",
+    "美音": "[ˈtraʊzərz]",
+    "释义(中文)": "n. 裤子，长裤",
+    "释义(英文)": "n (usually in the plural) a garment extending from the waist to the knee or ankle, covering each leg separately\nn a garment (or part of a garment) designed for or relating to trousers"
+  },
+  {
+    "单词": "sweater",
+    "英音": "[ˈswetə(r)]",
+    "美音": "[ˈswetər]",
+    "释义(中文)": "n. 毛线衣，运动衫；大量出汗的人，发汗剂",
+    "释义(英文)": "n. a crocheted or knitted garment covering the upper part of the body"
+  },
+  {
+    "单词": "this",
+    "英音": "[ðɪs]",
+    "美音": "[ðɪs]",
+    "释义(中文)": "adj. 这；本；这个；今\npron. 这；这个；这里\nadv. 这样地；这么\n",
+    "释义(英文)": "pron. & a. As a demonstrative pronoun, this denotes something\n   that is present or near in place or time, or something just mentioned,\n   or that is just about to be mentioned.\npron. & a. As an adjective, this has the same demonstrative\n   force as the pronoun, but is followed by a noun; as, this book; this\n   way to town."
+  },
+  {
+    "单词": "these",
+    "英音": "[ðiːz]",
+    "美音": "[ðiːz]",
+    "释义(中文)": "adj. 这些的\npron. 这些",
+    "释义(英文)": "pron. The plural of this. See This.\npl.  of This"
+  },
+  {
+    "单词": "is",
+    "英音": "[ɪz]",
+    "美音": "[ɪz]",
+    "释义(中文)": "v. 是（be的三单形式）\nn. 存在",
+    "释义(英文)": "v have the quality of being; (copula, used with an adjective or a predicate noun)\nv be identical to; be someone or something\nv occupy a certain position or area; be somewhere\nv have an existence, be extant\nv happen, occur, take place; this was during the visit to my parents' house\"\nv be identical or equivalent to\nv form or compose\nv work in a specific place, with a specific subject, or in a specific function\nv represent, as of a character on stage\nv spend or use time\nv have life, be alive\nv to remain unmolested, undisturbed, or uninterrupted -- used only in infinitive form\nv be priced at"
+  },
+  {
+    "单词": "are",
+    "英音": "[ɑ:(r)]",
+    "美音": "[ər; ɑːr; er]",
+    "释义(中文)": "v. 是（be的第二人称单复数现在式）\nn. 公亩\n",
+    "释义(英文)": "n. a unit of surface area equal to 100 square meters"
+  },
+  {
+    "单词": "new",
+    "英音": "[njuː]",
+    "美音": "[nuː]",
+    "释义(中文)": "adj. 新的，新鲜的；更新的；初见的\nadv. 新近\n",
+    "释义(英文)": "a. not of long duration; having just (or relatively recently) come into being or been made or acquired or discovered\ns. having no previous example or precedent or parallel\ns. other than the former one(s); different\na. unaffected by use or exposure"
+  },
+  {
+    "单词": "old",
+    "英音": "[əʊld]",
+    "美音": "[oʊld]",
+    "释义(中文)": "adj. 陈旧的，古老的；年老的\nn. 古时\n",
+    "释义(英文)": "n. past times (especially in the phrase `in days of old')\na. (used especially of persons) having lived for a relatively long time or attained a specific age\na. of long duration; not new\ns. (used for emphasis) very familiar"
+  },
+  {
+    "单词": "it",
+    "英音": "[ɪt]",
+    "美音": "[ɪt]",
+    "释义(中文)": "abbr. 信息技术information technology\nabbr. 意大利Italy；意大利的Italian",
+    "释义(英文)": "n the branch of engineering that deals with the use of computers and telecommunications to retrieve and store and transmit information"
+  },
+  {
+    "单词": "they",
+    "英音": "[ðeɪ]",
+    "美音": "[ðeɪ]",
+    "释义(中文)": "pron. 他们；它们；她们",
+    "释义(英文)": "obj. The plural of he, she, or it. They is never used\n   adjectively, but always as a pronoun proper, and sometimes refers to\n   persons without an antecedent expressed."
+  },
+  {
+    "单词": "coat",
+    "英音": "[kəʊt]",
+    "美音": "[koʊt]",
+    "释义(中文)": "n. 外套\nvt. 覆盖…的表面\n",
+    "释义(英文)": "n. an outer garment that has sleeves and covers the body from shoulder down; worn outdoors\nn. growth of hair or wool or fur covering the body of an animal\nv. put a coat on; cover the surface of; furnish with a surface\nv. cover or provide with a coat"
+  },
+  {
+    "单词": "cap",
+    "英音": "[kæp]",
+    "美音": "[kæp]",
+    "释义(中文)": "n. 盖；帽子\nvt. 覆盖；胜过；给…戴帽；加盖于\nvi. 脱帽致意\n",
+    "释义(英文)": "n. a tight-fitting headdress\nn. a top (as for a bottle)\nn. something serving as a cover or protection\nn. a fruiting structure resembling an umbrella or a cone that forms the top of a stalked fleshy fungus such as a mushroom"
+  },
+  {
+    "单词": "Miss",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 女士，小姐，年轻未婚女子\nvt. 错过，想念，缺（勤）",
+    "释义(英文)": "n. a failure to hit (or meet or find etc)\nn. a form of address for an unmarried woman\nv. fail to perceive or to catch with the senses or the mind\nv. feel or suffer from the lack of"
+  },
+  {
+    "单词": "dress",
+    "英音": "[dres]",
+    "美音": "[dres]",
+    "释义(中文)": "n. 连衣裙；女装\nvt. 给…穿衣\nvi. 穿衣\n",
+    "释义(英文)": "n. a one-piece garment for a woman; has skirt and bodice\nv. put on clothes\nv. provide with clothes or put clothes on\nv. put a finish on"
+  },
+  {
+    "单词": "shoe",
+    "英音": "[ʃuː]",
+    "美音": "[ʃuː]",
+    "释义(中文)": "n. 鞋；蹄铁；外胎\nvt. 给……穿上鞋；穿……鞋\n",
+    "释义(英文)": "n. footwear shaped to fit the foot (below the ankle) with a flexible upper of leather or plastic and a sole and heel of heavier material\nn. (card games) a case from which playing cards are dealt one at a time\nv. furnish with shoes"
+  },
+  {
+    "单词": "sock",
+    "英音": "[sɒk]",
+    "美音": "[sɑːk]",
+    "释义(中文)": "vt. 重击；给……穿袜\nn. 短袜；一击\nadv. 正着地；不偏不倚地\nadj. 非常成功的\n",
+    "释义(英文)": "n. hosiery consisting of a cloth covering for the foot; worn inside the shoe; reaches to between the ankle and the knee\nv. hit hard"
+  },
+  {
+    "单词": "shorts",
+    "英音": "[ʃɔːts]",
+    "美音": "[ʃɔːrts]",
+    "释义(中文)": "n. 短裤\n",
+    "释义(英文)": "n trousers that end at or above the knee\nn underpants worn by men\nn the location on a baseball field where the shortstop is stationed\nn accidental contact between two points in an electric circuit that have a potential difference\nn the fielding position of the player on a baseball team who is stationed between second and third base\nv cheat someone by not returning him enough money\nv create a short circuit in"
+  },
+  {
+    "单词": "not",
+    "英音": "[nɒt]",
+    "美音": "[nɑːt]",
+    "释义(中文)": "adv. 表示否定，不\nn. “非”（计算机中逻辑运算的一种）",
+    "释义(英文)": "r. negation of a word or group of words"
+  },
+  {
+    "单词": "day",
+    "英音": "[deɪ]",
+    "美音": "[deɪ]",
+    "释义(中文)": "n. 一天；时期；白昼\nadj. 日间的；逐日的\nadv. 每天；经常在白天地\n",
+    "释义(英文)": "n. time for Earth to make a complete rotation on its axis\nn. some point or period in time\nn. a day assigned to a particular purpose or observance\nn. the time after sunrise and before sunset while it is light outside"
+  },
+  {
+    "单词": "today",
+    "英音": "[təˈdeɪ]",
+    "美音": "[təˈdeɪ]",
+    "释义(中文)": "n. 今天；现今\nadv. 今天；现今\n",
+    "释义(英文)": "n. the present time or age\nn. the day that includes the present moment (as opposed to yesterday or tomorrow)\nr. on this day as distinct from yesterday or tomorrow"
+  },
+  {
+    "单词": "week",
+    "英音": "[wiːk]",
+    "美音": "[wiːk]",
+    "释义(中文)": "n. 周，星期",
+    "释义(英文)": "n. any period of seven consecutive days\nn. a period of seven consecutive days starting on Sunday"
+  },
+  {
+    "单词": "do",
+    "英音": "[duː; də; du; dəʊ]",
+    "美音": "[duː; də; du; doʊ]",
+    "释义(中文)": "vi. 行，足够；生长\nn. 要求；规定；C大调音阶中的第一音\nv. 做；干；学习；研究；进行；完成；解答；整理；算出；引起；行过\naux. 助动词（构成疑问句和否定句）；（代替动词）；（用于加强语气）\nn. （口语）事件；（主英国口语）诈骗；（主英国、新西兰口语",
+    "释义(英文)": "n. the syllable naming the first (tonic) note of any major scale in solmization\nv. get (something) done\nv. proceed or get along\nv. create or design, often in a certain way"
+  },
+  {
+    "单词": "my",
+    "英音": "[maɪ]",
+    "美音": "[maɪ]",
+    "释义(中文)": "pron. 我的\nint. 哎呀（表示惊奇等）；喔唷\n",
+    "释义(英文)": "a. Of or belonging to me; -- used always attributively; as, my\n   body; my book; -- mine is used in the predicate; as, the book is mine.\n   See Mine."
+  },
+  {
+    "单词": "homework",
+    "英音": "[ˈhəʊmwɜːk]",
+    "美音": "[ˈhoʊmwɜːrk]",
+    "释义(中文)": "n. 家庭作业，课外作业",
+    "释义(英文)": "n. preparatory school work done outside school (especially at home)"
+  },
+  {
+    "单词": "read",
+    "英音": "[riːd]",
+    "美音": "[riːd]",
+    "释义(中文)": "n. 阅读；读物\nadj. 有学问的\nvi. 读；读起来\nvt. 阅读；读懂，理解\n",
+    "释义(英文)": "n. something that is read\nv. interpret something that is written or printed\nv. have or contain a certain wording or form\nv. look at, interpret, and say out loud something that is written or printed"
+  },
+  {
+    "单词": "book",
+    "英音": "[bʊk]",
+    "美音": "[bʊk]",
+    "释义(中文)": "n. 书籍；卷；帐簿；名册；工作簿\nvt. 预订；登记\n",
+    "释义(英文)": "n. a written work or composition that has been published (printed on pages bound together)\nn. physical objects consisting of a number of pages bound together\nn. a collection of playing cards satisfying the rules of a card game\nn. a collection of rules or prescribed standards on the basis of which decisions are made"
+  },
+  {
+    "单词": "watch",
+    "英音": "[wɒtʃ]",
+    "美音": "[wɑːtʃ]",
+    "释义(中文)": "n. 手表；监视；守护；值班人\nvt. 观察；注视；看守；警戒\nvi. 观看，注视；守侯，看守",
+    "释义(英文)": "n. a small portable timepiece\nn. a period of time (4 or 2 hours) during which some of a ship's crew are on duty\nn. a purposeful surveillance to guard or observe\nn. the period during which someone (especially a guard) is on duty"
+  },
+  {
+    "单词": "TV",
+    "英音": "[ˌtiː ˈviː]",
+    "美音": "[ˌtiː ˈviː]",
+    "释义(中文)": "abbr. 电视（television）",
+    "释义(英文)": "n broadcasting visual images of stationary or moving objects\nn an electronic device that receives television signals and displays them on a screen"
+  },
+  {
+    "单词": "bed",
+    "英音": "[bed]",
+    "美音": "[bed]",
+    "释义(中文)": "n. 床；基础；河底， 海底\nvt. 使睡觉；安置，嵌入；栽种\nvi. 上床；分层",
+    "释义(英文)": "n. a piece of furniture that provides a place to sleep\nn. a plot of ground in which plants are growing\nn. a depression forming the ground under a body of water\nn. (geology) a stratum of rock (especially sedimentary rock)"
+  },
+  {
+    "单词": "clean",
+    "英音": "[kliːn]",
+    "美音": "[kliːn]",
+    "释义(中文)": "n. 打扫\nadj. 清洁的，干净的；清白的\nvt. 使干净\nvi. 打扫，清扫\nadv. 完全地\n",
+    "释义(英文)": "v. make clean by removing dirt, filth, or unwanted substances from\nv. remove unwanted substances from, such as feathers or pits\nv. be cleanable\nv. deprive wholly of money in a gambling game, robbery, etc."
+  },
+  {
+    "单词": "listen",
+    "英音": "[ˈlɪs(ə)n]",
+    "美音": "[ˈlɪsn]",
+    "释义(中文)": "vi. 听，倾听；听从，听信\nn. 听，倾听",
+    "释义(英文)": "v. hear with intention\nv. listen and pay attention"
+  },
+  {
+    "单词": "listen to",
+    "英音": "[ˈlɪsn tʊ]",
+    "美音": "[ˈlɪsn tu]",
+    "释义(中文)": "v. 听\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "wash",
+    "英音": "[wɒʃ]",
+    "美音": "[wɑːʃ]",
+    "释义(中文)": "n. 洗涤；洗的衣服；化妆水；冲积物\nvt. 洗涤；洗刷；冲走；拍打\nvi. 洗澡；被冲蚀\n",
+    "释义(英文)": "n. a thin coat of water-base paint\nn. the work of cleansing (usually with soap and water)\nn. the dry bed of an intermittent stream (as at the bottom of a canyon)\nn. a watercolor made by applying a series of monochrome washes one over the other"
+  },
+  {
+    "单词": "face",
+    "英音": "[feɪs]",
+    "美音": "[feɪs]",
+    "释义(中文)": "n. 脸；表面；面子；面容；外观；威信\nvi. 向；朝\nvt. 面对；面向；承认；抹盖\n",
+    "释义(英文)": "n. the front of the human head from the forehead to the chin and ear to ear\nn. the general outward appearance of something\nn. the striking or working surface of an implement\nn. a part of a person that is used to refer to a person"
+  },
+  {
+    "单词": "toy",
+    "英音": "[tɔɪ]",
+    "美音": "[tɔɪ]",
+    "释义(中文)": "n. 玩具；小装饰品；不值钱的东西\nadj. 作为玩具的；玩物似的\nvi. 玩弄；调情；随随便便地对待\n",
+    "释义(英文)": "n. a nonfunctional replica of something else (frequently used as a modifier)\nn. a device regarded as providing amusement\nv. manipulate manually or in one's mind or imagination"
+  },
+  {
+    "单词": "ball",
+    "英音": "[bɔːl]",
+    "美音": "[bɔːl]",
+    "释义(中文)": "n. 球；舞会\nvt. 捏成球形\nvi. 成团块\n",
+    "释义(英文)": "n. round object that is hit or thrown or kicked in games\nn. an object with a spherical shape\nn. the people assembled at a lavish formal dance\nn. a spherical object used as a plaything"
+  },
+  {
+    "单词": "kite",
+    "英音": "[kaɪt]",
+    "美音": "[kaɪt]",
+    "释义(中文)": "n. 风筝\nvi. 使用空头支票；像风筝一样飞；轻快地移动\nvt. 骗钱；涂改（支票）\n",
+    "释义(英文)": "n. a bank check that has been fraudulently altered to increase its face value\nn. a bank check drawn on insufficient funds at another bank in order to take advantage of the float\nn. plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string\nn. any of several small graceful hawks of the family Accipitridae having long pointed wings and feeding on insects and small animals"
+  },
+  {
+    "单词": "fly",
+    "英音": "[flaɪ]",
+    "美音": "[flaɪ]",
+    "释义(中文)": "n. 飞行；苍蝇；两翼昆虫\nadj. 敏捷的\nvi. 飞；驾驶飞机；飘扬\nvt. 飞行；飞越；使飘扬\n",
+    "释义(英文)": "n. two-winged insects characterized by active flight\nn. an opening in a garment that is closed by a zipper or by buttons concealed under a fold of cloth\nn. (baseball) a hit that flies up in the air\nn. fisherman's lure consisting of a fishhook decorated to look like an insect"
+  },
+  {
+    "单词": "play",
+    "英音": "[pleɪ]",
+    "美音": "[pleɪ]",
+    "释义(中文)": "n. 游戏；比赛；剧本\nvt. 游戏；扮演；演奏；播放；同…比赛\nvi. 演奏；玩耍；上演；参加比赛\n",
+    "释义(英文)": "n. a dramatic work intended for performance by actors on a stage\nn. a theatrical performance of a drama\nn. a preset plan of action in team sports\nn. a state in which action is feasible"
+  },
+  {
+    "单词": "with",
+    "英音": "[wɪð]",
+    "美音": "[wɪð; wɪθ]",
+    "释义(中文)": "prep. 用；随着；支持；和…在一起\n",
+    "释义(英文)": "n. See Withe.\nprep. With denotes or expresses some situation or relation of\n   nearness, proximity, association, connection, or the like.\nprep. To denote a close or direct relation of opposition or\n   hostility; -- equivalent to against.\nprep. To denote association in respect of situation or\n   environment; hence, among; in the company of.\nprep. To denote a connection of friendship, support, alliance,\n   assistance, countenance, etc.; hence, on the side of.\nprep. To denote the accomplishment of cause, means, instrument,\n   etc; -- sometimes equivalent to by.\nprep. To denote association in thought, as for comparison or\n   contrast.\nprep. To denote simultaneous happening, or immediate succession\n   or consequence.\nprep. To denote having as a possession or an appendage; as, the\n   firmament with its stars; a bride with a large fortune."
+  },
+  {
+    "单词": "play with",
+    "英音": "[pleɪ wɪð]",
+    "美音": "[pleɪ wɪð]",
+    "释义(中文)": "na. 玩弄(火等)；以…自娱\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "school",
+    "英音": "[skuːl]",
+    "美音": "[skuːl]",
+    "释义(中文)": "n. 学校；学院；学派；鱼群\nvt. 教育",
+    "释义(英文)": "n. an educational institution\nn. a building where young people receive education\nn. the process of being formally educated at a school\nn. a body of creative artists or writers or thinkers linked by a similar style or by similar teachers"
+  },
+  {
+    "单词": "classroom",
+    "英音": "[ˈklɑːsruːm]",
+    "美音": "[ˈklæsruːm; ˈklæsrʊm]",
+    "释义(中文)": "n. 教室",
+    "释义(英文)": "n. a room in a school where lessons take place"
+  },
+  {
+    "单词": "library",
+    "英音": "[ˈlaɪbrəri; ˈlaɪbri]",
+    "美音": "[ˈlaɪbreri]",
+    "释义(中文)": "n. 图书馆，藏书室；文库",
+    "释义(英文)": "n. a room where books are kept\nn. a collection of literary documents or records kept for reference or borrowing\nn. a depository built to contain books and other materials for reading and study\nn. (computing) a collection of standard programs and subroutines that are stored and available for immediate use"
+  },
+  {
+    "单词": "playground",
+    "英音": "[ˈpleɪɡraʊnd]",
+    "美音": "[ˈpleɪɡraʊnd]",
+    "释义(中文)": "n. 运动场，操场；游乐场",
+    "释义(英文)": "n. yard consisting of an outdoor area for children's play"
+  },
+  {
+    "单词": "where",
+    "英音": "[weə(r)]",
+    "美音": "[wer]",
+    "释义(中文)": "conj. 在…的地方\nn. 地点\nadv. 在哪里\npron. 哪里",
+    "释义(英文)": "pron. & conj. Whether.\nadv. At or in what place; hence, in what situation, position,\n   or circumstances; -- used interrogatively.\nadv. At or in which place; at the place in which; hence, in the\n   case or instance in which; -- used relatively.\nadv. To what or which place; hence, to what goal, result, or\n   issue; whither; -- used interrogatively and relatively; as, where are\n   you going?\nconj. Whereas.\nn. Place; situation."
+  },
+  {
+    "单词": "near",
+    "英音": "[nɪə(r)]",
+    "美音": "[nɪr]",
+    "释义(中文)": "adj. 近的；亲近的；近似的\nadv. 近；接近\nprep. 靠近；近似于",
+    "释义(英文)": "a. not far distant in time or space or degree or circumstances\ns. being on the left side\ns. closely resembling the genuine article\nr. near in time or place or relationship"
+  },
+  {
+    "单词": "far",
+    "英音": "[fɑː(r)]",
+    "美音": "[fɑːr]",
+    "释义(中文)": "n. 远方\nadj. 远的；久远的\nadv. 很；遥远地；久远地；到很远的距离；到很深的程度\n",
+    "释义(英文)": "a. located at a great distance in time or space or degree\ns. being of a considerable distance or length\ns. being the animal or vehicle on the right or being on the right side of an animal or vehicle\ns. beyond a norm in opinion or actions"
+  },
+  {
+    "单词": "from",
+    "英音": "[frəm; frɒm]",
+    "美音": "[frəm; frʌm; frɑːm]",
+    "释义(中文)": "prep. 来自，从；由于；今后\n",
+    "释义(英文)": "prep. Out of the neighborhood of; lessening or losing proximity\n   to; leaving behind; by reason of; out of; by aid of; -- used whenever\n   departure, setting out, commencement of action, being, state,\n   occurrence, etc., or procedure, emanation, absence, separation, etc.,\n   are to be expressed. It is construed with, and indicates, the point of\n   space or time at which the action, state, etc., are regarded as setting\n   out or beginning; also, less frequently, the source, the cause, the\n   occasion, out of which anything proceeds; -- the aritithesis and\n   correlative of to; as, it, is one hundred miles from Boston to\n   Springfield; he took his sword from his side; light proceeds from the\n   sun; separate the coarse wool from the fine; men have all sprung from\n   Adam, and often go from good to bad, and from bad to worse; the merit\n   of an action depends on the principle from which it proceeds; men judge\n   of facts from personal knowledge, or from testimony."
+  },
+  {
+    "单词": "far from",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 远离；决不\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "the",
+    "英音": "[ðə]",
+    "美音": "[ðə; ði; ðiː]",
+    "释义(中文)": "art. 这；那\nadv. 更加（用于比较级，最高级前）",
+    "释义(英文)": "v. i. See Thee.\ndefinite article. A word placed before nouns to limit or\n   individualize their meaning.\nadv. By that; by how much; by so much; on that account; -- used\n   before comparatives; as, the longer we continue in sin, the more\n   difficult it is to reform."
+  },
+  {
+    "单词": "street",
+    "英音": "[striːt]",
+    "美音": "[striːt]",
+    "释义(中文)": "n. 街道\nadj. 街道的\n",
+    "释义(英文)": "n. a thoroughfare (usually including sidewalks) that is lined with buildings\nn. the part of a thoroughfare between the sidewalks; the part of the thoroughfare on which vehicles travel\nn. the streets of a city viewed as a depressed environment in which there is poverty and crime and prostitution and dereliction\nn. a situation offering opportunities"
+  },
+  {
+    "单词": "bike",
+    "英音": "[baɪk]",
+    "美音": "[baɪk]",
+    "释义(中文)": "n. 自行车；脚踏车\nvi. 骑自行车（或摩托车）\n",
+    "释义(英文)": "n a motor vehicle with two wheels and a strong frame\nn a wheeled vehicle that has two wheels and is moved by foot pedals\nv ride a bicycle"
+  },
+  {
+    "单词": "taxi",
+    "英音": "[ˈtæksi]",
+    "美音": "[ˈtæksi]",
+    "释义(中文)": "n. 出租汽车\nvt. 使滑行；用出租车送\nvi. 乘出租车；滑行",
+    "释义(英文)": "v. travel slowly\nv. ride in a taxicab"
+  },
+  {
+    "单词": "car",
+    "英音": "[kɑː(r)]",
+    "美音": "[kɑːr]",
+    "释义(中文)": "n. 汽车；车厢\n",
+    "释义(英文)": "n. a motor vehicle with four wheels; usually propelled by an internal combustion engine\nn. a wheeled vehicle adapted to the rails of railroad\nn. the compartment that is suspended from an airship and that carries personnel and the cargo and the power plant\nn. where passengers ride up and down"
+  },
+  {
+    "单词": "bus",
+    "英音": "[bʌs]",
+    "美音": "[bʌs]",
+    "释义(中文)": "n. 公共汽车\n乘公共汽车",
+    "释义(英文)": "n. a vehicle carrying many passengers; used for public transport\nn. a car that is old and unreliable\nv. send or move around by bus\nv. ride in a bus"
+  },
+  {
+    "单词": "thirty",
+    "英音": "[ˈθɜːti]",
+    "美音": "[ˈθɜːrti]",
+    "释义(中文)": "num. 三十\nn. 三十年代\nadj. 三十个的",
+    "释义(英文)": "n. the cardinal number that is the product of ten and three\ns. being ten more than twenty"
+  },
+  {
+    "单词": "light",
+    "英音": "[laɪt]",
+    "美音": "[laɪt]",
+    "释义(中文)": "n. 光；光线；灯；打火机；领悟；浅色；天窗\nadj. 轻的；浅色的；明亮的；轻松的；容",
+    "释义(英文)": "n. (physics) electromagnetic radiation that can produce a visual sensation\nn. any device serving as a source of illumination\nn. a particular perspective or aspect of a situation\nn. an illuminated area"
+  },
+  {
+    "单词": "red",
+    "英音": "[red]",
+    "美音": "[red]",
+    "释义(中文)": "n. 红色，红颜料；赤字\nadj. 红色的；红肿的，充血的",
+    "释义(英文)": "n. red color or pigment; the chromatic color resembling the hue of blood\nn. a tributary of the Mississippi River that flows eastward from Texas along the southern boundary of Oklahoma and through Louisiana\ns. of a color at the end of the color spectrum (next to orange); resembling the color of blood or cherries or tomatoes or rubies"
+  },
+  {
+    "单词": "yellow",
+    "英音": "[ˈjeləʊ]",
+    "美音": "[ˈjeloʊ]",
+    "释义(中文)": "n. 黄色；黄种人；黄色颜料\nadj. 黄色的；黄皮肤的\nvt. 使变黄或发黄\nvi. 变黄或发黄",
+    "释义(英文)": "n. yellow color or pigment; the chromatic color resembling the hue of sunflowers or ripe lemons\nv. turn yellow\ns. of the color intermediate between green and orange in the color spectrum; of something resembling the color of an egg yolk\ns. changed to a yellowish color by age"
+  },
+  {
+    "单词": "green",
+    "英音": "[ɡriːn]",
+    "美音": "[ɡriːn]",
+    "释义(中文)": "n. 绿色；青春\nadj. 绿色的；青春的\nvt. 使…变绿色\nvi. 变绿色",
+    "释义(英文)": "n. green color or pigment; resembling the color of growing grass\nn. United States labor leader who was president of the American Federation of Labor from 1924 to 1952 and who led the struggle with the Congress of Industrial Organizations (1873-1952)\nn. an environmentalist who belongs to the Green Party\nn. a river that rises in western Wyoming and flows southward through Utah to become a tributary of the Colorado River"
+  },
+  {
+    "单词": "shop",
+    "英音": "[ʃɒp]",
+    "美音": "[ʃɑːp]",
+    "释义(中文)": "n. 商店；店铺\nvt. 购物\nvi. 购物；买东西",
+    "释义(英文)": "n. a mercantile establishment for the retail sale of goods or services\nv. do one's shopping\nv. shop around; not necessarily buying"
+  },
+  {
+    "单词": "let's",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "让我们（let us的简写）",
+    "释义(英文)": "n a brutal terrorist group active in Kashmir; fights against India with the goal of restoring Islamic rule of India\nn a serve that strikes the net before falling into the receiver's court; the ball must be served again\nv make it possible through a specific action or lack of action for something to happen\nv actively cause something to happen\nv consent to, give permission\nv cause to move; cause to be in a certain position or condition\nv leave unchanged\nv grant use or occupation of under a term of contract"
+  },
+  {
+    "单词": "let us",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 让我们；让我们自己；让我们一起",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "go",
+    "英音": "[ɡəʊ]",
+    "美音": "[ɡoʊ]",
+    "释义(中文)": "n. 去；进行；尝试\nvi. 走；达到；运转；趋于\nvt. 忍受；出产；以…打赌\n[复数 goes 第三人称单数 goes 过去式 went 过去分词 gone 现在分词 going]",
+    "释义(英文)": "n. a time for working (after which you will be relieved by someone else)\nn. a board game for two players who place counters on a grid; the object is to surround and so capture the opponent's counters\nv. follow a procedure or take a course\nv. move away from a place into another direction"
+  },
+  {
+    "单词": "go shopping",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 去买东西\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "want",
+    "英音": "[wɒnt]",
+    "美音": "[wɑːnt]",
+    "释义(中文)": "n. 需要；缺乏；贫困；必需品\nvt. 需要；希望；应该；缺少\nvi. 需要；缺少",
+    "释义(英文)": "v. have need of\nv. hunt or look for; want for a particular reason\nv. wish or demand the presence of\nv. be without, lack; be deficient in"
+  },
+  {
+    "单词": "to",
+    "英音": "[tə]",
+    "美音": "[tə; tu; tuː]",
+    "释义(中文)": "prep. 到；向；（表示时间、方向）朝…方向\nadv. 向前；（门等）关上\n",
+    "释义(英文)": "prep. The preposition to primarily indicates approach and arrival,\n   motion made in the direction of a place or thing and attaining it,\n   access; and also, motion or tendency without arrival; movement toward;\n   -- opposed to from.\nprep. Hence, it indicates motion, course, or tendency toward a\n   time, a state or condition, an aim, or anything capable of being\n   regarded as a limit to a tendency, movement, or action; as, he is going\n   to a trade; he is rising to wealth and honor.\nprep. In a very general way, and with innumerable varieties of\n   application, to connects transitive verbs with their remoter or\n   indirect object, and adjectives, nouns, and neuter or passive verbs\n   with a following noun which limits their action. Its sphere verges upon\n   that of for, but it contains less the idea of design or appropriation;\n   as, these remarks were addressed to a large audience; let us keep this\n   seat to ourselves; a substance sweet to the taste; an event painful to\n   the mind; duty to God and to our parents; a dislike to spirituous\n   liquor.\nprep. As sign of the infinitive, to had originally the use of last\n   defined, governing the infinitive as a verbal noun, and connecting it\n   as indirect object with a preceding verb or adjective; thus, ready to\n   go, i.e., ready unto going; good to eat, i.e., good for eating; I do my\n   utmost to lead my life pleasantly. But it has come to be the almost\n   constant prefix to the infinitive, even in situations where it has no\n   prepositional meaning, as where the infinitive is direct object or\n   subject; thus, I love to learn, i.e., I love learning; to die for one's\n   country is noble, i.e., the dying for one's country. Where the\n   infinitive denotes the design or purpose, good usage formerly allowed\n   the prefixing of for to the to; as, what went ye out for see? (Matt.\n   xi. 8).\nprep. In many phrases, and in connection with many other words, to\n   has a pregnant meaning, or is used elliptically.\nprep. Extent; limit; degree of comprehension; inclusion as far as;\n   as, they met us to the number of three hundred.\nprep. Effect; end; consequence; as, the prince was flattered to\n   his ruin; he engaged in a war to his cost; violent factions exist to\n   the prejudice of the state.\nprep. Apposition; connection; antithesis; opposition; as, they\n   engaged hand to hand.\nprep. Accord; adaptation; as, an occupation to his taste; she has\n   a husband to her mind.\nprep. Comparison; as, three is to nine as nine is to twenty-seven;\n   it is ten to one that you will offend him.\nprep. Addition; union; accumulation.\nprep. Accompaniment; as, she sang to his guitar; they danced to\n   the music of a piano.\nprep. Character; condition of being; purpose subserved or office\n   filled."
+  },
+  {
+    "单词": "buy",
+    "英音": "[baɪ]",
+    "美音": "[baɪ]",
+    "释义(中文)": "n. 购买，买卖；所购的物品\nvi. 买，采购\nvt. 购买；获得；贿赂\n",
+    "释义(英文)": "v. obtain by purchase; acquire by means of a financial transaction\nv. be worth or be capable of buying\nv. acquire by trade or sacrifice or exchange\nv. accept as true"
+  },
+  {
+    "单词": "way",
+    "英音": "[weɪ]",
+    "美音": "[weɪ]",
+    "释义(中文)": "n. 方法；道路；方向；行业；习惯\nadj. 途中的\nadv. 大大地；远远地\n",
+    "释义(英文)": "n. the condition of things generally\nn. a course of conduct\nn. any artifact consisting of a road or path affording passage from one place to another\nn. a journey or passage"
+  },
+  {
+    "单词": "cinema",
+    "英音": "[ˈsɪnəmə]",
+    "美音": "[ˈsɪnəmə]",
+    "释义(中文)": "n. 电影；电影院；电影业，电影制作术\n",
+    "释义(英文)": "n. a theater where films are shown"
+  },
+  {
+    "单词": "park",
+    "英音": "[pɑːk]",
+    "美音": "[pɑːrk]",
+    "释义(中文)": "n. 公园；[交] 停车场\nvt. 停放；放置；寄存\nvi. 停放车辆\n",
+    "释义(英文)": "n. a large area of land preserved in its natural state as public property\nn. a piece of open land for recreational use in an urban area\nn. Scottish explorer in Africa (1771-1806)\nn. a gear position that acts as a parking brake"
+  },
+  {
+    "单词": "supermarket",
+    "英音": "[ˈsuːpəmɑːkɪt]",
+    "美音": "[ˈsuːpərmɑːrkɪt]",
+    "释义(中文)": "n. 超级市场；自助售货商店",
+    "释义(英文)": "n. a large self-service grocery store selling groceries and dairy products and household goods"
+  },
+  {
+    "单词": "tomato",
+    "英音": "[təˈmɑːtəʊ]",
+    "美音": "[təˈmeɪtoʊ]",
+    "释义(中文)": "n. 番茄，西红柿",
+    "释义(英文)": "n. mildly acid red or yellow pulpy fruit eaten as a vegetable\nn. native to South America; widely cultivated in many varieties"
+  },
+  {
+    "单词": "potato",
+    "英音": "[pəˈteɪtəʊ]",
+    "美音": "[pəˈteɪtoʊ]",
+    "释义(中文)": "n. [作物] 土豆，[作物] 马铃薯",
+    "释义(英文)": "n. an edible tuber native to South America; a staple food of Ireland\nn. annual native to South America having underground stolons bearing edible starchy tubers; widely cultivated as a garden vegetable; vines are poisonous"
+  },
+  {
+    "单词": "bag",
+    "英音": "[bæɡ]",
+    "美音": "[bæɡ]",
+    "释义(中文)": "n. 袋；猎获物；（俚）一瓶啤酒\nvt. 猎获；把…装入袋中；占据，私吞；使膨大\nvi. 松垂",
+    "释义(英文)": "n. a flexible container with a single opening\nn. the quantity of game taken in a particular period (usually by one person)\nn. a container used for carrying money and small personal items or accessories (especially by women)\nn. the quantity that a bag will hold"
+  }
+]

@@ -1,0 +1,513 @@
+[
+  {
+    "单词": "do",
+    "英音": "[duː; də; du; dəʊ]",
+    "美音": "[duː; də; du; doʊ]",
+    "释义(中文)": "vi. 行，足够；生长\nn. 要求；规定；C大调音阶中的第一音\nv. 做；干；学习；研究；进行；完成；解答；整理；算出；引起；行过\naux. 助动词（构成疑问句和否定句）；（代替动词）；（用于加强语气）\nn. （口语）事件；（主英国口语）诈骗；（主英国、新西兰口语）宴会；（口语）必须做到的事情",
+    "释义(英文)": "n. the syllable naming the first (tonic) note of any major scale in solmization\nv. get (something) done\nv. proceed or get along\nv. create or design, often in a certain way"
+  },
+  {
+    "单词": "left",
+    "英音": "[left]",
+    "美音": "[left]",
+    "释义(中文)": "adj. 左边的；左派的；剩下的\nadv. 在左面\nn. 左边；左派；激进分子\nv. 离开（leave的过去式）",
+    "释义(英文)": "n. location near or direction toward the left side; i.e. the side to the north when a person or object faces east\nn. those who support varying degrees of social or political or economic change designed to promote the public welfare\nn. the hand that is on the left side of the body\nn. a turn toward the side of the body that is on the north when the person is facing east"
+  },
+  {
+    "单词": "right",
+    "英音": "[raɪt]",
+    "美音": "[raɪt]",
+    "释义(中文)": "n. 正确；右边；正义\nadj. 正确的；直接的；右方的\nvt. 纠正\nadv. 正确地；恰当地；彻底地\nvi. 复正；恢复平稳\n",
+    "释义(英文)": "n. an abstract idea of that which is due to a person or governmental body by law or tradition or nature; it is something that nobody can take away\"\nn. location near or direction toward the right side; i.e. the side to the south when a person or object faces east\nn. those who support political or social or economic conservatism; those who believe that things are better left unchanged\nn. the hand that is on the right side of the body"
+  },
+  {
+    "单词": "litter",
+    "英音": "[ˈlɪtə(r)]",
+    "美音": "[ˈlɪtər]",
+    "释义(中文)": "n. 垃圾；轿，担架；一窝（动物的幼崽）；凌乱\nvt. 乱丢；给…垫褥草；把…弄得乱七八糟\nvi. 产仔；乱扔废弃物\n",
+    "释义(英文)": "n. the offspring at one birth of a multiparous mammal\nn. rubbish carelessly dropped or left about (especially in public places)\nn. conveyance consisting of a chair or bed carried on two poles by bearers\nv. strew"
+  },
+  {
+    "单词": "touch",
+    "英音": "[tʌtʃ]",
+    "美音": "[tʌtʃ]",
+    "释义(中文)": "n. 接触；触觉；格调；少许\nvt. 接触；触动；使轻度受害\nvi. 触摸；涉及；接近；提到\n",
+    "释义(英文)": "n. the event of something coming in contact with the body\nn. the faculty by which external objects or forces are perceived through contact with the body (especially the hands)\nn. a suggestion of some quality\nn. a distinguishing style"
+  },
+  {
+    "单词": "move",
+    "英音": "[muːv]",
+    "美音": "[muːv]",
+    "释义(中文)": "n. 移动；步骤；迁居；策略\nvi. 移动；搬家，迁移；离开\nvt. 移动；感动",
+    "释义(英文)": "n. the act of deciding to do something\nn. the act of changing your residence or place of business\nn. (game) a player's turn to take some action permitted by the rules of the game\nv. cause to move or shift into a new position or place, both in a concrete and in an abstract sense"
+  },
+  {
+    "单词": "camera",
+    "英音": "[ˈkæm(ə)rə]",
+    "美音": "[ˈkæm(ə)rə]",
+    "释义(中文)": "n. 照相机；摄影机\n",
+    "释义(英文)": "n. equipment for taking photographs (usually consisting of a lightproof box with a lens at one end and light-sensitive film at the other)"
+  },
+  {
+    "单词": "worry",
+    "英音": "[ˈwʌri]",
+    "美音": "[ˈwɜːri]",
+    "释义(中文)": "n. 担心；烦恼；撕咬\nvi. 担心；烦恼；撕咬\nvt. 担心；发愁；折磨",
+    "释义(英文)": "n. a strong feeling of anxiety\nv. be worried, concerned, anxious, troubled, or uneasy\nv. be concerned with\nv. disturb the peace of mind of; afflict with mental agitation or distress"
+  },
+  {
+    "单词": "cry",
+    "英音": "[kraɪ]",
+    "美音": "[kraɪ]",
+    "释义(中文)": "n. 叫喊；叫声；口号；呼叫\nvi. 哭；叫；喊\nvt. 叫喊；哭出；大声说",
+    "释义(英文)": "n. a loud utterance; often in protest or opposition\nn. a loud utterance of emotion (especially when inarticulate)\nn. a fit of weeping\nn. the characteristic utterance of an animal"
+  },
+  {
+    "单词": "food",
+    "英音": "[fuːd]",
+    "美音": "[fuːd]",
+    "释义(中文)": "n. 食物；养料",
+    "释义(英文)": "n. any substance that can be metabolized by an animal to give energy and build tissue\nn. any solid substance (as opposed to liquid) that is used as a source of nourishment\nn. anything that provides mental stimulus for thinking"
+  },
+  {
+    "单词": "smoking",
+    "英音": "[ˈsməʊkɪŋ]",
+    "美音": "[ˈsmoʊkɪŋ]",
+    "释义(中文)": "n. 抽烟；冒气\nv. 吸烟；冒烟（smoke的现在分词）\nadj. 准许吸烟的\nadv. 冒着烟",
+    "释义(英文)": "s. emitting smoke in great volume"
+  },
+  {
+    "单词": "parking",
+    "英音": "[ˈpɑːkɪŋ]",
+    "美音": "[ˈpɑːrkɪŋ]",
+    "释义(中文)": "n. 停车\nadj. 停车的\nv. 停车（park的ing形式）\n",
+    "释义(英文)": "n. space in which vehicles can be parked\nn. the act of maneuvering a vehicle into a location where it can be left temporarily"
+  },
+  {
+    "单词": "how much",
+    "英音": "[haʊ mʌtʃ]",
+    "美音": "[haʊ mʌtʃ]",
+    "释义(中文)": "conj. 多少\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "toy",
+    "英音": "[tɔɪ]",
+    "美音": "[tɔɪ]",
+    "释义(中文)": "n. 玩具；小装饰品；不值钱的东西\nadj. 作为玩具的；玩物似的\nvi. 玩弄；调情；随随便便地对待\n",
+    "释义(英文)": "n. a nonfunctional replica of something else (frequently used as a modifier)\nn. a device regarded as providing amusement\nv. manipulate manually or in one's mind or imagination"
+  },
+  {
+    "单词": "please",
+    "英音": "[pliːz]",
+    "美音": "[pliːz]",
+    "释义(中文)": "int. 请（礼貌用语）\nvt. 使喜欢；使高兴，使满意\nvi. 讨人喜欢；令人高兴",
+    "释义(英文)": "v. give pleasure to or be pleasing to\nv. be the will of or have the will (to)\nv. give satisfaction\nr. used in polite request"
+  },
+  {
+    "单词": "fifty",
+    "英音": "[ˈfɪfti]",
+    "美音": "[ˈfɪfti]",
+    "释义(中文)": "n. 五十；五十个；编号为50的东西\nadj. 五十的；五十个的；众多的",
+    "释义(英文)": "n. the cardinal number that is the product of ten and five\ns. being ten more than forty"
+  },
+  {
+    "单词": "thirty",
+    "英音": "[ˈθɜːti]",
+    "美音": "[ˈθɜːrti]",
+    "释义(中文)": "num. 三十\nn. 三十年代\nadj. 三十个的",
+    "释义(英文)": "n. the cardinal number that is the product of ten and three\ns. being ten more than twenty"
+  },
+  {
+    "单词": "robot",
+    "英音": "[ˈrəʊbɒt]",
+    "美音": "[ˈroʊbɑːt]",
+    "释义(中文)": "n. 机器人；遥控设备，自动机械；机械般工作的人",
+    "释义(英文)": "n a mechanism that can move automatically"
+  },
+  {
+    "单词": "sixty",
+    "英音": "[ˈsɪksti]",
+    "美音": "[ˈsɪksti]",
+    "释义(中文)": "num. 六十；六十个",
+    "释义(英文)": "n. the cardinal number that is the product of ten and six\ns. being ten more than fifty"
+  },
+  {
+    "单词": "ninety",
+    "英音": "[ˈnaɪnti]",
+    "美音": "[ˈnaɪnti]",
+    "释义(中文)": "n. 九十\nadj. 九十的；九十岁的\nnum. 九十",
+    "释义(英文)": "n. the cardinal number that is the product of ten and nine\ns. being ten more than eighty"
+  },
+  {
+    "单词": "forty",
+    "英音": "[ˈfɔːti]",
+    "美音": "[ˈfɔːrti]",
+    "释义(中文)": "n. 四十\nadj. 四十的；四十个的",
+    "释义(英文)": "n. the cardinal number that is the product of ten and four\ns. being ten more than thirty"
+  },
+  {
+    "单词": "seventy",
+    "英音": "[ˈsev(ə)nti]",
+    "美音": "[ˈsev(ə)nti]",
+    "释义(中文)": "n. 七十；七十个；七十岁；七十年代\nnum. 七十\nadj. 七十的；七十个的；七十岁的",
+    "释义(英文)": "n. the cardinal number that is the product of ten and seven\ns. being ten more than sixty"
+  },
+  {
+    "单词": "eighty",
+    "英音": "[ˈeɪti]",
+    "美音": "[ˈeɪti]",
+    "释义(中文)": "num. 八十\nn. 八十；八十岁；八十年代\nadj. 八十的，八十个的；八十岁的",
+    "释义(英文)": "n. the cardinal number that is the product of ten and eight\ns. being ten more than seventy"
+  },
+  {
+    "单词": "hundred",
+    "英音": "[ˈhʌndrəd]",
+    "美音": "[ˈhʌndrəd]",
+    "释义(中文)": "num. 百；百个\nn. 一百；许多\nadj. 一百的；许多的",
+    "释义(英文)": "n. ten 10s\ns. being ten more than ninety"
+  },
+  {
+    "单词": "study",
+    "英音": "[ˈstʌdi]",
+    "美音": "[ˈstʌdi]",
+    "释义(中文)": "n. 学习，研究；课题；书房；学问\nvt. 学习；考虑；攻读；细察\nvi. 研究；用功\n",
+    "释义(英文)": "n. applying the mind to learning and understanding a subject (especially by reading)\nn. a state of deep mental absorption\nn. a room used for reading and writing and studying\nn. someone who memorizes quickly and easily (as the lines for a part in a play)"
+  },
+  {
+    "单词": "whose",
+    "英音": "[huːz]",
+    "美音": "[huːz]",
+    "释义(中文)": "pron. 谁的（疑问代词）",
+    "释义(英文)": "pron. The possessive case of who or which. See Who, and Which."
+  },
+  {
+    "单词": "computer",
+    "英音": "[kəmˈpjuːtə(r)]",
+    "美音": "[kəmˈpjuːtər]",
+    "释义(中文)": "n. 计算机；电脑；电子计算机",
+    "释义(英文)": "n. a machine for performing calculations automatically"
+  },
+  {
+    "单词": "CD",
+    "英音": "[ˌsiː ˈdiː]",
+    "美音": "[ˌsiː ˈdiː]",
+    "释义(中文)": "abbr. 光盘，激光唱片（Compact Disc）；呼叫设备（Calling Device）；中央地区（Central District）；商务部（Commerce Department）",
+    "释义(英文)": "n a soft bluish-white ductile malleable toxic bivalent metallic element; occurs in association with zinc ores\nn the basic unit of luminous intensity adopted under the Systeme International d'Unites; equal to 1/60 of the luminous intensity per square centimeter of a black body radiating at the temperature of 2,046 degrees Kelvin\nn a debt instrument issued by a bank; usually pays interest\nn a digitally encoded recording on an optical disk that is smaller than a phonograph record; played back by a laser\ns being one hundred more than three hundred"
+  },
+  {
+    "单词": "glasses",
+    "英音": "[ˈɡlɑːsɪz]",
+    "美音": "[ˈɡlæsɪz]",
+    "释义(中文)": "n. [轻] 眼镜；玻璃（glass的复数形式）；双筒望远镜\nv. 把…装入玻璃容器内；给…装上玻璃（glass的第三人称单数形式）",
+    "释义(英文)": "n optical instrument consisting of a frame that holds a pair of lenses for correcting defective vision\nn a brittle transparent solid with irregular atomic structure\nn a container for holding liquids while drinking\nn the quantity a glass will hold\nn a small refracting telescope\nn an amphetamine derivative (trade name Methedrine) used in the form of a crystalline hydrochloride; used as a stimulant to the nervous system and as an appetite suppressant\nn a mirror; usually a ladies' dressing mirror\nn glassware collectively\nv furnish with glass\nv scan (game in the forest) with binoculars\nv enclose with glass\nv put in a glass container\nv become glassy or take on a glass-like appearance"
+  },
+  {
+    "单词": "watch",
+    "英音": "[wɒtʃ]",
+    "美音": "[wɑːtʃ]",
+    "释义(中文)": "n. 手表；监视；守护；值班人\nvt. 观察；注视；看守；警戒\nvi. 观看，注视；守侯，看守",
+    "释义(英文)": "n. a small portable timepiece\nn. a period of time (4 or 2 hours) during which some of a ship's crew are on duty\nn. a purposeful surveillance to guard or observe\nn. the period during which someone (especially a guard) is on duty"
+  },
+  {
+    "单词": "TV",
+    "英音": "[ˌtiː ˈviː]",
+    "美音": "[ˌtiː ˈviː]",
+    "释义(中文)": "abbr. 电视（television）",
+    "释义(英文)": "n broadcasting visual images of stationary or moving objects\nn an electronic device that receives television signals and displays them on a screen"
+  },
+  {
+    "单词": "children",
+    "英音": "[ˈtʃɪldrən]",
+    "美音": "[ˈtʃɪldrən]",
+    "释义(中文)": "n. 孩子们（child的复数）",
+    "释义(英文)": "n a young person of either sex\nn a human offspring (son or daughter) of any age\nn an immature childish person\nn a member of a clan or tribe"
+  },
+  {
+    "单词": "photo",
+    "英音": "[ˈfəʊtəʊ]",
+    "美音": "[ˈfoʊtoʊ]",
+    "释义(中文)": "n. 照片",
+    "释义(英文)": "n a representation of a person or scene in the form of a print or transparent slide; recorded by a camera on light-sensitive material"
+  },
+  {
+    "单词": "radio",
+    "英音": "[ˈreɪdiəʊ]",
+    "美音": "[ˈreɪdioʊ]",
+    "释义(中文)": "n. 收音机；无线电广播设备\nvt. 用无线电发送\nvi. 用无线电进行通信\n",
+    "释义(英文)": "n. medium for communication\nn. a communication system based on broadcasting electromagnetic waves\nv. transmit messages via radio waves\na. indicating radiation or radioactivity"
+  },
+  {
+    "单词": "mobile phone",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 手机；移动电话\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "come in",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 进入；当选；上台；(党派)组阁\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "living room",
+    "英音": "['lɪvɪŋ ru:m]",
+    "美音": "[ˈlɪvɪŋ ruːm]",
+    "释义(中文)": "n. 客厅；起居室\n",
+    "释义(英文)": "n a room in a private house or establishment where people can sit and talk and relax"
+  },
+  {
+    "单词": "bedroom",
+    "英音": "[ˈbedruːm]",
+    "美音": "[ˈbedruːm; ˈbedrʊm]",
+    "释义(中文)": "n. 卧室\nadj. 两性关系的；城郊住宅区的",
+    "释义(英文)": "n. a room used primarily for sleeping"
+  },
+  {
+    "单词": "sleep",
+    "英音": "[sliːp]",
+    "美音": "[sliːp]",
+    "释义(中文)": "n. 睡眠\nvi. 睡，睡觉\n",
+    "释义(英文)": "n. a natural and periodic state of rest during which consciousness of the world is suspended\nn. a torpid state resembling deep sleep\nn. a period of time spent sleeping\nv. be asleep"
+  },
+  {
+    "单词": "sleeping",
+    "英音": "[ˈsliːpɪŋ]",
+    "美音": "[ˈsliːpɪŋ]",
+    "释义(中文)": "n. 睡眠\nadj. 睡着的",
+    "释义(英文)": "n. the state of being asleep\nn. the suspension of consciousness and decrease in metabolic rate"
+  },
+  {
+    "单词": "bathroom",
+    "英音": "[ˈbɑːθruːm; ˈbɑːθrʊm]",
+    "美音": "[ˈbæθruːm]",
+    "释义(中文)": "n. 浴室；厕所；盥洗室",
+    "释义(英文)": "n. a room (as in a residence) containing a bathtub or shower and usually a washbasin and toilet"
+  },
+  {
+    "单词": "wash",
+    "英音": "[wɒʃ]",
+    "美音": "[wɑːʃ]",
+    "释义(中文)": "n. 洗涤；洗的衣服；化妆水；冲积物\nvt. 洗涤；洗刷；冲走；拍打\nvi. 洗澡；被冲蚀\n",
+    "释义(英文)": "n. a thin coat of water-base paint\nn. the work of cleansing (usually with soap and water)\nn. the dry bed of an intermittent stream (as at the bottom of a canyon)\nn. a watercolor made by applying a series of monochrome washes one over the other"
+  },
+  {
+    "单词": "washing",
+    "英音": "[ˈwɒʃɪŋ]",
+    "美音": "[ˈwɑːʃɪŋ]",
+    "释义(中文)": "n. 洗涤；洗涤剂；要洗的衣物\nv. 洗；使受洗礼（wash的ing形式）\nadj. 洗涤用的，清洗用的",
+    "释义(英文)": "n the work of cleansing (usually with soap and water)\nn garments or white goods that can be cleaned by laundering\nv clean with some chemical process\nv cleanse (one's body) with soap and water\nv cleanse with a cleaning agent, such as soap, and water\nv move by or as if by water\nv be capable of being washed\nv admit to testing or proof\nv separate dirt or gravel from (precious minerals)\nv apply a thin coating of paint, metal, etc., to\nv remove by the application of water or other liquid and soap or some other cleaning agent\nv form by erosion\nv make moist\nv wash or flow against\nv to cleanse (itself or another animal) by licking"
+  },
+  {
+    "单词": "come out",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 出来\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "fish",
+    "英音": "[fɪʃ]",
+    "美音": "[fɪʃ]",
+    "释义(中文)": "n. 鱼，鱼类\nvt. 钓鱼，捕鱼；搜寻\nvi. 捕鱼，钓鱼；用钩捞取\n",
+    "释义(英文)": "n. any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills\nn. the flesh of fish used as food\nv. seek indirectly\nv. catch or try to catch fish or shellfish"
+  },
+  {
+    "单词": "fishing",
+    "英音": "[ˈfɪʃɪŋ]",
+    "美音": "[ˈfɪʃɪŋ]",
+    "释义(中文)": "n. 渔业；捕鱼（术）；试探；装配\nadj. 钓鱼的；钓鱼用的\nv. 捕鱼（fish的ing形式）",
+    "释义(英文)": "n. the act of someone who fishes as a diversion\nn. the occupation of catching fish for a living"
+  },
+  {
+    "单词": "kitchen",
+    "英音": "[ˈkɪtʃɪn]",
+    "美音": "[ˈkɪtʃɪn]",
+    "释义(中文)": "n. 厨房；炊具；炊事人员\n",
+    "释义(英文)": "n. a room equipped for preparing meals"
+  },
+  {
+    "单词": "cook",
+    "英音": "[kʊk]",
+    "美音": "[kʊk]",
+    "释义(中文)": "n. 厨师，厨子\nvt. 烹调，煮\nvi. 烹调，做菜\n",
+    "释义(英文)": "n. someone who cooks food\nn. English navigator who claimed the east coast of Australia for Britain and discovered several Pacific islands (1728-1779)\nv. prepare a hot meal\nv. prepare for eating by applying heat"
+  },
+  {
+    "单词": "cooking",
+    "英音": "[ˈkʊkɪŋ]",
+    "美音": "[ˈkʊkɪŋ]",
+    "释义(中文)": "n. 烹饪\nadj. 烹调的\nv. 烹调；筹划（cook的ing形式）",
+    "释义(英文)": "n. the act of preparing something (as food) by the application of heat"
+  },
+  {
+    "单词": "dinner",
+    "英音": "[ˈdɪnə(r)]",
+    "美音": "[ˈdɪnər]",
+    "释义(中文)": "n. 晚餐，晚宴；宴会；正餐\n",
+    "释义(英文)": "n. the main meal of the day served in the evening or at midday\nn. a party of people assembled to have dinner together"
+  },
+  {
+    "单词": "write",
+    "英音": "[raɪt]",
+    "美音": "[raɪt]",
+    "释义(中文)": "vi. 写，写字；写作，作曲；写信\nvt. 写，书写；写信给；著述",
+    "释义(英文)": "v. produce a literary work\nv. communicate or express by writing\nv. communicate (with) in writing\nv. communicate by letter"
+  },
+  {
+    "单词": "writing",
+    "英音": "[ˈraɪtɪŋ]",
+    "美音": "[ˈraɪtɪŋ]",
+    "释义(中文)": "n. 书写；作品；著作；[法] 笔迹\nv. 书写（write的ing形式）",
+    "释义(英文)": "n. the act of creating written works\nn. the work of a writer; anything expressed in letters of the alphabet (especially when considered from the point of view of style and effect)\nn. (usually plural) the collected work of an author\nn. letters or symbols that are written or imprinted on a surface to represent the sounds or words of a language"
+  },
+  {
+    "单词": "drink",
+    "英音": "[drɪŋk]",
+    "美音": "[drɪŋk]",
+    "释义(中文)": "n. 酒，饮料；喝酒\nvt. 喝，饮；吸收；举杯庆贺\nvi. 喝酒；饮水；干杯",
+    "释义(英文)": "n. a single serving of a beverage\nn. the act of drinking alcoholic beverages to excess\nn. any large deep body of water\nv. take in liquids"
+  },
+  {
+    "单词": "drinking",
+    "英音": "[ˈdrɪŋkɪŋ]",
+    "美音": "[ˈdrɪŋkɪŋ]",
+    "释义(中文)": "n. 喝，饮；喝酒\nv. 饮（drink的ing形式）；喝",
+    "释义(英文)": "n. the act of consuming liquids"
+  },
+  {
+    "单词": "play",
+    "英音": "[pleɪ]",
+    "美音": "[pleɪ]",
+    "释义(中文)": "n. 游戏；比赛；剧本\nvt. 游戏；扮演；演奏；播放；同…比赛\nvi. 演奏；玩耍；上演；参加比赛\n",
+    "释义(英文)": "n. a dramatic work intended for performance by actors on a stage\nn. a theatrical performance of a drama\nn. a preset plan of action in team sports\nn. a state in which action is feasible"
+  },
+  {
+    "单词": "playing",
+    "英音": "[ˈpleɪɪŋ]",
+    "美音": "[ˈpleɪɪŋ]",
+    "释义(中文)": "n. 比赛；演奏\nv. 玩耍（play的ing形式）",
+    "释义(英文)": "n. the act of playing a musical instrument\nn. the action of taking part in a game or sport or other recreation"
+  },
+  {
+    "单词": "paint",
+    "英音": "[peɪnt]",
+    "美音": "[peɪnt]",
+    "释义(中文)": "vt. 油漆；绘画；装饰；涂色于；描绘；（用语言，文字等）描写；擦脂粉等\nvi. 油漆；描绘；绘画；化妆\nn. 油漆；颜料，涂料；绘画作品；胭脂等化妆品；色彩，装饰\n",
+    "释义(英文)": "n. a substance used as a coating to protect or decorate a surface (especially a mixture of pigment suspended in a liquid); dries to form a hard coating\nv. make a painting\nv. apply paint to; coat with paint\nv. make a painting of"
+  },
+  {
+    "单词": "painting",
+    "英音": "[ˈpeɪntɪŋ]",
+    "美音": "[ˈpeɪntɪŋ]",
+    "释义(中文)": "n. 绘画；油画；着色\nv. 绘画（paint的ing形式）；涂色于\n",
+    "释义(英文)": "n. graphic art consisting of an artistic composition made by applying paints to a surface\nn. creating a picture with paints\nn. the act of applying paint to a surface\nn. the occupation of a house painter"
+  },
+  {
+    "单词": "our",
+    "英音": "[ɑː(r)]",
+    "美音": "[ɑːr]",
+    "释义(中文)": "pron. 我们的",
+    "释义(英文)": "pl.  of I\npossessive pron. Of or pertaining to us; belonging to us; as, our\n   country; our rights; our troops; our endeavors. See I."
+  },
+  {
+    "单词": "math",
+    "英音": "[mæθ]",
+    "美音": "[mæθ]",
+    "释义(中文)": "n. 数学（等于mathematics）\n",
+    "释义(英文)": "n a science (or group of related sciences) dealing with the logic of quantity and shape and arrangement"
+  },
+  {
+    "单词": "English",
+    "英音": "[ˈɪŋɡlɪʃ]",
+    "美音": "[ˈɪŋɡlɪʃ]",
+    "释义(中文)": "n. 英语；英国人；英文；英格兰人\nadj. 英国人的；英国的；英文的\nvt. 把…译成英语",
+    "释义(英文)": "n. an Indo-European language belonging to the West Germanic branch; the official language of Britain and the United States and most of the commonwealth countries\nn. the people of England\nn. the discipline that studies the English language and literature"
+  },
+  {
+    "单词": "subject",
+    "英音": "[ˈsʌbdʒɪkt; ˈsʌbdʒekt]",
+    "美音": "[ˈsʌbdʒɪkt; ˈsʌbdʒekt]",
+    "释义(中文)": "n. 主题；科目；[语] 主语；国民\nadj. 服从的；易患…的；受制于…的\nvt. 使…隶属；使屈从于…",
+    "释义(英文)": "n. the subject matter of a conversation or discussion\nn. something (a person or object or scene) selected by an artist or photographer for graphic representation\nn. (grammar) one of the two main constituents of a sentence; the grammatical constituent about which something is predicated\nn. a person who is subjected to experimental or other observational procedures; someone who is an object of investigation"
+  },
+  {
+    "单词": "classroom",
+    "英音": "[ˈklɑːsruːm]",
+    "美音": "[ˈklæsruːm; ˈklæsrʊm]",
+    "释义(中文)": "n. 教室",
+    "释义(英文)": "n. a room in a school where lessons take place"
+  },
+  {
+    "单词": "playground",
+    "英音": "[ˈpleɪɡraʊnd]",
+    "美音": "[ˈpleɪɡraʊnd]",
+    "释义(中文)": "n. 运动场，操场；游乐场",
+    "释义(英文)": "n. yard consisting of an outdoor area for children's play"
+  },
+  {
+    "单词": "their",
+    "英音": "[ðeə(r)]",
+    "美音": "[ðer]",
+    "释义(中文)": "pron. 他们的，她们的；它们的\n",
+    "释义(英文)": "pron. & a. The possessive case of the personal pronoun they;\n   as, their houses; their country."
+  },
+  {
+    "单词": "library",
+    "英音": "[ˈlaɪbrəri; ˈlaɪbri]",
+    "美音": "[ˈlaɪbreri]",
+    "释义(中文)": "n. 图书馆，藏书室；文库",
+    "释义(英文)": "n. a room where books are kept\nn. a collection of literary documents or records kept for reference or borrowing\nn. a depository built to contain books and other materials for reading and study\nn. (computing) a collection of standard programs and subroutines that are stored and available for immediate use"
+  },
+  {
+    "单词": "music",
+    "英音": "[ˈmjuːzɪk]",
+    "美音": "[ˈmjuːzɪk]",
+    "释义(中文)": "n. 音乐，乐曲",
+    "释义(英文)": "n. an artistic form of auditory communication incorporating instrumental or vocal tones in a structured and continuous manner\nn. any agreeable (pleasing and harmonious) sounds\nn. musical activity (singing or whistling etc.)\nn. (music) the sounds produced by singers or musical instruments (or reproductions of such sounds)"
+  },
+  {
+    "单词": "art",
+    "英音": "[ɑːt]",
+    "美音": "[ɑːrt]",
+    "释义(中文)": "n. 艺术；美术；艺术品\nv. 是（be的变体）\nadj. 艺术的；艺术品的\n",
+    "释义(英文)": "n. the products of human creativity; works of art collectively\nn. the creation of beautiful or significant things\nn. a superior skill that you can learn by study and practice and observation"
+  },
+  {
+    "单词": "Chinese",
+    "英音": "[ˌtʃaɪˈniːz]",
+    "美音": "[ˌtʃaɪˈniːz]",
+    "释义(中文)": "n. 中文，汉语；中国人\nadj. 中国的，中国人的；中国话的",
+    "释义(英文)": "n. any of the Sino-Tibetan languages spoken in China; regarded as dialects of a single language (even though they are mutually unintelligible) because they share an ideographic writing system\nn. a native or inhabitant of Communist China or of Nationalist China\na. of or pertaining to China or its peoples or cultures"
+  },
+  {
+    "单词": "science",
+    "英音": "[ˈsaɪəns]",
+    "美音": "[ˈsaɪəns]",
+    "释义(中文)": "n. 科学；技术；学科；理科\n",
+    "释义(英文)": "n. a particular branch of scientific knowledge"
+  },
+  {
+    "单词": "P.E.",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 体育（课）（全写为 physical education）\n",
+    "释义(英文)": "n. the 17th letter of the Hebrew alphabet"
+  },
+  {
+    "单词": "Christmas",
+    "英音": "[ˈkrɪsməs]",
+    "美音": "[ˈkrɪsməs]",
+    "释义(中文)": "n. 圣诞节；圣诞节期间",
+    "释义(英文)": "n. period extending from Dec. 24 to Jan. 6\nn. a Christian holiday celebrating the birth of Christ; a quarter day in England, Wales, and Ireland"
+  },
+  {
+    "单词": "parents",
+    "英音": "['peərənts]",
+    "美音": "['perənts]",
+    "释义(中文)": "n. 父母；双亲（parent的复数）\nv. 教养；引起（parent的三单形式）\n",
+    "释义(英文)": "n a father or mother; one who begets or one who gives birth to or nurtures and raises a child; a relative who plays the role of guardian\nn an organism (plant or animal) from which younger ones are obtained\nv bring up"
+  }
+]

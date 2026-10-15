@@ -1,0 +1,660 @@
+[
+  {
+    "单词": "subject",
+    "英音": "[ˈsʌbdʒɪkt; ˈsʌbdʒekt]",
+    "美音": "[ˈsʌbdʒɪkt; ˈsʌbdʒekt]",
+    "释义(中文)": "n. 主题；科目；[语] 主语；国民\nadj. 服从的；易患…的；受制于…的\nvt. 使…隶属；使屈从于…",
+    "释义(英文)": "n. the subject matter of a conversation or discussion\nn. something (a person or object or scene) selected by an artist or photographer for graphic representation\nn. (grammar) one of the two main constituents of a sentence; the grammatical constituent about which something is predicated\nn. a person who is subjected to experimental or other observational procedures; someone who is an object of investigation"
+  },
+  {
+    "单词": "English",
+    "英音": "[ˈɪŋɡlɪʃ]",
+    "美音": "[ˈɪŋɡlɪʃ]",
+    "释义(中文)": "n. 英语；英国人；英文；英格兰人\nadj. 英国人的；英国的；英文的\nvt. 把…译成英语",
+    "释义(英文)": "n. an Indo-European language belonging to the West Germanic branch; the official language of Britain and the United States and most of the commonwealth countries\nn. the people of England\nn. the discipline that studies the English language and literature"
+  },
+  {
+    "单词": "Chinese",
+    "英音": "[ˌtʃaɪˈniːz]",
+    "美音": "[ˌtʃaɪˈniːz]",
+    "释义(中文)": "n. 中文，汉语；中国人\nadj. 中国的，中国人的；中国话的",
+    "释义(英文)": "n. any of the Sino-Tibetan languages spoken in China; regarded as dialects of a single language (even though they are mutually unintelligible) because they share an ideographic writing system\nn. a native or inhabitant of Communist China or of Nationalist China\na. of or pertaining to China or its peoples or cultures"
+  },
+  {
+    "单词": "music",
+    "英音": "[ˈmjuːzɪk]",
+    "美音": "[ˈmjuːzɪk]",
+    "释义(中文)": "n. 音乐，乐曲",
+    "释义(英文)": "n. an artistic form of auditory communication incorporating instrumental or vocal tones in a structured and continuous manner\nn. any agreeable (pleasing and harmonious) sounds\nn. musical activity (singing or whistling etc.)\nn. (music) the sounds produced by singers or musical instruments (or reproductions of such sounds)"
+  },
+  {
+    "单词": "art",
+    "英音": "[ɑːt]",
+    "美音": "[ɑːrt]",
+    "释义(中文)": "n. 艺术；美术；艺术品\nv. 是（be的变体）\nadj. 艺术的；艺术品的\n",
+    "释义(英文)": "n. the products of human creativity; works of art collectively\nn. the creation of beautiful or significant things\nn. a superior skill that you can learn by study and practice and observation"
+  },
+  {
+    "单词": "math",
+    "英音": "[mæθ]",
+    "美音": "[mæθ]",
+    "释义(中文)": "n. 数学（等于mathematics）\n",
+    "释义(英文)": "n a science (or group of related sciences) dealing with the logic of quantity and shape and arrangement"
+  },
+  {
+    "单词": "P.E.",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 体育（课）（全写为 physical education）\n",
+    "释义(英文)": "n. the 17th letter of the Hebrew alphabet"
+  },
+  {
+    "单词": "science",
+    "英音": "[ˈsaɪəns]",
+    "美音": "[ˈsaɪəns]",
+    "释义(中文)": "n. 科学；技术；学科；理科\n",
+    "释义(英文)": "n. a particular branch of scientific knowledge"
+  },
+  {
+    "单词": "like",
+    "英音": "[laɪk]",
+    "美音": "[laɪk]",
+    "释义(中文)": "vt. 喜欢；想；愿意\nvi. 喜欢；希望\nprep. 像；如同\nadj. 同样的；相似的\nn. 爱好；同样的人或物\nadv. 可能\nconj. 好像",
+    "释义(英文)": "n. a similar kind\nn. a kind of person\nv. find enjoyable or agreeable\nv. be fond of"
+  },
+  {
+    "单词": "and",
+    "英音": "[ənd]",
+    "美音": "[ənd; ən; n; ænd]",
+    "释义(中文)": "conj. 和，与；就；而且；但是；然后\n",
+    "释义(英文)": "conj. A particle which expresses the relation of connection or\n   addition. It is used to conjoin a word with a word, a clause with a\n   clause, or a sentence with a sentence.\nconj. In order to; -- used instead of the infinitival to,\n   especially after try, come, go.\nconj. It is sometimes, in old songs, a mere expletive.\nconj. If; though. See An, conj."
+  },
+  {
+    "单词": "play",
+    "英音": "[pleɪ]",
+    "美音": "[pleɪ]",
+    "释义(中文)": "n. 游戏；比赛；剧本\nvt. 游戏；扮演；演奏；播放；同…比赛\nvi. 演奏；玩耍；上演；参加比赛\n",
+    "释义(英文)": "n. a dramatic work intended for performance by actors on a stage\nn. a theatrical performance of a drama\nn. a preset plan of action in team sports\nn. a state in which action is feasible"
+  },
+  {
+    "单词": "study",
+    "英音": "[ˈstʌdi]",
+    "美音": "[ˈstʌdi]",
+    "释义(中文)": "n. 学习，研究；课题；书房；学问\nvt. 学习；考虑；攻读；细察\nvi. 研究；用功\n",
+    "释义(英文)": "n. applying the mind to learning and understanding a subject (especially by reading)\nn. a state of deep mental absorption\nn. a room used for reading and writing and studying\nn. someone who memorizes quickly and easily (as the lines for a part in a play)"
+  },
+  {
+    "单词": "paint",
+    "英音": "[peɪnt]",
+    "美音": "[peɪnt]",
+    "释义(中文)": "vt. 油漆；绘画；装饰；涂色于；描绘；（用语言，文字等）描写；擦脂粉等\nvi. 油漆；描绘；绘画；化妆\nn. 油漆；颜料，涂料；绘画作品；胭脂等化妆品；色彩，装饰\n",
+    "释义(英文)": "n. a substance used as a coating to protect or decorate a surface (especially a mixture of pigment suspended in a liquid); dries to form a hard coating\nv. make a painting\nv. apply paint to; coat with paint\nv. make a painting of"
+  },
+  {
+    "单词": "sleep",
+    "英音": "[sliːp]",
+    "美音": "[sliːp]",
+    "释义(中文)": "n. 睡眠\nvi. 睡，睡觉\n",
+    "释义(英文)": "n. a natural and periodic state of rest during which consciousness of the world is suspended\nn. a torpid state resembling deep sleep\nn. a period of time spent sleeping\nv. be asleep"
+  },
+  {
+    "单词": "write",
+    "英音": "[raɪt]",
+    "美音": "[raɪt]",
+    "释义(中文)": "vi. 写，写字；写作，作曲；写信\nvt. 写，书写；写信给；著述",
+    "释义(英文)": "v. produce a literary work\nv. communicate or express by writing\nv. communicate (with) in writing\nv. communicate by letter"
+  },
+  {
+    "单词": "run",
+    "英音": "[rʌn]",
+    "美音": "[rʌn]",
+    "释义(中文)": "n. 奔跑；赛跑；趋向；奔跑的路程\nvt. 管理，经",
+    "释义(英文)": "n. a score in baseball made by a runner touching all four bases safely\nn. (American football) a play in which a player attempts to carry the ball through or past the opposing team\nn. a regular trip\nn. the act of running; traveling on foot at a fast pace"
+  },
+  {
+    "单词": "read",
+    "英音": "[riːd]",
+    "美音": "[riːd]",
+    "释义(中文)": "n. 阅读；读物\nadj. 有学问的\nvi. 读；读起来\nvt. 阅读；读懂，理解\n",
+    "释义(英文)": "n. something that is read\nv. interpret something that is written or printed\nv. have or contain a certain wording or form\nv. look at, interpret, and say out loud something that is written or printed"
+  },
+  {
+    "单词": "swim",
+    "英音": "[swɪm]",
+    "美音": "[swɪm]",
+    "释义(中文)": "n. 游泳；漂浮；眩晕\nadj. 游泳时穿戴的\nvi. 游泳；漂浮；浸；眩晕\nvt. 游过；使浮起",
+    "释义(英文)": "v. travel through water\nv. be dizzy or giddy\nv. be covered with or submerged in a liquid\nv. move as if gliding through water"
+  },
+  {
+    "单词": "do",
+    "英音": "[duː; də; du; dəʊ]",
+    "美音": "[duː; də; du; doʊ]",
+    "释义(中文)": "vi. 行，足够；生长\nn. 要求；规定；C大调音阶中的第一音\nv. 做；干；学习；研究；进行；完成；解答；整理；算出；引起；行过\naux. 助动词（构成疑问句和否定句）；（代替动词）；（用于加强语气）\nn. （口语）事件；（主英国口语）诈骗；（主英国、新西兰口语）宴会；（口语）必须做到的事情",
+    "释义(英文)": "n. the syllable naming the first (tonic) note of any major scale in solmization\nv. get (something) done\nv. proceed or get along\nv. create or design, often in a certain way"
+  },
+  {
+    "单词": "fish",
+    "英音": "[fɪʃ]",
+    "美音": "[fɪʃ]",
+    "释义(中文)": "n. 鱼，鱼类\nvt. 钓鱼，捕鱼；搜寻\nvi. 捕鱼，钓鱼；用钩捞取\n",
+    "释义(英文)": "n. any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills\nn. the flesh of fish used as food\nv. seek indirectly\nv. catch or try to catch fish or shellfish"
+  },
+  {
+    "单词": "shh",
+    "英音": "[ʃ]",
+    "美音": "[ʃ]",
+    "释义(中文)": "int. 嘘；安静一点",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "Sunday",
+    "英音": "[ˈsʌndeɪ]",
+    "美音": "[ˈsʌndeɪ]",
+    "释义(中文)": "n. 星期日；礼拜日",
+    "释义(英文)": "n. first day of the week; observed as a day of rest and worship by most Christians\nn. United States evangelist (1862-1935)"
+  },
+  {
+    "单词": "Monday",
+    "英音": "[ˈmʌndeɪ]",
+    "美音": "[ˈmʌndeɪ]",
+    "释义(中文)": "n. 星期一",
+    "释义(英文)": "n. the second day of the week; the first working day"
+  },
+  {
+    "单词": "Tuesday",
+    "英音": "[ˈtjuːzdeɪ]",
+    "美音": "[ˈtuːzdeɪ]",
+    "释义(中文)": "n. 星期二",
+    "释义(英文)": "n. the third day of the week; the second working day"
+  },
+  {
+    "单词": "Wednesday",
+    "英音": "[ˈwenzdeɪ]",
+    "美音": "[ˈwenzdeɪ]",
+    "释义(中文)": "n. 星期三",
+    "释义(英文)": "n. the fourth day of the week; the third working day"
+  },
+  {
+    "单词": "Thursday",
+    "英音": "[ˈθɜːzdeɪ]",
+    "美音": "[ˈθɜːrzdeɪ]",
+    "释义(中文)": "n. 星期四",
+    "释义(英文)": "n. the fifth day of the week; the fourth working day"
+  },
+  {
+    "单词": "Friday",
+    "英音": "[ˈfraɪdeɪ]",
+    "美音": "[ˈfraɪdeɪ]",
+    "释义(中文)": "n. 星期五",
+    "释义(英文)": "n. the sixth day of the week; the fifth working day"
+  },
+  {
+    "单词": "Saturday",
+    "英音": "[ˈsætədeɪ]",
+    "美音": "[ˈsætərdeɪ]",
+    "释义(中文)": "n. 星期六",
+    "释义(英文)": "n. the seventh and last day of the week; observed as the Sabbath by Jews and some Christians"
+  },
+  {
+    "单词": "week",
+    "英音": "[wiːk]",
+    "美音": "[wiːk]",
+    "释义(中文)": "n. 周，星期",
+    "释义(英文)": "n. any period of seven consecutive days\nn. a period of seven consecutive days starting on Sunday"
+  },
+  {
+    "单词": "today",
+    "英音": "[təˈdeɪ]",
+    "美音": "[təˈdeɪ]",
+    "释义(中文)": "n. 今天；现今\nadv. 今天；现今\n",
+    "释义(英文)": "n. the present time or age\nn. the day that includes the present moment (as opposed to yesterday or tomorrow)\nr. on this day as distinct from yesterday or tomorrow"
+  },
+  {
+    "单词": "violin",
+    "英音": "[ˌvaɪəˈlɪn]",
+    "美音": "[ˌvaɪəˈlɪn]",
+    "释义(中文)": "n. 小提琴；小提琴手\n",
+    "释义(英文)": "n. bowed stringed instrument that is the highest member of the violin family; this instrument has four strings and a hollow body and an unfretted fingerboard and is played with a bow"
+  },
+  {
+    "单词": "ball",
+    "英音": "[bɔːl]",
+    "美音": "[bɔːl]",
+    "释义(中文)": "n. 球；舞会\nvt. 捏成球形\nvi. 成团块\n",
+    "释义(英文)": "n. round object that is hit or thrown or kicked in games\nn. an object with a spherical shape\nn. the people assembled at a lavish formal dance\nn. a spherical object used as a plaything"
+  },
+  {
+    "单词": "mom",
+    "英音": "[mɒm]",
+    "美音": "[mɑːm]",
+    "释义(中文)": "n. 妈妈\n",
+    "释义(英文)": "n informal terms for a mother"
+  },
+  {
+    "单词": "birthday",
+    "英音": "[ˈbɜːθdeɪ]",
+    "美音": "[ˈbɜːrθdeɪ]",
+    "释义(中文)": "n. 生日，诞辰；诞生的日子",
+    "释义(英文)": "n. an anniversary of the day on which a person was born (or the celebration of it)\nn. the date on which a person was born"
+  },
+  {
+    "单词": "get up",
+    "英音": "[ɡet ʌp]",
+    "美音": "[ɡet ʌp]",
+    "释义(中文)": "na. 起床；起身；站起来；叫…起床\n",
+    "释义(英文)": "n a set of clothing (with accessories)"
+  },
+  {
+    "单词": "have breakfast",
+    "英音": "[hæv 'brekfəst]",
+    "美音": "[hæv ˈbrekfəst]",
+    "释义(中文)": " 吃早饭；吃早餐；吃早点",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "go to school",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 到校上课；上学去；开始求学\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "have lunch",
+    "英音": "[hæv lʌntʃ]",
+    "美音": "[hæv lʌntʃ]",
+    "释义(中文)": " 吃午饭；吃午餐；吃中饭",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "get home",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 到家；命中；回家；达到目的\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "do homework",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 做作业；做家庭作业；做功课",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "have dinner",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 吃晚饭；吃饭；吃正餐",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "go to bed",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 睡；同床；【印】付印\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "lake",
+    "英音": "[leɪk]",
+    "美音": "[leɪk]",
+    "释义(中文)": "n. 湖；深红色颜料；胭脂红\nvt. （使）血球溶解\nvi. （使）血球溶解\n",
+    "释义(英文)": "n. a body of (usually fresh) water surrounded by land\nn. a purplish red pigment prepared from lac or cochineal\nn. any of numerous bright translucent organic pigments"
+  },
+  {
+    "单词": "time",
+    "英音": "[taɪm]",
+    "美音": "[taɪm]",
+    "释义(中文)": "n. 时间；时代；次数；节拍；倍数\nadj. 定时的；定期的；分期的\nvt. 计时；测定…的时间；安排…的速度\n",
+    "释义(英文)": "n. an instance or single occasion for some event\nn. a period of time considered as a resource under your control and sufficient to accomplish something\nn. an indefinite period (usually marked by specific attributes or activities)\nn. a suitable moment"
+  },
+  {
+    "单词": "tomorrow",
+    "英音": "[təˈmɒrəʊ]",
+    "美音": "[təˈmɑːroʊ]",
+    "释义(中文)": "n. 明天；未来\nadv. 明天；未来地（等于to-morrow）",
+    "释义(英文)": "n. the day after today\nn. the near future\nr. the next day, the day after, following the present day"
+  },
+  {
+    "单词": "wake up",
+    "英音": "[ˈweɪk ˌʌp]",
+    "美音": "[ˈweɪk ˌʌp]",
+    "释义(中文)": "na. 同“wake”；叫醒；醒来；振作起来\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "go to sleep",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 入睡\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "twenty-one",
+    "英音": "['twenti'wʌn]",
+    "美音": "[ˈtwenti wʌn]",
+    "释义(中文)": "n. 二十一点纸牌游戏\nnum. 二十一\nadj. 二十一的",
+    "释义(英文)": "n. the cardinal number that is the sum of twenty and one\ns. being one more than twenty"
+  },
+  {
+    "单词": "thirty",
+    "英音": "[ˈθɜːti]",
+    "美音": "[ˈθɜːrti]",
+    "释义(中文)": "num. 三十\nn. 三十年代\nadj. 三十个的",
+    "释义(英文)": "n. the cardinal number that is the product of ten and three\ns. being ten more than twenty"
+  },
+  {
+    "单词": "forty",
+    "英音": "[ˈfɔːti]",
+    "美音": "[ˈfɔːrti]",
+    "释义(中文)": "n. 四十\nadj. 四十的；四十个的",
+    "释义(英文)": "n. the cardinal number that is the product of ten and four\ns. being ten more than thirty"
+  },
+  {
+    "单词": "fifty",
+    "英音": "[ˈfɪfti]",
+    "美音": "[ˈfɪfti]",
+    "释义(中文)": "n. 五十；五十个；编号为50的东西\nadj. 五十的；五十个的；众多的",
+    "释义(英文)": "n. the cardinal number that is the product of ten and five\ns. being ten more than forty"
+  },
+  {
+    "单词": "eye",
+    "英音": "[aɪ]",
+    "美音": "[aɪ]",
+    "释义(中文)": "n. 眼睛；视力；眼光；见解，观点\nvt. 注视，看\n",
+    "释义(英文)": "n. the organ of sight\nn. good discernment (either visually or as if visually)\nn. attention to what is seen\nn. a small hole or loop (as in a needle)"
+  },
+  {
+    "单词": "ear",
+    "英音": "[ɪə(r)]",
+    "美音": "[ɪr]",
+    "释义(中文)": "n. 耳朵；穗；听觉；倾听\nvi. （美俚）听见；抽穗\n",
+    "释义(英文)": "n. the sense organ for hearing and equilibrium\nn. good hearing\nn. attention to what is said\nn. fruiting spike of a cereal plant especially corn"
+  },
+  {
+    "单词": "nose",
+    "英音": "[nəʊz]",
+    "美音": "[noʊz]",
+    "释义(中文)": "n. 鼻子；嗅觉；突出的部分；探问\nvt. 嗅；用鼻子触\nvi. 小心探索着前进；探问",
+    "释义(英文)": "n. the organ of smell and entrance to the respiratory tract; the prominent part of the face of man or other mammals\nn. a front that resembles a human nose (especially the front of an aircraft)\nn. the front or forward projection of a tool or weapon\nn. a small distance"
+  },
+  {
+    "单词": "mouth",
+    "英音": "[maʊθ]",
+    "美音": "[maʊθ]",
+    "释义(中文)": "n. 口，嘴；河口\nvt. 做作地说，装腔作势地说；喃喃地说出\nvi. 装腔作势说话",
+    "释义(英文)": "n. the opening through which food is taken in and vocalizations emerge\nn. the externally visible part of the oral cavity on the face and the system of organs surrounding the opening\nn. an opening that resembles a mouth (as of a cave or a gorge)\nn. the point where a stream issues into a larger body of water"
+  },
+  {
+    "单词": "hand",
+    "英音": "[hænd]",
+    "美音": "[hænd]",
+    "释义(中文)": "n. 手，手艺；帮助；指针；插手\nvt. 传递，交给；支持；搀扶\n",
+    "释义(英文)": "n. the (prehensile) extremity of the superior limb\nn. ability\nn. a position given by its location to the side of an object\nn. the cards held in a card game by a given player at any given time"
+  },
+  {
+    "单词": "arm",
+    "英音": "[ɑːm]",
+    "美音": "[ɑːrm]",
+    "释义(中文)": "n. 手臂；武器；袖子；装备；部门\nvt. 武装；备战\nvi. 武装起来",
+    "释义(英文)": "n. a human limb; technically the part of the superior limb between the shoulder and the elbow but commonly used to refer to the whole superior limb\nn. any projection that is thought to resemble a human arm\nn. the part of an armchair or sofa that supports the elbow and forearm of a seated person\nv. prepare oneself for a military confrontation"
+  },
+  {
+    "单词": "leg",
+    "英音": "[leɡ]",
+    "美音": "[leɡ]",
+    "释义(中文)": "n. 腿；支柱",
+    "释义(英文)": "n. a human limb; commonly used to refer to a whole limb but technically only the part of the limb between the knee and ankle\nn. a structure in animals that is similar to a human leg and used for locomotion\nn. one of the supports for a piece of furniture\nn. the limb of an animal used for food"
+  },
+  {
+    "单词": "foot",
+    "英音": "[fʊt]",
+    "美音": "[fʊt]",
+    "释义(中文)": "n. 脚；英尺；步调；末尾\nvt. 支付；给……换底\nvi. 步行；跳舞；总计\n",
+    "释义(英文)": "n. the part of the leg of a human being below the ankle joint\nn. a linear unit of length equal to 12 inches or a third of a yard\nn. the lower part of anything\nn. any of various organs of locomotion or attachment in invertebrates"
+  },
+  {
+    "单词": "touch",
+    "英音": "[tʌtʃ]",
+    "美音": "[tʌtʃ]",
+    "释义(中文)": "n. 接触；触觉；格调；少许\nvt. 接触；触动；使轻度受害\nvi. 触摸；涉及；接近；提到\n",
+    "释义(英文)": "n. the event of something coming in contact with the body\nn. the faculty by which external objects or forces are perceived through contact with the body (especially the hands)\nn. a suggestion of some quality\nn. a distinguishing style"
+  },
+  {
+    "单词": "open",
+    "英音": "[ˈəʊpən]",
+    "美音": "[ˈoʊpən]",
+    "释义(中文)": "adj. 公开的；敞开的；空旷的；坦率的；营业着的\nvi. 开始；展现\nvt. 公开；打开\nn. 公开；空旷；户外",
+    "释义(英文)": "n. a clear or unobstructed space or expanse of land or water\nn. a tournament in which both professionals and amateurs may play\nn. information that has become public\nv. cause to open or to become open"
+  },
+  {
+    "单词": "close",
+    "英音": "[kləʊz]",
+    "美音": "[kloʊz; kloʊs]",
+    "释义(中文)": "n. 结束\nadj. 紧密的；亲密的；亲近的\nvt. 关；结束；使靠近\nvi. 关；结束；关闭\nadv. 紧密地\n",
+    "释义(英文)": "v. move so that an opening or passage is obstructed; make shut\nv. become closed\nv. finish or terminate (meetings, speeches, etc.)\nv. complete a business deal, negotiation, or an agreement"
+  },
+  {
+    "单词": "body",
+    "英音": "[ˈbɒdi]",
+    "美音": "[ˈbɑːdi]",
+    "释义(中文)": "n. 身体；主体；大量；团体；主要部分\nvt. 赋以形体\n",
+    "释义(英文)": "n. the entire structure of an organism (an animal, plant, or human being)\nn. a group of persons associated by some common tie or occupation and regarded as an entity\nn. a natural object consisting of a dead animal or person\nn. an individual 3-dimensional object that has mass and that is distinguishable from other objects"
+  },
+  {
+    "单词": "head",
+    "英音": "[hed]",
+    "美音": "[hed]",
+    "释义(中文)": "n. 头；头痛；上端；最前的部分；理解力\nadj. 头的；主要的；在顶端的\nvt. 前进；用头顶；作为…的首领；站在…的前头；给…加标题\nvi. 出发；成头状物；船驶往\n",
+    "释义(英文)": "n. the upper part of the human body or the front part of the body in animals; contains the face and brains\nn. a single domestic animal\nn. a person who is in charge\nn. the front of a military formation or procession"
+  },
+  {
+    "单词": "dance",
+    "英音": "[dɑːns]",
+    "美音": "[dæns]",
+    "释义(中文)": "n. 舞蹈；舞会；舞曲\nadj. 舞蹈的；用于跳舞的\nvt. 跳舞；使跳跃\nvi. 跳舞；跳跃；飘扬\n",
+    "释义(英文)": "n. an artistic form of nonverbal communication\nn. a party of people assembled for dancing\nn. a party for social dancing\nv. move in a graceful and rhythmical way"
+  },
+  {
+    "单词": "computer game",
+    "英音": "[kəmˈpjuːtə ɡeɪm]",
+    "美音": "[kəm'pju:tə geim]",
+    "释义(中文)": "n. 电脑游戏\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "puzzle",
+    "英音": "[ˈpʌzl]",
+    "美音": "[ˈpʌzl]",
+    "释义(中文)": "n. 谜；难题；迷惑\nvt. 使…困惑；使…为难；苦思而得出\nvi. 迷惑；冥思苦想",
+    "释义(英文)": "n. a particularly baffling problem that is said to have a correct solution\nn. a game that tests your ingenuity\nv. be uncertain about; think about without fully understanding or being able to decide"
+  },
+  {
+    "单词": "plane",
+    "英音": "[pleɪn]",
+    "美音": "[pleɪn]",
+    "释义(中文)": "n. 飞机；平面；程度，水平\nadj. 平的；平面的\nvt. 刨平；用刨子刨；掠过水面\nvi. 刨；乘飞机旅行；翱翔\n",
+    "释义(英文)": "n. (mathematics) an unbounded two-dimensional shape\nn. a level of existence or development\nn. a power tool for smoothing or shaping wood\nn. a carpenter's hand tool with an adjustable blade for smoothing or shaping wood"
+  },
+  {
+    "单词": "toy car",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 玩具车；玩具汽车；玩具小汽车",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "doll",
+    "英音": "[dɒl]",
+    "美音": "[dɑːl]",
+    "释义(中文)": "n. 洋娃娃；玩偶；无头脑的美丽女人\nvt. 把…打扮得花枝招展\n",
+    "释义(英文)": "n. a small replica of a person; used as a toy"
+  },
+  {
+    "单词": "bear",
+    "英音": "[beə(r)]",
+    "美音": "[ber]",
+    "释义(中文)": "n. 熊\nvt. 结果实，开花（正式）\nvt. 忍受；承受；具有；支撑\n",
+    "释义(英文)": "n. massive plantigrade carnivorous or omnivorous mammals with long shaggy coats and strong claws\nn. an investor with a pessimistic market outlook; an investor who expects prices to fall and so sells now in order to buy later at a lower price\nv. have\nv. move while holding up or supporting"
+  },
+  {
+    "单词": "drum",
+    "英音": "[drʌm]",
+    "美音": "[drʌm]",
+    "释义(中文)": "n. 鼓；鼓声\nvi. 击鼓；大力争取\nvt. 击鼓；大力争取\n",
+    "释义(英文)": "n. a musical percussion instrument; usually consists of a hollow cylinder with a membrane stretched across each end\nn. the sound of a drum\nn. a cylindrical metal container used for shipping or storage of liquids\nn. small to medium-sized bottom-dwelling food and game fishes of shallow coastal and fresh waters that make a drumming noise"
+  },
+  {
+    "单词": "guitar",
+    "英音": "[ɡɪˈtɑː(r)]",
+    "美音": "[ɡɪˈtɑːr]",
+    "释义(中文)": "n. 吉他，六弦琴\nvi. 弹吉他",
+    "释义(英文)": "n. a stringed instrument usually having six strings; played by strumming or plucking"
+  },
+  {
+    "单词": "want",
+    "英音": "[wɒnt]",
+    "美音": "[wɑːnt]",
+    "释义(中文)": "n. 需要；缺乏；贫困；必需品\nvt. 需要；希望；应该；缺少\nvi. 需要；缺少",
+    "释义(英文)": "v. have need of\nv. hunt or look for; want for a particular reason\nv. wish or demand the presence of\nv. be without, lack; be deficient in"
+  },
+  {
+    "单词": "work",
+    "英音": "[wɜːk]",
+    "美音": "[wɜːrk]",
+    "释义(中文)": "n. 工作；[物] 功；产品；操作；职业；行为；事业；工厂；著作；文学、音乐或艺术作品\nvt. 使工作；操作；经营；使缓慢前进\nvi. 工作；运作；起作用\n",
+    "释义(英文)": "n. activity directed toward making or doing something\nn. a product produced or accomplished through the effort or activity or agency of a person or thing\nn. (physics) a manifestation of energy; the transfer of energy from one physical system to another expressed as the product of a force and the distance through which it moves a body in the direction of that force\nv. exert oneself by doing mental or physical work for a purpose or out of necessity"
+  },
+  {
+    "单词": "shout",
+    "英音": "[ʃaʊt]",
+    "美音": "[ʃaʊt]",
+    "释义(中文)": "n. 呼喊；呼叫\nvi. 呼喊；喊叫；大声说\nvt. 呼喊；大声说",
+    "释义(英文)": "v. utter in a loud voice; talk in a loud voice (usually denoting characteristic manner of speaking)\nv. utter a sudden loud cry"
+  },
+  {
+    "单词": "think",
+    "英音": "[θɪŋk]",
+    "美音": "[θɪŋk]",
+    "释义(中文)": "n. 想；想法\nadj. 思想的\nvi. 想；认为\nvt. 想；认为；想起；想像；打算",
+    "释义(英文)": "n. an instance of deliberate thinking\nv. judge or regard; look upon; judge\nv. expect, believe, or suppose\nv. use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments"
+  },
+  {
+    "单词": "exercise",
+    "英音": "[ˈeksəsaɪz]",
+    "美音": "[ˈeksərsaɪz]",
+    "释义(中文)": "n. 运动；练习；运用；操练；礼拜；典礼\nvt. 锻炼；练习；使用；使忙碌；使惊恐\nvi. 运动；练习",
+    "释义(英文)": "n. the activity of exerting your muscles in various ways to keep fit\nn. systematic training by multiple repetitions\nn. a task performed or problem solved in order to develop skill or understanding\nn. (usually plural) a ceremony that involves processions and speeches"
+  },
+  {
+    "单词": "talk",
+    "英音": "[tɔːk]",
+    "美音": "[tɔːk]",
+    "释义(中文)": "n. 谈话；演讲；空谈\nvi. 谈话；说闲话\nvt. 说；谈话；讨论",
+    "释义(英文)": "n. an exchange of ideas via conversation\nn. discussion; (`talk about' is a less formal alternative for `discussion of')\nn. the act of giving a talk to an audience\nn. idle gossip or rumor"
+  },
+  {
+    "单词": "color",
+    "英音": "[ˈkʌlə(r)]",
+    "美音": "[ˈkʌlər]",
+    "释义(中文)": "n. 颜色；肤色；颜料；脸色\nvt. 粉饰；给...涂颜色；歪曲\nvi. 变色；获得颜色",
+    "释义(英文)": "n. a visual attribute of things that results from the light they emit or transmit or reflect\nn. interest and variety and intensity\nn. the timbre of a musical sound"
+  },
+  {
+    "单词": "cut",
+    "英音": "[kʌt]",
+    "美音": "[kʌt]",
+    "释义(中文)": "n. 伤口；切口；削减；（服装等的）式样；削球；切入\nadj. 割下的；雕过的；缩减的\nvt. [机] 切割；削减；缩短；刺痛\nvi. [机] 切割；相交；切牌；停拍；不出席",
+    "释义(英文)": "n. a share of the profits\nn. (film) an immediate transition from one shot to the next\nn. a trench resembling a furrow that was made by erosion or excavation\nn. a step on some scale"
+  },
+  {
+    "单词": "thump",
+    "英音": "[θʌmp]",
+    "美音": "[θʌmp]",
+    "释义(中文)": "n. 重打；重击声\nvi. 重击；狠打；砰然地响\nvt. 重击；用拳头打；砰地撞到",
+    "释义(英文)": "n. a heavy dull sound (as made by impact of heavy objects)\nn. a heavy blow with the hand\nv. hit hard with the hand, fist, or some heavy instrument"
+  },
+  {
+    "单词": "dad",
+    "英音": "[dæd]",
+    "美音": "[dæd]",
+    "释义(中文)": "n. 爸爸；爹爹\n",
+    "释义(英文)": "n. an informal term for a father; probably derived from baby talk"
+  },
+  {
+    "单词": "sweep",
+    "英音": "[swiːp]",
+    "美音": "[swiːp]",
+    "释义(中文)": "n. 打扫，扫除；范围；全胜\nvt. 扫除；猛拉；掸去\nvi. 扫，打扫；席卷；扫视；袭击",
+    "释义(英文)": "n. a wide scope\nn. a long oar used in an open boat\nn. a movement in an arc\nv. move with sweeping, effortless, gliding motions"
+  },
+  {
+    "单词": "floor",
+    "英音": "[flɔː(r)]",
+    "美音": "[flɔːr]",
+    "释义(中文)": "n. 地板，地面；楼层；基底；议员席\nvt. 铺地板；打倒，击倒；（被困难）难倒",
+    "释义(英文)": "n. the inside lower horizontal surface (as of a room, hallway, tent, or other structure)\nn. a structure consisting of a room or set of rooms at a single position along a vertical scale\nn. a lower limit\nn. the ground on which people and animals move about"
+  },
+  {
+    "单词": "clean",
+    "英音": "[kliːn]",
+    "美音": "[kliːn]",
+    "释义(中文)": "n. 打扫\nadj. 清洁的，干净的；清白的\nvt. 使干净\nvi. 打扫，清扫\nadv. 完全地\n",
+    "释义(英文)": "v. make clean by removing dirt, filth, or unwanted substances from\nv. remove unwanted substances from, such as feathers or pits\nv. be cleanable\nv. deprive wholly of money in a gambling game, robbery, etc."
+  },
+  {
+    "单词": "window",
+    "英音": "[ˈwɪndəʊ]",
+    "美音": "[ˈwɪndoʊ]",
+    "释义(中文)": "n. 窗；窗口；窗户",
+    "释义(英文)": "n. a framework of wood or metal that contains a glass windowpane and is built into a wall or roof to admit light or air\nn. a transparent opening in a vehicle that allow vision out of the sides or back; usually is capable of being opened\nn. a transparent panel (as of an envelope) inserted in an otherwise opaque material\nn. an opening that resembles a window in appearance or function"
+  },
+  {
+    "单词": "wash",
+    "英音": "[wɒʃ]",
+    "美音": "[wɑːʃ]",
+    "释义(中文)": "n. 洗涤；洗的衣服；化妆水；冲积物\nvt. 洗涤；洗刷；冲走；拍打\nvi. 洗澡；被冲蚀\n",
+    "释义(英文)": "n. a thin coat of water-base paint\nn. the work of cleansing (usually with soap and water)\nn. the dry bed of an intermittent stream (as at the bottom of a canyon)\nn. a watercolor made by applying a series of monochrome washes one over the other"
+  },
+  {
+    "单词": "dish",
+    "英音": "[dɪʃ]",
+    "美音": "[dɪʃ]",
+    "释义(中文)": "n. 盘；餐具；一盘食物；外貌有吸引力的人\nvt. 盛于碟盘中；分发；使某人的希望破灭；说（某人）的闲话\nvi. 成碟状；闲谈",
+    "释义(英文)": "n. a piece of dishware normally used as a container for holding or serving food\nn. a particular item of prepared food\nn. the quantity that a dish will hold\nn. directional antenna consisting of a parabolic reflector for microwave or radio frequency radiation"
+  },
+  {
+    "单词": "fold",
+    "英音": "[fəʊld]",
+    "美音": "[foʊld]",
+    "释义(中文)": "n. 折痕；信徒；羊栏\nvt. 折叠；合拢；抱住；笼罩\nvi. 折叠起来；彻底失败",
+    "释义(英文)": "n. an angular or rounded shape made by folding\nn. a geological process that causes a bend in a stratum of rock\nn. a folded part (as in skin or muscle)\nn. a pen for sheep"
+  },
+  {
+    "单词": "clothes",
+    "英音": "[kləʊðz]",
+    "美音": "[kloʊðz; kloʊz]",
+    "释义(中文)": "n. 衣服",
+    "释义(英文)": "n clothing in general\nv provide with clothes or put clothes on\nv furnish with power or authority; of kings or emperors\nv cover as if with clothing"
+  },
+  {
+    "单词": "busy",
+    "英音": "[ˈbɪzi]",
+    "美音": "[ˈbɪzi]",
+    "释义(中文)": "adj. 忙碌的；热闹的；正被占用的\nvt. 使忙于\n",
+    "释义(英文)": "v. keep busy with\na. actively or fully engaged or occupied\ns. overcrowded or cluttered with detail\ns. crowded with or characterized by much activity"
+  },
+  {
+    "单词": "cook",
+    "英音": "[kʊk]",
+    "美音": "[kʊk]",
+    "释义(中文)": "n. 厨师，厨子\nvt. 烹调，煮\nvi. 烹调，做菜\n",
+    "释义(英文)": "n. someone who cooks food\nn. English navigator who claimed the east coast of Australia for Britain and discovered several Pacific islands (1728-1779)\nv. prepare a hot meal\nv. prepare for eating by applying heat"
+  },
+  {
+    "单词": "wait",
+    "英音": "[weɪt]",
+    "美音": "[weɪt]",
+    "释义(中文)": "n. 等待；等候\nvi. 等待；耽搁；伺候用餐\nvt. 等候；推迟；延缓\n",
+    "释义(英文)": "n. the act of waiting (remaining inactive in one place while expecting something)\nv. stay in one place and anticipate or expect something\nv. wait before acting\nv. serve as a waiter or waitress in a restaurant"
+  }
+]

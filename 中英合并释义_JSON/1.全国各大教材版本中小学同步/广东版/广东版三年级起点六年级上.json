@@ -1,0 +1,674 @@
+[
+  {
+    "单词": "headache",
+    "英音": "[ˈhedeɪk]",
+    "美音": "[ˈhedeɪk]",
+    "释义(中文)": "n. 头痛；麻烦；令人头痛之事",
+    "释义(英文)": "n. pain in the head caused by dilation of cerebral arteries or muscle contractions or a reaction to drugs"
+  },
+  {
+    "单词": "toothache",
+    "英音": "[ˈtuːθeɪk]",
+    "美音": "[ˈtuːθeɪk]",
+    "释义(中文)": "n. [口腔] 牙痛",
+    "释义(英文)": "n. an ache localized in or around a tooth"
+  },
+  {
+    "单词": "cold",
+    "英音": "[kəʊld]",
+    "美音": "[kəʊld]",
+    "释义(中文)": "n. 寒冷；感冒\nadj. 寒冷的；冷淡的，不热情的；失去知觉的\nadv. 完全地",
+    "释义(英文)": "n. a mild viral infection involving the nose and respiratory passages (but not the lungs)\nn. the sensation produced by low temperatures\na. having a low or inadequate temperature or feeling a sensation of coldness or having been made cold by e.g. ice or refrigeration\na. extended meanings; especially of psychological coldness; without human warmth or emotion"
+  },
+  {
+    "单词": "fever",
+    "英音": "[ˈfiːvə(r)]",
+    "美音": "[ˈfiːvər]",
+    "释义(中文)": "n. 发烧，发热；狂热\nvt. 使发烧；使狂热；使患热病\nvi. 发烧；狂热；患热病",
+    "释义(英文)": "n. a rise in the temperature of the body; frequently a symptom of infection\nn. intense nervous anticipation"
+  },
+  {
+    "单词": "stomachache",
+    "英音": "[ˈstʌməkeɪk]",
+    "美音": "[ˈstʌməkˌeɪk]",
+    "释义(中文)": "n. 腹痛，肚子痛；胃痛",
+    "释义(英文)": "n. an ache localized in the stomach or abdominal region"
+  },
+  {
+    "单词": "take some medicine",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 吃药；吃一些药；吃些药",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "see the dentist",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "stay in bed",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 呆在床上；卧病在床；躺在床上",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "should",
+    "英音": "[ʃəd; ʃʊd]",
+    "美音": "[ʃəd; ʃʊd]",
+    "释义(中文)": "aux. 应该；就；可能；将要",
+    "释义(英文)": "imp. of Shall\nimp. Used as an auxiliary verb, to express a conditional or\n   contingent act or state, or as a supposition of an actual fact; also,\n   to express moral obligation (see Shall); e. g.: they should have come\n   last week; if I should go; I should think you could go."
+  },
+  {
+    "单词": "hurt",
+    "英音": "[hɜːt]",
+    "美音": "[hɜːrt]",
+    "释义(中文)": "n. 痛苦；危害；痛苦的原因\nvt. 使受伤；损害；使疼痛；使痛心\nadj. 受伤的；痛苦的；受损的\nvi. 感到疼痛；有坏处；带来痛苦\n",
+    "释义(英文)": "v. give trouble or pain to\nv. cause damage or affect negatively\nv. hurt the feelings of\nv. feel physical pain"
+  },
+  {
+    "单词": "be careful",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 小心；当心；注意",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "next time",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "adv. 下一次\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "dig",
+    "英音": "[dɪɡ]",
+    "美音": "[dɪɡ]",
+    "释义(中文)": "n. 戳，刺；挖苦\nvi. 挖掘\nvt. 挖，掘；探究\n",
+    "释义(英文)": "n. the site of an archeological exploration\nn. a small gouge (as in the cover of a book)\nn. the act of touching someone suddenly with your finger or elbow\nv. turn up, loosen, or remove earth"
+  },
+  {
+    "单词": "well",
+    "英音": "[wel]",
+    "美音": "[wel]",
+    "释义(中文)": "n. 井；源泉\nadj. 良好的；健康的；适宜的\nadv. 很好地；充分地；满意地；适当地\nv. 涌出\n\n",
+    "释义(英文)": "n. a deep hole or shaft dug or drilled to obtain water or oil or gas or brine\nn. a cavity or vessel used to contain liquid\nn. an abundant source\nn. an open shaft through the floors of a building (as for a stairway)"
+  },
+  {
+    "单词": "them",
+    "英音": "[ðəm; ðem]",
+    "美音": "[ðəm; ðem]",
+    "释义(中文)": "pron. 他们；它们；她们\n",
+    "释义(英文)": "pron. The objective case of they. See They."
+  },
+  {
+    "单词": "worry",
+    "英音": "[ˈwʌri]",
+    "美音": "[ˈwɜːri]",
+    "释义(中文)": "n. 担心；烦恼；撕咬\nvi. 担心；烦恼；撕咬\nvt. 担心；发愁；折磨",
+    "释义(英文)": "n. a strong feeling of anxiety\nv. be worried, concerned, anxious, troubled, or uneasy\nv. be concerned with\nv. disturb the peace of mind of; afflict with mental agitation or distress"
+  },
+  {
+    "单词": "easy",
+    "英音": "[ˈiːzi]",
+    "美音": "[ˈiːzi]",
+    "释义(中文)": "adj. 容易的；舒适的\nvt. 发出停划命令\nadv. 不费力地，从容地\nvi. 停止划桨",
+    "释义(英文)": "a. posing no difficulty; requiring little effort\ns. not hurried or forced\na. free from worry or anxiety\ns. affording pleasure"
+  },
+  {
+    "单词": "turn left",
+    "英音": "[tɜ:n left]",
+    "美音": "[tɝ​n lɛft]",
+    "释义(中文)": "un. 向左转\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "turn right",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 转往右面\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "go straight",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 笔直走\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "across from",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 在…的正对面\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "street",
+    "英音": "[striːt]",
+    "美音": "[striːt]",
+    "释义(中文)": "n. 街道\nadj. 街道的\n",
+    "释义(英文)": "n. a thoroughfare (usually including sidewalks) that is lined with buildings\nn. the part of a thoroughfare between the sidewalks; the part of the thoroughfare on which vehicles travel\nn. the streets of a city viewed as a depressed environment in which there is poverty and crime and prostitution and dereliction\nn. a situation offering opportunities"
+  },
+  {
+    "单词": "corner",
+    "英音": "[ˈkɔːnə(r)]",
+    "美音": "[ˈkɔːrnər]",
+    "释义(中文)": "n. 角落，拐角处；地区，偏僻处；困境，窘境\nvt. 垄断；迫至一隅；使陷入绝境；把…难住\nvi. 囤积；相交成角\n",
+    "释义(英文)": "n. a place off to the side of an area\nn. the point where two lines meet or intersect\nn. an interior angle formed by two meeting walls\nn. the intersection of two streets"
+  },
+  {
+    "单词": "traffic light",
+    "英音": "['træfɪk'laɪt]",
+    "美音": "[ˈtræfɪk laɪt]",
+    "释义(中文)": "n. 交通信号灯；红绿灯\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "bus stop",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 公共汽车停靠站\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "find",
+    "英音": "[faɪnd]",
+    "美音": "[faɪnd]",
+    "释义(中文)": "n. 发现\nvi. 裁决\nvt. 查找，找到；发现；认为；感到；获得\n",
+    "释义(英文)": "v. come upon, as if by accident; meet with\nv. come upon after searching; find the location of something that was missed or lost\nv. come to believe on the basis of emotion, intuitions, or indefinite grounds\nv. obtain through effort or management"
+  },
+  {
+    "单词": "cross",
+    "英音": "[krɒs]",
+    "美音": "[krɔːs]",
+    "释义(中文)": "n. 交叉，十字；十字架，十字形物\nadj. 交叉的，相反的；乖戾的；生气的\nvt. 杂交；渡过；使相交\nvi. 交叉；杂交；横过",
+    "释义(英文)": "n. a wooden structure consisting of an upright post with a transverse piece\nn. a representation of the structure on which Jesus was crucified; used as an emblem of Christianity or in heraldry\nn. any affliction that causes great suffering\nv. fold so as to resemble a cross"
+  },
+  {
+    "单词": "hamburger",
+    "英音": "[ˈhæmbɜːɡə(r)]",
+    "美音": "[ˈhæmbɜːrɡər]",
+    "释义(中文)": "n. 汉堡包，火腿汉堡；牛肉饼，肉饼；碎牛肉\n",
+    "释义(英文)": "n. a sandwich consisting of a fried cake of minced beef served on a bun, often with other ingredients"
+  },
+  {
+    "单词": "please",
+    "英音": "[pliːz]",
+    "美音": "[pliːz]",
+    "释义(中文)": "int. 请（礼貌用语）\nvt. 使喜欢；使高兴，使满意\nvi. 讨人喜欢；令人高兴",
+    "释义(英文)": "v. give pleasure to or be pleasing to\nv. be the will of or have the will (to)\nv. give satisfaction\nr. used in polite request"
+  },
+  {
+    "单词": "enough",
+    "英音": "[ɪˈnʌf]",
+    "美音": "[ɪˈnʌf]",
+    "释义(中文)": "n. 很多；充足\nadj. 充足的\nadv. 足够地，充足地\nint. 够了！",
+    "释义(英文)": "n. an adequate quantity; a quantity that is large enough to achieve a purpose\nr. as much as necessary; (`plenty' is nonstandard) \"I've had plenty, thanks\""
+  },
+  {
+    "单词": "not enough",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 爱不够；不足；还远远不够",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "plenty of",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 很多的\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "too much",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 太过份\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "healthy",
+    "英音": "[ˈhelθi]",
+    "美音": "[ˈhelθi]",
+    "释义(中文)": "adj. 健康的，健全的；有益于健康的\n",
+    "释义(英文)": "a. having or indicating good health in body or mind; free from infirmity or disease\ns. financially secure and functioning well\ns. promoting health; healthful\ns. exercising or showing good judgment"
+  },
+  {
+    "单词": "unhealthy",
+    "英音": "[ʌnˈhelθi]",
+    "美音": "[ʌnˈhelθi]",
+    "释义(中文)": "adj. 不健康的；危险的；有害身心健康的",
+    "释义(英文)": "a. not in or exhibiting good health in body or mind\ns. not conducive to good health"
+  },
+  {
+    "单词": "chocolate",
+    "英音": "[ˈtʃɒklət]",
+    "美音": "[ˈtʃɔːklət]",
+    "释义(中文)": "n. 巧克力，巧克力糖；巧克力色\nadj. 巧克力色的；巧克力口味的\n",
+    "释义(英文)": "n. a food made from roasted ground cacao beans\nn. a medium brown to dark-brown color"
+  },
+  {
+    "单词": "candy",
+    "英音": "[ˈkændi]",
+    "美音": "[ˈkændi]",
+    "释义(中文)": "n. 糖果（等于sweets）；冰糖（等于sugar candy，rock candy）；毒品\nadj. 新潮的（服饰）；甜言蜜语的\nvt. 用糖煮；使结晶为砂糖；美化\nvi. 糖煮；成为结晶",
+    "释义(英文)": "n. a rich sweet made of flavored sugar and often combined with fruit or nuts"
+  },
+  {
+    "单词": "cheese",
+    "英音": "[tʃiːz]",
+    "美音": "[tʃiːz]",
+    "释义(中文)": "n. [食品] 奶酪；干酪；要人\nadj. 叛变的；胆小的\nvt. 停止",
+    "释义(英文)": "n. a solid food prepared from the pressed curd of milk\nv. used in the imperative (get away, or stop it)\nv. wind onto a cheese"
+  },
+  {
+    "单词": "jelly",
+    "英音": "[ˈdʒeli]",
+    "美音": "[ˈdʒeli]",
+    "释义(中文)": "n. 果冻；胶状物\nvi. 成胶状\nvt. 使结冻\n",
+    "释义(英文)": "n. a preserve made of the jelled juice of fruit\nn. any substance having the consistency of jelly or gelatin"
+  },
+  {
+    "单词": "all",
+    "英音": "[ɔːl]",
+    "美音": "[ɔːl]",
+    "释义(中文)": "n. 全部\nadj. 全部的\nadv. 全然地；越发\npron. 全部\n",
+    "释义(英文)": "a. quantifier; used with either mass or count nouns to indicate the whole number or amount of or every one of a class\ns. completely given to or absorbed by"
+  },
+  {
+    "单词": "a lot of",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "det. 许多\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "yuck",
+    "英音": "[jʌk]",
+    "美音": "[jʌk]",
+    "释义(中文)": "n. 讨厌的东西（等于yuk）\nadj. 令人反感的（等于yuk）\nint. 啐（表示反感等，等于yuk）",
+    "释义(英文)": "v. i. To itch.\nv. t. To scratch."
+  },
+  {
+    "单词": "from now on",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 从今以后\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "only",
+    "英音": "[ˈəʊnli]",
+    "美音": "[ˈoʊnli]",
+    "释义(中文)": "adv. 只，仅仅；不料\nadj. 唯一的，仅有的；最合适的\nconj. 但是；不过；可是",
+    "释义(英文)": "r. with nevertheless the final result\nr. in the final outcome\nr. except that; only this time she came out better\"\nr. never except when"
+  },
+  {
+    "单词": "cola",
+    "英音": "[ˈkəʊlə]",
+    "美音": "[ˈkoʊlə]",
+    "释义(中文)": "n. 可乐；可乐树（其子含咖啡碱）\n",
+    "释义(英文)": "n. large genus of African trees bearing kola nuts\nn. carbonated drink flavored with extract from kola nuts (`dope' is a southernism in the United States)"
+  },
+  {
+    "单词": "else",
+    "英音": "[els]",
+    "美音": "[els]",
+    "释义(中文)": "adj. 别的；其他的\nadv. 其他；否则；另外\n",
+    "释义(英文)": "a. & pron. Other; one or something beside; as, Who else is\n   coming? What else shall I give? Do you expect anything else?\nadv. & conj. Besides; except that mentioned; in addition; as,\n   nowhere else; no one else.\nadv. & conj. Otherwise; in the other, or the contrary, case; if\n   the facts were different."
+  },
+  {
+    "单词": "water",
+    "英音": "[ˈwɔːtə(r)]",
+    "美音": "[ˈwɔːtər]",
+    "释义(中文)": "n. 水；海水；雨水；海域，大片的水\nvt. 使湿；供以水；给…浇水\nvi. 加水；流泪；流口水\n",
+    "释义(英文)": "n. binary compound that occurs at room temperature as a clear colorless odorless tasteless liquid; freezes into ice below 0 degrees centigrade and boils above 100 degrees centigrade; widely used as a solvent\nn. once thought to be one of four elements composing the universe (Empedocles)\nn. a liquid necessary for the life of most animals and plants\nv. supply with water, as with channels or ditches or streams"
+  },
+  {
+    "单词": "warm",
+    "英音": "[wɔːm]",
+    "美音": "[wɔːrm]",
+    "释义(中文)": "n. 取暖；加热\nadj. 温暖的；热情的\nvt. 使…兴奋；使…温暖；使…感兴趣\nvi. 同情；激动；变温暖\n",
+    "释义(英文)": "v. get warm or warmer\nv. make warm or warmer\na. having or producing a comfortable and agreeable degree of heat or imparting or maintaining heat\na. psychologically warm; friendly and responsive"
+  },
+  {
+    "单词": "cool",
+    "英音": "[kuːl]",
+    "美音": "[kuːl]",
+    "释义(中文)": "n. 凉爽；凉爽的空气\nadj. 凉爽的；冷静的；出色的\nvt. 使…冷却；使…平静下来\nvi. 变凉；平息\nadv. 冷静地\n",
+    "释义(英文)": "n. the quality of being at a refreshingly low temperature\nv. make cool or cooler\nv. loose heat\nv. lose intensity"
+  },
+  {
+    "单词": "wet",
+    "英音": "[wet]",
+    "美音": "[wet]",
+    "释义(中文)": "n. 雨天；湿气\nadj. [气象][物] 潮湿的；有雨的\nvt. 弄湿\nvi. 变湿\n",
+    "释义(英文)": "v. cause to become wet\nv. make one's bed or clothes wet by urinating\na. covered or soaked with a liquid such as water\na. containing moisture or volatile components"
+  },
+  {
+    "单词": "dry",
+    "英音": "[draɪ]",
+    "美音": "[draɪ]",
+    "释义(中文)": "n. 干涸\nadj. 干的；口渴的；枯燥无味的；禁酒的\nvt. 把…弄干\nvi. 变干\n",
+    "释义(英文)": "n. a reformer who opposes the use of intoxicating beverages\nv. remove the moisture from and make dry\nv. become dry or drier\na. free from liquid or moisture; lacking natural or normal moisture or depleted of water; or no longer wet"
+  },
+  {
+    "单词": "clean",
+    "英音": "[kliːn]",
+    "美音": "[kliːn]",
+    "释义(中文)": "n. 打扫\nadj. 清洁的，干净的；清白的\nvt. 使干净\nvi. 打扫，清扫\nadv. 完全地\n",
+    "释义(英文)": "v. make clean by removing dirt, filth, or unwanted substances from\nv. remove unwanted substances from, such as feathers or pits\nv. be cleanable\nv. deprive wholly of money in a gambling game, robbery, etc."
+  },
+  {
+    "单词": "dirty",
+    "英音": "[ˈdɜːti]",
+    "美音": "[ˈdɜːrti]",
+    "释义(中文)": "adj. 下流的，卑鄙的；肮脏的；恶劣的；暗淡的\nvt. 弄脏\nvi. 变脏",
+    "释义(英文)": "v. make soiled, filthy, or dirty\na. soiled or likely to soil with dirt or grime\na. (of behavior or especially language) characterized by obscenity or indecency\ns. vile; despicable"
+  },
+  {
+    "单词": "tidy",
+    "英音": "[ˈtaɪdi]",
+    "美音": "[ˈtaɪdi]",
+    "释义(中文)": "n. 椅子的背罩\nadj. 整齐的；相当大的\nvi. 整理；收拾\nvt. 整理；收拾；弄整齐\n",
+    "释义(英文)": "n. receptacle that holds odds and ends (as sewing materials)\nv. put (things or places) in order\na. marked by order and cleanliness in appearance or habits"
+  },
+  {
+    "单词": "messy",
+    "英音": "[ˈmesi]",
+    "美音": "[ˈmesi]",
+    "释义(中文)": "adj. 凌乱的，散乱的；肮脏的，污秽的；麻烦的",
+    "释义(英文)": "s. dirty and disorderly"
+  },
+  {
+    "单词": "was",
+    "英音": "[wəz; wɒz]",
+    "美音": "[wəz; wʌz]",
+    "释义(中文)": "be的第一和第三人称单数过去式",
+    "释义(英文)": "n a state in northwestern United States on the Pacific\nv have the quality of being; (copula, used with an adjective or a predicate noun)\nv be identical to; be someone or something\nv occupy a certain position or area; be somewhere\nv have an existence, be extant\nv happen, occur, take place; this was during the visit to my parents' house\"\nv be identical or equivalent to\nv form or compose\nv work in a specific place, with a specific subject, or in a specific function\nv represent, as of a character on stage\nv spend or use time\nv have life, be alive\nv to remain unmolested, undisturbed, or uninterrupted -- used only in infinitive form\nv be priced at"
+  },
+  {
+    "单词": "were",
+    "英音": "[wə(r); wɜː(r)]",
+    "美音": "[wər; wɜːr]",
+    "释义(中文)": "v. 是，在（are的过去式）\n",
+    "释义(英文)": "v have the quality of being; (copula, used with an adjective or a predicate noun)\nv be identical to; be someone or something\nv occupy a certain position or area; be somewhere\nv have an existence, be extant\nv happen, occur, take place; this was during the visit to my parents' house\"\nv be identical or equivalent to\nv form or compose\nv work in a specific place, with a specific subject, or in a specific function\nv represent, as of a character on stage\nv spend or use time\nv have life, be alive\nv to remain unmolested, undisturbed, or uninterrupted -- used only in infinitive form\nv be priced at"
+  },
+  {
+    "单词": "trash",
+    "英音": "[træʃ]",
+    "美音": "[træʃ]",
+    "释义(中文)": "n. 垃圾；废物\nvt. 丢弃；修剪树枝",
+    "释义(英文)": "n. worthless people\nv. dispose of (something useless or old)"
+  },
+  {
+    "单词": "museum",
+    "英音": "[mjuˈziːəm]",
+    "美音": "[mjuˈziːəm]",
+    "释义(中文)": "n. 博物馆",
+    "释义(英文)": "n. a depository for collecting and displaying objects having scientific or historical or artistic value"
+  },
+  {
+    "单词": "yesterday",
+    "英音": "[ˈjestədeɪ]",
+    "美音": "[ˈjestərdeɪ; ˈjestərdi]",
+    "释义(中文)": "n. 昨天；往昔\nadv. 昨天",
+    "释义(英文)": "n. the day immediately before today\nn. the recent past\nr. on the day preceding today\nr. in the recent past; only a short time ago"
+  },
+  {
+    "单词": "good",
+    "英音": "[ɡʊd]",
+    "美音": "[ɡʊd]",
+    "释义(中文)": "n. 好处；善行；慷慨的行为\nadj. 好的；优良的；愉快的；虔诚的\nadv. 好\n",
+    "释义(英文)": "n. benefit\nn. moral excellence or admirableness\nn. that which is pleasing or valuable or useful\na. having desirable or positive qualities especially those suitable for a thing specified"
+  },
+  {
+    "单词": "bad",
+    "英音": "[bæd]",
+    "美音": "[bæd]",
+    "释义(中文)": "n. 坏事；坏人\nadj. 坏的；严重的；劣质的\nadv. 很，非常；坏地；邪恶地\n",
+    "释义(英文)": "n. that which is below standard or expectations as of ethics or decency\na. having undesirable or negative qualities\ns. very intense\ns. feeling physical discomfort or pain (`tough' is occasionally used colloquially for `bad')"
+  },
+  {
+    "单词": "tasty",
+    "英音": "[ˈteɪsti]",
+    "美音": "[ˈteɪsti]",
+    "释义(中文)": "adj. 美味的；高雅的；有趣的\nn. 可口的东西；引人入胜的东西",
+    "释义(英文)": "a. pleasing to the sense of taste"
+  },
+  {
+    "单词": "yucky",
+    "英音": "[ˈjʌki]",
+    "美音": "[ˈjʌki]",
+    "释义(中文)": "adj. 恶心的；讨人厌的；不愉快的",
+    "释义(英文)": "s highly offensive; arousing aversion or disgust"
+  },
+  {
+    "单词": "snowy",
+    "英音": "[ˈsnəʊi]",
+    "美音": "[ˈsnoʊi]",
+    "释义(中文)": "adj. 下雪的，多雪的；被雪覆盖的；洁白无瑕的",
+    "释义(英文)": "s marked by the presence of snow\ns covered with snow\ns of the white color of snow"
+  },
+  {
+    "单词": "spicy",
+    "英音": "[ˈspaɪsi]",
+    "美音": "[ˈspaɪsi]",
+    "释义(中文)": "adj. 辛辣的；香的，多香料的；下流的",
+    "释义(英文)": "s having an agreeably pungent taste\ns producing a burning sensation on the taste nerves\ns suggestive of sexual impropriety"
+  },
+  {
+    "单词": "Canada",
+    "英音": "[ˈkænədə]",
+    "美音": "[ˈkænədə]",
+    "释义(中文)": "n. 加拿大（北美洲国家）",
+    "释义(英文)": "n. a nation in northern North America; the French were the first Europeans to settle in mainland Canada"
+  },
+  {
+    "单词": "Thailand",
+    "英音": "[ˈtaɪlænd]",
+    "美音": "[ˈtaɪlænd]",
+    "释义(中文)": "n. 泰国（东南亚国家名）",
+    "释义(英文)": "n. a country of southeastern Asia that extends southward along the Isthmus of Kra to the Malay Peninsula"
+  },
+  {
+    "单词": "food",
+    "英音": "[fuːd]",
+    "美音": "[fuːd]",
+    "释义(中文)": "n. 食物；养料",
+    "释义(英文)": "n. any substance that can be metabolized by an animal to give energy and build tissue\nn. any solid substance (as opposed to liquid) that is used as a source of nourishment\nn. anything that provides mental stimulus for thinking"
+  },
+  {
+    "单词": "Here comes ...",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 来了；来这里；日出",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "circus",
+    "英音": "[ˈsɜːkəs]",
+    "美音": "[ˈsɜːrkəs]",
+    "释义(中文)": "n. 马戏；马戏团",
+    "释义(英文)": "n. a travelling company of entertainers; including trained animals\nn. a performance given by a traveling company of acrobats, clowns, and trained animals\nn. a frenetic disorganized (and often comic) disturbance suggestive of a large public entertainment\nn. (antiquity) an open-air stadium for chariot races and gladiatorial games"
+  },
+  {
+    "单词": "week",
+    "英音": "[wiːk]",
+    "美音": "[wiːk]",
+    "释义(中文)": "n. 周，星期",
+    "释义(英文)": "n. any period of seven consecutive days\nn. a period of seven consecutive days starting on Sunday"
+  },
+  {
+    "单词": "month",
+    "英音": "[mʌnθ]",
+    "美音": "[mʌnθ]",
+    "释义(中文)": "n. 月，一个月的时间",
+    "释义(英文)": "n. a time unit of approximately 30 days"
+  },
+  {
+    "单词": "planted",
+    "英音": "[ˈplɑːntɪd]",
+    "美音": "[pla:ntid]",
+    "释义(中文)": "vbl. 种植",
+    "释义(英文)": "a. set in the soil for growth"
+  },
+  {
+    "单词": "plant",
+    "英音": "[plɑːnt]",
+    "美音": "[plænt]",
+    "释义(中文)": "n. 工厂，车间；植物；设备；庄稼\nvt. 种植；培养；栽培；安置\nvi. 种植\n",
+    "释义(英文)": "n. buildings for carrying on industrial labor\nn. (botany) a living organism lacking the power of locomotion\nn. an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience\nn. something planted secretly for discovery by another"
+  },
+  {
+    "单词": "listened",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "v. 倾听( listen的过去式和过去分词 ); 留心听; 听信; （让对方注意）听着",
+    "释义(英文)": "imp. & p. p. of Listen"
+  },
+  {
+    "单词": "listen",
+    "英音": "[ˈlɪs(ə)n]",
+    "美音": "[ˈlɪsn]",
+    "释义(中文)": "vi. 听，倾听；听从，听信\nn. 听，倾听",
+    "释义(英文)": "v. hear with intention\nv. listen and pay attention"
+  },
+  {
+    "单词": "watched",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "vt. 观察；注视；看守；警戒\nn. 手表；监视；守护；值班人\nvi. 观看，注视；守侯，看守",
+    "释义(英文)": "imp. & p. p. of Watch"
+  },
+  {
+    "单词": "watch",
+    "英音": "[wɒtʃ]",
+    "美音": "[wɑːtʃ]",
+    "释义(中文)": "n. 手表；监视；守护；值班人\nvt. 观察；注视；看守；警戒\nvi. 观看，注视；守侯，看守",
+    "释义(英文)": "n. a small portable timepiece\nn. a period of time (4 or 2 hours) during which some of a ship's crew are on duty\nn. a purposeful surveillance to guard or observe\nn. the period during which someone (especially a guard) is on duty"
+  },
+  {
+    "单词": "helped",
+    "英音": "[helpt]",
+    "美音": "[helpt]",
+    "释义(中文)": "v. 帮助（help的过去分词）",
+    "释义(英文)": "v give help or assistance; be of service\nv improve the condition of\nv be of use\nv abstain from doing; always used with a negative\nv help to some food; help with food or drink\nv contribute to the furtherance of\nv take or use\nv improve; change for the better"
+  },
+  {
+    "单词": "help",
+    "英音": "[help]",
+    "美音": "[help]",
+    "释义(中文)": "n. 帮助；补救办法；帮忙者；有益的东西\nvt. 帮助；促进；治疗；补救\nvi. 帮助；有用；招待\n",
+    "释义(英文)": "v. give help or assistance; be of service\nv. improve the condition of\nv. be of use\nv. contribute to the furtherance of"
+  },
+  {
+    "单词": "washed",
+    "英音": "[wɒʃt]",
+    "美音": "[wɑːʃt]",
+    "释义(中文)": "v. 洗，洗涤（wash的过去分词）\nadj. 洗过的",
+    "释义(英文)": "s. clean by virtue of having been washed in water\ns. wet as from washing; sometimes used in combination"
+  },
+  {
+    "单词": "wash",
+    "英音": "[wɒʃ]",
+    "美音": "[wɑːʃ]",
+    "释义(中文)": "n. 洗涤；洗的衣服；化妆水；冲积物\nvt. 洗涤；洗刷；冲走；拍打\nvi. 洗澡；被冲蚀\n",
+    "释义(英文)": "n. a thin coat of water-base paint\nn. the work of cleansing (usually with soap and water)\nn. the dry bed of an intermittent stream (as at the bottom of a canyon)\nn. a watercolor made by applying a series of monochrome washes one over the other"
+  },
+  {
+    "单词": "painted",
+    "英音": "[ˈpeɪntɪd]",
+    "美音": "[ˈpeɪntɪd]",
+    "释义(中文)": "adj. 描画的；着色的；刷上油漆的\nv. 油漆（paint的过去式和过去分词）\n",
+    "释义(英文)": "a. coated with paint\ns. lacking substance or vitality as if produced by painting\na. having makeup applied"
+  },
+  {
+    "单词": "paint",
+    "英音": "[peɪnt]",
+    "美音": "[peɪnt]",
+    "释义(中文)": "vt. 油漆；绘画；装饰；涂色于；描绘；（用语言，文字等）描写；擦脂粉等\nvi. 油漆；描绘；绘画；化妆\nn. 油漆；颜料，涂料；绘画作品；胭脂等化妆品；色彩，装饰\n",
+    "释义(英文)": "n. a substance used as a coating to protect or decorate a surface (especially a mixture of pigment suspended in a liquid); dries to form a hard coating\nv. make a painting\nv. apply paint to; coat with paint\nv. make a painting of"
+  },
+  {
+    "单词": "cooked",
+    "英音": "[kʊkt]",
+    "美音": "[kʊkt]",
+    "释义(中文)": "adj. 煮熟的\nv. 煮（cook的过去式、过去分词形式）",
+    "释义(英文)": "a. having been prepared for eating by the application of heat"
+  },
+  {
+    "单词": "cook",
+    "英音": "[kʊk]",
+    "美音": "[kʊk]",
+    "释义(中文)": "n. 厨师，厨子\nvt. 烹调，煮\nvi. 烹调，做菜\n",
+    "释义(英文)": "n. someone who cooks food\nn. English navigator who claimed the east coast of Australia for Britain and discovered several Pacific islands (1728-1779)\nv. prepare a hot meal\nv. prepare for eating by applying heat"
+  },
+  {
+    "单词": "called",
+    "英音": "[kɔːld]",
+    "美音": "[kɔːld]",
+    "释义(中文)": "v. 打电话、称呼（call的过去式）；[通信] 呼叫；访问\nadj. 被呼叫的",
+    "释义(英文)": "v assign a specified (usually proper) proper name to\nv ascribe a quality to or give a name of a common noun that reflects a quality\nv get or try to get into communication (with someone) by telephone\nv utter a sudden loud cry\nv order, request, or command to come\nv pay a brief visit\nv call a meeting; invite or command to meet\nv read aloud to check for omissions or absentees\nv send a message or attempt to reach someone by radio, phone, etc.; make a signal to in order to transmit a message\nv utter a characteristic note or cry\nv stop or postpone because of adverse conditions, such as bad weather\nv greet, as with a prescribed form, title, or name\nv make a stop in a harbour\nv demand payment of (a loan)\nv make a demand, as for a card or a suit or a show of hands\nv give the calls (to the dancers) for a square dance\nv indicate a decision in regard to\nv make a prediction about; tell in advance\nv require the presentation of for redemption before maturation\nv challenge (somebody) to make good on a statement; charge with or censure for an offense\nv declare in the capacity of an umpire or referee\nv lure by imitating the characteristic call of an animal\nv order or request or give a command for\nv order, summon, or request for a specific duty or activity, work, role\nv utter in a loud voice or announce\nv challenge the sincerity or truthfulness of\nv consider or regard as being\nv rouse somebody from sleep with a call"
+  },
+  {
+    "单词": "call",
+    "英音": "[kɔːl]",
+    "美音": "[kɔːl]",
+    "释义(中文)": "n. 电话；呼叫；要求；访问\nvi. 呼叫；拜访；叫牌\nvt. 呼叫；称呼；召集\n",
+    "释义(英文)": "n. a telephone connection\nn. a special disposition (as if from a divine source) to pursue a particular course\nn. a demand especially in the phrase \"the call of duty\"\nn. a brief social visit"
+  },
+  {
+    "单词": "did",
+    "英音": "[dɪd]",
+    "美音": "[dɪd]",
+    "释义(中文)": "v. 做（do的过去式）",
+    "释义(英文)": "v engage in\nv carry out or perform an action\nv get (something) done\nv proceed or get along\nv give rise to; cause to happen or occur, not always intentionally\nv carry out or practice; as of jobs and professions\nv be sufficient; be adequate, either in quality or quantity\nv create or design, often in a certain way\nv behave in a certain manner; show a certain behavior; conduct or comport oneself\nv spend time in prison or in a labor camp\nv carry on or function\nv arrange attractively\nv travel or traverse (a distance)"
+  },
+  {
+    "单词": "do",
+    "英音": "[duː; də; du; dəʊ]",
+    "美音": "[duː; də; du; doʊ]",
+    "释义(中文)": "vi. 行，足够；生长\nn. 要求；规定；C大调音阶中的第一音\nv. 做；干；学习；研究；进行；完成；解答；整理；算出；引起；行过\naux. 助动词（构成疑问句和否定句）；（代替动词）；（用于加强语气）\nn. （口语）事件；（主英国口语）诈骗；（主英国、新西兰口语）宴会；（口语）必须做到的事情",
+    "释义(英文)": "n. the syllable naming the first (tonic) note of any major scale in solmization\nv. get (something) done\nv. proceed or get along\nv. create or design, often in a certain way"
+  },
+  {
+    "单词": "tree",
+    "英音": "[triː]",
+    "美音": "[triː]",
+    "释义(中文)": "n. 树；木料；树状物\nvt. 把...赶上树\nvi. 爬上树；逃上树\n",
+    "释义(英文)": "n. a tall perennial woody plant having a main trunk and branches forming a distinct elevated crown; includes both gymnosperms and angiosperms\nn. a figure that branches from a single root\nn. English actor and theatrical producer noted for his lavish productions of Shakespeare (1853-1917)\nv. plant with trees"
+  },
+  {
+    "单词": "the Tree Planting Day",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "last",
+    "英音": "[lɑːst]",
+    "美音": "[læst]",
+    "释义(中文)": "n. 末尾，最后；上个；鞋楦（做鞋的模型）\nadj. 最后的；最近的，最新的；仅剩的；最不可能…的\nvi. 持续；维持，够用；持久\nvt. 度过，拖过；使维持\nadv. 最后地；上次，最近；最后一点\n",
+    "释义(英文)": "n. the last or lowest in an ordering or series\nn. a person's dying act; the final thing a person can do\nn. a unit of weight equal to 4,000 pounds\nn. a unit of capacity for grain equal to 80 bushels"
+  },
+  {
+    "单词": "year",
+    "英音": "[jɪə(r)]",
+    "美音": "[jɪr]",
+    "释义(中文)": "n. 年；年度；历年；年纪；一年的期间；某年级的学生",
+    "释义(英文)": "n. a period of time containing 365 (or 366) days\nn. a period of time occupying a regular part of a calendar year that is used for some particular activity\nn. the period of time that it takes for a planet (as, e.g., Earth or Mars) to make a complete revolution around the sun"
+  },
+  {
+    "单词": "walk",
+    "英音": "[wɔːk]",
+    "美音": "[wɔːk]",
+    "释义(中文)": "n. 步行，走；散步\nvi. 走，步行；散步\nvt. 散步；走过\n",
+    "释义(英文)": "n. the act of traveling by foot\nn. manner of walking\nn. the act of walking somewhere\nn. a path set aside for walking"
+  }
+]

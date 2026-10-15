@@ -1,0 +1,730 @@
+[
+  {
+    "单词": "first floor",
+    "英音": "[fɜ:st flɔ:(r)]",
+    "美音": "[fɝ​st flɔr]",
+    "释义(中文)": "n. 地面以上的一层；底层\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "second floor",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 〈美〉二楼；〈英〉三楼\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "teacher's office",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "library",
+    "英音": "[ˈlaɪbrəri; ˈlaɪbri]",
+    "美音": "[ˈlaɪbreri]",
+    "释义(中文)": "n. 图书馆，藏书室；文库",
+    "释义(英文)": "n. a room where books are kept\nn. a collection of literary documents or records kept for reference or borrowing\nn. a depository built to contain books and other materials for reading and study\nn. (computing) a collection of standard programs and subroutines that are stored and available for immediate use"
+  },
+  {
+    "单词": "playground",
+    "英音": "[ˈpleɪɡraʊnd]",
+    "美音": "[ˈpleɪɡraʊnd]",
+    "释义(中文)": "n. 运动场，操场；游乐场",
+    "释义(英文)": "n. yard consisting of an outdoor area for children's play"
+  },
+  {
+    "单词": "computer room",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "un. 计算机机房；计算机室\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "art room",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 绘画教室；美术室；美术教室",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "music room",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 音乐教室；音乐室；音乐厅",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "next to",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "prep. 紧邻；在…近旁；仅次于；紧接\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "homework",
+    "英音": "[ˈhəʊmwɜːk]",
+    "美音": "[ˈhoʊmwɜːrk]",
+    "释义(中文)": "n. 家庭作业，课外作业",
+    "释义(英文)": "n. preparatory school work done outside school (especially at home)"
+  },
+  {
+    "单词": "class",
+    "英音": "[klɑːs]",
+    "美音": "[klæs]",
+    "释义(中文)": "n. 阶级；班级；种类；班；等级\nadj. 极好的；很好的，优秀的，出色的\nvt. 分类；把…分等级；把…归入某等级，把…看作（或分类、归类）；把…编入某一班级\nvi. 属于…类（或等级），被列为某类（或某级）\n",
+    "释义(英文)": "n. a collection of things sharing a common attribute\nn. a body of students who are taught together\nn. people having the same social, economic, or educational status\nn. a league ranked by quality"
+  },
+  {
+    "单词": "forty",
+    "英音": "[ˈfɔːti]",
+    "美音": "[ˈfɔːrti]",
+    "释义(中文)": "n. 四十\nadj. 四十的；四十个的",
+    "释义(英文)": "n. the cardinal number that is the product of ten and four\ns. being ten more than thirty"
+  },
+  {
+    "单词": "way",
+    "英音": "[weɪ]",
+    "美音": "[weɪ]",
+    "释义(中文)": "n. 方法；道路；方向；行业；习惯\nadj. 途中的\nadv. 大大地；远远地\n",
+    "释义(英文)": "n. the condition of things generally\nn. a course of conduct\nn. any artifact consisting of a road or path affording passage from one place to another\nn. a journey or passage"
+  },
+  {
+    "单词": "breakfast",
+    "英音": "[ˈbrekfəst]",
+    "美音": "[ˈbrekfəst]",
+    "释义(中文)": "n. 早餐；早饭\nvt. 为…供应早餐\nvi. 吃早餐",
+    "释义(英文)": "n. the first meal of the day (usually in the morning)\nv. eat an early morning meal\nv. provide breakfast for"
+  },
+  {
+    "单词": "English class",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 英语课；英文课；英语课程",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "lunch",
+    "英音": "[lʌntʃ]",
+    "美音": "[lʌntʃ]",
+    "释义(中文)": "n. 午餐\nvt. 吃午餐；供给午餐\nvi. 吃午餐；供给午餐",
+    "释义(英文)": "n. a midday meal\nv. take the midday meal\nv. provide a midday meal for"
+  },
+  {
+    "单词": "music class",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "PE class",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "dinner",
+    "英音": "[ˈdɪnə(r)]",
+    "美音": "[ˈdɪnər]",
+    "释义(中文)": "n. 晚餐，晚宴；宴会；正餐\n",
+    "释义(英文)": "n. the main meal of the day served in the evening or at midday\nn. a party of people assembled to have dinner together"
+  },
+  {
+    "单词": "get up",
+    "英音": "[ɡet ʌp]",
+    "美音": "[ɡet ʌp]",
+    "释义(中文)": "na. 起床；起身；站起来；叫…起床\n",
+    "释义(英文)": "n a set of clothing (with accessories)"
+  },
+  {
+    "单词": "go to school",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 到校上课；上学去；开始求学\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "go home",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 回家；〈口〉死；(忠告等)刻骨铭心；击中\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "go to bed",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 睡；同床；【印】付印\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "over",
+    "英音": "[ˈəʊvə(r)]",
+    "美音": "[ˈoʊvər]",
+    "释义(中文)": "adv. 结束；越过；从头到尾\nprep. 越过；在…之上；遍于…之上\nadj. 结束的；上面的\nvt. 越过\n",
+    "释义(英文)": "n. (cricket) the division of play during which six balls are bowled at the batsman by one player from the other team from the same end of the pitch\nr. at or to a point across intervening space etc.\nr. throughout an area\nr. throughout a period of time"
+  },
+  {
+    "单词": "now",
+    "英音": "[naʊ]",
+    "美音": "[naʊ]",
+    "释义(中文)": "adv. 现在；如今；立刻\nadj. 现在的\nn. 现在；目前\nconj. 由于；既然",
+    "释义(英文)": "n. the momentary present\nr. in the historical present; at this point in the narration of a series of past events\nr. used to preface a command or reproof or request\nr. at the present moment"
+  },
+  {
+    "单词": "o'clock",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "abbr. …点钟（等于of the clock）",
+    "释义(英文)": "r. according to the clock"
+  },
+  {
+    "单词": "kid",
+    "英音": "[kɪd]",
+    "美音": "[kɪd]",
+    "释义(中文)": "n. 小孩；小山羊\nvt. 欺骗；取笑；戏弄\nvi. 欺骗；取笑；戏弄\nadj. 小山羊皮制的；较年幼的\n",
+    "释义(英文)": "n. soft smooth leather from the hide of a young goat\nn. young goat\nv. be silly or tease one another"
+  },
+  {
+    "单词": "thirty",
+    "英音": "[ˈθɜːti]",
+    "美音": "[ˈθɜːrti]",
+    "释义(中文)": "num. 三十\nn. 三十年代\nadj. 三十个的",
+    "释义(英文)": "n. the cardinal number that is the product of ten and three\ns. being ten more than twenty"
+  },
+  {
+    "单词": "hurry up",
+    "英音": "['hʌrɪ ʌp]",
+    "美音": "['hɜːrɪ ʌp]",
+    "释义(中文)": "na. 催促；赶快\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "come on",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. (演员)出台；进行(很好)；(暴风雨等)起；(病,苦痛等)加深\n",
+    "释义(英文)": "n anything that serves as an enticement\nn qualities that attract by seeming to promise some kind of reward"
+  },
+  {
+    "单词": "just a minute",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. “wait/just a minute”的变体\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "cold",
+    "英音": "[kəʊld]",
+    "美音": "[kəʊld]",
+    "释义(中文)": "n. 寒冷；感冒\nadj. 寒冷的；冷淡的，不热情的；失去知觉的\nadv. 完全地",
+    "释义(英文)": "n. a mild viral infection involving the nose and respiratory passages (but not the lungs)\nn. the sensation produced by low temperatures\na. having a low or inadequate temperature or feeling a sensation of coldness or having been made cold by e.g. ice or refrigeration\na. extended meanings; especially of psychological coldness; without human warmth or emotion"
+  },
+  {
+    "单词": "cool",
+    "英音": "[kuːl]",
+    "美音": "[kuːl]",
+    "释义(中文)": "n. 凉爽；凉爽的空气\nadj. 凉爽的；冷静的；出色的\nvt. 使…冷却；使…平静下来\nvi. 变凉；平息\nadv. 冷静地\n",
+    "释义(英文)": "n. the quality of being at a refreshingly low temperature\nv. make cool or cooler\nv. loose heat\nv. lose intensity"
+  },
+  {
+    "单词": "warm",
+    "英音": "[wɔːm]",
+    "美音": "[wɔːrm]",
+    "释义(中文)": "n. 取暖；加热\nadj. 温暖的；热情的\nvt. 使…兴奋；使…温暖；使…感兴趣\nvi. 同情；激动；变温暖\n",
+    "释义(英文)": "v. get warm or warmer\nv. make warm or warmer\na. having or producing a comfortable and agreeable degree of heat or imparting or maintaining heat\na. psychologically warm; friendly and responsive"
+  },
+  {
+    "单词": "hot",
+    "英音": "[hɒt]",
+    "美音": "[hɑːt]",
+    "释义(中文)": "adj. 热的；辣的；热情的；激动的；紧迫的\nvt. 增加；给…加温\nadv. 热；紧迫地\nvi. 变热\n",
+    "释义(英文)": "a. used of physical heat; having a high or higher than desirable temperature or giving off heat or feeling or causing a sensation of heat or burning\ns. characterized by violent and forceful activity or movement; very intense\na. extended meanings; especially of psychological heat; marked by intensity or vehemence especially of passion or enthusiasm\ns. (color) bold and intense"
+  },
+  {
+    "单词": "sunny",
+    "英音": "[ˈsʌni]",
+    "美音": "[ˈsʌni]",
+    "释义(中文)": "adj. 阳光充足的，和煦的；快活的；性情开朗的",
+    "释义(英文)": "s bright and pleasant; promoting a feeling of cheer"
+  },
+  {
+    "单词": "windy",
+    "英音": "[ˈwɪndi]",
+    "美音": "[ˈwɪndi]",
+    "释义(中文)": "adj. 多风的，有风的；腹胀的；吹牛的",
+    "释义(英文)": "s. resembling the wind in speed, force, or variability"
+  },
+  {
+    "单词": "cloudy",
+    "英音": "[ˈklaʊdi]",
+    "美音": "[ˈklaʊdi]",
+    "释义(中文)": "adj. 多云的；阴天的；愁容满面的",
+    "释义(英文)": "s. lacking definite form or limits\na. full of or covered with clouds\ns. (of liquids) clouded as with sediment"
+  },
+  {
+    "单词": "snowy",
+    "英音": "[ˈsnəʊi]",
+    "美音": "[ˈsnoʊi]",
+    "释义(中文)": "adj. 下雪的，多雪的；被雪覆盖的；洁白无瑕的",
+    "释义(英文)": "s marked by the presence of snow\ns covered with snow\ns of the white color of snow"
+  },
+  {
+    "单词": "rainy",
+    "英音": "[ˈreɪni]",
+    "美音": "[ˈreɪni]",
+    "释义(中文)": "adj. 下雨的；多雨的\n",
+    "释义(英文)": "s (of weather) wet by periods of rain"
+  },
+  {
+    "单词": "outside",
+    "英音": "[ˌaʊtˈsaɪd]",
+    "美音": "[ˌaʊtˈsaɪd]",
+    "释义(中文)": "adj. 外面的，外部的；外来的\nn. 外部；外观\nadv. 在外面，向外面；在室外\nprep. 在…范围之外",
+    "释义(英文)": "n. the region that is outside of something\nn. the outer side or surface of something\na. relating to or being on or near the outer side or limit\ns. originating or belonging beyond some bounds:\"the outside world\""
+  },
+  {
+    "单词": "be careful",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 小心；当心；注意",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "weather",
+    "英音": "[ˈweðə(r)]",
+    "美音": "[ˈweðər]",
+    "释义(中文)": "n. 天气；气象；气候；处境\nvt. 经受住；使风化；侵蚀；使受风吹雨打\nadj. 露天的；迎风的\nvi. 风化；受侵蚀；经受风雨\n",
+    "释义(英文)": "n. the atmospheric conditions that comprise the state of the atmosphere in terms of temperature and wind and clouds and precipitation\nv. face and withstand with courage\nv. cause to slope\nv. sail to the windward of"
+  },
+  {
+    "单词": "New York",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 【城】纽约州\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "how about",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 怎么样；如何；怎麽样",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "degree",
+    "英音": "[dɪˈɡriː]",
+    "美音": "[dɪˈɡriː]",
+    "释义(中文)": "n. 程度，等级；度；学位；阶层",
+    "释义(英文)": "n. a position on a scale of intensity or amount or quality\nn. a specific identifiable position in a continuum or series or especially in a process\nn. a measure for arcs and angles\nn. the highest power of a term or variable"
+  },
+  {
+    "单词": "world",
+    "英音": "[wɜːld]",
+    "美音": "[wɜːrld]",
+    "释义(中文)": "n. 世界；领域；世俗；全人类；物质生活",
+    "释义(英文)": "n. people in general; especially a distinctive group of people with some shared interest\nn. all of your experiences that determine how things appear to you\nn. a part of the earth that can be considered separately\nn. all of the living human inhabitants of the earth"
+  },
+  {
+    "单词": "London",
+    "英音": "[ˈlʌndən]",
+    "美音": "[ˈlʌndən]",
+    "释义(中文)": "n. 伦敦",
+    "释义(英文)": "n. the capital and largest city of England; located on the Thames in southeastern England; financial and industrial and cultural center\nn. United States writer of novels based on experiences in the Klondike gold rush (1876-1916)"
+  },
+  {
+    "单词": "Moscow",
+    "英音": "[ˈmɒskəʊ]",
+    "美音": "[ˈmɑːskaʊ]",
+    "释义(中文)": "n. 莫斯科（俄罗斯首都）",
+    "释义(英文)": "n. a city of central European Russia; formerly capital of both the Soviet Union and Soviet Russia; since 1991 the capital of the Russian Federation"
+  },
+  {
+    "单词": "Singapore",
+    "英音": "[ˌsɪŋəˈpɔː(r)]",
+    "美音": "[ˈsɪŋəpɔːr]",
+    "释义(中文)": "n. 新加坡",
+    "释义(英文)": "n. the capital of Singapore; one of the world's biggest ports\nn. a country in southeastern Asia on the island of Singapore; achieved independence from Malaysia in 1965\nn. an island to the south of the Malay Peninsula"
+  },
+  {
+    "单词": "Sydney",
+    "英音": "[ˈsɪdni]",
+    "美音": "[ˈsɪdni]",
+    "释义(中文)": "n. 悉尼（澳大利亚港市）",
+    "释义(英文)": "n. the largest Australian city located in southeastern Australia on the Tasman Sea; state capital of New South Wales; Australia's chief port"
+  },
+  {
+    "单词": "fly",
+    "英音": "[flaɪ]",
+    "美音": "[flaɪ]",
+    "释义(中文)": "n. 飞行；苍蝇；两翼昆虫\nadj. 敏捷的\nvi. 飞；驾驶飞机；飘扬\nvt. 飞行；飞越；使飘扬\n",
+    "释义(英文)": "n. two-winged insects characterized by active flight\nn. an opening in a garment that is closed by a zipper or by buttons concealed under a fold of cloth\nn. (baseball) a hit that flies up in the air\nn. fisherman's lure consisting of a fishhook decorated to look like an insect"
+  },
+  {
+    "单词": "love",
+    "英音": "[lʌv]",
+    "美音": "[lʌv]",
+    "释义(中文)": "n. 恋爱；亲爱的；酷爱；喜爱的事物；爱情，爱意；疼爱；热爱；爱人，所爱之物\nv. 爱，热爱；爱戴；赞美，称赞；喜爱；喜好；喜欢；爱慕\n",
+    "释义(英文)": "n. a strong positive emotion of regard and affection\nn. any object of warm affection or devotion; \nn. a deep feeling of sexual desire and attraction\nn. a score of zero in tennis or squash"
+  },
+  {
+    "单词": "tomato",
+    "英音": "[təˈmɑːtəʊ]",
+    "美音": "[təˈmeɪtoʊ]",
+    "释义(中文)": "n. 番茄，西红柿",
+    "释义(英文)": "n. mildly acid red or yellow pulpy fruit eaten as a vegetable\nn. native to South America; widely cultivated in many varieties"
+  },
+  {
+    "单词": "potato",
+    "英音": "[pəˈteɪtəʊ]",
+    "美音": "[pəˈteɪtoʊ]",
+    "释义(中文)": "n. [作物] 土豆，[作物] 马铃薯",
+    "释义(英文)": "n. an edible tuber native to South America; a staple food of Ireland\nn. annual native to South America having underground stolons bearing edible starchy tubers; widely cultivated as a garden vegetable; vines are poisonous"
+  },
+  {
+    "单词": "green beans",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 【食】青豆\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "carrot",
+    "英音": "[ˈkærət]",
+    "美音": "[ˈkærət]",
+    "释义(中文)": "n. 胡萝卜\n诱饵",
+    "释义(英文)": "n. deep orange edible root of the cultivated carrot plant\nn. perennial plant widely cultivated as an annual in many varieties for its long conical orange edible roots; temperate and tropical regions\nn. orange root; important source of carotene\nn. promise of reward as in \"carrot and stick\";"
+  },
+  {
+    "单词": "horse",
+    "英音": "[hɔːs]",
+    "美音": "[hɔːrs]",
+    "释义(中文)": "n. 马；骑兵；脚架；海洛因\nvt. 使骑马；系马于；捉弄\nvi. 骑马；作弄人\n",
+    "释义(英文)": "n. solid-hoofed herbivorous quadruped domesticated since prehistoric times\nn. a padded gymnastic apparatus on legs\nv. provide with a horse or horses"
+  },
+  {
+    "单词": "cow",
+    "英音": "[kaʊ]",
+    "美音": "[kaʊ]",
+    "释义(中文)": "n. 奶牛，母牛；母兽\nvt. 威胁，恐吓",
+    "释义(英文)": "n. female of domestic cattle: \"`moo-cow' is a child's term\"\nn. mature female of mammals of which the male is called `bull'\nn. a large unpleasant woman"
+  },
+  {
+    "单词": "sheep",
+    "英音": "[ʃiːp]",
+    "美音": "[ʃiːp]",
+    "释义(中文)": "n. 羊，绵羊；胆小鬼\n",
+    "释义(英文)": "n. woolly usually horned ruminant mammal related to the goat\nn. a timid defenseless simpleton who is readily preyed upon\nn. a docile and vulnerable person who would rather follow than make an independent decision"
+  },
+  {
+    "单词": "hen",
+    "英音": "[hen]",
+    "美音": "[hen]",
+    "释义(中文)": "n. 母鸡；女人；雌禽\n",
+    "释义(英文)": "n. adult female chicken\nn. adult female bird\nn. flesh of an older chicken suitable for stewing\nn. female of certain aquatic animals e.g. octopus or lobster"
+  },
+  {
+    "单词": "these",
+    "英音": "[ðiːz]",
+    "美音": "[ðiːz]",
+    "释义(中文)": "adj. 这些的\npron. 这些",
+    "释义(英文)": "pron. The plural of this. See This.\npl.  of This"
+  },
+  {
+    "单词": "yum",
+    "英音": "[jʌm]",
+    "美音": "[jʌm]",
+    "释义(中文)": "int. 极好的；妙的；美味的\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "animal",
+    "英音": "[ˈænɪm(ə)l]",
+    "美音": "[ˈænɪm(ə)l]",
+    "释义(中文)": "n. 动物\n动物的",
+    "释义(英文)": "n. a living organism characterized by voluntary movement\ns. marked by the appetites and passions of the body"
+  },
+  {
+    "单词": "those",
+    "英音": "[ðəʊz]",
+    "美音": "[ðoʊz]",
+    "释义(中文)": "adj. 那些的\npron. 那些（that的复数）",
+    "释义(英文)": "pron. The plural of that. See That."
+  },
+  {
+    "单词": "garden",
+    "英音": "[ˈɡɑːdn]",
+    "美音": "[ˈɡɑːrdn]",
+    "释义(中文)": "n. 花园；菜园\nvt. 栽培花木\nvi. 从事园艺；在园中种植\n",
+    "释义(英文)": "n. a plot of ground where plants are cultivated\nn. the flowers or vegetables or fruits or herbs that are cultivated in a garden\nn. a yard or lawn adjoining a house\nv. work in the garden"
+  },
+  {
+    "单词": "farm",
+    "英音": "[fɑːm]",
+    "美音": "[fɑːrm]",
+    "释义(中文)": "n. 农场；农家；畜牧场\nvt. 养殖；耕种；佃出（土地）\nvi. 种田，务农；经营农场",
+    "释义(英文)": "n. workplace consisting of farm buildings and cultivated land as a unit\nv. be a farmer; work as a farmer\nv. collect fees or profits"
+  },
+  {
+    "单词": "goat",
+    "英音": "[ɡəʊt]",
+    "美音": "[goʊt]",
+    "释义(中文)": "n. 山羊；替罪羊（美俚）；色鬼（美俚）",
+    "释义(英文)": "n. any of numerous agile ruminants related to sheep but having a beard and straight horns"
+  },
+  {
+    "单词": "eat",
+    "英音": "[iːt]",
+    "美音": "[iːt]",
+    "释义(中文)": "vt. 吃，喝；腐蚀；烦扰\nvi. 进食；腐蚀，侵蚀",
+    "释义(英文)": "v. take in solid food\nv. eat a meal; take a meal\nv. worry or cause anxiety in a persistent way"
+  },
+  {
+    "单词": "clothes",
+    "英音": "[kləʊðz]",
+    "美音": "[kloʊðz; kloʊz]",
+    "释义(中文)": "n. 衣服",
+    "释义(英文)": "n clothing in general\nv provide with clothes or put clothes on\nv furnish with power or authority; of kings or emperors\nv cover as if with clothing"
+  },
+  {
+    "单词": "pants",
+    "英音": "[pænts]",
+    "美音": "[pænts]",
+    "释义(中文)": "n. 裤子",
+    "释义(英文)": "n underpants worn by women\nn the noise made by a short puff of steam (as from an engine)\nn (usually in the plural) a garment extending from the waist to the knee or ankle, covering each leg separately\nn a short labored intake of breath with the mouth open\nv breathe noisily, as when one is exhausted\nv utter while panting, as if out of breath"
+  },
+  {
+    "单词": "hat",
+    "英音": "[hæt]",
+    "美音": "[hæt]",
+    "释义(中文)": "n. 帽子\nvt. 给……戴上帽子\nvi. 供应帽子；制造帽子\n",
+    "释义(英文)": "n. headdress that protects the head from bad weather; has shaped crown and usually a brim\nn. an informal term for a person's role\nv. put on or wear a hat\nv. furnish with a hat"
+  },
+  {
+    "单词": "dress",
+    "英音": "[dres]",
+    "美音": "[dres]",
+    "释义(中文)": "n. 连衣裙；女装\nvt. 给…穿衣\nvi. 穿衣\n",
+    "释义(英文)": "n. a one-piece garment for a woman; has skirt and bodice\nv. put on clothes\nv. provide with clothes or put clothes on\nv. put a finish on"
+  },
+  {
+    "单词": "skirt",
+    "英音": "[skɜːt]",
+    "美音": "[skɜːrt]",
+    "释义(中文)": "n. 裙子\nvt. 绕过，回避；位于…边缘\nvi. 沿边走，绕开；环绕",
+    "释义(英文)": "n. cloth covering that forms the part of a garment below the waist\nn. a garment hanging from the waist; worn mainly by girls and women\nv. pass around or about; move along the border\nv. form the edge of"
+  },
+  {
+    "单词": "coat",
+    "英音": "[kəʊt]",
+    "美音": "[koʊt]",
+    "释义(中文)": "n. 外套\nvt. 覆盖…的表面\n",
+    "释义(英文)": "n. an outer garment that has sleeves and covers the body from shoulder down; worn outdoors\nn. growth of hair or wool or fur covering the body of an animal\nv. put a coat on; cover the surface of; furnish with a surface\nv. cover or provide with a coat"
+  },
+  {
+    "单词": "sweater",
+    "英音": "[ˈswetə(r)]",
+    "美音": "[ˈswetər]",
+    "释义(中文)": "n. 毛线衣，运动衫；大量出汗的人，发汗剂",
+    "释义(英文)": "n. a crocheted or knitted garment covering the upper part of the body"
+  },
+  {
+    "单词": "sock",
+    "英音": "[sɒk]",
+    "美音": "[sɑːk]",
+    "释义(中文)": "vt. 重击；给……穿袜\nn. 短袜；一击\nadv. 正着地；不偏不倚地\nadj. 非常成功的\n",
+    "释义(英文)": "n. hosiery consisting of a cloth covering for the foot; worn inside the shoe; reaches to between the ankle and the knee\nv. hit hard"
+  },
+  {
+    "单词": "shorts",
+    "英音": "[ʃɔːts]",
+    "美音": "[ʃɔːrts]",
+    "释义(中文)": "n. 短裤\n",
+    "释义(英文)": "n trousers that end at or above the knee\nn underpants worn by men\nn the location on a baseball field where the shortstop is stationed\nn accidental contact between two points in an electric circuit that have a potential difference\nn the fielding position of the player on a baseball team who is stationed between second and third base\nv cheat someone by not returning him enough money\nv create a short circuit in"
+  },
+  {
+    "单词": "jacket",
+    "英音": "[ˈdʒækɪt]",
+    "美音": "[ˈdʒækɪt]",
+    "释义(中文)": "n. 羽绒滑雪衫；西装短外套；短上衣，夹克；土豆皮；书籍的护封；文件套，公文夹\nvt. 给…穿夹克；给…装护套；给…包上护封；〈口〉打",
+    "释义(英文)": "n. a short coat\nn. an outer wrapping or casing\nn. the outer skin of a potato\nn. the tough metal shell casing for certain kinds of ammunition"
+  },
+  {
+    "单词": "shirt",
+    "英音": "[ʃɜːt]",
+    "美音": "[ʃɜːrt]",
+    "释义(中文)": "n. 衬衫；汗衫，内衣",
+    "释义(英文)": "n. a garment worn on the upper half of the body\nv. put a shirt on"
+  },
+  {
+    "单词": "yours",
+    "英音": "[jɔːz]",
+    "美音": "[jərz; jɔːrz; jʊrz]",
+    "释义(中文)": "pron. 你（们）的东西；你的责任[义务]；你的家属；来信，尊函\nadj. 你（们）的（东西）；信末署名前用语",
+    "释义(英文)": "pron. See the Note under Your."
+  },
+  {
+    "单词": "whose",
+    "英音": "[huːz]",
+    "美音": "[huːz]",
+    "释义(中文)": "pron. 谁的（疑问代词）",
+    "释义(英文)": "pron. The possessive case of who or which. See Who, and Which."
+  },
+  {
+    "单词": "mine",
+    "英音": "[maɪn]",
+    "美音": "[maɪn]",
+    "释义(中文)": "n. 矿，矿藏；矿山，矿井；地雷，水雷\nvt. 开采，采掘；在…布雷\nvi. 开矿，采矿；埋设地雷\npron. 我的\n",
+    "释义(英文)": "n. excavation in the earth from which ores and minerals are extracted\nn. explosive device that explodes on contact; designed to destroy vehicles or ships or to kill or maim personnel\nv. get from the earth by excavation\nv. lay mines"
+  },
+  {
+    "单词": "pack",
+    "英音": "[pæk]",
+    "美音": "[pæk]",
+    "释义(中文)": "n. 包装；一群；背包；包裹；一副\nvt. 包装；压紧；捆扎；挑选；塞满\nvi. 挤；包装货物；被包装；群集\n",
+    "释义(英文)": "n. a complete collection of similar things\nn. a convenient package or parcel (as of cigarettes or film)\nn. a group of hunting animals\nn. a cream that cleanses and tones the skin"
+  },
+  {
+    "单词": "wait",
+    "英音": "[weɪt]",
+    "美音": "[weɪt]",
+    "释义(中文)": "n. 等待；等候\nvi. 等待；耽搁；伺候用餐\nvt. 等候；推迟；延缓\n",
+    "释义(英文)": "n. the act of waiting (remaining inactive in one place while expecting something)\nv. stay in one place and anticipate or expect something\nv. wait before acting\nv. serve as a waiter or waitress in a restaurant"
+  },
+  {
+    "单词": "glove",
+    "英音": "[ɡlʌv]",
+    "美音": "[ɡlʌv]",
+    "释义(中文)": "n. 手套\nvt. 给…戴手套",
+    "释义(英文)": "n. handwear: covers the hand and wrist"
+  },
+  {
+    "单词": "scarf",
+    "英音": "[skɑːf]",
+    "美音": "[skɑːrf]",
+    "释义(中文)": "n. 围巾；嵌接，嵌接处；头巾领巾\nvt. 披嵌接；用围巾围",
+    "释义(英文)": "n. a garment worn around the head or neck or shoulders for warmth or decoration\nv. masturbate while strangling oneself\nv. unite by a scarf joint\nv. wrap in or adorn with a scarf"
+  },
+  {
+    "单词": "umbrella",
+    "英音": "[ʌmˈbrelə]",
+    "美音": "[ʌmˈbrelə]",
+    "释义(中文)": "n. 雨伞；保护伞；庇护；伞形结构",
+    "释义(英文)": "n. a lightweight handheld collapsible canopy\nn. a formation of military planes maintained over ground operations or targets\nn. having the function of uniting a group of similar things\ns. covering or applying simultaneously to a number of similar items or elements or groups"
+  },
+  {
+    "单词": "sunglasses",
+    "英音": "[ˈsʌnɡlɑːsɪz]",
+    "美音": "[ˈsʌnɡlæsɪz]",
+    "释义(中文)": "n. 太阳镜；凸透镜（sunglass的复数）",
+    "释义(英文)": "n. spectacles that are darkened or polarized to protect the eyes from the glare of the sun"
+  },
+  {
+    "单词": "pretty",
+    "英音": "[ˈprɪti]",
+    "美音": "[ˈprɪti]",
+    "释义(中文)": "n. 有吸引力的事物（尤指饰品）；漂亮的人\nadj. 漂亮的；可爱的；优美的\nadv. 相当地；颇\n",
+    "释义(英文)": "s. pleasing by delicacy or grace; not imposing\ns. (used ironically) unexpectedly bad"
+  },
+  {
+    "单词": "expensive",
+    "英音": "[ɪkˈspensɪv]",
+    "美音": "[ɪkˈspensɪv]",
+    "释义(中文)": "adj. 昂贵的；花钱的",
+    "释义(英文)": "a. high in price or charging high prices"
+  },
+  {
+    "单词": "cheap",
+    "英音": "[tʃiːp]",
+    "美音": "[tʃiːp]",
+    "释义(中文)": "adj. 便宜的；小气的；不值钱的\nadv. 便宜地",
+    "释义(英文)": "a. relatively low in price or charging low prices\ns. embarrassingly stingy"
+  },
+  {
+    "单词": "nice",
+    "英音": "[naɪs]",
+    "美音": "[naɪs]",
+    "释义(中文)": "adj. 精密的；美好的；细微的；和蔼的\n",
+    "释义(英文)": "n. a city in southeastern France on the Mediterranean; the leading resort on the French Riviera\na. pleasant or pleasing or agreeable in nature or appearance\ns. done with delicacy and skill"
+  },
+  {
+    "单词": "try on",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 试穿；〈非正式〉搞恶作剧(以试探能否被容忍)；〈非正式〉耍花招\n",
+    "释义(英文)": "n putting clothes on to see whether they fit"
+  },
+  {
+    "单词": "size",
+    "英音": "[saɪz]",
+    "美音": "[saɪz]",
+    "释义(中文)": "n. 大小；尺寸\nadj. 一定尺寸的\nvt. 依大小排列\nvi. 可比拟",
+    "释义(英文)": "n. the physical magnitude of something (how big it is)\nn. the property resulting from being one of a series of graduated measurements (as of clothing)\nn. any glutinous material used to fill pores in surfaces or to stiffen fabrics\nn. the actual state of affairs"
+  },
+  {
+    "单词": "of course",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 当然\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "too",
+    "英音": "[tuː]",
+    "美音": "[tuː]",
+    "释义(中文)": "adv. 太；也；很；还；非常；过度",
+    "释义(英文)": "r to a degree exceeding normal or proper limits\nr in addition"
+  },
+  {
+    "单词": "just",
+    "英音": "[dʒʌst]",
+    "美音": "[dʒʌst]",
+    "释义(中文)": "adv. 只是，仅仅；刚才，刚刚；正好，恰好；实在；刚要\nadj. 公正的，合理的；正直的，正义的；正确的；公平的；应得的\n",
+    "释义(英文)": "a. used especially of what is legally or ethically right or proper or fitting\nr. only a moment ago\nr. absolutely\nr. exactly at this moment or the moment described;"
+  },
+  {
+    "单词": "how much",
+    "英音": "[haʊ mʌtʃ]",
+    "美音": "[haʊ mʌtʃ]",
+    "释义(中文)": "conj. 多少\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "eighty",
+    "英音": "[ˈeɪti]",
+    "美音": "[ˈeɪti]",
+    "释义(中文)": "num. 八十\nn. 八十；八十岁；八十年代\nadj. 八十的，八十个的；八十岁的",
+    "释义(英文)": "n. the cardinal number that is the product of ten and eight\ns. being ten more than seventy"
+  },
+  {
+    "单词": "dollar",
+    "英音": "[ˈdɒlə(r)]",
+    "美音": "[ˈdɑːlər]",
+    "释义(中文)": "n. 美元\n",
+    "释义(英文)": "n. the basic monetary unit in many countries; equal to 100 cents\nn. a piece of paper money worth one dollar\nn. a United States coin worth one dollar\nn. a symbol of commercialism or greed"
+  },
+  {
+    "单词": "sale",
+    "英音": "[seɪl]",
+    "美音": "[seɪl]",
+    "释义(中文)": "n. 销售；出售；拍卖；销售额；廉价出售\n",
+    "释义(英文)": "n. a particular instance of selling\nn. the general activity of selling\nn. an occasion (usually brief) for buying at specially reduced prices\nn. the state of being purchasable; offered or exhibited for selling"
+  },
+  {
+    "单词": "more",
+    "英音": "[mɔː(r)]",
+    "美音": "[mɔːr]",
+    "释义(中文)": "adv. 更多；此外；更大程度地\nadj. 更多的；附加的\npron. 更多的数量\nn. 更多\n",
+    "释义(英文)": "n. English statesman who opposed Henry VIII's divorce from Catherine of Aragon and was imprisoned and beheaded; recalled for his concept of Utopia, the ideal state\na. (comparative of `much' used with mass nouns) a quantifier meaning greater in size or amount or extent or degree\na. (comparative of `many' used with count nouns) quantifier meaning greater in number\nr. used to form the comparative of some adjectives and adverbs"
+  },
+  {
+    "单词": "us",
+    "英音": "[əs; ʌs]",
+    "美音": "[əs; ʌs]",
+    "释义(中文)": "pron. 我们",
+    "释义(英文)": "n North American republic containing 50 states - 48 conterminous states in North America plus Alaska in northwest North America and the Hawaiian Islands in the Pacific Ocean; achieved independence in 1776\nn a base containing nitrogen that is found in RNA (but not in DNA) and derived from pyrimidine; pairs with adenine\nn a heavy toxic silvery-white radioactive metallic element; occurs in many isotopes; used for nuclear fuels and nuclear weapons\nn the 21st letter of the Roman alphabet"
+  }
+]

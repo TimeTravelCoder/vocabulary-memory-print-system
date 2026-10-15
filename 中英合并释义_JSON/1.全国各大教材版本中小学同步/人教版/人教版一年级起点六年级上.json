@@ -1,0 +1,716 @@
+[
+  {
+    "单词": "morning tea",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 早茶\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "soup",
+    "英音": "[suːp]",
+    "美音": "[suːp]",
+    "释义(中文)": "n. 汤，羹；马力\nvt. 加速；增加马力",
+    "释义(英文)": "n. liquid food especially of meat or fish or vegetable stock often containing pieces of solid food\nn. any composition having a consistency suggestive of soup\nn. an unfortunate situation\nv. dope (a racehorse)"
+  },
+  {
+    "单词": "garden",
+    "英音": "[ˈɡɑːdn]",
+    "美音": "[ˈɡɑːrdn]",
+    "释义(中文)": "n. 花园；菜园\nvt. 栽培花木\nvi. 从事园艺；在园中种植\n",
+    "释义(英文)": "n. a plot of ground where plants are cultivated\nn. the flowers or vegetables or fruits or herbs that are cultivated in a garden\nn. a yard or lawn adjoining a house\nv. work in the garden"
+  },
+  {
+    "单词": "the Potala Palace",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 布达拉宫；中国西藏布达拉宫",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "the Summer Palace",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 颐和园；颐和圆；之颐和园",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "the Terracotta Army",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "vacation",
+    "英音": "[veɪˈkeɪʃn; vəˈkeɪʃn]",
+    "美音": "[veɪˈkeɪʃn; vəˈkeɪʃn]",
+    "释义(中文)": "n. 假期；（房屋）搬出\nvi. 休假，度假",
+    "释义(英文)": "n. leisure time away from work devoted to rest or pleasure\nn. the act of making something legally void\nv. spend or take a vacation"
+  },
+  {
+    "单词": "taste",
+    "英音": "[teɪst]",
+    "美音": "[teɪst]",
+    "释义(中文)": "n. 味道；品味；审美\nvt. 尝；体验\nvi. 尝起来；有…的味道\n",
+    "释义(英文)": "n. the sensation that results when taste buds in the tongue and throat convey information about the chemical composition of a soluble stimulus\nn. delicate discrimination (especially of aesthetic values)\nn. a brief experience of something\nn. a small amount eaten or drunk"
+  },
+  {
+    "单词": "map",
+    "英音": "[mæp]",
+    "美音": "[mæp]",
+    "释义(中文)": "vt. 映射；计划；绘制地图；确定基因在染色体中的位置\nn. 地图；示意图；染色体图\nvi. 基因被安置\n",
+    "释义(英文)": "n. a diagrammatic representation of the earth's surface (or part of it)\nv. make a map of; show or establish the features of details of\nv. explore or survey for the purpose of making a map\nv. locate within a specific region of a chromosome in relation to known DNA or gene sequences"
+  },
+  {
+    "单词": "north",
+    "英音": "[nɔːθ]",
+    "美音": "[nɔːrθ]",
+    "释义(中文)": "n. 北，北方\nadj. 北方的；朝北的\nadv. 在北方，向北方",
+    "释义(英文)": "n. the region of the United States lying to the north of the Mason-Dixon line\nn. the cardinal compass point that is at 0 or 360 degrees\nn. a location in the northern part of a country, region, or city\nn. the direction corresponding to the northward cardinal compass point"
+  },
+  {
+    "单词": "south",
+    "英音": "[saʊθ]",
+    "美音": "[saʊθ]",
+    "释义(中文)": "n. 南方，南边；南部\nadj. 南的，南方的\nadv. 在南方，向南方\n",
+    "释义(英文)": "n. the region of the United States lying to the south of the Mason-Dixon line\nn. the cardinal compass point that is at 180 degrees\nn. a location in the southern part of a country, region, or city\nn. the direction corresponding to the southward cardinal compass point"
+  },
+  {
+    "单词": "east",
+    "英音": "[iːst]",
+    "美音": "[iːst]",
+    "释义(中文)": "n. 东方；东风；东方国家\nadj. 东方的；向东的；从东方来的\nadv. 向东方，在东方\n",
+    "释义(英文)": "n. the cardinal compass point that is at 90 degrees\nn. the countries of Asia\nn. the region of the United States lying to the north of the Ohio River and to the east of the Mississippi River\nn. the direction corresponding to the eastward cardinal compass point"
+  },
+  {
+    "单词": "west",
+    "英音": "[west]",
+    "美音": "[west]",
+    "释义(中文)": "n. 西；西方；西部\nadj. 西方的；朝西的\nadv. 在西方；向西方；自西方\n",
+    "释义(英文)": "n. the countries of (originally) Europe and (now including) North America and South America\nn. the cardinal compass point that is a 270 degrees\nn. the region of the United States lying to the west of the Mississippi River\nn. the direction corresponding to the westward cardinal compass point"
+  },
+  {
+    "单词": "famous",
+    "英音": "[ˈfeɪməs]",
+    "美音": "[ˈfeɪməs]",
+    "释义(中文)": "adj. 著名的；极好的，非常令人满意的",
+    "释义(英文)": "s widely known and esteemed"
+  },
+  {
+    "单词": "temple",
+    "英音": "[ˈtemp(ə)l]",
+    "美音": "[ˈtempl]",
+    "释义(中文)": "n. 庙宇；寺院；神殿；太阳穴\n",
+    "释义(英文)": "n. place of worship consisting of an edifice for the worship of a deity\nn. the flat area on either side of the forehead\nn. an edifice devoted to special or exalted purposes"
+  },
+  {
+    "单词": "around",
+    "英音": "[əˈraʊnd]",
+    "美音": "[əˈraʊnd]",
+    "释义(中文)": "prep. 四处；在…周围\nadv. 大约；到处；在附近",
+    "释义(英文)": "r. by a circular or circuitous route\nr. in a circle or circular motion\nr. to a particular destination either specified or understood\nr. in circumference"
+  },
+  {
+    "单词": "the Yangtze River",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 长江\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "foggy",
+    "英音": "[ˈfɒɡi]",
+    "美音": "[ˈfɑːɡi]",
+    "释义(中文)": "adj. 有雾的；模糊的，朦胧的",
+    "释义(英文)": "s stunned or confused and slow to react (as from blows or drunkenness or exhaustion)\ns indistinct or hazy in outline\ns filled or abounding with fog or mist\ns obscured by fog"
+  },
+  {
+    "单词": "spicy",
+    "英音": "[ˈspaɪsi]",
+    "美音": "[ˈspaɪsi]",
+    "释义(中文)": "adj. 辛辣的；香的，多香料的；下流的",
+    "释义(英文)": "s having an agreeably pungent taste\ns producing a burning sensation on the taste nerves\ns suggestive of sexual impropriety"
+  },
+  {
+    "单词": "silk",
+    "英音": "[sɪlk]",
+    "美音": "[sɪlk]",
+    "释义(中文)": "n. 丝绸；蚕丝；丝织物\nadj. 丝的；丝绸的；丝制的\nvi. （玉米）处于长须的阶段中\n",
+    "释义(英文)": "n. a fabric made from the fine threads produced by certain insect larvae\nn. animal fibers produced by silkworms and other larvae that spin cocoons and by most spiders"
+  },
+  {
+    "单词": "forest",
+    "英音": "[ˈfɒrɪst]",
+    "美音": "[ˈfɔːrɪst]",
+    "释义(中文)": "n. 森林\nvt. 植树于，使成为森林\n",
+    "释义(英文)": "n. the trees and other plants in a large densely wooded area\nn. land that is covered with trees and shrubs"
+  },
+  {
+    "单词": "stone",
+    "英音": "[stəʊn]",
+    "美音": "[stoʊn]",
+    "释义(中文)": "n. 石头；结石；[宝] 宝石\nadj. 石的，石制的\nvt. 向扔石块；用石头铺\n",
+    "释义(英文)": "n. building material consisting of a piece of rock hewn in a definite shape for a special purpose\nn. an avoirdupois unit used to measure the weight of a human body; equal to 14 pounds\nn. the hard inner (usually woody) layer of the pericarp of some fruits (as peaches or plums or cherries or olives) that contains the seed\nn. United States jurist who was named chief justice of the United States Supreme Court in 1941 by Franklin D. Roosevelt (1872-1946)"
+  },
+  {
+    "单词": "London",
+    "英音": "[ˈlʌndən]",
+    "美音": "[ˈlʌndən]",
+    "释义(中文)": "n. 伦敦",
+    "释义(英文)": "n. the capital and largest city of England; located on the Thames in southeastern England; financial and industrial and cultural center\nn. United States writer of novels based on experiences in the Klondike gold rush (1876-1916)"
+  },
+  {
+    "单词": "Toronto",
+    "英音": "[təˈrɒntəʊ]",
+    "美音": "[təˈrɑːntoʊ]",
+    "释义(中文)": "n. 多伦多（加拿大城市）",
+    "释义(英文)": "n. the provincial capital and largest city in Ontario (and the largest city in Canada)"
+  },
+  {
+    "单词": "Sydney",
+    "英音": "[ˈsɪdni]",
+    "美音": "[ˈsɪdni]",
+    "释义(中文)": "n. 悉尼（澳大利亚港市）",
+    "释义(英文)": "n. the largest Australian city located in southeastern Australia on the Tasman Sea; state capital of New South Wales; Australia's chief port"
+  },
+  {
+    "单词": "Washington D.C.",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 华盛顿；华盛顿哥伦比亚特区；华盛顿特区",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "the British Museum",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 大英博物馆；伦敦大英博物馆；不列颠博物馆",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "the CN Tower",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "kangaroo",
+    "英音": "[ˌkæŋɡəˈruː]",
+    "美音": "[ˌkæŋɡəˈruː]",
+    "释义(中文)": "n. 袋鼠",
+    "释义(英文)": "n. any of several herbivorous leaping marsupials of Australia and New Guinea having large powerful hind legs and a long thick tail"
+  },
+  {
+    "单词": "the Opera House",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 悉尼歌剧院；剧院及电影院；大剧院",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "the White House",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 白宫\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "clock",
+    "英音": "[klɒk]",
+    "美音": "[klɑːk]",
+    "释义(中文)": "n. 时钟；计时器\nvt. 记录；记时\nvi. 打卡；记录时间\n",
+    "释义(英文)": "n. a timepiece that shows the time of day\nv. measure the time or duration of an event or action or the person who performs an action in a certain period of time"
+  },
+  {
+    "单词": "speak",
+    "英音": "[spiːk]",
+    "美音": "[spiːk]",
+    "释义(中文)": "vi. 说话；演讲；表明；陈述\nvt. 讲话；发言；讲演",
+    "释义(英文)": "v. use language\nv. make a characteristic or natural sound"
+  },
+  {
+    "单词": "French",
+    "英音": "[frentʃ]",
+    "美音": "[frentʃ]",
+    "释义(中文)": "n. 法国人；法语\nadj. 法国的；法语的；法国人的",
+    "释义(英文)": "n. the Romance language spoken in France and in countries colonized by France\nn. the people of France\nn. United States sculptor who created the seated marble figure of Abraham Lincoln in the Lincoln Memorial in Washington D.C. (1850-1931)"
+  },
+  {
+    "单词": "Tower Bridge",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 【旅】塔桥；【旅】伦敦塔桥\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "the London Eye",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 伦敦眼；英航伦敦眼；英国伦敦眼",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "hiking",
+    "英音": "[ˈhaɪkɪŋ]",
+    "美音": "[ˈhaɪkɪŋ]",
+    "释义(中文)": "n. 徒步旅行",
+    "释义(英文)": "n a long walk usually for exercise or pleasure\nv increase\nv walk a long way, as for pleasure or physical exercise"
+  },
+  {
+    "单词": "sunrise",
+    "英音": "[ˈsʌnraɪz]",
+    "美音": "[ˈsʌnraɪz]",
+    "释义(中文)": "n. 日出；黎明\n",
+    "释义(英文)": "n. atmospheric phenomena accompanying the daily appearance of the sun\nn. the daily event of the sun rising above the horizon\ns. of an industry or technology; new and developing"
+  },
+  {
+    "单词": "president",
+    "英音": "[ˈprezɪdənt]",
+    "美音": "[ˈprezɪdənt]",
+    "释义(中文)": "n. 总统；董事长；校长；主席",
+    "释义(英文)": "n. an executive officer of a firm or corporation\nn. the chief executive of a republic\nn. the officer who presides at the meetings of an organization\nn. the head administrative officer of a college or university"
+  },
+  {
+    "单词": "reptile",
+    "英音": "[ˈreptaɪl]",
+    "美音": "[ˈreptaɪl; ˈreptl]",
+    "释义(中文)": "n. 爬行动物；卑鄙的人\nadj. 爬虫类的；卑鄙的",
+    "释义(英文)": "n. any cold-blooded vertebrate of the class Reptilia including tortoises, turtles, snakes, lizards, alligators, crocodiles, and extinct forms"
+  },
+  {
+    "单词": "bird",
+    "英音": "[bɜːd]",
+    "美音": "[bɜːrd]",
+    "释义(中文)": "n. 鸟；家伙；羽毛球\nvt. 向…喝倒彩；起哄\nvi. 猎鸟；观察研究野鸟\n",
+    "释义(英文)": "n. warm-blooded egg-laying vertebrates characterized by feathers and forelimbs modified as wings\nn. the flesh of a bird or fowl (wild or domestic) used as food\nv. watch and study birds in their natural habitat"
+  },
+  {
+    "单词": "fish",
+    "英音": "[fɪʃ]",
+    "美音": "[fɪʃ]",
+    "释义(中文)": "n. 鱼，鱼类\nvt. 钓鱼，捕鱼；搜寻\nvi. 捕鱼，钓鱼；用钩捞取\n",
+    "释义(英文)": "n. any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills\nn. the flesh of fish used as food\nv. seek indirectly\nv. catch or try to catch fish or shellfish"
+  },
+  {
+    "单词": "mammal",
+    "英音": "[ˈmæm(ə)l]",
+    "美音": "[ˈmæml]",
+    "释义(中文)": "n. [脊椎] 哺乳动物",
+    "释义(英文)": "n. any warm-blooded vertebrate having the skin more or less covered with hair; young are born alive except for the small subclass of monotremes and nourished with milk"
+  },
+  {
+    "单词": "insect",
+    "英音": "[ˈɪnsekt]",
+    "美音": "[ˈɪnsekt]",
+    "释义(中文)": "n. 昆虫；卑鄙的人",
+    "释义(英文)": "n. small air-breathing arthropod"
+  },
+  {
+    "单词": "penguin",
+    "英音": "[ˈpeŋɡwɪn]",
+    "美音": "[ˈpeŋɡwɪn]",
+    "释义(中文)": "n. 企鹅；空军地勤人员",
+    "释义(英文)": "n. short-legged flightless birds of cold southern especially Antarctic regions having webbed feet and wings modified as flippers"
+  },
+  {
+    "单词": "shark",
+    "英音": "[ʃɑːk]",
+    "美音": "[ʃɑːrk]",
+    "释义(中文)": "n. 鲨鱼；骗子\nvt. 敲诈\nvi. 诈骗",
+    "释义(英文)": "n. any of numerous elongate mostly marine carnivorous fishes with heterocercal caudal fins and tough skin covered with small toothlike scales\nn. a person who is ruthless and greedy and dishonest\nn. a person who is unusually skilled in certain ways\nv. play the shark; act with trickery"
+  },
+  {
+    "单词": "whale",
+    "英音": "[weɪl]",
+    "美音": "[weɪl]",
+    "释义(中文)": "n. 鲸；巨大的东西\nvt. 猛揍；使惨败\nvi. 捕鲸\n",
+    "释义(英文)": "n. any of the larger cetacean mammals having a streamlined body and breathing through a blowhole on the head\nv. hunt for whales"
+  },
+  {
+    "单词": "kind",
+    "英音": "[kaɪnd]",
+    "美音": "[kaɪnd]",
+    "释义(中文)": "n. 种类；性质\nadj. 和蔼的；宽容的；令人感激的\n",
+    "释义(英文)": "n. a category of things distinguished by some common characteristic or quality\na. having or showing a tender and considerate and helpful nature; used especially of persons and their behavior\ns. agreeable, conducive to comfort\ns. tolerant and forgiving under provocation"
+  },
+  {
+    "单词": "metre",
+    "英音": "[ˈmiːtə(r)]",
+    "美音": "[ˈmiːtər]",
+    "释义(中文)": "n. 米；公尺；韵律\n",
+    "释义(英文)": "n the basic unit of length adopted under the Systeme International d'Unites (approximately 1.094 yards)\nn (prosody) the accent in a metrical foot of verse\nn rhythm as given by division into parts of equal duration"
+  },
+  {
+    "单词": "spend",
+    "英音": "[spend]",
+    "美音": "[spend]",
+    "释义(中文)": "n. 预算\nvt. 度过，消磨（时光）；花费；浪费；用尽\nvi. 花钱；用尽，耗尽",
+    "释义(英文)": "v. pass time in a specific way\nv. pay out\nv. spend completely"
+  },
+  {
+    "单词": "trunk",
+    "英音": "[trʌŋk]",
+    "美音": "[trʌŋk]",
+    "释义(中文)": "n. 树干；躯干；象鼻；汽车车尾的行李箱\nadj. 干线的；躯干的；箱子的\nvt. 把…放入旅行箱内\n",
+    "释义(英文)": "n. the main stem of a tree; usually covered with bark; the bole is usually the part that is commercially useful for lumber\nn. luggage consisting of a large strong case used when traveling or for storage"
+  },
+  {
+    "单词": "peanut",
+    "英音": "[ˈpiːnʌt]",
+    "美音": "[ˈpiːnʌt]",
+    "释义(中文)": "n. 花生",
+    "释义(英文)": "n. underground pod of the peanut vine\nn. widely cultivated American plant cultivated in tropical and warm regions; showy yellow flowers on stalks that bend over to the soil so that seed pods ripen underground\nn. a young child who is small for his age\nn. pod of the peanut vine containing usually 2 nuts or seeds; `groundnut' and `monkey nut' are British terms"
+  },
+  {
+    "单词": "fan",
+    "英音": "[fæn]",
+    "美音": "[fæn]",
+    "释义(中文)": "n. 迷；风扇；爱好者\nvt. 煽动；刺激；吹拂\nvi. 成扇形散开；飘动\n",
+    "释义(英文)": "n. a device for creating a current of air by movement of a surface or surfaces\nn. an ardent follower and admirer\nv. strike out (a batter), (of a pitcher)\nv. make (an emotion) fiercer"
+  },
+  {
+    "单词": "tusk",
+    "英音": "[tʌsk]",
+    "美音": "[tʌsk]",
+    "释义(中文)": "n. 长牙；尖头，尖形物\nvt. 以牙刺戳；以长牙掘\n",
+    "释义(英文)": "n. a long pointed tooth specialized for fighting or digging; especially in an elephant or walrus or hog\nv. remove the tusks of animals"
+  },
+  {
+    "单词": "Africa",
+    "英音": "[ˈæfrɪkə]",
+    "美音": "[ˈæfrɪkə]",
+    "释义(中文)": "n. 非洲",
+    "释义(英文)": "n. the second largest continent; located to the south of Europe and bordered to the west by the South Atlantic and to the east by the Indian Ocean"
+  },
+  {
+    "单词": "Asia",
+    "英音": "[ˈeɪʒə]",
+    "美音": "[ˈeɪʒə]",
+    "释义(中文)": "n. 亚洲",
+    "释义(英文)": "n. the largest continent with 60% of the earth's population; it is joined to Europe on the west to form Eurasia; it is the site of some of the world's earliest civilizations\nn. the nations of the Asian continent collectively"
+  },
+  {
+    "单词": "smart",
+    "英音": "[smɑːt]",
+    "美音": "[smɑːrt]",
+    "释义(中文)": "adj. 聪明的；巧妙的；敏捷的；厉害的；潇洒的；剧烈的；时髦的\n",
+    "释义(英文)": "n. a kind of pain such as that caused by a wound or a burn or a sore\na. showing mental alertness and calculation and resourcefulness\ns. painfully severe\ns. quick and brisk"
+  },
+  {
+    "单词": "scared",
+    "英音": "[skeəd]",
+    "美音": "[skerd]",
+    "释义(中文)": "v. 使害怕（scare的过去分词）\nadj. 害怕的",
+    "释义(英文)": "v cause fear in\nv cause to lose courage\nv mark with a scar\ns made afraid"
+  },
+  {
+    "单词": "worried",
+    "英音": "[ˈwʌrid]",
+    "美音": "[ˈwɜːrid]",
+    "释义(中文)": "adj. 担心的",
+    "释义(英文)": "v be worried, concerned, anxious, troubled, or uneasy\nv be concerned with\nv disturb the peace of mind of; afflict with mental agitation or distress\nv be on the mind of\nv lacerate by biting\nv touch or rub constantly\ns afflicted with or marked by anxious uneasiness or trouble or grief\ns mentally upset over possible misfortune or danger etc"
+  },
+  {
+    "单词": "angry",
+    "英音": "[ˈæŋɡri]",
+    "美音": "[ˈæŋɡri]",
+    "释义(中文)": "adj. 生气的；愤怒的；狂暴的；（伤口等）发炎的",
+    "释义(英文)": "a. feeling or showing anger\ns. (of the elements) as if showing violent anger\ns. severely inflamed and painful"
+  },
+  {
+    "单词": "proud",
+    "英音": "[praʊd]",
+    "美音": "[praʊd]",
+    "释义(中文)": "adj. 自豪的；得意的；自负的\n",
+    "释义(英文)": "a. feeling self-respect or pleasure in something by which you measure your self-worth; or being a reason for pride"
+  },
+  {
+    "单词": "sad",
+    "英音": "[sæd]",
+    "美音": "[sæd]",
+    "释义(中文)": "adj. 难过的；悲哀的，令人悲痛的；凄惨的，阴郁的（形容颜色）",
+    "释义(英文)": "a. experiencing or showing sorrow or unhappiness\ns. of things that make you feel sad"
+  },
+  {
+    "单词": "excited",
+    "英音": "[ɪkˈsaɪtɪd]",
+    "美音": "[ɪkˈsaɪtɪd]",
+    "释义(中文)": "v. 激动；唤起（excite的过去分词）\nadj. 兴奋的；激动的；活跃的",
+    "释义(英文)": "a. in an aroused state"
+  },
+  {
+    "单词": "happy",
+    "英音": "[ˈhæpi]",
+    "美音": "[ˈhæpi]",
+    "释义(中文)": "adj. 幸福的；高兴的；巧妙的\n",
+    "释义(英文)": "a. enjoying or showing or marked by joy or pleasure\ns. well expressed and to the point"
+  },
+  {
+    "单词": "ill",
+    "英音": "[ɪl]",
+    "美音": "[ɪl]",
+    "释义(中文)": "n. 疾病；不幸\nadj. 生病的；坏的；邪恶的；不吉利的\nadv. 不利地；恶劣地；几乎不\n",
+    "释义(英文)": "a. affected by an impairment of normal physical or mental function\ns. resulting in suffering or adversity\ns. distressing\ns. indicating hostility or enmity"
+  },
+  {
+    "单词": "win",
+    "英音": "[wɪn]",
+    "美音": "[wɪn]",
+    "释义(中文)": "n. 赢；胜利\nvt. 赢得；在…中获胜；劝诱\nvi. 赢；获胜；成功\n",
+    "释义(英文)": "n. a victory (as in a race or other competition)\nv. be the winner in a contest or competition; be victorious"
+  },
+  {
+    "单词": "race",
+    "英音": "[reɪs]",
+    "美音": "[reɪs]",
+    "释义(中文)": "n. 属，种；种族，人种；家庭，门第\nvt. 使参加比赛；和…竞赛；使急走，使全速行进\nvi. 比速度，参加竞赛；全速行进\n",
+    "释义(英文)": "n. any competition\nn. a contest of speed\nn. people who are believed to belong to the same genetic stock\nv. compete in a race"
+  },
+  {
+    "单词": "find",
+    "英音": "[faɪnd]",
+    "美音": "[faɪnd]",
+    "释义(中文)": "n. 发现\nvi. 裁决\nvt. 查找，找到；发现；认为；感到；获得\n",
+    "释义(英文)": "v. come upon, as if by accident; meet with\nv. come upon after searching; find the location of something that was missed or lost\nv. come to believe on the basis of emotion, intuitions, or indefinite grounds\nv. obtain through effort or management"
+  },
+  {
+    "单词": "cry",
+    "英音": "[kraɪ]",
+    "美音": "[kraɪ]",
+    "释义(中文)": "n. 叫喊；叫声；口号；呼叫\nvi. 哭；叫；喊\nvt. 叫喊；哭出；大声说",
+    "释义(英文)": "n. a loud utterance; often in protest or opposition\nn. a loud utterance of emotion (especially when inarticulate)\nn. a fit of weeping\nn. the characteristic utterance of an animal"
+  },
+  {
+    "单词": "because",
+    "英音": "[bɪˈkəz]",
+    "美音": "[bɪˈkəz]",
+    "释义(中文)": "conj. 因为",
+    "释义(英文)": "conj. By or for the cause that; on this account that; for the\n   reason that.\nconj. In order that; that."
+  },
+  {
+    "单词": "test",
+    "英音": "[test]",
+    "美音": "[test]",
+    "释义(中文)": "n. 试验；检验\nvt. 试验；测试\nvi. 试验；测试\n",
+    "释义(英文)": "n. any standardized procedure for measuring sensitivity or memory or intelligence or aptitude or personality etc\nn. the act of undergoing testing\nn. the act of testing something\nn. a hard outer covering as of some amoebas and sea urchins"
+  },
+  {
+    "单词": "competition",
+    "英音": "[ˌkɒmpəˈtɪʃn]",
+    "美音": "[ˌkɑːmpəˈtɪʃn]",
+    "释义(中文)": "n. 竞争；比赛，竞赛",
+    "释义(英文)": "n. a business relation in which two parties compete to gain customers\nn. the act of competing as for profit or a prize"
+  },
+  {
+    "单词": "hurt",
+    "英音": "[hɜːt]",
+    "美音": "[hɜːrt]",
+    "释义(中文)": "n. 痛苦；危害；痛苦的原因\nvt. 使受伤；损害；使疼痛；使痛心\nadj. 受伤的；痛苦的；受损的\nvi. 感到疼痛；有坏处；带来痛苦\n",
+    "释义(英文)": "v. give trouble or pain to\nv. cause damage or affect negatively\nv. hurt the feelings of\nv. feel physical pain"
+  },
+  {
+    "单词": "inventor",
+    "英音": "[ɪnˈventə(r)]",
+    "美音": "[ɪnˈventər]",
+    "释义(中文)": "n. 发明家；[专利] 发明人；创造者",
+    "释义(英文)": "n. someone who is the first to think of or make something"
+  },
+  {
+    "单词": "artist",
+    "英音": "[ˈɑːtɪst]",
+    "美音": "[ˈɑːrtɪst]",
+    "释义(中文)": "n. 艺术家；美术家（尤指画家）；大师",
+    "释义(英文)": "n. a person whose creative work shows sensitivity and imagination"
+  },
+  {
+    "单词": "scientist",
+    "英音": "[ˈsaɪəntɪst]",
+    "美音": "[ˈsaɪəntɪst]",
+    "释义(中文)": "n. 科学家",
+    "释义(英文)": "n. a person with advanced knowledge of one or more sciences"
+  },
+  {
+    "单词": "poet",
+    "英音": "[ˈpəʊɪt]",
+    "美音": "[ˈpoʊət]",
+    "释义(中文)": "n. 诗人",
+    "释义(英文)": "n. a writer of poems (the term is usually reserved for writers of good poetry)"
+  },
+  {
+    "单词": "writer",
+    "英音": "[ˈraɪtə(r)]",
+    "美音": "[ˈraɪtər]",
+    "释义(中文)": "n. 作家；作者",
+    "释义(英文)": "n. writes (books or stories or articles or the like) professionally (for pay)\nn. a person who is able to write and has written something"
+  },
+  {
+    "单词": "American",
+    "英音": "[əˈmerɪkən]",
+    "美音": "[əˈmerɪkən]",
+    "释义(中文)": "n. 美国人，美洲人；美国英语\nadj. 美国的，美洲的；地道美国式的",
+    "释义(英文)": "n. a native or inhabitant of the United States\nn. a native or inhabitant of a North American or Central American or South American country\na. of or relating to the United States of America or its people or language or culture"
+  },
+  {
+    "单词": "French",
+    "英音": "[frentʃ]",
+    "美音": "[frentʃ]",
+    "释义(中文)": "n. 法国人；法语\nadj. 法国的；法语的；法国人的",
+    "释义(英文)": "n. the Romance language spoken in France and in countries colonized by France\nn. the people of France\nn. United States sculptor who created the seated marble figure of Abraham Lincoln in the Lincoln Memorial in Washington D.C. (1850-1931)"
+  },
+  {
+    "单词": "Danish",
+    "英音": "[ˈdeɪnɪʃ]",
+    "美音": "[ˈdeɪnɪʃ]",
+    "释义(中文)": "n. 丹麦语\nadj. 丹麦的；丹麦人的；丹麦语（文）的",
+    "释义(英文)": "n. a Scandinavian language that is the official language of Denmark\nn. light sweet yeast-raised roll usually filled with fruits or cheese\na. of or relating to or characteristic of Denmark or the Danes or their language"
+  },
+  {
+    "单词": "poem",
+    "英音": "[ˈpəʊɪm]",
+    "美音": "[ˈpoʊəm]",
+    "释义(中文)": "n. 诗",
+    "释义(英文)": "n. a composition written in metrical feet forming rhythmical lines"
+  },
+  {
+    "单词": "paint",
+    "英音": "[peɪnt]",
+    "美音": "[peɪnt]",
+    "释义(中文)": "vt. 油漆；绘画；装饰；涂色于；描绘；（用语言，文字等）描写；擦脂粉等\nvi. 油漆；描绘；绘画；化妆\nn. 油漆；颜料，涂料；绘画作品；胭脂等化妆品；色彩，装饰\n",
+    "释义(英文)": "n. a substance used as a coating to protect or decorate a surface (especially a mixture of pigment suspended in a liquid); dries to form a hard coating\nv. make a painting\nv. apply paint to; coat with paint\nv. make a painting of"
+  },
+  {
+    "单词": "invention",
+    "英音": "[ɪnˈvenʃn]",
+    "美音": "[ɪnˈvenʃn]",
+    "释义(中文)": "n. 发明；发明物；虚构；发明才能",
+    "释义(英文)": "n. the creation of something in the mind\nn. a creation (a new device or process) resulting from study and experimentation\nn. the act of inventing"
+  },
+  {
+    "单词": "invent",
+    "英音": "[ɪnˈvent]",
+    "美音": "[ɪnˈvent]",
+    "释义(中文)": "vt. 发明；创造；虚构",
+    "释义(英文)": "v. come up with (an idea, plan, explanation, theory, or principle) after a mental effort"
+  },
+  {
+    "单词": "study",
+    "英音": "[ˈstʌdi]",
+    "美音": "[ˈstʌdi]",
+    "释义(中文)": "n. 学习，研究；课题；书房；学问\nvt. 学习；考虑；攻读；细察\nvi. 研究；用功\n",
+    "释义(英文)": "n. applying the mind to learning and understanding a subject (especially by reading)\nn. a state of deep mental absorption\nn. a room used for reading and writing and studying\nn. someone who memorizes quickly and easily (as the lines for a part in a play)"
+  },
+  {
+    "单词": "story",
+    "英音": "[ˈstɔːri]",
+    "美音": "[ˈstɔːri]",
+    "释义(中文)": "n. 故事；小说；新闻报道；来历；假话\nvt. 用历史故事画装饰\nvi. 说谎\n",
+    "释义(英文)": "n. a piece of fiction that narrates a chain of related events"
+  },
+  {
+    "单词": "university",
+    "英音": "[ˌjuːnɪˈvɜːsəti]",
+    "美音": "[ˌjuːnɪˈvɜːrsəti]",
+    "释义(中文)": "n. 大学；综合性大学；大学校舍",
+    "释义(英文)": "n. the body of faculty and students at a university\nn. establishment where a seat of higher learning is housed, including administrative and living quarters as well as facilities for research and teaching\nn. a large and diverse institution of higher learning created to educate for life and for a profession and to grant degrees"
+  },
+  {
+    "单词": "deaf",
+    "英音": "[def]",
+    "美音": "[def]",
+    "释义(中文)": "adj. 聋的",
+    "释义(英文)": "n. people who have severe hearing impairments\na. lacking or deprived of the sense of hearing wholly or in part\ns. (usually followed by `to') unwilling or refusing to pay heed"
+  },
+  {
+    "单词": "blind",
+    "英音": "[blaɪnd]",
+    "美音": "[blaɪnd]",
+    "释义(中文)": "n. 掩饰，借口；百叶窗\nadj. 盲目的；瞎的\nvt. 使失明；使失去理智\nadv. 盲目地；看不见地\n",
+    "释义(英文)": "n. people who have severe visual impairments, considered as a group\nn. a hiding place sometimes used by hunters (especially duck hunters)\nn. a protective covering that keeps things out or hinders sight\nv. render unable to see"
+  },
+  {
+    "单词": "fall",
+    "英音": "[fɔːl]",
+    "美音": "[fɔːl]",
+    "释义(中文)": "n. 下降；秋天；瀑布\nadj. 秋天的\nvi. 落下；变成；来临；减弱\nvt. 砍倒；击倒\n",
+    "释义(英文)": "n. the season when the leaves fall from the trees\nn. the lapse of mankind into sinfulness because of the sin of Adam and Eve\nn. a lapse into sin; a loss of innocence or of chastity\nn. a sudden decline in strength or number or importance"
+  },
+  {
+    "单词": "dumpling",
+    "英音": "[ˈdʌmplɪŋ]",
+    "美音": "[ˈdʌmplɪŋ]",
+    "释义(中文)": "n. 饺子，汤团；面团布丁",
+    "释义(英文)": "n. small balls or strips of boiled or steamed dough\nn. dessert made by baking fruit wrapped in pastry"
+  },
+  {
+    "单词": "fan",
+    "英音": "[fæn]",
+    "美音": "[fæn]",
+    "释义(中文)": "n. 迷；风扇；爱好者\nvt. 煽动；刺激；吹拂\nvi. 成扇形散开；飘动\n",
+    "释义(英文)": "n. a device for creating a current of air by movement of a surface or surfaces\nn. an ardent follower and admirer\nv. strike out (a batter), (of a pitcher)\nv. make (an emotion) fiercer"
+  },
+  {
+    "单词": "ice lantern",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "bring",
+    "英音": "[brɪŋ]",
+    "美音": "[brɪŋ]",
+    "释义(中文)": "vt. 带来；促使；引起；使某人处于某种情况或境地\n",
+    "释义(英文)": "v. take something or somebody with oneself somewhere\nv. cause to come into a particular state or condition\nv. cause to happen or to occur as a consequence\nv. go or come after and bring or take back"
+  },
+  {
+    "单词": "be afraid of",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 怕\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "hear",
+    "英音": "[hɪə(r)]",
+    "美音": "[hɪr]",
+    "释义(中文)": "vi. 听；听见\nvt. 听到，听；听说；审理",
+    "释义(英文)": "v. perceive (sound) via the auditory sense\nv. examine or hear (evidence or a case) by judicial process\nv. receive a communication from someone"
+  },
+  {
+    "单词": "pen pal",
+    "英音": "[ˈpen pæl]",
+    "美音": "[ˈpen pæl]",
+    "释义(中文)": "abbr. (=pen-friend)\nn. 笔友\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "broken",
+    "英音": "[ˈbrəʊkən]",
+    "美音": "[ˈbroʊkən]",
+    "释义(中文)": "v. 折断；打碎；损坏（break的过去分词）\nadj. 破碎的；坏掉的",
+    "释义(英文)": "a. physically and forcibly separated into pieces or cracked or split\na. not continuous in space, time, or sequence or varying abruptly\ns. subdued or brought low in condition or status\na. (especially of promises or contracts) having been violated or disregarded"
+  },
+  {
+    "单词": "pity",
+    "英音": "[ˈpɪti]",
+    "美音": "[ˈpɪti]",
+    "释义(中文)": "n. 怜悯，同情；遗憾\nvt. 对……表示怜悯；对……感到同情",
+    "释义(英文)": "n. an unfortunate development"
+  },
+  {
+    "单词": "prize",
+    "英音": "[praɪz]",
+    "美音": "[praɪz]",
+    "释义(中文)": "n. 奖品；奖赏；战利品\nadj. 获奖的\nvt. 珍视；捕获；估价",
+    "释义(英文)": "n. something given for victory or superiority in a contest or competition or for winning a lottery\nv. hold dear"
+  },
+  {
+    "单词": "look forward to",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 盼望\n",
+    "释义(英文)": "none"
+  }
+]

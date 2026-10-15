@@ -1,0 +1,856 @@
+[
+  {
+    "单词": "in class",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 在上课；在上课中\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "Stand up.",
+    "英音": "[ˈstænd ʌp]",
+    "美音": "[ˈstænd ʌp]",
+    "释义(中文)": "na. 站起来；持久；露头角；〔美俚〕背约\n",
+    "释义(英文)": "s. requiring a standing position"
+  },
+  {
+    "单词": "Mr",
+    "英音": "[ˈmɪstə(r)]",
+    "美音": "[ˈmɪstər]",
+    "释义(中文)": "abbr. 先生（Mister）",
+    "释义(英文)": "n a form of address for a man"
+  },
+  {
+    "单词": "Sit down.",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 坐下；住定；占有；(坐下来)开始工作(谈判等)\n",
+    "释义(英文)": "n. a strike in which workers refuse to leave the workplace until a settlement is reached"
+  },
+  {
+    "单词": "please",
+    "英音": "[pliːz]",
+    "美音": "[pliːz]",
+    "释义(中文)": "int. 请（礼貌用语）\nvt. 使喜欢；使高兴，使满意\nvi. 讨人喜欢；令人高兴",
+    "释义(英文)": "v. give pleasure to or be pleasing to\nv. be the will of or have the will (to)\nv. give satisfaction\nr. used in polite request"
+  },
+  {
+    "单词": "open",
+    "英音": "[ˈəʊpən]",
+    "美音": "[ˈoʊpən]",
+    "释义(中文)": "adj. 公开的；敞开的；空旷的；坦率的；营业着的\nvi. 开始；展现\nvt. 公开；打开\nn. 公开；空旷；户外",
+    "释义(英文)": "n. a clear or unobstructed space or expanse of land or water\nn. a tournament in which both professionals and amateurs may play\nn. information that has become public\nv. cause to open or to become open"
+  },
+  {
+    "单词": "the",
+    "英音": "[ðə]",
+    "美音": "[ðə; ði; ðiː]",
+    "释义(中文)": "art. 这；那\nadv. 更加（用于比较级，最高级前）",
+    "释义(英文)": "v. i. See Thee.\ndefinite article. A word placed before nouns to limit or\n   individualize their meaning.\nadv. By that; by how much; by so much; on that account; -- used\n   before comparatives; as, the longer we continue in sin, the more\n   difficult it is to reform."
+  },
+  {
+    "单词": "door",
+    "英音": "[dɔː(r)]",
+    "美音": "[dɔːr]",
+    "释义(中文)": "n. 门；家，户；门口；通道\n",
+    "释义(英文)": "n. a swinging or sliding barrier that will close the entrance to a room or building or vehicle\nn. anything providing a means of access (or escape)\nn. a structure where people live or work (usually ordered along a street or road)\nn. a room that is entered via a door"
+  },
+  {
+    "单词": "sorry",
+    "英音": "[ˈsɒri]",
+    "美音": "[ˈsɑːri]",
+    "释义(中文)": "adj. 遗憾的；对不起的，抱歉的\nint. 对不起，抱歉（表示委婉的拒绝等）",
+    "释义(英文)": "a feeling or expressing regret or sorrow or a sense of loss over something done or undone\ns bad; unfortunate\ns without merit\ns causing dejection"
+  },
+  {
+    "单词": "come in",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 进入；当选；上台；(党派)组阁\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "close",
+    "英音": "[kləʊz]",
+    "美音": "[kloʊz; kloʊs]",
+    "释义(中文)": "n. 结束\nadj. 紧密的；亲密的；亲近的\nvt. 关；结束；使靠近\nvi. 关；结束；关闭\nadv. 紧密地\n",
+    "释义(英文)": "v. move so that an opening or passage is obstructed; make shut\nv. become closed\nv. finish or terminate (meetings, speeches, etc.)\nv. complete a business deal, negotiation, or an agreement"
+  },
+  {
+    "单词": "window",
+    "英音": "[ˈwɪndəʊ]",
+    "美音": "[ˈwɪndoʊ]",
+    "释义(中文)": "n. 窗；窗口；窗户",
+    "释义(英文)": "n. a framework of wood or metal that contains a glass windowpane and is built into a wall or roof to admit light or air\nn. a transparent opening in a vehicle that allow vision out of the sides or back; usually is capable of being opened\nn. a transparent panel (as of an envelope) inserted in an otherwise opaque material\nn. an opening that resembles a window in appearance or function"
+  },
+  {
+    "单词": "blackboard",
+    "英音": "[ˈblækbɔːd]",
+    "美音": "[ˈblækbɔːrd]",
+    "释义(中文)": "n. 黑板",
+    "释义(英文)": "n. sheet of slate; for writing with chalk"
+  },
+  {
+    "单词": "book",
+    "英音": "[bʊk]",
+    "美音": "[bʊk]",
+    "释义(中文)": "n. 书籍；卷；帐簿；名册；工作簿\nvt. 预订；登记\n",
+    "释义(英文)": "n. a written work or composition that has been published (printed on pages bound together)\nn. physical objects consisting of a number of pages bound together\nn. a collection of playing cards satisfying the rules of a card game\nn. a collection of rules or prescribed standards on the basis of which decisions are made"
+  },
+  {
+    "单词": "rubber",
+    "英音": "[ˈrʌbə(r)]",
+    "美音": "[ˈrʌbər]",
+    "释义(中文)": "n. 橡胶；橡皮；合成橡胶；按摩师\nadj. 橡胶制成的\nvt. 涂橡胶于；用橡胶制造\nvi. 扭转脖子看；好奇地引颈而望\n",
+    "释义(英文)": "n. an elastic material obtained from the latex sap of trees (especially trees of the genera Hevea and Ficus) that can be vulcanized and finished into a variety of products\nn. any of various synthetic elastic materials whose properties resemble natural rubber\ns. returned for lack of funds"
+  },
+  {
+    "单词": "don't",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 禁忌（等于do not）\naux. 表示否定（等于do not）",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "do not",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "listen to",
+    "英音": "[ˈlɪsn tʊ]",
+    "美音": "[ˈlɪsn tu]",
+    "释义(中文)": "v. 听\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "parrot",
+    "英音": "[ˈpærət]",
+    "美音": "[ˈpærət]",
+    "释义(中文)": "n. 鹦鹉；学舌者，应声虫；机械模仿别人的人\nvt. 机械地模仿\n",
+    "释义(英文)": "n. usually brightly colored zygodactyl tropical birds with short hooked beaks and the ability to mimic sounds\nn. a copycat who does not understand the words or acts being imitated\nv. repeat mindlessly"
+  },
+  {
+    "单词": "in",
+    "英音": "[ɪn]",
+    "美音": "[ɪn]",
+    "释义(中文)": "prep. 按照（表示方式）；从事于；在…之内\nn. 执政者；门路；知情者\nadj. 在里面",
+    "释义(英文)": "s. holding office\ns. directed or bound inward\ns. currently fashionable\nr. to or toward the inside of"
+  },
+  {
+    "单词": "library",
+    "英音": "[ˈlaɪbrəri; ˈlaɪbri]",
+    "美音": "[ˈlaɪbreri]",
+    "释义(中文)": "n. 图书馆，藏书室；文库",
+    "释义(英文)": "n. a room where books are kept\nn. a collection of literary documents or records kept for reference or borrowing\nn. a depository built to contain books and other materials for reading and study\nn. (computing) a collection of standard programs and subroutines that are stored and available for immediate use"
+  },
+  {
+    "单词": "shh",
+    "英音": "[ʃ]",
+    "美音": "[ʃ]",
+    "释义(中文)": "int. 嘘；安静一点",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "shout",
+    "英音": "[ʃaʊt]",
+    "美音": "[ʃaʊt]",
+    "释义(中文)": "n. 呼喊；呼叫\nvi. 呼喊；喊叫；大声说\nvt. 呼喊；大声说",
+    "释义(英文)": "v. utter in a loud voice; talk in a loud voice (usually denoting characteristic manner of speaking)\nv. utter a sudden loud cry"
+  },
+  {
+    "单词": "run",
+    "英音": "[rʌn]",
+    "美音": "[rʌn]",
+    "释义(中文)": "n. 奔跑；赛跑；趋向；奔跑的路程\nvt. 管理，经营；运行；参赛\nvi. 经营；奔跑；运转\n",
+    "释义(英文)": "n. a score in baseball made by a runner touching all four bases safely\nn. (American football) a play in which a player attempts to carry the ball through or past the opposing team\nn. a regular trip\nn. the act of running; traveling on foot at a fast pace"
+  },
+  {
+    "单词": "eat",
+    "英音": "[iːt]",
+    "美音": "[iːt]",
+    "释义(中文)": "vt. 吃，喝；腐蚀；烦扰\nvi. 进食；腐蚀，侵蚀",
+    "释义(英文)": "v. take in solid food\nv. eat a meal; take a meal\nv. worry or cause anxiety in a persistent way"
+  },
+  {
+    "单词": "here",
+    "英音": "[hɪə(r)]",
+    "美音": "[hɪr]",
+    "释义(中文)": "n. 这里\nadv. 在这里；此时\nint. 嘿！；喂！\n",
+    "释义(英文)": "n. the present location; this place\ns. being here now\nr. in or at this place; where the speaker or writer is\nr. in this circumstance or respect or on this point or detail"
+  },
+  {
+    "单词": "talk",
+    "英音": "[tɔːk]",
+    "美音": "[tɔːk]",
+    "释义(中文)": "n. 谈话；演讲；空谈\nvi. 谈话；说闲话\nvt. 说；谈话；讨论",
+    "释义(英文)": "n. an exchange of ideas via conversation\nn. discussion; (`talk about' is a less formal alternative for `discussion of')\nn. the act of giving a talk to an audience\nn. idle gossip or rumor"
+  },
+  {
+    "单词": "sleep",
+    "英音": "[sliːp]",
+    "美音": "[sliːp]",
+    "释义(中文)": "n. 睡眠\nvi. 睡，睡觉\n",
+    "释义(英文)": "n. a natural and periodic state of rest during which consciousness of the world is suspended\nn. a torpid state resembling deep sleep\nn. a period of time spent sleeping\nv. be asleep"
+  },
+  {
+    "单词": "drink",
+    "英音": "[drɪŋk]",
+    "美音": "[drɪŋk]",
+    "释义(中文)": "n. 酒，饮料；喝酒\nvt. 喝，饮；吸收；举杯庆贺\nvi. 喝酒；饮水；干杯",
+    "释义(英文)": "n. a single serving of a beverage\nn. the act of drinking alcoholic beverages to excess\nn. any large deep body of water\nv. take in liquids"
+  },
+  {
+    "单词": "milk",
+    "英音": "[mɪlk]",
+    "美音": "[mɪlk]",
+    "释义(中文)": "n. 牛奶；乳状物\nvt. 榨取；挤…的奶\nvi. 挤奶\n",
+    "释义(英文)": "n. a white nutritious liquid secreted by mammals and used as food by human beings\nn. produced by mammary glands of female mammals for feeding their young\nn. a river that rises in the Rockies in northwestern Montana and flows eastward to become a tributary of the Missouri River\nn. any of several nutritive milklike liquids"
+  },
+  {
+    "单词": "English",
+    "英音": "[ˈɪŋɡlɪʃ]",
+    "美音": "[ˈɪŋɡlɪʃ]",
+    "释义(中文)": "n. 英语；英国人；英文；英格兰人\nadj. 英国人的；英国的；英文的\nvt. 把…译成英语",
+    "释义(英文)": "n. an Indo-European language belonging to the West Germanic branch; the official language of Britain and the United States and most of the commonwealth countries\nn. the people of England\nn. the discipline that studies the English language and literature"
+  },
+  {
+    "单词": "your",
+    "英音": "[jɔː(r); jə(r)]",
+    "美音": "[jʊr; jər]",
+    "释义(中文)": "pron. 你的，你们的",
+    "释义(英文)": "pron. & a. The form of the possessive case of the personal\n   pronoun you."
+  },
+  {
+    "单词": "pencil",
+    "英音": "[ˈpens(ə)l]",
+    "美音": "[ˈpensl]",
+    "释义(中文)": "n. 铅笔；笔状物\nvt. 用铅笔写；用眉笔涂\nvi. 成铅笔状",
+    "释义(英文)": "n. a thin cylindrical pointed writing implement; a rod of marking substance encased in wood\nn. graphite (or a similar substance) used in such a way as to be a medium of communication\nn. a figure formed by a set of straight lines or light rays meeting at a point\nn. a cosmetic in a long thin stick; designed to be applied to a particular part of the face"
+  },
+  {
+    "单词": "isn't",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "不是（等于is not）",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "is not",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "= IS NOT equal to,不等于…",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "that's",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "那是（等于That is）",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "that is",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 即；用于纠正之前说过的内容\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "schoolbag",
+    "英音": "[ˈskuːlbæɡ]",
+    "美音": "[ˈskuːlˌbæɡ]",
+    "释义(中文)": "n. 书包",
+    "释义(英文)": "n. a bag for carrying school books and supplies"
+  },
+  {
+    "单词": "pen",
+    "英音": "[pen]",
+    "美音": "[pen]",
+    "释义(中文)": "n. 钢笔；作家；围栏\nvt. 写；关入栏中\n",
+    "释义(英文)": "n. a writing implement with a point from which ink flows\nn. an enclosure for confining livestock\nn. female swan"
+  },
+  {
+    "单词": "crayon",
+    "英音": "[ˈkreɪən; ˈkreɪɒn]",
+    "美音": "[ˈkreɪən; ˈkreɪɑːn]",
+    "释义(中文)": "n. 蜡笔，有色粉笔\nvt. 以蜡笔作画，用颜色粉笔画",
+    "释义(英文)": "n. writing implement consisting of a colored stick of composition wax used for writing and drawing\nv. write, draw, or trace with a crayon"
+  },
+  {
+    "单词": "ruler",
+    "英音": "[ˈruːlə(r)]",
+    "美音": "[ˈruːlər]",
+    "释义(中文)": "n. 尺；统治者；[测] 划线板，划线的人",
+    "释义(英文)": "n. a person who rules or commands"
+  },
+  {
+    "单词": "pencil case",
+    "英音": "[ˈpensl keɪs]",
+    "美音": "[ˈpensl keɪs]",
+    "释义(中文)": "n. 铅笔盒；铅笔袋\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "lunch box",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 饭盒；“饭盒”\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "where",
+    "英音": "[weə(r)]",
+    "美音": "[wer]",
+    "释义(中文)": "conj. 在…的地方\nn. 地点\nadv. 在哪里\npron. 哪里",
+    "释义(英文)": "pron. & conj. Whether.\nadv. At or in what place; hence, in what situation, position,\n   or circumstances; -- used interrogatively.\nadv. At or in which place; at the place in which; hence, in the\n   case or instance in which; -- used relatively.\nadv. To what or which place; hence, to what goal, result, or\n   issue; whither; -- used interrogatively and relatively; as, where are\n   you going?\nconj. Whereas.\nn. Place; situation."
+  },
+  {
+    "单词": "where's",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 在哪里；威力现在在哪里；是哪里",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "where is",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 查找文件；查找命令；寻找特定档案",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "over there",
+    "英音": "['əʊvə(r) ðeə(r)]",
+    "美音": "[ˈəʊvər ðer]",
+    "释义(中文)": "na. 在那边；〔美国〕在欧洲；〔大战用语〕在战地\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "bird",
+    "英音": "[bɜːd]",
+    "美音": "[bɜːrd]",
+    "释义(中文)": "n. 鸟；家伙；羽毛球\nvt. 向…喝倒彩；起哄\nvi. 猎鸟；观察研究野鸟\n",
+    "释义(英文)": "n. warm-blooded egg-laying vertebrates characterized by feathers and forelimbs modified as wings\nn. the flesh of a bird or fowl (wild or domestic) used as food\nv. watch and study birds in their natural habitat"
+  },
+  {
+    "单词": "beautiful",
+    "英音": "[ˈbjuːtɪf(ə)l]",
+    "美音": "[ˈbjuːtɪf(ə)l]",
+    "释义(中文)": "adj. 美丽的\n出色地\n出色的\n迷人的\n迷人地",
+    "释义(英文)": "a. delighting the senses or exciting intellectual or emotional admiration\ns. (of weather) highly enjoyable"
+  },
+  {
+    "单词": "under",
+    "英音": "[ˈʌndə(r)]",
+    "美音": "[ˈʌndər]",
+    "释义(中文)": "prep. 低于，少于；在...之下\nadj. 下面的；从属的\nadv. 在下面；在下方",
+    "释义(英文)": "s. lower in rank, power, or authority\nr. down to defeat, death, or ruin\nr. through a range downward\nr. into unconsciousness"
+  },
+  {
+    "单词": "desk",
+    "英音": "[desk]",
+    "美音": "[desk]",
+    "释义(中文)": "n. 办公桌；服务台；编辑部；（美）讲道台；乐谱架\nadj. 书桌的；桌上用的；伏案做的",
+    "释义(英文)": "n. a piece of furniture with a writing surface and usually drawers or other compartments"
+  },
+  {
+    "单词": "behind",
+    "英音": "[bɪˈhaɪnd]",
+    "美音": "[bɪˈhaɪnd]",
+    "释义(中文)": "prep. 落后于；支持；晚于\nn. 屁股\nadv. 在后地；在原处",
+    "释义(英文)": "s. having the lower score or lagging position in a contest\nr. in or to or toward the rear\nr. remaining in a place or condition that has been left or departed from\nr. of timepieces"
+  },
+  {
+    "单词": "on",
+    "英音": "[ɒn]",
+    "美音": "[ɑːn]",
+    "释义(中文)": "adv. 向前地；作用中，行动中；继续着\nprep. 向，朝……；关于；在……之上；在……时候\nadj. 开着的；发生着的，正在进行中\n",
+    "释义(英文)": "a. in operation or operational\na. (of events) planned or scheduled\nr. indicates continuity or persistence or concentration\nr. in a state required for something to function or be effective"
+  },
+  {
+    "单词": "chair",
+    "英音": "[tʃeə(r)]",
+    "美音": "[tʃer]",
+    "释义(中文)": "n. 椅子；讲座；（会议的）主席位；大学教授的职位\nvt. 担任（会议的）主席；使…入座；使就任要职\n",
+    "释义(英文)": "n. a seat for one person, with a support for the back\nn. a particular seat in an orchestra\nv. act or preside as chair, as of an academic department in a university"
+  },
+  {
+    "单词": "tree",
+    "英音": "[triː]",
+    "美音": "[triː]",
+    "释义(中文)": "n. 树；木料；树状物\nvt. 把...赶上树\nvi. 爬上树；逃上树\n",
+    "释义(英文)": "n. a tall perennial woody plant having a main trunk and branches forming a distinct elevated crown; includes both gymnosperms and angiosperms\nn. a figure that branches from a single root\nn. English actor and theatrical producer noted for his lavish productions of Shakespeare (1853-1917)\nv. plant with trees"
+  },
+  {
+    "单词": "guess",
+    "英音": "[ɡes]",
+    "美音": "[ɡes]",
+    "释义(中文)": "n. 猜测；推测\nvi. 猜；推测；猜中\nvt. 猜测；认为；推测；猜中\nn. 盖尔斯（美国服装品牌）",
+    "释义(英文)": "n. a message expressing an opinion based on incomplete evidence\nn. an estimate based on little or no information\nv. put forward, of a guess, in spite of possible refutation\nv. guess correctly; solve by guessing"
+  },
+  {
+    "单词": "one",
+    "英音": "[wʌn]",
+    "美音": "[wʌn]",
+    "释义(中文)": "pron. 一个人；任何人\nadj. 一的；唯一的\nn. 一\nnum. 一；一个\n",
+    "释义(英文)": "n. the smallest whole number or a numeral representing this number\nn. a single person or thing\ns. used of a single unit or thing; not two or more\ns. having the indivisible character of a unit"
+  },
+  {
+    "单词": "two",
+    "英音": "[tuː]",
+    "美音": "[tuː]",
+    "释义(中文)": "num. 二\nn. 两个\nadj. 两个的",
+    "释义(英文)": "n. the cardinal number that is the sum of one and one or a numeral representing this number\ns. being one more than one"
+  },
+  {
+    "单词": "three",
+    "英音": "[θriː]",
+    "美音": "[θriː]",
+    "释义(中文)": "num. 三\nn. 三，三个\nadj. 三的，三个的",
+    "释义(英文)": "n. the cardinal number that is the sum of one and one and one\ns. being one more than two"
+  },
+  {
+    "单词": "oh",
+    "英音": "[əʊ]",
+    "美音": "[oʊ]",
+    "释义(中文)": "int. 哦；哎呀（表示惊讶或恐惧等）",
+    "释义(英文)": "n a midwestern state in north central United States in the Great Lakes region"
+  },
+  {
+    "单词": "wow",
+    "英音": "[waʊ]",
+    "美音": "[waʊ]",
+    "释义(中文)": "n. 极大的成功；一鸣惊人之举；魔兽世界(World of Warcraft)；失真\nint. （表示极大的惊奇或钦佩）哇，呀",
+    "释义(英文)": "v. impress greatly"
+  },
+  {
+    "单词": "How old are you?",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 你(今年)多大(年纪)\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "lovely",
+    "英音": "[ˈlʌvli]",
+    "美音": "[ˈlʌvli]",
+    "释义(中文)": "adj. 可爱的；令人愉快的；爱恋的；秀丽的，优美的\nn. 美女；可爱的东西",
+    "释义(英文)": "s. appealing to the emotions as well as the eye"
+  },
+  {
+    "单词": "nine",
+    "英音": "[naɪn]",
+    "美音": "[naɪn]",
+    "释义(中文)": "n. 九，九个\nnum. 九；九个\nadj. 九的，九个的\n",
+    "释义(英文)": "n. the cardinal number that is the sum of eight and one\ns. denoting a quantity consisting of one more than eight and one less than ten"
+  },
+  {
+    "单词": "eight",
+    "英音": "[eɪt]",
+    "美音": "[eɪt]",
+    "释义(中文)": "num. 八；八个；第八\nn. 八字形\nadj. 八的",
+    "释义(英文)": "n. the cardinal number that is the sum of seven and one\ns. being one more than seven"
+  },
+  {
+    "单词": "four",
+    "英音": "[fɔː(r)]",
+    "美音": "[fɔːr]",
+    "释义(中文)": "num. 四；四个\nadj. 四的；四个的\n",
+    "释义(英文)": "n. the cardinal number that is the sum of three and one\ns. being one more than three"
+  },
+  {
+    "单词": "five",
+    "英音": "[faɪv]",
+    "美音": "[faɪv]",
+    "释义(中文)": "num. 五，五个\nn. 五，五个；五美元钞票\nadj. 五的；五个的\n",
+    "释义(英文)": "n. the cardinal number that is the sum of four and one\ns. being one more than four"
+  },
+  {
+    "单词": "six",
+    "英音": "[sɪks]",
+    "美音": "[sɪks]",
+    "释义(中文)": "num. 六，六个\nn. 六，六个\n",
+    "释义(英文)": "n. the cardinal number that is the sum of five and one\ns. denoting a quantity consisting of six items or units"
+  },
+  {
+    "单词": "seven",
+    "英音": "[ˈsev(ə)n]",
+    "美音": "[ˈsev(ə)n]",
+    "释义(中文)": "num. 七个，七\nn. 七个，七\nadj. 七的；七个的\n",
+    "释义(英文)": "n. the cardinal number that is the sum of six and one\ns. being one more than six"
+  },
+  {
+    "单词": "ten",
+    "英音": "[ten]",
+    "美音": "[ten]",
+    "释义(中文)": "num. 十个，十\n",
+    "释义(英文)": "n. the cardinal number that is the sum of nine and one; the base of the decimal system\ns. being one more than nine"
+  },
+  {
+    "单词": "right",
+    "英音": "[raɪt]",
+    "美音": "[raɪt]",
+    "释义(中文)": "n. 正确；右边；正义\nadj. 正确的；直接的；右方的\nvt. 纠正\nadv. 正确地；恰当地；彻底地\nvi. 复正；恢复平稳\n",
+    "释义(英文)": "n. an abstract idea of that which is due to a person or governmental body by law or tradition or nature; it is something that nobody can take away\"\nn. location near or direction toward the right side; i.e. the side to the south when a person or object faces east\nn. those who support political or social or economic conservatism; those who believe that things are better left unchanged\nn. the hand that is on the right side of the body"
+  },
+  {
+    "单词": "out",
+    "英音": "[aʊt]",
+    "美音": "[aʊt]",
+    "释义(中文)": "adv. 出现；在外；出局；出声地；不流行地\nadj. 外面的；出局的；下台的\nn. 出局\nprep. 向；离去\nvi. 出来；暴露\nvt. 使熄灭；驱逐",
+    "释义(英文)": "n. (baseball) a failure by a batter or runner to reach a base safely in baseball\nv. reveal (something) about somebody's identity or lifestyle\nv. be made known; be disclosed or revealed\na. not allowed to continue to bat or run"
+  },
+  {
+    "单词": "What a nice cake!",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "Make a wish.",
+    "英音": "[meɪk ə wɪʃ]",
+    "美音": "[meɪk ə wɪʃ]",
+    "释义(中文)": " 许愿；许个愿；许一个愿望",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "want",
+    "英音": "[wɒnt]",
+    "美音": "[wɑːnt]",
+    "释义(中文)": "n. 需要；缺乏；贫困；必需品\nvt. 需要；希望；应该；缺少\nvi. 需要；缺少",
+    "释义(英文)": "v. have need of\nv. hunt or look for; want for a particular reason\nv. wish or demand the presence of\nv. be without, lack; be deficient in"
+  },
+  {
+    "单词": "It's time for ...",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "What time is it?",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 现在几点钟?\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "wake up",
+    "英音": "[ˈweɪk ˌʌp]",
+    "美音": "[ˈweɪk ˌʌp]",
+    "释义(中文)": "na. 同“wake”；叫醒；醒来；振作起来\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "mum",
+    "英音": "[mʌm]",
+    "美音": "[mʌm]",
+    "释义(中文)": "adj. 沉默的\nn. 妈妈（口语）；沉默；菊花\nvi. 演哑剧\nint. 别说话",
+    "释义(英文)": "n. secrecy\ns. failing to speak or communicate etc when expected to"
+  },
+  {
+    "单词": "o'clock",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "abbr. …点钟（等于of the clock）",
+    "释义(英文)": "r. according to the clock"
+  },
+  {
+    "单词": "breakfast",
+    "英音": "[ˈbrekfəst]",
+    "美音": "[ˈbrekfəst]",
+    "释义(中文)": "n. 早餐；早饭\nvt. 为…供应早餐\nvi. 吃早餐",
+    "释义(英文)": "n. the first meal of the day (usually in the morning)\nv. eat an early morning meal\nv. provide breakfast for"
+  },
+  {
+    "单词": "Hurry up.",
+    "英音": "['hʌrɪ ʌp]",
+    "美音": "['hɜːrɪ ʌp]",
+    "释义(中文)": "na. 催促；赶快\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "class",
+    "英音": "[klɑːs]",
+    "美音": "[klæs]",
+    "释义(中文)": "n. 阶级；班级；种类；班；等级\nadj. 极好的；很好的，优秀的，出色的\nvt. 分类；把…分等级；把…归入某等级，把…看作（或分类、归类）；把…编入某一班级\nvi. 属于…类（或等级），被列为某类（或某级）\n",
+    "释义(英文)": "n. a collection of things sharing a common attribute\nn. a body of students who are taught together\nn. people having the same social, economic, or educational status\nn. a league ranked by quality"
+  },
+  {
+    "单词": "dinner",
+    "英音": "[ˈdɪnə(r)]",
+    "美音": "[ˈdɪnər]",
+    "释义(中文)": "n. 晚餐，晚宴；宴会；正餐\n",
+    "释义(英文)": "n. the main meal of the day served in the evening or at midday\nn. a party of people assembled to have dinner together"
+  },
+  {
+    "单词": "bed",
+    "英音": "[bed]",
+    "美音": "[bed]",
+    "释义(中文)": "n. 床；基础；河底， 海底\nvt. 使睡觉；安置，嵌入；栽种\nvi. 上床；分层",
+    "释义(英文)": "n. a piece of furniture that provides a place to sleep\nn. a plot of ground in which plants are growing\nn. a depression forming the ground under a body of water\nn. (geology) a stratum of rock (especially sedimentary rock)"
+  },
+  {
+    "单词": "OK",
+    "英音": "[əʊˈkeɪ]",
+    "美音": "[ˌoʊ'keɪ]",
+    "释义(中文)": "adj. 好的；不错的\nadv. 行；很好\nint. 好；可以\nvt. 对…表示同意\nn. 同意",
+    "释义(英文)": "n a state in south central United States\nk an endorsement\ns being satisfactory or in satisfactory condition\nr an expression of agreement normally occurring at the beginning of a sentence"
+  },
+  {
+    "单词": "lunch",
+    "英音": "[lʌntʃ]",
+    "美音": "[lʌntʃ]",
+    "释义(中文)": "n. 午餐\nvt. 吃午餐；供给午餐\nvi. 吃午餐；供给午餐",
+    "释义(英文)": "n. a midday meal\nv. take the midday meal\nv. provide a midday meal for"
+  },
+  {
+    "单词": "eleven",
+    "英音": "[ɪˈlev(ə)n]",
+    "美音": "[ɪˈlevn]",
+    "释义(中文)": "num. 十一；十一个\nn. 十一；十一个\nadj. 十一的；十一个的",
+    "释义(英文)": "n. the cardinal number that is the sum of ten and one\ns. being one more than ten"
+  },
+  {
+    "单词": "twelve",
+    "英音": "[twelv]",
+    "美音": "[twelv]",
+    "释义(中文)": "num. 十二；十二个\nn. 十二；十二个\nadj. 十二的；十二个的",
+    "释义(英文)": "n. the cardinal number that is the sum of eleven and one\ns. denoting a quantity consisting of 12 items or units"
+  },
+  {
+    "单词": "bag",
+    "英音": "[bæɡ]",
+    "美音": "[bæɡ]",
+    "释义(中文)": "n. 袋；猎获物；（俚）一瓶啤酒\nvt. 猎获；把…装入袋中；占据，私吞；使膨大\nvi. 松垂",
+    "释义(英文)": "n. a flexible container with a single opening\nn. the quantity of game taken in a particular period (usually by one person)\nn. a container used for carrying money and small personal items or accessories (especially by women)\nn. the quantity that a bag will hold"
+  },
+  {
+    "单词": "these",
+    "英音": "[ðiːz]",
+    "美音": "[ðiːz]",
+    "释义(中文)": "adj. 这些的\npron. 这些",
+    "释义(英文)": "pron. The plural of this. See This.\npl.  of This"
+  },
+  {
+    "单词": "here's",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " =here is",
+    "释义(英文)": "n the present location; this place\nn queen of the Olympian gods in ancient Greek mythology; sister and wife of Zeus remembered for her jealously of the many mortal women Zeus fell in love with; identified with Roman Juno"
+  },
+  {
+    "单词": "here is",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 这是；是简单的倒装句；在这里",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "farm",
+    "英音": "[fɑːm]",
+    "美音": "[fɑːrm]",
+    "释义(中文)": "n. 农场；农家；畜牧场\nvt. 养殖；耕种；佃出（土地）\nvi. 种田，务农；经营农场",
+    "释义(英文)": "n. workplace consisting of farm buildings and cultivated land as a unit\nv. be a farmer; work as a farmer\nv. collect fees or profits"
+  },
+  {
+    "单词": "Welcome to ...",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "v. 欢迎来到\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "they",
+    "英音": "[ðeɪ]",
+    "美音": "[ðeɪ]",
+    "释义(中文)": "pron. 他们；它们；她们",
+    "释义(英文)": "obj. The plural of he, she, or it. They is never used\n   adjectively, but always as a pronoun proper, and sometimes refers to\n   persons without an antecedent expressed."
+  },
+  {
+    "单词": "they're",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "= they are",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "they are",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "pig",
+    "英音": "[pɪɡ]",
+    "美音": "[pɪɡ]",
+    "释义(中文)": "n. 猪；猪肉\nvi. 生小猪；像猪一样过活\nn. 警察（俚语，带有攻击性）",
+    "释义(英文)": "n. a crude block of metal (lead or iron) poured from a smelting furnace\nv. live like a pig, in squalor"
+  },
+  {
+    "单词": "those",
+    "英音": "[ðəʊz]",
+    "美音": "[ðoʊz]",
+    "释义(中文)": "adj. 那些的\npron. 那些（that的复数）",
+    "释义(英文)": "pron. The plural of that. See That."
+  },
+  {
+    "单词": "cow",
+    "英音": "[kaʊ]",
+    "美音": "[kaʊ]",
+    "释义(中文)": "n. 奶牛，母牛；母兽\nvt. 威胁，恐吓",
+    "释义(英文)": "n. female of domestic cattle: \"`moo-cow' is a child's term\"\nn. mature female of mammals of which the male is called `bull'\nn. a large unpleasant woman"
+  },
+  {
+    "单词": "apple",
+    "英音": "[ˈæp(ə)l]",
+    "美音": "[ˈæpl]",
+    "释义(中文)": "n. 苹果，苹果树，苹果似的东西；[美俚]炸弹，手榴弹，（棒球的）球；[美俚]人，家伙。",
+    "释义(英文)": "n. fruit with red or yellow or green skin and sweet to tart crisp whitish flesh\nn. native Eurasian tree widely cultivated in many varieties for its firm rounded edible fruits"
+  },
+  {
+    "单词": "pear",
+    "英音": "[peə(r)]",
+    "美音": "[per]",
+    "释义(中文)": "n. [园艺] 梨树；梨子\n",
+    "释义(英文)": "n. sweet juicy gritty-textured fruit available in many varieties\nn. Old World tree having sweet gritty-textured juicy fruit; widely cultivated in many varieties"
+  },
+  {
+    "单词": "chicken",
+    "英音": "[ˈtʃɪkɪn]",
+    "美音": "[ˈtʃɪkɪn]",
+    "释义(中文)": "n. 鸡肉；小鸡；胆小鬼，懦夫\nadj. 鸡肉的；胆怯的；幼小的",
+    "释义(英文)": "n. the flesh of a chicken used for food\nn. a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl\nn. a foolhardy competition; a dangerous activity that is continued until one competitor becomes afraid and stops\ns. easily frightened"
+  },
+  {
+    "单词": "duck",
+    "英音": "[dʌk]",
+    "美音": "[dʌk]",
+    "释义(中文)": "n. 鸭子；鸭肉；（英）宝贝儿；零分\nvt. 躲避；猛按…入水\nvi. 闪避；没入水中\n",
+    "释义(英文)": "n. small wild or domesticated web-footed broad-billed swimming bird usually having a depressed body and short legs\nn. (cricket) a score of nothing by a batsman\nn. flesh of a duck (domestic or wild)\nn. a heavy cotton fabric of plain weave; used for clothing and tents"
+  },
+  {
+    "单词": "orange",
+    "英音": "[ˈɒrɪndʒ]",
+    "美音": "[ˈɔrɪndʒ]",
+    "释义(中文)": "adj. 橙色的；橘色的\nn. 橙；橙色；桔子\n",
+    "释义(英文)": "n. round yellow to orange fruit of any of several citrus trees\nn. orange color or pigment; any of a range of colors between red and yellow\nn. any citrus tree bearing oranges\nn. any pigment producing the orange color"
+  },
+  {
+    "单词": "picture",
+    "英音": "[ˈpɪktʃə(r)]",
+    "美音": "[ˈpɪktʃər]",
+    "释义(中文)": "n. 照片，图画；影片；景色；化身\nvt. 画；想像；描写",
+    "释义(英文)": "n. a visual representation (of an object or scene or person or abstraction) produced on a surface\nn. a situation treated as an observable object\nn. illustrations used to decorate or explain a text\nn. a typical example of some state or quality"
+  },
+  {
+    "单词": "who",
+    "英音": "[huː]",
+    "美音": "[huː]",
+    "释义(中文)": "pron. 谁；什么人",
+    "释义(英文)": "n a United Nations agency to coordinate international health activities and to help governments improve health services"
+  },
+  {
+    "单词": "who's",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "abbr. 谁是（who is，who has）",
+    "释义(英文)": "n a United Nations agency to coordinate international health activities and to help governments improve health services"
+  },
+  {
+    "单词": "who is",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 谁是；是谁；谁是呢",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "we",
+    "英音": "[wi; wiː]",
+    "美音": "[wi]",
+    "释义(中文)": "pron. 我们（主格）；笔者，本人（作者或演讲人使用）；朕，寡人\n",
+    "释义(英文)": "pl.  of I\nobj. The plural nominative case of the pronoun of the first\n   person; the word with which a person in speaking or writing denotes a\n   number or company of which he is one, as the subject of an action\n   expressed by a verb."
+  },
+  {
+    "单词": "we're",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "（等于we are）",
+    "释义(英文)": "v have the quality of being; (copula, used with an adjective or a predicate noun)\nv be identical to; be someone or something\nv occupy a certain position or area; be somewhere\nv have an existence, be extant\nv happen, occur, take place; this was during the visit to my parents' house\"\nv be identical or equivalent to\nv form or compose\nv work in a specific place, with a specific subject, or in a specific function\nv represent, as of a character on stage\nv spend or use time\nv have life, be alive\nv to remain unmolested, undisturbed, or uninterrupted -- used only in infinitive form\nv be priced at"
+  },
+  {
+    "单词": "we are",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " [人名] [英格兰人姓氏] 韦尔 Wear的变体; [地名] [英国、英国] 韦尔",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "twin",
+    "英音": "[twɪn]",
+    "美音": "[twɪn]",
+    "释义(中文)": "n. 双胞胎中一人\nadj. 双胞胎的\nvt. 使成对\nvi. 成对；生双胞胎\n",
+    "释义(英文)": "n. either of two offspring born at the same time from the same pregnancy\nn. a waterfall in the Snake River in southern Idaho\nv. duplicate or match\nv. grow as twins"
+  },
+  {
+    "单词": "aunt",
+    "英音": "[ɑːnt]",
+    "美音": "[ænt]",
+    "释义(中文)": "n. 阿姨；姑妈；伯母；舅妈",
+    "释义(英文)": "n. the sister of your father or mother; the wife of your uncle"
+  },
+  {
+    "单词": "girl",
+    "英音": "[ɡɜːl]",
+    "美音": "[ɡɜːrl]",
+    "释义(中文)": "n. 女孩；姑娘，未婚女子；女职员，女演员；（男人的）女朋友\nn. （捷）吉尔",
+    "释义(英文)": "n. a young woman\nn. a friendly informal reference to a grown woman"
+  },
+  {
+    "单词": "man",
+    "英音": "[mæn]",
+    "美音": "[mæn]",
+    "释义(中文)": "n. 人；男人；人类；丈夫；雇工\nvt. 操纵；给…配置人员；使增强勇气；在…就位\n",
+    "释义(英文)": "n. an adult person who is male (as opposed to a woman)\nn. the generic use of the word to refer to any human being\nn. a male subordinate\nn. an adult male person who has a manly character (virile and courageous competent)"
+  },
+  {
+    "单词": "woman",
+    "英音": "[ˈwʊmən]",
+    "美音": "[ˈwʊmən]",
+    "释义(中文)": "n. 妇女；女性；成年女子",
+    "释义(英文)": "n. an adult female person (as opposed to a man)\nn. a female person who plays a significant role (wife or mistress or girlfriend) in the life of a particular man"
+  },
+  {
+    "单词": "boy",
+    "英音": "[bɔɪ]",
+    "美音": "[bɔɪ]",
+    "释义(中文)": "n. 男孩；男人\n",
+    "释义(英文)": "n. a friendly informal reference to a grown man\nn. (ethnic slur) offensive and disparaging term for Black man"
+  },
+  {
+    "单词": "baby",
+    "英音": "[ˈbeɪbi]",
+    "美音": "[ˈbeɪbi]",
+    "释义(中文)": "n. 婴儿，婴孩；孩子气的人\nadj. 婴儿的；幼小的\nvt. 纵容，娇纵；把……当婴儿般对待\n",
+    "释义(英文)": "n. a very young child (birth to 1 year) who has not yet begun to walk or talk\nn. the youngest member of a group (not necessarily young)\nn. an unborn child; a human fetus\nn. (slang) sometimes used as a term of address for attractive young women"
+  },
+  {
+    "单词": "cousin",
+    "英音": "[ˈkʌzn]",
+    "美音": "[ˈkʌzn]",
+    "释义(中文)": "n. 堂兄弟姊妹；表兄弟姊妹",
+    "释义(英文)": "n. the child of your aunt or uncle"
+  },
+  {
+    "单词": "name",
+    "英音": "[neɪm]",
+    "美音": "[neɪm]",
+    "释义(中文)": "n. 名称，名字；姓名；名誉\nvt. 命名，任命；指定；称呼；提名；叫出\nadj. 姓名的；据以取名的\n",
+    "释义(英文)": "n. a language unit by which a person or thing is known\nn. a person's reputation\nn. family based on male descent\nn. a well-known or notable person"
+  }
+]

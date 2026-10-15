@@ -1,0 +1,380 @@
+[
+  {
+    "单词": "father",
+    "英音": "[ˈfɑːðə(r)]",
+    "美音": "[ˈfɑːðər]",
+    "释义(中文)": "n. 父亲，爸爸；神父；祖先；前辈\nvt. 发明，创立；当…的父亲",
+    "释义(英文)": "n. a male parent (also used as a term of address to your father)\nn. `Father' is a term of address for priests in some churches (especially the Roman Catholic Church or the Orthodox Catholic Church); `Padre' is frequently used in the military\nn. a person who holds an important or distinguished position in some organization\nn. God when considered as the first person in the Trinity"
+  },
+  {
+    "单词": "mother",
+    "英音": "[ˈmʌðə(r)]",
+    "美音": "[ˈmʌðər]",
+    "释义(中文)": "n. 母亲；大娘；女修道院院长\nvt. 生下；养育；像母亲般关怀或照管\nadj. 母亲的；出生地的",
+    "释义(英文)": "n. a woman who has given birth to a child (also used as a term of address to your mother)\nn. a stringy slimy substance consisting of yeast cells and bacteria; forms during fermentation and is added to cider or wine to produce vinegar\nn. a term of address for an elderly woman\nn. a term of address for a mother superior"
+  },
+  {
+    "单词": "brother",
+    "英音": "[ˈbrʌðə(r)]",
+    "美音": "[ˈbrʌðər]",
+    "释义(中文)": "n. 兄弟；同事；战友\nint. 我的老兄！\n",
+    "释义(英文)": "n. a male with the same parents as someone else\nn. a male person who is a fellow member (of a fraternity or religion or other group)\nn. used as a term of address for those male persons engaged in the same movement\nn. (Roman Catholic Church) a title given to a monk and used as form of address"
+  },
+  {
+    "单词": "sister",
+    "英音": "[ˈsɪstə(r)]",
+    "美音": "[ˈsɪstər]",
+    "释义(中文)": "n. 姐妹；（称志同道合者）姐妹；修女；护士\nadj. 姐妹般的；同类型的",
+    "释义(英文)": "n. a female person who has the same parents as another person\nn. (Roman Catholic Church) a title given to a nun (and used as a form of address)\nn. a female person who is a fellow member of a sorority or labor union or other group"
+  },
+  {
+    "单词": "grandmother",
+    "英音": "[ˈɡrænmʌðə(r)]",
+    "美音": "[ˈɡrænmʌðər]",
+    "释义(中文)": "n. 祖母；女祖先\nvt. 当…的祖母\nvi. 当祖母",
+    "释义(英文)": "n the mother of your father or mother"
+  },
+  {
+    "单词": "grandfather",
+    "英音": "[ˈɡrænfɑːðə(r)]",
+    "美音": "[ˈɡrænfɑːðər]",
+    "释义(中文)": "n. 祖父；始祖\nvt. 不受新规定限制",
+    "释义(英文)": "n. the father of your father or mother"
+  },
+  {
+    "单词": "who",
+    "英音": "[huː]",
+    "美音": "[huː]",
+    "释义(中文)": "pron. 谁；什么人",
+    "释义(英文)": "n a United Nations agency to coordinate international health activities and to help governments improve health services"
+  },
+  {
+    "单词": "he",
+    "英音": "[hi; iː; i; hiː]",
+    "美音": "[hi; iː; i; hiː]",
+    "释义(中文)": "n. 男孩，男人；它（雄性动物）\npron. 他\n",
+    "释义(英文)": "n. the 5th letter of the Hebrew alphabet"
+  },
+  {
+    "单词": "she",
+    "英音": "[ʃi]",
+    "美音": "[ʃi; ʃiː]",
+    "释义(中文)": "n. 女人；雌性动物\npron. 她（主格）；它（用来指雌性动物或国家、船舶、地球、月亮等）\n",
+    "释义(英文)": "obj. This or that female; the woman understood or referred to;\n   the animal of the female sex, or object personified as feminine, which\n   was spoken of.\nobj. A woman; a female; -- used substantively."
+  },
+  {
+    "单词": "classmate",
+    "英音": "[ˈklɑːsmeɪt]",
+    "美音": "[ˈklæsmeɪt]",
+    "释义(中文)": "n. 同班同学",
+    "释义(英文)": "n an acquaintance that you go to school with"
+  },
+  {
+    "单词": "friend",
+    "英音": "[frend]",
+    "美音": "[frend]",
+    "释义(中文)": "n. 朋友；助手；赞助者\n",
+    "释义(英文)": "n. a person you know well and regard with affection and trust\nn. a member of the Religious Society of Friends founded by George Fox (the Friends have never called themselves Quakers)"
+  },
+  {
+    "单词": "woman",
+    "英音": "[ˈwʊmən]",
+    "美音": "[ˈwʊmən]",
+    "释义(中文)": "n. 妇女；女性；成年女子",
+    "释义(英文)": "n. an adult female person (as opposed to a man)\nn. a female person who plays a significant role (wife or mistress or girlfriend) in the life of a particular man"
+  },
+  {
+    "单词": "girl",
+    "英音": "[ɡɜːl]",
+    "美音": "[ɡɜːrl]",
+    "释义(中文)": "n. 女孩；姑娘，未婚女子；女职员，女演员；（男人的）女朋友\nn. （捷）吉尔",
+    "释义(英文)": "n. a young woman\nn. a friendly informal reference to a grown woman"
+  },
+  {
+    "单词": "man",
+    "英音": "[mæn]",
+    "美音": "[mæn]",
+    "释义(中文)": "n. 人；男人；人类；丈夫；雇工\nvt. 操纵；给…配置人员；使增强勇气；在…就位\n",
+    "释义(英文)": "n. an adult person who is male (as opposed to a woman)\nn. the generic use of the word to refer to any human being\nn. a male subordinate\nn. an adult male person who has a manly character (virile and courageous competent)"
+  },
+  {
+    "单词": "boy",
+    "英音": "[bɔɪ]",
+    "美音": "[bɔɪ]",
+    "释义(中文)": "n. 男孩；男人\n",
+    "释义(英文)": "n. a friendly informal reference to a grown man\nn. (ethnic slur) offensive and disparaging term for Black man"
+  },
+  {
+    "单词": "look",
+    "英音": "[lʊk]",
+    "美音": "[lʊk]",
+    "释义(中文)": "vt. 看；期待；注意；面向；看上去像\nvi. 看；看起来；注意；面向\nn. 看；样子；面容\n",
+    "释义(英文)": "n. the act of directing the eyes toward something and perceiving it visually\nn. physical appearance\nv. perceive with attention; direct one's gaze towards\nv. give a certain impression or have a certain outward aspect"
+  },
+  {
+    "单词": "his",
+    "英音": "[hɪz]",
+    "美音": "[hɪz; ɪz]",
+    "释义(中文)": "pron. 他的\n",
+    "释义(英文)": "pron. Belonging or pertaining to him; -- used as a pronominal\n   adjective or adjective pronoun; as, tell John his papers are ready;\n   formerly used also for its, but this use is now obsolete.\npron. The possessive of he; as, the book is his."
+  },
+  {
+    "单词": "name",
+    "英音": "[neɪm]",
+    "美音": "[neɪm]",
+    "释义(中文)": "n. 名称，名字；姓名；名誉\nvt. 命名，任命；指定；称呼；提名；叫出\nadj. 姓名的；据以取名的\n",
+    "释义(英文)": "n. a language unit by which a person or thing is known\nn. a person's reputation\nn. family based on male descent\nn. a well-known or notable person"
+  },
+  {
+    "单词": "her",
+    "英音": "[hə(r)]",
+    "美音": "[hər; ɜːr; ər; hɜːr]",
+    "释义(中文)": "pron. 她（she的宾格）；她的（she的所有格）；她（指某个国家；一艘船）\n",
+    "释义(英文)": "pron. & a. The form of the objective and the possessive case of\n   the personal pronoun she; as, I saw her with her purse out.\npron. pl. Alt. of Here"
+  },
+  {
+    "单词": "or",
+    "英音": "[ɔː(r)]",
+    "美音": "[ɔːr]",
+    "释义(中文)": "conj. 或，或者；还是\n",
+    "释义(英文)": "n a state in northwestern United States on the Pacific\nn a room in a hospital equipped for the performance of surgical operations"
+  },
+  {
+    "单词": "big",
+    "英音": "[bɪɡ]",
+    "美音": "[bɪɡ]",
+    "释义(中文)": "adj. 大的；重要的；量大的\nadv. 大量地；顺利；夸大地\n",
+    "释义(英文)": "s. significant\ns. loud and firm\ns. conspicuous in position or importance\ns. prodigious"
+  },
+  {
+    "单词": "tall",
+    "英音": "[tɔːl]",
+    "美音": "[tɔːl]",
+    "释义(中文)": "adj. 高的；长的；过分的；夸大的\nadv. 夸大地\n",
+    "释义(英文)": "n. a garment size for a tall person\na. great in vertical dimension; high in stature\ns. impressively difficult"
+  },
+  {
+    "单词": "pretty",
+    "英音": "[ˈprɪti]",
+    "美音": "[ˈprɪti]",
+    "释义(中文)": "n. 有吸引力的事物（尤指饰品）；漂亮的人\nadj. 漂亮的；可爱的；优美的\nadv. 相当地；颇\n",
+    "释义(英文)": "s. pleasing by delicacy or grace; not imposing\ns. (used ironically) unexpectedly bad"
+  },
+  {
+    "单词": "thin",
+    "英音": "[θɪn]",
+    "美音": "[θɪn]",
+    "释义(中文)": "n. 细小部分\nadj. 薄的；瘦的；稀薄的；微弱的\nvt. 使瘦；使淡；使稀疏\nvi. 变薄；变瘦；变淡\nadv. 稀疏地；微弱地\n",
+    "释义(英文)": "v. lose thickness; become thin or thinner\nv. make thin or thinner\na. of relatively small extent from one surface to the opposite or in cross section\na. lacking excess flesh"
+  },
+  {
+    "单词": "short",
+    "英音": "[ʃɔːt]",
+    "美音": "[ʃɔːrt]",
+    "释义(中文)": "n. 短；缺乏；短路；短裤\nadj. 短的；不足的；矮的，低的\nadv. 不足；突然；唐突地\n",
+    "释义(英文)": "n. the location on a baseball field where the shortstop is stationed\na. primarily temporal sense; indicating or being or seeming to be limited in duration\na. (primarily spatial sense) having little length or lacking in length\na. low in stature; not tall"
+  },
+  {
+    "单词": "handsome",
+    "英音": "[ˈhænsəm]",
+    "美音": "[ˈhænsəm]",
+    "释义(中文)": "adj. （男子）英俊的；可观的；大方的，慷慨的；健美而端庄的",
+    "释义(英文)": "s pleasing in appearance especially by reason of conformity to ideals of form and proportion\ns given or giving freely"
+  },
+  {
+    "单词": "new",
+    "英音": "[njuː]",
+    "美音": "[nuː]",
+    "释义(中文)": "adj. 新的，新鲜的；更新的；初见的\nadv. 新近\n",
+    "释义(英文)": "a. not of long duration; having just (or relatively recently) come into being or been made or acquired or discovered\ns. having no previous example or precedent or parallel\ns. other than the former one(s); different\na. unaffected by use or exposure"
+  },
+  {
+    "单词": "does",
+    "英音": "[dʌz]",
+    "美音": "[dʌz]",
+    "释义(中文)": "v. 做；工作；有用（do的第三人称单数形式）\n",
+    "释义(英文)": "n the federal department responsible for maintaining a national energy policy of the United States; created in 1977\nn mature female of mammals of which the male is called `buck'\nv engage in\nv carry out or perform an action\nv get (something) done\nv proceed or get along\nv give rise to; cause to happen or occur, not always intentionally\nv carry out or practice; as of jobs and professions\nv be sufficient; be adequate, either in quality or quantity\nv create or design, often in a certain way\nv behave in a certain manner; show a certain behavior; conduct or comport oneself\nv spend time in prison or in a labor camp\nv carry on or function\nv arrange attractively\nv travel or traverse (a distance)"
+  },
+  {
+    "单词": "bookshop",
+    "英音": "[ˈbʊkʃɒp]",
+    "美音": "[ˈbʊkʃɑːp]",
+    "释义(中文)": "n. 书店",
+    "释义(英文)": "n. a shop where books are sold"
+  },
+  {
+    "单词": "zoo",
+    "英音": "[zuː]",
+    "美音": "[zuː]",
+    "释义(中文)": "n. 动物园; <美俚>（铁路货车的最后一节）守车; <美俚>核粒子园",
+    "释义(英文)": "n the facility where wild animals are housed for exhibition"
+  },
+  {
+    "单词": "school",
+    "英音": "[skuːl]",
+    "美音": "[skuːl]",
+    "释义(中文)": "n. 学校；学院；学派；鱼群\nvt. 教育",
+    "释义(英文)": "n. an educational institution\nn. a building where young people receive education\nn. the process of being formally educated at a school\nn. a body of creative artists or writers or thinkers linked by a similar style or by similar teachers"
+  },
+  {
+    "单词": "supermarket",
+    "英音": "[ˈsuːpəmɑːkɪt]",
+    "美音": "[ˈsuːpərmɑːrkɪt]",
+    "释义(中文)": "n. 超级市场；自助售货商店",
+    "释义(英文)": "n. a large self-service grocery store selling groceries and dairy products and household goods"
+  },
+  {
+    "单词": "park",
+    "英音": "[pɑːk]",
+    "美音": "[pɑːrk]",
+    "释义(中文)": "n. 公园；[交] 停车场\nvt. 停放；放置；寄存\nvi. 停放车辆\n",
+    "释义(英文)": "n. a large area of land preserved in its natural state as public property\nn. a piece of open land for recreational use in an urban area\nn. Scottish explorer in Africa (1771-1806)\nn. a gear position that acts as a parking brake"
+  },
+  {
+    "单词": "hospital",
+    "英音": "[ˈhɒspɪt(ə)l]",
+    "美音": "[ˈhɑːspɪtl]",
+    "释义(中文)": "n. 医院\n",
+    "释义(英文)": "n. a health facility where patients receive treatment\nn. a medical institution where sick or injured people are given medical or surgical care"
+  },
+  {
+    "单词": "go",
+    "英音": "[ɡəʊ]",
+    "美音": "[ɡoʊ]",
+    "释义(中文)": "n. 去；进行；尝试\nvi. 走；达到；运转；趋于\nvt. 忍受；出产；以…打赌\n[复数 goes 第三人称单数 goes 过去式 went 过去分词 gone 现在分词 going]",
+    "释义(英文)": "n. a time for working (after which you will be relieved by someone else)\nn. a board game for two players who place counters on a grid; the object is to surround and so capture the opponent's counters\nv. follow a procedure or take a course\nv. move away from a place into another direction"
+  },
+  {
+    "单词": "to",
+    "英音": "[tə]",
+    "美音": "[tə; tu; tuː]",
+    "释义(中文)": "prep. 到；向；（表示时间、方向）朝…方向\nadv. 向前；（门等）关上\n",
+    "释义(英文)": "prep. The preposition to primarily indicates approach and arrival,\n   motion made in the direction of a place or thing and attaining it,\n   access; and also, motion or tendency without arrival; movement toward;\n   -- opposed to from.\nprep. Hence, it indicates motion, course, or tendency toward a\n   time, a state or condition, an aim, or anything capable of being\n   regarded as a limit to a tendency, movement, or action; as, he is going\n   to a trade; he is rising to wealth and honor.\nprep. In a very general way, and with innumerable varieties of\n   application, to connects transitive verbs with their remoter or\n   indirect object, and adjectives, nouns, and neuter or passive verbs\n   with a following noun which limits their action. Its sphere verges upon\n   that of for, but it contains less the idea of design or appropriation;\n   as, these remarks were addressed to a large audience; let us keep this\n   seat to ourselves; a substance sweet to the taste; an event painful to\n   the mind; duty to God and to our parents; a dislike to spirituous\n   liquor.\nprep. As sign of the infinitive, to had originally the use of last\n   defined, governing the infinitive as a verbal noun, and connecting it\n   as indirect object with a preceding verb or adjective; thus, ready to\n   go, i.e., ready unto going; good to eat, i.e., good for eating; I do my\n   utmost to lead my life pleasantly. But it has come to be the almost\n   constant prefix to the infinitive, even in situations where it has no\n   prepositional meaning, as where the infinitive is direct object or\n   subject; thus, I love to learn, i.e., I love learning; to die for one's\n   country is noble, i.e., the dying for one's country. Where the\n   infinitive denotes the design or purpose, good usage formerly allowed\n   the prefixing of for to the to; as, what went ye out for see? (Matt.\n   xi. 8).\nprep. In many phrases, and in connection with many other words, to\n   has a pregnant meaning, or is used elliptically.\nprep. Extent; limit; degree of comprehension; inclusion as far as;\n   as, they met us to the number of three hundred.\nprep. Effect; end; consequence; as, the prince was flattered to\n   his ruin; he engaged in a war to his cost; violent factions exist to\n   the prejudice of the state.\nprep. Apposition; connection; antithesis; opposition; as, they\n   engaged hand to hand.\nprep. Accord; adaptation; as, an occupation to his taste; she has\n   a husband to her mind.\nprep. Comparison; as, three is to nine as nine is to twenty-seven;\n   it is ten to one that you will offend him.\nprep. Addition; union; accumulation.\nprep. Accompaniment; as, she sang to his guitar; they danced to\n   the music of a piano.\nprep. Character; condition of being; purpose subserved or office\n   filled."
+  },
+  {
+    "单词": "grass",
+    "英音": "[ɡrɑːs]",
+    "美音": "[ɡræs]",
+    "释义(中文)": "n. 草；草地，草坪\nvt. 放牧；使……长满草；使……吃草\nvi. 长草\n",
+    "释义(英文)": "n. narrow-leaved green herbage: grown as lawns; used as pasture for grazing animals; cut and dried as hay\nn. German writer of novels and poetry and plays (born 1927)\nv. shoot down, of birds\nv. cover with grass"
+  },
+  {
+    "单词": "tree",
+    "英音": "[triː]",
+    "美音": "[triː]",
+    "释义(中文)": "n. 树；木料；树状物\nvt. 把...赶上树\nvi. 爬上树；逃上树\n",
+    "释义(英文)": "n. a tall perennial woody plant having a main trunk and branches forming a distinct elevated crown; includes both gymnosperms and angiosperms\nn. a figure that branches from a single root\nn. English actor and theatrical producer noted for his lavish productions of Shakespeare (1853-1917)\nv. plant with trees"
+  },
+  {
+    "单词": "flower",
+    "英音": "[ˈflaʊə(r)]",
+    "美音": "[ˈflaʊər]",
+    "释义(中文)": "n. 花；精华；开花植物\nvt. 使开花；用花装饰\nvi. 成熟，发育；开花；繁荣；旺盛\n",
+    "释义(英文)": "n. a plant cultivated for its blooms or blossoms\nn. reproductive organ of angiosperm plants especially one having showy or colorful parts\nn. the period of greatest prosperity or productivity"
+  },
+  {
+    "单词": "boat",
+    "英音": "[bəʊt]",
+    "美音": "[boʊt]",
+    "释义(中文)": "n. 小船；轮船\nvi. 划船",
+    "释义(英文)": "n. a small vessel for travel on water\nv. ride in a boat on water"
+  },
+  {
+    "单词": "lake",
+    "英音": "[leɪk]",
+    "美音": "[leɪk]",
+    "释义(中文)": "n. 湖；深红色颜料；胭脂红\nvt. （使）血球溶解\nvi. （使）血球溶解\n",
+    "释义(英文)": "n. a body of (usually fresh) water surrounded by land\nn. a purplish red pigment prepared from lac or cochineal\nn. any of numerous bright translucent organic pigments"
+  },
+  {
+    "单词": "hill",
+    "英音": "[hɪl]",
+    "美音": "[hɪl]",
+    "释义(中文)": "n. 小山；丘陵；斜坡；山冈\n",
+    "释义(英文)": "n. a local and well-defined elevation of the land\nn. United States railroad tycoon (1838-1916)\nn. risque English comedian (1925-1992)\nv. form into a hill"
+  },
+  {
+    "单词": "Christmas",
+    "英音": "[ˈkrɪsməs]",
+    "美音": "[ˈkrɪsməs]",
+    "释义(中文)": "n. 圣诞节；圣诞节期间",
+    "释义(英文)": "n. period extending from Dec. 24 to Jan. 6\nn. a Christian holiday celebrating the birth of Christ; a quarter day in England, Wales, and Ireland"
+  },
+  {
+    "单词": "Father Christmas",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 圣诞老人\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "Christmas tree",
+    "英音": "[ˈkrɪsməs triː]",
+    "美音": "[ˈkrɪsməs triː]",
+    "释义(中文)": "n. 【节】圣诞树\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "card",
+    "英音": "[kɑːd]",
+    "美音": "[kɑːrd]",
+    "释义(中文)": "n. 卡片；纸牌；明信片\nvt. 记于卡片上\n",
+    "释义(英文)": "n. one of a set of small pieces of stiff paper marked in various ways and used for playing games or for telling fortunes\nn. a card certifying the identity of the bearer\nn. a rectangular piece of stiff paper used to send messages (may have printed greetings or pictures)\nn. thin cardboard, usually rectangular"
+  },
+  {
+    "单词": "present",
+    "英音": "[ˈprez(ə)nt]",
+    "美音": "[ˈpreznt]",
+    "释义(中文)": "n. 现在；礼物；瞄准\nadj. 现在的；出席的\nvt. 提出；介绍；呈现；赠送\nvi. 举枪瞄准",
+    "释义(英文)": "n. the period of time that is happening now; any continuous stretch of time including the moment of speech\nn. something presented as a gift\nn. a verb tense that expresses actions or states at the time of speaking\nv. bring forward and present to the mind"
+  },
+  {
+    "单词": "New Year",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 新年\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "merry",
+    "英音": "[ˈmeri]",
+    "美音": "[ˈmeri]",
+    "释义(中文)": "adj. 愉快的；微醉的；嬉戏作乐的\nn. 甜樱桃\n",
+    "释义(英文)": "s full of or showing high-spirited merriment\ns offering fun and gaiety\ns quick and energetic"
+  },
+  {
+    "单词": "too",
+    "英音": "[tuː]",
+    "美音": "[tuː]",
+    "释义(中文)": "adv. 太；也；很；还；非常；过度",
+    "释义(英文)": "r to a degree exceeding normal or proper limits\nr in addition"
+  },
+  {
+    "单词": "here",
+    "英音": "[hɪə(r)]",
+    "美音": "[hɪr]",
+    "释义(中文)": "n. 这里\nadv. 在这里；此时\nint. 嘿！；喂！\n",
+    "释义(英文)": "n. the present location; this place\ns. being here now\nr. in or at this place; where the speaker or writer is\nr. in this circumstance or respect or on this point or detail"
+  },
+  {
+    "单词": "for",
+    "英音": "[fə(r)]",
+    "美音": "[fər; fɔːr]",
+    "释义(中文)": "prep. 为，为了；因为；给；对于；至于；适合于\nconj. 因为",
+    "释义(英文)": "prep. In the most general sense, indicating that in consideration\n   of, in view of, or with reference to, which anything is done or takes\n   place.\nprep. Indicating the antecedent cause or occasion of an action;\n   the motive or inducement accompanying and prompting to an act or state;\n   the reason of anything; that on account of which a thing is or is done.\nprep. Indicating the remoter and indirect object of an act; the\n   end or final cause with reference to which anything is, acts, serves,\n   or is done.\nprep. Indicating that in favor of which, or in promoting which,\n   anything is, or is done; hence, in behalf of; in favor of; on the side\n   of; -- opposed to against.\nprep. Indicating that toward which the action of anything is\n   directed, or the point toward which motion is made; /ntending to go to.\nprep. Indicating that on place of or instead of which anything\n   acts or serves, or that to which a substitute, an equivalent, a\n   compensation, or the like, is offered or made; instead of, or place of.\nprep. Indicating that in the character of or as being which\n   anything is regarded or treated; to be, or as being.\nprep. Indicating that instead of which something else controls in\n   the performing of an action, or that in spite of which anything is\n   done, occurs, or is; hence, equivalent to notwithstanding, in spite of;\n   -- generally followed by all, aught, anything, etc.\nprep. Indicating the space or time through which an action or\n   state extends; hence, during; in or through the space or time of.\nprep. Indicating that in prevention of which, or through fear of\n   which, anything is done.\nconj. Because; by reason that; for that; indicating, in Old\n   English, the reason of anything.\nconj. Since; because; introducing a reason of something before\n   advanced, a cause, motive, explanation, justification, or the like, of\n   an action related or a statement made. It is logically nearly\n   equivalent to since, or because, but connects less closely, and is\n   sometimes used as a very general introduction to something suggested by\n   what has gone before.\nn. One who takes, or that which is said on, the affrimative side;\n   that which is said in favor of some one or something; -- the antithesis\n   of against, and commonly used in connection with it."
+  },
+  {
+    "单词": "thank",
+    "英音": "[θæŋk]",
+    "美音": "[θæŋk]",
+    "释义(中文)": "n. 感谢\nvt. 感谢\nint. 谢谢",
+    "释义(英文)": "v. express gratitude or show appreciation to"
+  },
+  {
+    "单词": "happy",
+    "英音": "[ˈhæpi]",
+    "美音": "[ˈhæpi]",
+    "释义(中文)": "adj. 幸福的；高兴的；巧妙的\n",
+    "释义(英文)": "a. enjoying or showing or marked by joy or pleasure\ns. well expressed and to the point"
+  }
+]

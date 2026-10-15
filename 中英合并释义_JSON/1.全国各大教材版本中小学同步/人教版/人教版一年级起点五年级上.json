@@ -1,0 +1,464 @@
+[
+  {
+    "单词": "clever",
+    "英音": "[ˈklevə(r)]",
+    "美音": "[ˈklevər]",
+    "释义(中文)": "adj. 聪明的；机灵的；熟练的\n[ 比较级cleverer 最高级 cleverest ]",
+    "释义(英文)": "s. showing inventiveness and skill"
+  },
+  {
+    "单词": "careless",
+    "英音": "[ˈkeələs]",
+    "美音": "[ˈkerləs]",
+    "释义(中文)": "adj. 粗心的；无忧无虑的；淡漠的\n",
+    "释义(英文)": "a. marked by lack of attention or consideration or forethought or thoroughness; not careful\ns. effortless and unstudied\ns. (usually followed by `of') without due thought or consideration"
+  },
+  {
+    "单词": "polite",
+    "英音": "[pəˈlaɪt]",
+    "美音": "[pəˈlaɪt]",
+    "释义(中文)": "adj. 有礼貌的，客气的；文雅的；上流的；优雅的",
+    "释义(英文)": "a. showing regard for others in manners, speech, behavior, etc."
+  },
+  {
+    "单词": "quiet",
+    "英音": "[ˈkwaɪət]",
+    "美音": "[ˈkwaɪət]",
+    "释义(中文)": "n. 安静；和平\nadj. 安静的；安定的；不动的；温顺的\nvt. 使平息；安慰\nvi. 平静下来",
+    "释义(英文)": "a. characterized by an absence or near absence of agitation or activity\na. free of noise or uproar; or making little if any sound\ns. not showy or obtrusive\na. of the sun characterized by a low level of surface phenomena like sunspots e.g."
+  },
+  {
+    "单词": "cute",
+    "英音": "[kjuːt]",
+    "美音": "[kjuːt]",
+    "释义(中文)": "adj. 可爱的；漂亮的；聪明的，伶俐的",
+    "释义(英文)": "s. obviously contrived to charm"
+  },
+  {
+    "单词": "friendly",
+    "英音": "[ˈfrendli]",
+    "美音": "[ˈfrendli]",
+    "释义(中文)": "adj. 友好的；亲切的；支持的；融洽的，和睦的\nadv. 友善地；温和地\n",
+    "释义(英文)": "n. troops belonging to or allied with your own military forces\na. characteristic of or befitting a friend\ns. inclined to help or support; not antagonistic or hostile\na. easy to understand or use"
+  },
+  {
+    "单词": "helpful",
+    "英音": "[ˈhelpfl]",
+    "美音": "[ˈhelpfl]",
+    "释义(中文)": "adj. 有帮助的；有益的",
+    "释义(英文)": "a. providing assistance or serving a useful function"
+  },
+  {
+    "单词": "active",
+    "英音": "[ˈæktɪv]",
+    "美音": "[ˈæktɪv]",
+    "释义(中文)": "n. 主动语态；积极分子\nadj. 积极的；活跃的；主动的；有效的；现役的",
+    "释义(英文)": "n. a person who is a participating member of an organization\na. tending to become more severe or wider in scope\ns. engaged in or ready for military or naval operations\na. disposed to take action or effectuate change"
+  },
+  {
+    "单词": "popular",
+    "英音": "[ˈpɒpjələ(r)]",
+    "美音": "[ˈpɑːpjələr]",
+    "释义(中文)": "adj. 流行的，通俗的；受欢迎的；大众的；普及的",
+    "释义(英文)": "a. regarded with great favor, approval, or affection especially by the general public\ns. carried on by or for the people (or citizens) at large\ns. (of music or art) new and of general appeal (especially among young people)"
+  },
+  {
+    "单词": "talk",
+    "英音": "[tɔːk]",
+    "美音": "[tɔːk]",
+    "释义(中文)": "n. 谈话；演讲；空谈\nvi. 谈话；说闲话\nvt. 说；谈话；讨论",
+    "释义(英文)": "n. an exchange of ideas via conversation\nn. discussion; (`talk about' is a less formal alternative for `discussion of')\nn. the act of giving a talk to an audience\nn. idle gossip or rumor"
+  },
+  {
+    "单词": "party",
+    "英音": "[ˈpɑːti]",
+    "美音": "[ˈpɑːrti]",
+    "释义(中文)": "n. 政党，党派；聚会，派对；当事人 [复数 parties]\nvi. 参加社交聚会 [ 过去式 partied 过去分词 partied 现在分词 partying ]",
+    "释义(英文)": "n. an organization to gain political power\nn. a group of people gathered together for pleasure\nn. a band of people associated temporarily in some activity\nn. an occasion on which people can assemble for social interaction and entertainment"
+  },
+  {
+    "单词": "all",
+    "英音": "[ɔːl]",
+    "美音": "[ɔːl]",
+    "释义(中文)": "n. 全部\nadj. 全部的\nadv. 全然地；越发\npron. 全部\n",
+    "释义(英文)": "a. quantifier; used with either mass or count nouns to indicate the whole number or amount of or every one of a class\ns. completely given to or absorbed by"
+  },
+  {
+    "单词": "but",
+    "英音": "[bət]",
+    "美音": "[bət; bʌt]",
+    "释义(中文)": "conj. 但是；而是；然而\nadv. 仅仅，只\nprep. 除…以外\n",
+    "释义(英文)": "r and nothing more"
+  },
+  {
+    "单词": "sometimes",
+    "英音": "[ˈsʌmtaɪmz]",
+    "美音": "[ˈsʌmtaɪmz]",
+    "释义(中文)": "adv. 有时，间或",
+    "释义(英文)": "r. on certain occasions or in certain cases but not always; at other times for six months\""
+  },
+  {
+    "单词": "bark",
+    "英音": "[bɑːk]",
+    "美音": "[bɑːrk]",
+    "释义(中文)": "n. 树皮；深青棕色；毛皮；皮肤；狗叫\nvt. 狗叫；尖叫；剥皮",
+    "释义(英文)": "n. tough protective covering of the woody stems and roots of trees and other woody plants\nn. a noise resembling the bark of a dog\nn. a sailing ship with 3 (or more) masts\nn. the sound made by a dog"
+  },
+  {
+    "单词": "forget",
+    "英音": "[fəˈɡet]",
+    "美音": "[fərˈɡet]",
+    "释义(中文)": "vi. 忘记\nvt. 忘记；忽略\n\n",
+    "释义(英文)": "v. dismiss from the mind; stop remembering\nv. be unable to remember\nv. forget to do something\nv. leave behind unintentionally"
+  },
+  {
+    "单词": "with",
+    "英音": "[wɪð]",
+    "美音": "[wɪð; wɪθ]",
+    "释义(中文)": "prep. 用；随着；支持；和…在一起\n",
+    "释义(英文)": "n. See Withe.\nprep. With denotes or expresses some situation or relation of\n   nearness, proximity, association, connection, or the like.\nprep. To denote a close or direct relation of opposition or\n   hostility; -- equivalent to against.\nprep. To denote association in respect of situation or\n   environment; hence, among; in the company of.\nprep. To denote a connection of friendship, support, alliance,\n   assistance, countenance, etc.; hence, on the side of.\nprep. To denote the accomplishment of cause, means, instrument,\n   etc; -- sometimes equivalent to by.\nprep. To denote association in thought, as for comparison or\n   contrast.\nprep. To denote simultaneous happening, or immediate succession\n   or consequence.\nprep. To denote having as a possession or an appendage; as, the\n   firmament with its stars; a bride with a large fortune."
+  },
+  {
+    "单词": "wear glasses",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 戴眼镜；戴着眼镜；带着眼镜",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "slim",
+    "英音": "[slɪm]",
+    "美音": "[slɪm]",
+    "释义(中文)": "adj. 苗条的；修长的；微小的；差的\nvt. 使…体重减轻；使…苗条\nvi. 减轻体重；变细\n",
+    "释义(英文)": "v take off weight\ns being of delicate or slender build\ns small in quantity"
+  },
+  {
+    "单词": "curly",
+    "英音": "[ˈkɜːli]",
+    "美音": "[ˈkɜːrli]",
+    "释义(中文)": "adj. 卷曲的；卷毛的；（木材）有皱状纹理的；蜷缩的",
+    "释义(英文)": "a. (of hair) having curls or waves"
+  },
+  {
+    "单词": "straight",
+    "英音": "[streɪt]",
+    "美音": "[streɪt]",
+    "释义(中文)": "n. 直；直线；直男，直女，异性恋者\nadj. 直的；连续的；笔直的；正直的；整齐的；异性恋的\nadv. 直接地；不断地；立即；坦率地\n",
+    "释义(英文)": "n. a poker hand with 5 consecutive cards (regardless of suit)\ns. successive (without a break)\na. having no deviations\na. (of hair) having no waves or curls"
+  },
+  {
+    "单词": "nice",
+    "英音": "[naɪs]",
+    "美音": "[naɪs]",
+    "释义(中文)": "adj. 精密的；美好的；细微的；和蔼的\n",
+    "释义(英文)": "n. a city in southeastern France on the Mediterranean; the leading resort on the French Riviera\na. pleasant or pleasing or agreeable in nature or appearance\ns. done with delicacy and skill"
+  },
+  {
+    "单词": "young",
+    "英音": "[jʌŋ]",
+    "美音": "[jʌŋ]",
+    "释义(中文)": "n. 年轻人；（动物的）崽，仔\nadj. 年轻的；初期的；没有经验的\n",
+    "释义(英文)": "n. any immature animal\nn. United States film and television actress (1913-2000)\nn. United States civil rights leader (1921-1971)\nn. British physicist and Egyptologist; he revived the wave theory of light and proposed a three-component theory of color vision; he also played an important role in deciphering the hieroglyphics on the Rosetta Stone (1773-1829)"
+  },
+  {
+    "单词": "teach",
+    "英音": "[tiːtʃ]",
+    "美音": "[tiːtʃ]",
+    "释义(中文)": "vt. 教；教授；教导\nvi. 教授；讲授；当老师\n",
+    "释义(英文)": "n. an English pirate who operated in the Caribbean and off the Atlantic coast of North America (died in 1718)\nv. impart skills or knowledge to\nv. accustom gradually to some action or attitude"
+  },
+  {
+    "单词": "guess",
+    "英音": "[ɡes]",
+    "美音": "[ɡes]",
+    "释义(中文)": "n. 猜测；推测\nvi. 猜；推测；猜中\nvt. 猜测；认为；推测；猜中\nn. 盖尔斯（美国服装品牌）",
+    "释义(英文)": "n. a message expressing an opinion based on incomplete evidence\nn. an estimate based on little or no information\nv. put forward, of a guess, in spite of possible refutation\nv. guess correctly; solve by guessing"
+  },
+  {
+    "单词": "has",
+    "英音": "[həz]",
+    "美音": "[həz; əz; hæz]",
+    "释义(中文)": "v. 有，吃，得到，从事，允许，雇用，享有（have的第三人称单数）；（亲属关系中）接受；拿；买到",
+    "释义(英文)": "n (astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day\nv have or possess, either in a concrete or an abstract sense\nv have as a feature\nv go through (mental or physical states or experiences)\nv have ownership or possession of\nv cause to move; cause to be in a certain position or condition\nv serve oneself to, or consume regularly\nv have a personal or business relationship with someone\nv organize or be responsible for\nv have left\nv be confronted with\nv undergo\nv suffer from; be ill with\nv cause to do; cause to act in a specified manner\nv receive willingly something given or offered\nv get something; come into possession of\nv undergo (as of injuries and illnesses)\nv achieve a point or goal\nv cause to be born\nv have sex with; archaic use"
+  },
+  {
+    "单词": "animal",
+    "英音": "[ˈænɪm(ə)l]",
+    "美音": "[ˈænɪm(ə)l]",
+    "释义(中文)": "n. 动物\n动物的",
+    "释义(英文)": "n. a living organism characterized by voluntary movement\ns. marked by the appetites and passions of the body"
+  },
+  {
+    "单词": "elephant",
+    "英音": "[ˈelɪfənt]",
+    "美音": "[ˈelɪfənt]",
+    "释义(中文)": "n. 象；大号图画纸",
+    "释义(英文)": "n. five-toed pachyderm\nn. the symbol of the Republican Party; introduced in cartoons by Thomas Nast in 1874"
+  },
+  {
+    "单词": "panda",
+    "英音": "[ˈpændə]",
+    "美音": "[ˈpændə]",
+    "释义(中文)": "n. 熊猫；猫熊\n",
+    "释义(英文)": "n large black-and-white herbivorous mammal of bamboo forests of China and Tibet; in some classifications considered a member of the bear family or of a separate family Ailuropodidae\nn reddish-brown Old World raccoon-like carnivore; in some classifications considered unrelated to the giant pandas"
+  },
+  {
+    "单词": "horse",
+    "英音": "[hɔːs]",
+    "美音": "[hɔːrs]",
+    "释义(中文)": "n. 马；骑兵；脚架；海洛因\nvt. 使骑马；系马于；捉弄\nvi. 骑马；作弄人\n",
+    "释义(英文)": "n. solid-hoofed herbivorous quadruped domesticated since prehistoric times\nn. a padded gymnastic apparatus on legs\nv. provide with a horse or horses"
+  },
+  {
+    "单词": "cow",
+    "英音": "[kaʊ]",
+    "美音": "[kaʊ]",
+    "释义(中文)": "n. 奶牛，母牛；母兽\nvt. 威胁，恐吓",
+    "释义(英文)": "n. female of domestic cattle: \"`moo-cow' is a child's term\"\nn. mature female of mammals of which the male is called `bull'\nn. a large unpleasant woman"
+  },
+  {
+    "单词": "pig",
+    "英音": "[pɪɡ]",
+    "美音": "[pɪɡ]",
+    "释义(中文)": "n. 猪；猪肉\nvi. 生小猪；像猪一样过活\nn. 警察（俚语，带有攻击性）",
+    "释义(英文)": "n. a crude block of metal (lead or iron) poured from a smelting furnace\nv. live like a pig, in squalor"
+  },
+  {
+    "单词": "sheep",
+    "英音": "[ʃiːp]",
+    "美音": "[ʃiːp]",
+    "释义(中文)": "n. 羊，绵羊；胆小鬼\n",
+    "释义(英文)": "n. woolly usually horned ruminant mammal related to the goat\nn. a timid defenseless simpleton who is readily preyed upon\nn. a docile and vulnerable person who would rather follow than make an independent decision"
+  },
+  {
+    "单词": "bee",
+    "英音": "[biː]",
+    "美音": "[biː]",
+    "释义(中文)": "n. 蜜蜂，蜂；勤劳的人\n",
+    "释义(英文)": "n. any of numerous hairy-bodied insects including social and solitary species\nn. a social gathering to carry out some communal task or to hold competitions"
+  },
+  {
+    "单词": "farm",
+    "英音": "[fɑːm]",
+    "美音": "[fɑːrm]",
+    "释义(中文)": "n. 农场；农家；畜牧场\nvt. 养殖；耕种；佃出（土地）\nvi. 种田，务农；经营农场",
+    "释义(英文)": "n. workplace consisting of farm buildings and cultivated land as a unit\nv. be a farmer; work as a farmer\nv. collect fees or profits"
+  },
+  {
+    "单词": "fast",
+    "英音": "[fɑːst]",
+    "美音": "[fæst]",
+    "释义(中文)": "n. 斋戒；绝食\nadj. 快速的，迅速的；紧的，稳固的\nadv. 迅速地；紧紧地；彻底地\nvi. 禁食，斋戒\n",
+    "释义(英文)": "n. abstaining from food\nv. abstain from certain foods, as for religious or medical reasons\nv. abstain from eating\na. acting or moving or capable of acting or moving quickly"
+  },
+  {
+    "单词": "why",
+    "英音": "[waɪ]",
+    "美音": "[waɪ]",
+    "释义(中文)": "int. 哎呀！什么？\nadv. 为什么",
+    "释义(英文)": "n. the cause or intention underlying an action or situation, especially in the phrase `the whys and wherefores'"
+  },
+  {
+    "单词": "lovely",
+    "英音": "[ˈlʌvli]",
+    "美音": "[ˈlʌvli]",
+    "释义(中文)": "adj. 可爱的；令人愉快的；爱恋的；秀丽的，优美的\nn. 美女；可爱的东西",
+    "释义(英文)": "s. appealing to the emotions as well as the eye"
+  },
+  {
+    "单词": "butterfly",
+    "英音": "[ˈbʌtəflaɪ]",
+    "美音": "[ˈbʌtərflaɪ]",
+    "释义(中文)": "n. 蝴蝶；蝶泳；举止轻浮的人；追求享乐的人",
+    "释义(英文)": "n. diurnal insect typically having a slender body with knobbed antennae and broad colorful wings\nn. a swimming stroke in which the arms are thrown forward together out of the water while the feet kick up and down\nv. flutter like a butterfly\nv. cut and spread open, as in preparation for cooking"
+  },
+  {
+    "单词": "exercise book",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 练习本；练习册；作业本\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "pencil sharpener",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 卷笔刀\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "a pair of scissors",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 一把剪刀；一副剪刀；一双剪刀",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "pencil box",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 铅笔盒；文具盒；你的铅笔盒",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "a box of crayons",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "please",
+    "英音": "[pliːz]",
+    "美音": "[pliːz]",
+    "释义(中文)": "int. 请（礼貌用语）\nvt. 使喜欢；使高兴，使满意\nvi. 讨人喜欢；令人高兴",
+    "释义(英文)": "v. give pleasure to or be pleasing to\nv. be the will of or have the will (to)\nv. give satisfaction\nr. used in polite request"
+  },
+  {
+    "单词": "only",
+    "英音": "[ˈəʊnli]",
+    "美音": "[ˈoʊnli]",
+    "释义(中文)": "adv. 只，仅仅；不料\nadj. 唯一的，仅有的；最合适的\nconj. 但是；不过；可是",
+    "释义(英文)": "r. with nevertheless the final result\nr. in the final outcome\nr. except that; only this time she came out better\"\nr. never except when"
+  },
+  {
+    "单词": "also",
+    "英音": "[ˈɔːlsəʊ]",
+    "美音": "[ˈɔːlsoʊ]",
+    "释义(中文)": "conj. 并且；另外\nadv. 也；而且；同样\n",
+    "释义(英文)": "r in addition"
+  },
+  {
+    "单词": "saleswoman",
+    "英音": "[ˈseɪlzwʊmən]",
+    "美音": "[ˈseɪlzwʊmən]",
+    "释义(中文)": "n. [贸易] 女售货员；[贸易] 女店员",
+    "释义(英文)": "n a woman salesperson"
+  },
+  {
+    "单词": "great",
+    "英音": "[ɡreɪt]",
+    "美音": "[ɡreɪt]",
+    "释义(中文)": "n. 大师；大人物；伟人们\nadj. 伟大的，重大的；极好的，好的；主要的",
+    "释义(英文)": "n. a person who has achieved distinction and honor in some field\ns. relatively large in size or number or extent; larger than others of its kind\ns. of major significance or importance\ns. remarkable or out of the ordinary in degree or magnitude or effect"
+  },
+  {
+    "单词": "love",
+    "英音": "[lʌv]",
+    "美音": "[lʌv]",
+    "释义(中文)": "n. 恋爱；亲爱的；酷爱；喜爱的事物；爱情，爱意；疼爱；热爱；爱人，所爱之物\nv. 爱，热爱；爱戴；赞美，称赞；喜爱；喜好；喜欢；爱慕\n",
+    "释义(英文)": "n. a strong positive emotion of regard and affection\nn. any object of warm affection or devotion; \nn. a deep feeling of sexual desire and attraction\nn. a score of zero in tennis or squash"
+  },
+  {
+    "单词": "how much",
+    "英音": "[haʊ mʌtʃ]",
+    "美音": "[haʊ mʌtʃ]",
+    "释义(中文)": "conj. 多少\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "a lot",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 许多\nadv. 常\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "wonderful",
+    "英音": "[ˈwʌndəf(ə)l]",
+    "美音": "[ˈwʌndərf(ə)l]",
+    "释义(中文)": "adj. 极好的，精彩的，绝妙的；奇妙的；美妙；胜；神妙",
+    "释义(英文)": "s extraordinarily good or great; used especially as intensifiers"
+  },
+  {
+    "单词": "cool",
+    "英音": "[kuːl]",
+    "美音": "[kuːl]",
+    "释义(中文)": "n. 凉爽；凉爽的空气\nadj. 凉爽的；冷静的；出色的\nvt. 使…冷却；使…平静下来\nvi. 变凉；平息\nadv. 冷静地\n",
+    "释义(英文)": "n. the quality of being at a refreshingly low temperature\nv. make cool or cooler\nv. loose heat\nv. lose intensity"
+  },
+  {
+    "单词": "fantastic",
+    "英音": "[fænˈtæstɪk]",
+    "美音": "[fænˈtæstɪk]",
+    "释义(中文)": "n. 古怪的人\nadj. 奇异的；空想的；异想天开的；古怪的；极好的，极出色的；不可思议的；不切实际的",
+    "释义(英文)": "s. extraordinarily good or great; used especially as intensifiers\ns. fanciful and unrealistic; foolish\ns. existing in fancy only\ns. extravagantly fanciful in design, construction, appearance"
+  },
+  {
+    "单词": "cartoons",
+    "英音": "[kɑːˈtuːnz]",
+    "美音": "[kɑrˈtʊn]",
+    "释义(中文)": "n. 卡通动画；动漫图书（cartoon的复数）\nv. 画漫画（cartoon的三单形式）",
+    "释义(英文)": "n a humorous or satirical drawing published in a newspaper or magazine\nn a film made by photographing a series of cartoon drawings to give the illusion of movement when projected in rapid sequence\nv draw cartoons of"
+  },
+  {
+    "单词": "news shows",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "新闻节目",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "nature shows",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "chore",
+    "英音": "[tʃɔː(r)]",
+    "美音": "[tʃɔːr]",
+    "释义(中文)": "n. 家庭杂务；日常的零星事务；讨厌的或累人的工作",
+    "释义(英文)": "n a specific piece of work required to be done as a duty or for a specific fee"
+  },
+  {
+    "单词": "clean the room",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 打扫房间；清扫房间；清洁房间",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "make the bed",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 铺床；整理床铺；整理被物",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "take out the rubbish",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "wash clothes",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 洗衣服；爱洗衣服的小羊；清洗衣物",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "tidy the desk",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "sweep the floor",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 扫地；清扫地板；打扫地板",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "call",
+    "英音": "[kɔːl]",
+    "美音": "[kɔːl]",
+    "释义(中文)": "n. 电话；呼叫；要求；访问\nvi. 呼叫；拜访；叫牌\nvt. 呼叫；称呼；召集\n",
+    "释义(英文)": "n. a telephone connection\nn. a special disposition (as if from a divine source) to pursue a particular course\nn. a demand especially in the phrase \"the call of duty\"\nn. a brief social visit"
+  }
+]

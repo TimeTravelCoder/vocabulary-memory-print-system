@@ -1,0 +1,688 @@
+[
+  {
+    "单词": "watermelon",
+    "英音": "[ˈwɔːtəmelən]",
+    "美音": "[ˈwɔːtərmelən]",
+    "释义(中文)": "n. 西瓜",
+    "释义(英文)": "n. an African melon\nn. large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+  },
+  {
+    "单词": "grape",
+    "英音": "[ɡreɪp]",
+    "美音": "[ɡreɪp]",
+    "释义(中文)": "n. 葡萄；葡萄酒；葡萄树；葡萄色\n",
+    "释义(英文)": "n. any of various juicy fruit of the genus Vitis with green or purple skins; grow in clusters\nn. any of numerous woody vines of genus Vitis bearing clusters of edible berries"
+  },
+  {
+    "单词": "plum",
+    "英音": "[plʌm]",
+    "美音": "[plʌm]",
+    "释义(中文)": "n. 李子；梅子；洋李；紫红色\nadj. 人所希望的；有利的；上等的\n",
+    "释义(英文)": "n. any of several trees producing edible oval fruit having a smooth skin and a single hard stone\nn. any of numerous varieties of small to medium-sized round or oval fruit having a smooth skin and a single pit\nn. a highly desirable position or assignment"
+  },
+  {
+    "单词": "cherry",
+    "英音": "[ˈtʃeri]",
+    "美音": "[ˈtʃeri]",
+    "释义(中文)": "n. 樱桃；樱桃树；如樱桃的鲜红色；处女膜，处女\n",
+    "释义(英文)": "n. wood of any of various cherry trees especially the black cherry\nn. any of numerous trees and shrubs producing a small fleshy round fruit with a single hard stone; many also produce a valuable hardwood\nn. a red fruit with a single hard stone"
+  },
+  {
+    "单词": "strawberry",
+    "英音": "[ˈstrɔːbəri]",
+    "美音": "[ˈstrɔːberi]",
+    "释义(中文)": "n. 草莓；草莓色",
+    "释义(英文)": "n. sweet fleshy red fruit\nn. any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry\nn. a soft red birthmark"
+  },
+  {
+    "单词": "a glass of",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "det. 一杯\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "juice",
+    "英音": "[dʒuːs]",
+    "美音": "[dʒuːs]",
+    "释义(中文)": "n. （水果）汁，液；果汁",
+    "释义(英文)": "n. the liquid part that can be extracted from plant or animal tissue by squeezing or cooking\nn. energetic vitality\nn. electric current\nn. any of several liquids of the body"
+  },
+  {
+    "单词": "hard",
+    "英音": "[hɑːd]",
+    "美音": "[hɑːrd]",
+    "释义(中文)": "adj. 努力的；硬的；困难的；辛苦的；确实的；严厉的；猛烈的；冷酷无情的\nadv. 努力地；困难地；辛苦地；接近地；猛烈地；牢固地\n",
+    "释义(英文)": "a. dispassionate; \na. resisting weight or pressure\ns. very strong or vigorous\na. (of light) transmitted directly from a pointed light source"
+  },
+  {
+    "单词": "soft",
+    "英音": "[sɒft]",
+    "美音": "[sɔːft]",
+    "释义(中文)": "n. 柔性；柔软的东西；柔软部分\nadj. 软的，柔软的；温柔的，温和的；软弱的；笨的\nadv. 柔软地；温和地",
+    "释义(英文)": "a. yielding readily to pressure or weight\na. compassionate and kind; conciliatory\na. (of sound) relatively low in volume\na. not protected against attack (especially by nuclear weapons)"
+  },
+  {
+    "单词": "rough",
+    "英音": "[rʌf]",
+    "美音": "[rʌf]",
+    "释义(中文)": "n. 艰苦；高低不平的地面；未经加工的材料；粗糙的部分\nadj. 粗糙的；粗略的；粗野的；艰苦的；未经加工的\nvt. 使粗糙；粗暴对待；草拟\nadv. 粗糙地；粗略地；粗暴地\nvi. 举止粗野\n",
+    "释义(英文)": "n. the part of a golf course bordering the fairway where the grass is not cut short\na. having or caused by an irregular surface\ns. (of persons or behavior) lacking refinement or finesse\na. of the margin of a leaf shape; having the edge cut or fringed or scalloped"
+  },
+  {
+    "单词": "smooth",
+    "英音": "[smuːð]",
+    "美音": "[smuːð]",
+    "释义(中文)": "n. 平滑部分；一块平地\nadj. 顺利的；光滑的；平稳的\nvt. 使光滑；消除（障碍等）；使优雅；缓和\nadv. 光滑地；平稳地；流畅地\nvi. 变平静；变平滑",
+    "释义(英文)": "n. the act of smoothing\nv. make smooth or smoother, as if by rubbing\nv. free from obstructions\na. having a surface free from roughness or bumps or ridges or irregularities"
+  },
+  {
+    "单词": "sharp",
+    "英音": "[ʃɑːp]",
+    "美音": "[ʃɑːrp]",
+    "释义(中文)": "n. 尖头；骗子；内行\nadj. 急剧的；锋利的；强烈的；敏捷的；刺耳的\nvt. 磨快；把音调升高\nadv. 急剧地；锐利地；突然地\nvi. 打扮；升音演奏\n",
+    "释义(英文)": "n. a musical notation indicating one half step higher than the note named\nn. a long thin sewing needle with a sharp point\ns. harsh\na. keenly and painfully felt; as if caused by a sharp edge or point"
+  },
+  {
+    "单词": "blunt",
+    "英音": "[blʌnt]",
+    "美音": "[blʌnt]",
+    "释义(中文)": "adj. 钝的，不锋利的；生硬的；直率的\nvt. 使迟钝\n",
+    "释义(英文)": "v. make less intense\nv. make less sharp\ns. having a broad or rounded end\ns. used of a knife or other blade; not sharp"
+  },
+  {
+    "单词": "thick",
+    "英音": "[θɪk]",
+    "美音": "[θɪk]",
+    "释义(中文)": "n. 最拥挤部分；活动最多部分；事物的粗大浓密部分\nadj. 厚的；浓的；粗大的\nadv. 密集地；浓浓地，厚厚地\n",
+    "释义(英文)": "a. not thin; of a specific thickness or of relatively great extent from one surface to the opposite usually in the smallest of the three solid dimensions\ns. having component parts closely crowded together\na. relatively dense in consistency\ns. (of darkness) very intense"
+  },
+  {
+    "单词": "thin",
+    "英音": "[θɪn]",
+    "美音": "[θɪn]",
+    "释义(中文)": "n. 细小部分\nadj. 薄的；瘦的；稀薄的；微弱的\nvt. 使瘦；使淡；使稀疏\nvi. 变薄；变瘦；变淡\nadv. 稀疏地；微弱地\n",
+    "释义(英文)": "v. lose thickness; become thin or thinner\nv. make thin or thinner\na. of relatively small extent from one surface to the opposite or in cross section\na. lacking excess flesh"
+  },
+  {
+    "单词": "knife",
+    "英音": "[naɪf]",
+    "美音": "[naɪf]",
+    "释义(中文)": "n. 刀；匕首\nvt. 用刀切；（口）伤害\nvi. 劈开；划过",
+    "释义(英文)": "n. edge tool used as a cutting instrument; has a pointed blade with a sharp edge and a handle\nn. a weapon with a handle and blade with a sharp point\nv. use a knife on"
+  },
+  {
+    "单词": "pencil",
+    "英音": "[ˈpens(ə)l]",
+    "美音": "[ˈpensl]",
+    "释义(中文)": "n. 铅笔；笔状物\nvt. 用铅笔写；用眉笔涂\nvi. 成铅笔状",
+    "释义(英文)": "n. a thin cylindrical pointed writing implement; a rod of marking substance encased in wood\nn. graphite (or a similar substance) used in such a way as to be a medium of communication\nn. a figure formed by a set of straight lines or light rays meeting at a point\nn. a cosmetic in a long thin stick; designed to be applied to a particular part of the face"
+  },
+  {
+    "单词": "pencil case",
+    "英音": "[ˈpensl keɪs]",
+    "美音": "[ˈpensl keɪs]",
+    "释义(中文)": "n. 铅笔盒；铅笔袋\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "hill",
+    "英音": "[hɪl]",
+    "美音": "[hɪl]",
+    "释义(中文)": "n. 小山；丘陵；斜坡；山冈\n",
+    "释义(英文)": "n. a local and well-defined elevation of the land\nn. United States railroad tycoon (1838-1916)\nn. risque English comedian (1925-1992)\nv. form into a hill"
+  },
+  {
+    "单词": "lawn",
+    "英音": "[lɔːn]",
+    "美音": "[lɔːn]",
+    "释义(中文)": "n. 草地；草坪\n",
+    "释义(英文)": "n. a field of cultivated and mowed grass"
+  },
+  {
+    "单词": "path",
+    "英音": "[pɑːθ]",
+    "美音": "[pæθ]",
+    "释义(中文)": "n. 道路；小路；轨道",
+    "释义(英文)": "n. a way especially designed for a particular use\nn. an established line of travel or access\nn. a line or route along which something travels or moves"
+  },
+  {
+    "单词": "bench",
+    "英音": "[bentʃ]",
+    "美音": "[bentʃ]",
+    "释义(中文)": "n. 长凳；工作台；替补队员\nvt. 给…以席位；为…设置条凳\n",
+    "释义(英文)": "n. a long seat for more than one person\nn. the magistrate or judge or judges sitting in court in judicial capacity to compose the court collectively\nn. the reserve players on a team\nn. (law) the seat for judges in a courtroom"
+  },
+  {
+    "单词": "shadow",
+    "英音": "[ˈʃædəʊ]",
+    "美音": "[ˈʃædoʊ]",
+    "释义(中文)": "n. 阴影；影子；幽灵；庇护；隐蔽处\nadj. 影子内阁的\nvt. 遮蔽；使朦胧；尾随；预示\nvi. 渐变；变阴暗",
+    "释义(英文)": "n. shade within clear boundaries\nn. a premonition of something adverse\nn. refuge from danger or observation\nn. a dominating and pervasive presence"
+  },
+  {
+    "单词": "sun",
+    "英音": "[sʌn]",
+    "美音": "[sʌn]",
+    "释义(中文)": "n. 太阳\nvt. 使晒\nvi. 晒太阳",
+    "释义(英文)": "n. the star that is the source of light and heat for the planets in the solar system\nn. a person considered as a source of warmth or energy or glory etc\nn. any star around which a planetary system revolves\nv. expose one's body to the sun"
+  },
+  {
+    "单词": "the sun",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 阳；东曦；太阳",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "rise",
+    "英音": "[raɪz]",
+    "美音": "[raɪz]",
+    "释义(中文)": "n. 上升；高地；增加；出现\nvt. 使…飞起；使…浮上水面\nvi. 上升；增强；起立；高耸",
+    "释义(英文)": "n. a growth in strength or number or importance\nn. the act of changing location in an upward direction\nn. a movement upward\nn. an increase in cost"
+  },
+  {
+    "单词": "high",
+    "英音": "[haɪ]",
+    "美音": "[haɪ]",
+    "释义(中文)": "n. 高水平；天空；由麻醉品引起的快感；高压地带\nadj. 高的；高级的；崇高的；高音调的\nadv. 高；奢侈地\n",
+    "释义(英文)": "n. a lofty level or position or degree\nn. an air mass of higher than normal pressure\nn. a state of sustained elation\nn. a state of altered consciousness induced by alcohol or narcotics"
+  },
+  {
+    "单词": "at noon",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 在中午\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "go down",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 下去；(飞机)坠落；继续到  (风,浪等)平静下来；消退\n",
+    "释义(英文)": "n. (in India and Malaysia) a warehouse"
+  },
+  {
+    "单词": "play football",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 踢足球；对难办的事采取踢皮球的态度\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "play table tennis",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 打乒乓球；打桌球；玩乒乓球",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "play volleyball",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 打排球；玩排球；排球比赛",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "play badminton",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 打羽毛球；打羽球；玩羽毛球",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "play basketball",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 打篮球；玩篮球；篮球锻炼知多少",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "sport",
+    "英音": "[spɔːt]",
+    "美音": "[spɔːrt]",
+    "释义(中文)": "n. 运动；游戏；娱乐；运动会；玩笑\nadj. 运动的\nvt. 游戏；参加体育运动；夸耀\nvi. 游戏",
+    "释义(英文)": "n. an active diversion requiring physical exertion and competition\nn. the occupation of athletes who compete for pay\nn. (Maine colloquial) a temporary summer resident of Maine\nn. a person known for the way she (or he) behaves when teased or defeated or subjected to trying circumstances"
+  },
+  {
+    "单词": "poster",
+    "英音": "[ˈpəʊstə(r)]",
+    "美音": "[ˈpoʊstər]",
+    "释义(中文)": "n. 海报，广告；招贴\n",
+    "释义(英文)": "n. a sign posted in a public place as an advertisement"
+  },
+  {
+    "单词": "join",
+    "英音": "[dʒɔɪn]",
+    "美音": "[dʒɔɪn]",
+    "释义(中文)": "vt. 参加；结合；连接\nvi. 加入；参加；结合\nn. 结合；连接；接合点\n",
+    "释义(英文)": "v. become part of; become a member of a group or organization\nv. cause to become joined or linked\nv. come into the company of\nv. make contact or come together"
+  },
+  {
+    "单词": "club",
+    "英音": "[klʌb]",
+    "美音": "[klʌb]",
+    "释义(中文)": "n. 俱乐部，社团；夜总会；棍棒；（扑克牌中的）梅花\nadj. 俱乐部的\nvt. 用棍棒打；募集\nvi. 集资；组成俱乐部\n",
+    "释义(英文)": "n. a formal association of people with similar interests\nn. stout stick that is larger at one end\nn. a playing card in the minor suit that has one or more black trefoils on it\nv. unite with a common purpose"
+  },
+  {
+    "单词": "bone",
+    "英音": "[bəʊn]",
+    "美音": "[boʊn]",
+    "释义(中文)": "n. 骨；骨骼\nvt. 剔去...的骨；施骨肥于\nvi. 苦学；专心致志\n",
+    "释义(英文)": "n. rigid connective tissue that makes up the skeleton of vertebrates\nn. the porous calcified substance from which bones are made\nn. a shade of white the color of bleached bones\nv. remove the bones from"
+  },
+  {
+    "单词": "cat food",
+    "英音": "[kæt fuːd]",
+    "美音": "[kæt fuːd]",
+    "释义(中文)": "猫的食物\n猫粮",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "dog food",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 狗粮；狗食；分文不值",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "fish",
+    "英音": "[fɪʃ]",
+    "美音": "[fɪʃ]",
+    "释义(中文)": "n. 鱼，鱼类\nvt. 钓鱼，捕鱼；搜寻\nvi. 捕鱼，钓鱼；用钩捞取\n",
+    "释义(英文)": "n. any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills\nn. the flesh of fish used as food\nv. seek indirectly\nv. catch or try to catch fish or shellfish"
+  },
+  {
+    "单词": "parrot",
+    "英音": "[ˈpærət]",
+    "美音": "[ˈpærət]",
+    "释义(中文)": "n. 鹦鹉；学舌者，应声虫；机械模仿别人的人\nvt. 机械地模仿\n",
+    "释义(英文)": "n. usually brightly colored zygodactyl tropical birds with short hooked beaks and the ability to mimic sounds\nn. a copycat who does not understand the words or acts being imitated\nv. repeat mindlessly"
+  },
+  {
+    "单词": "tortoise",
+    "英音": "[ˈtɔːtəs]",
+    "美音": "[ˈtɔːrtəs]",
+    "释义(中文)": "n. 龟，[脊椎] 乌龟（等于testudo）；迟缓的人",
+    "释义(英文)": "n. usually herbivorous land turtles having clawed elephant-like limbs; worldwide in arid area except Australia and Antarctica"
+  },
+  {
+    "单词": "cute",
+    "英音": "[kjuːt]",
+    "美音": "[kjuːt]",
+    "释义(中文)": "adj. 可爱的；漂亮的；聪明的，伶俐的",
+    "释义(英文)": "s. obviously contrived to charm"
+  },
+  {
+    "单词": "bedroom",
+    "英音": "[ˈbedruːm]",
+    "美音": "[ˈbedruːm; ˈbedrʊm]",
+    "释义(中文)": "n. 卧室\nadj. 两性关系的；城郊住宅区的",
+    "释义(英文)": "n. a room used primarily for sleeping"
+  },
+  {
+    "单词": "living room",
+    "英音": "['lɪvɪŋ ru:m]",
+    "美音": "[ˈlɪvɪŋ ruːm]",
+    "释义(中文)": "n. 客厅；起居室\n",
+    "释义(英文)": "n a room in a private house or establishment where people can sit and talk and relax"
+  },
+  {
+    "单词": "bathroom",
+    "英音": "[ˈbɑːθruːm; ˈbɑːθrʊm]",
+    "美音": "[ˈbæθruːm]",
+    "释义(中文)": "n. 浴室；厕所；盥洗室",
+    "释义(英文)": "n. a room (as in a residence) containing a bathtub or shower and usually a washbasin and toilet"
+  },
+  {
+    "单词": "kitchen",
+    "英音": "[ˈkɪtʃɪn]",
+    "美音": "[ˈkɪtʃɪn]",
+    "释义(中文)": "n. 厨房；炊具；炊事人员\n",
+    "释义(英文)": "n. a room equipped for preparing meals"
+  },
+  {
+    "单词": "homework",
+    "英音": "[ˈhəʊmwɜːk]",
+    "美音": "[ˈhoʊmwɜːrk]",
+    "释义(中文)": "n. 家庭作业，课外作业",
+    "释义(英文)": "n. preparatory school work done outside school (especially at home)"
+  },
+  {
+    "单词": "model plane",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 模型飞机；飞机模型；一架飞机模型",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "wash",
+    "英音": "[wɒʃ]",
+    "美音": "[wɑːʃ]",
+    "释义(中文)": "n. 洗涤；洗的衣服；化妆水；冲积物\nvt. 洗涤；洗刷；冲走；拍打\nvi. 洗澡；被冲蚀\n",
+    "释义(英文)": "n. a thin coat of water-base paint\nn. the work of cleansing (usually with soap and water)\nn. the dry bed of an intermittent stream (as at the bottom of a canyon)\nn. a watercolor made by applying a series of monochrome washes one over the other"
+  },
+  {
+    "单词": "dinner",
+    "英音": "[ˈdɪnə(r)]",
+    "美音": "[ˈdɪnər]",
+    "释义(中文)": "n. 晚餐，晚宴；宴会；正餐\n",
+    "释义(英文)": "n. the main meal of the day served in the evening or at midday\nn. a party of people assembled to have dinner together"
+  },
+  {
+    "单词": "quiet",
+    "英音": "[ˈkwaɪət]",
+    "美音": "[ˈkwaɪət]",
+    "释义(中文)": "n. 安静；和平\nadj. 安静的；安定的；不动的；温顺的\nvt. 使平息；安慰\nvi. 平静下来",
+    "释义(英文)": "a. characterized by an absence or near absence of agitation or activity\na. free of noise or uproar; or making little if any sound\ns. not showy or obtrusive\na. of the sun characterized by a low level of surface phenomena like sunspots e.g."
+  },
+  {
+    "单词": "loud",
+    "英音": "[laʊd]",
+    "美音": "[laʊd]",
+    "释义(中文)": "adj. 大声的，高声的；不断的；喧吵的\nadv. 大声地，高声地，响亮地\n",
+    "释义(英文)": "a. characterized by or producing sound of great volume or intensity"
+  },
+  {
+    "单词": "bell",
+    "英音": "[bel]",
+    "美音": "[bel]",
+    "释义(中文)": "n. 铃，钟；钟声，铃声；钟状物\nvt. 装钟于，系铃于\nvi. 鸣钟；成钟状鼓起",
+    "释义(英文)": "n. a hollow device made of metal that makes a ringing sound when struck\nn. the sound of a bell being struck\nn. (nautical) each of the eight half-hour units of nautical time signaled by strokes of a ship's bell; eight bells signals 4:00, 8:00, or 12:00 o'clock, either a.m. or p.m.\nn. the shape of a bell"
+  },
+  {
+    "单词": "television",
+    "英音": "[ˈtelɪvɪʒ(ə)n]",
+    "美音": "[ˈtelɪvɪʒn]",
+    "释义(中文)": "n. 电视，电视机；电视业",
+    "释义(英文)": "n. broadcasting visual images of stationary or moving objects\nn. a telecommunication system that transmits images of objects (stationary or moving) between distant points"
+  },
+  {
+    "单词": "TV",
+    "英音": "[ˌtiː ˈviː]",
+    "美音": "[ˌtiː ˈviː]",
+    "释义(中文)": "abbr. 电视（television）",
+    "释义(英文)": "n broadcasting visual images of stationary or moving objects\nn an electronic device that receives television signals and displays them on a screen"
+  },
+  {
+    "单词": "sound",
+    "英音": "[saʊnd]",
+    "美音": "[saʊnd]",
+    "释义(中文)": "n. 声音，语音；噪音；海峡；吵闹；听力范围；[医] 探条\nadj. 健全的，健康的；合理的；可靠的；有效彻底的\nvt. 听（诊）；测量，测…深；使发声；试探；宣告\nvi. 听起来；发出声音；回响；测深\nadv. 彻底地，充分地",
+    "释义(英文)": "n. the particular auditory effect produced by a given cause\nn. the subjective sensation of hearing something\nn. mechanical vibrations transmitted by an elastic medium\nn. the sudden occurrence of an audible event"
+  },
+  {
+    "单词": "noisy",
+    "英音": "[ˈnɔɪzi]",
+    "美音": "[ˈnɔɪzi]",
+    "释义(中文)": "adj. .嘈杂的；喧闹的；聒噪的",
+    "释义(英文)": "a. full of or characterized by loud and nonmusical sounds\ns. attracting attention by showiness or bright colors"
+  },
+  {
+    "单词": "ring",
+    "英音": "[rɪŋ]",
+    "美音": "[rɪŋ]",
+    "释义(中文)": "n. 戒指；铃声，钟声；拳击场；环形物\nvi. 按铃；敲钟；回响；成环形\nvt. 按铃；包围；敲钟；套住\n",
+    "释义(英文)": "n. a characteristic sound\nn. a toroidal shape\nn. the sound of a bell ringing\nn. a platform usually marked off by ropes in which contestants box or wrestle"
+  },
+  {
+    "单词": "watch TV",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "v. 看电视\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "seven o'clock",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 七点钟；七点；七点整",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "a quarter past seven",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "half past seven",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "a quarter to eight",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "get up",
+    "英音": "[ɡet ʌp]",
+    "美音": "[ɡet ʌp]",
+    "释义(中文)": "na. 起床；起身；站起来；叫…起床\n",
+    "释义(英文)": "n a set of clothing (with accessories)"
+  },
+  {
+    "单词": "brush my teeth",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 刷牙；刷我的牙；我正在刷牙",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "wash my face",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "have breakfast",
+    "英音": "[hæv 'brekfəst]",
+    "美音": "[hæv ˈbrekfəst]",
+    "释义(中文)": " 吃早饭；吃早餐；吃早点",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "always",
+    "英音": "[ˈɔːlweɪz]",
+    "美音": "[ˈɔːlweɪz]",
+    "释义(中文)": "adv. 永远，一直；总是；常常",
+    "释义(英文)": "r. at all times; all the time and on every occasion\nr. at any time or in any event\nr. forever; throughout all time"
+  },
+  {
+    "单词": "usually",
+    "英音": "[ˈjuːʒuəli]",
+    "美音": "[ˈjuːʒuəli; ˈjuːʒəli]",
+    "释义(中文)": "adv. 通常，经常",
+    "释义(英文)": "r under normal conditions"
+  },
+  {
+    "单词": "often",
+    "英音": "[ˈɒf(ə)n]",
+    "美音": "[ˈɔːf(ə)n]",
+    "释义(中文)": "adv. 常常，时常",
+    "释义(英文)": "r. in many cases or instances"
+  },
+  {
+    "单词": "sometimes",
+    "英音": "[ˈsʌmtaɪmz]",
+    "美音": "[ˈsʌmtaɪmz]",
+    "释义(中文)": "adv. 有时，间或",
+    "释义(英文)": "r. on certain occasions or in certain cases but not always; at other times for six months\""
+  },
+  {
+    "单词": "never",
+    "英音": "[ˈnevə(r)]",
+    "美音": "[ˈnevər]",
+    "释义(中文)": "adv. 从未；决不",
+    "释义(英文)": "r. not ever; at no time in the past or future\nr. not at all; certainly not; not in any circumstances"
+  },
+  {
+    "单词": "Monday",
+    "英音": "[ˈmʌndeɪ]",
+    "美音": "[ˈmʌndeɪ]",
+    "释义(中文)": "n. 星期一",
+    "释义(英文)": "n. the second day of the week; the first working day"
+  },
+  {
+    "单词": "Tuesday",
+    "英音": "[ˈtjuːzdeɪ]",
+    "美音": "[ˈtuːzdeɪ]",
+    "释义(中文)": "n. 星期二",
+    "释义(英文)": "n. the third day of the week; the second working day"
+  },
+  {
+    "单词": "Wednesday",
+    "英音": "[ˈwenzdeɪ]",
+    "美音": "[ˈwenzdeɪ]",
+    "释义(中文)": "n. 星期三",
+    "释义(英文)": "n. the fourth day of the week; the third working day"
+  },
+  {
+    "单词": "Thursday",
+    "英音": "[ˈθɜːzdeɪ]",
+    "美音": "[ˈθɜːrzdeɪ]",
+    "释义(中文)": "n. 星期四",
+    "释义(英文)": "n. the fifth day of the week; the fourth working day"
+  },
+  {
+    "单词": "Friday",
+    "英音": "[ˈfraɪdeɪ]",
+    "美音": "[ˈfraɪdeɪ]",
+    "释义(中文)": "n. 星期五",
+    "释义(英文)": "n. the sixth day of the week; the fifth working day"
+  },
+  {
+    "单词": "Saturday",
+    "英音": "[ˈsætədeɪ]",
+    "美音": "[ˈsætərdeɪ]",
+    "释义(中文)": "n. 星期六",
+    "释义(英文)": "n. the seventh and last day of the week; observed as the Sabbath by Jews and some Christians"
+  },
+  {
+    "单词": "Sunday",
+    "英音": "[ˈsʌndeɪ]",
+    "美音": "[ˈsʌndeɪ]",
+    "释义(中文)": "n. 星期日；礼拜日",
+    "释义(英文)": "n. first day of the week; observed as a day of rest and worship by most Christians\nn. United States evangelist (1862-1935)"
+  },
+  {
+    "单词": "Chinese chess",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 象棋\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "at weekends",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 在周末；每逢周末；生在周末",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "piano",
+    "英音": "[piˈænəʊ]",
+    "美音": "[piˈænoʊ]",
+    "释义(中文)": "n. 钢琴\n",
+    "释义(英文)": "n. a keyboard instrument that is played by depressing keys that cause hammers to strike tuned strings and produce sounds\nn. (music) low loudness\na. used chiefly as a direction or description in music\nr. used as a direction in music; to be played relatively softly"
+  },
+  {
+    "单词": "violin",
+    "英音": "[ˌvaɪəˈlɪn]",
+    "美音": "[ˌvaɪəˈlɪn]",
+    "释义(中文)": "n. 小提琴；小提琴手\n",
+    "释义(英文)": "n. bowed stringed instrument that is the highest member of the violin family; this instrument has four strings and a hollow body and an unfretted fingerboard and is played with a bow"
+  },
+  {
+    "单词": "triangle",
+    "英音": "[ˈtraɪæŋɡl]",
+    "美音": "[ˈtraɪæŋɡl]",
+    "释义(中文)": "n. 三角（形）；三角关系；三角形之物；三人一组",
+    "释义(英文)": "n. a three-sided polygon\nn. something approximating the shape of a triangle\nn. any of various triangular drafting instruments used to draw straight lines at specified angles\nn. a percussion instrument consisting of a metal bar bent in the shape of an open triangle"
+  },
+  {
+    "单词": "drum",
+    "英音": "[drʌm]",
+    "美音": "[drʌm]",
+    "释义(中文)": "n. 鼓；鼓声\nvi. 击鼓；大力争取\nvt. 击鼓；大力争取\n",
+    "释义(英文)": "n. a musical percussion instrument; usually consists of a hollow cylinder with a membrane stretched across each end\nn. the sound of a drum\nn. a cylindrical metal container used for shipping or storage of liquids\nn. small to medium-sized bottom-dwelling food and game fishes of shallow coastal and fresh waters that make a drumming noise"
+  },
+  {
+    "单词": "music",
+    "英音": "[ˈmjuːzɪk]",
+    "美音": "[ˈmjuːzɪk]",
+    "释义(中文)": "n. 音乐，乐曲",
+    "释义(英文)": "n. an artistic form of auditory communication incorporating instrumental or vocal tones in a structured and continuous manner\nn. any agreeable (pleasing and harmonious) sounds\nn. musical activity (singing or whistling etc.)\nn. (music) the sounds produced by singers or musical instruments (or reproductions of such sounds)"
+  },
+  {
+    "单词": "the Spring Festival",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "un. 春节\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "the Dragon Boat Festival",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 端午节（端午节为每年农历五月初五，本来是夏季的一个驱除瘟疫的节日，后来楚国诗人屈原于端午节投江自尽，就变成纪念屈原的节日。端午节的习俗有吃粽子、赛龙舟、挂菖蒲、蒿草、艾叶、薰苍术、白芷，喝雄黄酒等）; 端节",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "the Mid-autumn Festival",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 中秋节",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "the Double Ninth Festival",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "festival",
+    "英音": "[ˈfestɪv(ə)l]",
+    "美音": "[ˈfestɪvl]",
+    "释义(中文)": "n. 节日；庆祝，纪念活动；欢乐\nadj. 节日的，喜庆的；快乐的",
+    "释义(英文)": "n. a day or period of time set aside for feasting and celebration\nn. an organized series of acts and performances (usually in one place)"
+  },
+  {
+    "单词": "rice dumpling",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 粽子；汤圆；肉粽",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "duckling",
+    "英音": "[ˈdʌklɪŋ]",
+    "美音": "[ˈdʌklɪŋ]",
+    "释义(中文)": "n. 小鸭子",
+    "释义(英文)": "n. flesh of a young domestic duck\nn. young duck"
+  },
+  {
+    "单词": "swan",
+    "英音": "[swɒn]",
+    "美音": "[swɑːn]",
+    "释义(中文)": "n. 天鹅；天鹅星座\nvi. 游荡，闲荡\n",
+    "释义(英文)": "n. stately heavy-bodied aquatic bird with very long neck and usually white plumage as adult\nv. sweep majestically"
+  },
+  {
+    "单词": "nest",
+    "英音": "[nest]",
+    "美音": "[nest]",
+    "释义(中文)": "n. 巢，窝；安乐窝；温床\nvt. 筑巢；嵌套\nvi. 筑巢；找鸟巢\n",
+    "释义(英文)": "n. a structure in which animals lay eggs or give birth to their young\nn. a kind of gun emplacement\nn. a cosy or secluded retreat\nn. a gang of people (criminals or spies or terrorists) assembled in one locality"
+  }
+]

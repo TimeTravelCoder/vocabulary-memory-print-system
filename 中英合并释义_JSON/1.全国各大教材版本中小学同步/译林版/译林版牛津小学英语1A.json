@@ -1,0 +1,261 @@
+[
+  {
+    "单词": "Helen",
+    "英音": "[ˈhelən]",
+    "美音": "[ˈhelən]",
+    "释义(中文)": "n. 海伦（女子名，火把、光亮的之义）",
+    "释义(英文)": "n. (Greek mythology) the beautiful daughter of Zeus and Leda who was abducted by Paris; the Greek army sailed to Troy to get her back which resulted in the Trojan War"
+  },
+  {
+    "单词": "Mike",
+    "英音": "[maɪk]",
+    "美音": "[maɪk]",
+    "释义(中文)": "n. 扩音器，麦克风；话筒；休息, 游手好闲\nvi. 使用扩音器；偷懒, 游手好闲\nvt. 用扩音器传送；用窃听器窃听",
+    "释义(英文)": "n device for converting sound waves into electrical energy"
+  },
+  {
+    "单词": "morning",
+    "英音": "[ˈmɔːnɪŋ]",
+    "美音": "[ˈmɔːrnɪŋ]",
+    "释义(中文)": "n. 早晨；黎明；初期",
+    "释义(英文)": "n. the time period between dawn and noon"
+  },
+  {
+    "单词": "afternoon",
+    "英音": "[ˌɑːftəˈnuːn]",
+    "美音": "[ˌæftərˈnuːn]",
+    "释义(中文)": "n. 午后，下午",
+    "释义(英文)": "n. the part of the day between noon and evening"
+  },
+  {
+    "单词": "evening",
+    "英音": "[ˈiːvnɪŋ]",
+    "美音": "[ˈiːvnɪŋ]",
+    "释义(中文)": "n. 晚上；傍晚；（联欢性的）晚会；后期\nadj. 在晚上的；为晚上的；晚上用的\nint. 晚上好（等于good evening）",
+    "释义(英文)": "n. the latter part of the day (the period of decreasing daylight from late afternoon until nightfall)\nn. a later concluding time period\nn. the early part of night (from dinner until bedtime) spent in a special way"
+  },
+  {
+    "单词": "dad",
+    "英音": "[dæd]",
+    "美音": "[dæd]",
+    "释义(中文)": "n. 爸爸；爹爹\n",
+    "释义(英文)": "n. an informal term for a father; probably derived from baby talk"
+  },
+  {
+    "单词": "mum",
+    "英音": "[mʌm]",
+    "美音": "[mʌm]",
+    "释义(中文)": "adj. 沉默的\nn. 妈妈（口语）；沉默；菊花\nvi. 演哑剧\nint. 别说话",
+    "释义(英文)": "n. secrecy\ns. failing to speak or communicate etc when expected to"
+  },
+  {
+    "单词": "teacher",
+    "英音": "[ˈtiːtʃə(r)]",
+    "美音": "[ˈtiːtʃər]",
+    "释义(中文)": "n. 教师；导师\n",
+    "释义(英文)": "n. a person whose occupation is teaching\nn. a personified abstraction that teaches"
+  },
+  {
+    "单词": "a book",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "a bag",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 一个包；袋子；一个书包",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "a pencil",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "a pencil box",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "a banana",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 香蕉；一只香蕉；一个香蕉",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "a pear",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "a mango",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "a peach",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 桃子；一只桃子；一个桃子",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "a cow",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 一头母牛；奶牛；一头奶牛",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "a duck",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 一只鸭子；飞来一只野鸭；鸭子会游泳",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "a pig",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 猪猡；一只猪；一头猪",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "a cat",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 一只猫；一只小猫；柏里欧是一只猫",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "a dog",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 一条狗；一只狗；小狗",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "a mouth",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "a nose",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 鼻子；一只鼻子；一个鼻子",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "an ear",
+    "英音": "[əˈnɪə]",
+    "美音": "[əˈnɪr]",
+    "释义(中文)": "prep. 靠近，紧接于\nadj. 近的",
+    "释义(英文)": "prep. & adv. Near.\nv. t. & i. To near; to approach."
+  },
+  {
+    "单词": "an eye",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 眼睛；一只眼睛；一眼睛图片",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "run",
+    "英音": "[rʌn]",
+    "美音": "[rʌn]",
+    "释义(中文)": "n. 奔跑；赛跑；趋向；奔跑的路程\nvt. 管理，经营；运行；参赛\nvi. 经营；奔跑；运转\n",
+    "释义(英文)": "n. a score in baseball made by a runner touching all four bases safely\nn. (American football) a play in which a player attempts to carry the ball through or past the opposing team\nn. a regular trip\nn. the act of running; traveling on foot at a fast pace"
+  },
+  {
+    "单词": "jump",
+    "英音": "[dʒʌmp]",
+    "美音": "[dʒʌmp]",
+    "释义(中文)": "n. 跳跃；暴涨；惊跳\nvt. 跳跃；使跳跃；跳过；突升\nvi. 跳跃；暴涨；猛增\n",
+    "释义(英文)": "n. a sudden and decisive increase\nn. (film) an abrupt transition from one scene to another\nn. descent with a parachute\nn. the act of jumping; propelling yourself off the ground"
+  },
+  {
+    "单词": "sing",
+    "英音": "[sɪŋ]",
+    "美音": "[sɪŋ]",
+    "释义(中文)": "n. 演唱；鸣声；呼啸声\nvt. 唱；用诗赞颂；唱着使\nvi. 唱歌；歌颂；鸣叫；呼号\n",
+    "释义(英文)": "v. deliver by singing\nv. produce tones with the voice\nv. to make melodious sounds"
+  },
+  {
+    "单词": "dance",
+    "英音": "[dɑːns]",
+    "美音": "[dæns]",
+    "释义(中文)": "n. 舞蹈；舞会；舞曲\nadj. 舞蹈的；用于跳舞的\nvt. 跳舞；使跳跃\nvi. 跳舞；跳跃；飘扬\n",
+    "释义(英文)": "n. an artistic form of nonverbal communication\nn. a party of people assembled for dancing\nn. a party for social dancing\nv. move in a graceful and rhythmical way"
+  },
+  {
+    "单词": "a card",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 制作一张卡片；明信片；一张贺卡",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "a doll",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 玩偶；一个洋娃娃；一只娃娃",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "a red packet",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "red",
+    "英音": "[red]",
+    "美音": "[red]",
+    "释义(中文)": "n. 红色，红颜料；赤字\nadj. 红色的；红肿的，充血的",
+    "释义(英文)": "n. red color or pigment; the chromatic color resembling the hue of blood\nn. a tributary of the Mississippi River that flows eastward from Texas along the southern boundary of Oklahoma and through Louisiana\ns. of a color at the end of the color spectrum (next to orange); resembling the color of blood or cherries or tomatoes or rubies"
+  },
+  {
+    "单词": "green",
+    "英音": "[ɡriːn]",
+    "美音": "[ɡriːn]",
+    "释义(中文)": "n. 绿色；青春\nadj. 绿色的；青春的\nvt. 使…变绿色\nvi. 变绿色",
+    "释义(英文)": "n. green color or pigment; resembling the color of growing grass\nn. United States labor leader who was president of the American Federation of Labor from 1924 to 1952 and who led the struggle with the Congress of Industrial Organizations (1873-1952)\nn. an environmentalist who belongs to the Green Party\nn. a river that rises in western Wyoming and flows southward through Utah to become a tributary of the Colorado River"
+  },
+  {
+    "单词": "blue",
+    "英音": "[bluː]",
+    "美音": "[bluː]",
+    "释义(中文)": "adj. 蓝色的；沮丧的，忧郁的；下流的\nn. 蓝色；[复数]（美国海、陆、空三军穿的）蓝色制服；蓝颜料；[the blue(s)][用作单数或复数]布鲁斯（歌曲）（一种伤感的美国黑人民歌\nvi. 变成蓝色，呈蓝色\nvt. 把…染成蓝色；使成蓝色；给…用上蓝剂；用上蓝剂于\n",
+    "释义(英文)": "n. blue color or pigment; resembling the color of the clear sky in the daytime\nn. blue clothing\nn. any organization or party whose uniforms or badges are blue\nn. any of numerous small butterflies of the family Lycaenidae"
+  },
+  {
+    "单词": "yellow",
+    "英音": "[ˈjeləʊ]",
+    "美音": "[ˈjeloʊ]",
+    "释义(中文)": "n. 黄色；黄种人；黄色颜料\nadj. 黄色的；黄皮肤的\nvt. 使变黄或发黄\nvi. 变黄或发黄",
+    "释义(英文)": "n. yellow color or pigment; the chromatic color resembling the hue of sunflowers or ripe lemons\nv. turn yellow\ns. of the color intermediate between green and orange in the color spectrum; of something resembling the color of an egg yolk\ns. changed to a yellowish color by age"
+  },
+  {
+    "单词": "brown",
+    "英音": "[braʊn]",
+    "美音": "[braʊn]",
+    "释义(中文)": "n. 褐色，棕色\nadj. 棕色的，褐色的；太阳晒黑的\nvt. 使变成褐色\nvi. 变成褐色\n",
+    "释义(英文)": "n. an orange of low brightness and saturation\nn. Scottish botanist who first observed the movement of small particles in fluids now known a Brownian motion (1773-1858)\nn. abolitionist who was hanged after leading an unsuccessful raid at Harper's Ferry, Virginia (1800-1859)\nv. fry in a pan until it changes color"
+  }
+]

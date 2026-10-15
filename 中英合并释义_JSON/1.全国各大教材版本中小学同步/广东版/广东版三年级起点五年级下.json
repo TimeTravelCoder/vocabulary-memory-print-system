@@ -1,0 +1,590 @@
+[
+  {
+    "单词": "take a test",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 参加考试；参加测验；测试一下",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "play games",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 做游戏；玩游戏；捣鬼",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "get a haircut",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 剪头发；理发；剪个短发",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "see the doctor",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "v. 看医生\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "shop for clothes",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "have a party",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 聚会；举行晚会；开聚会",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "write a letter",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 写信\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "meet some friends",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "tonight",
+    "英音": "[təˈnaɪt]",
+    "美音": "[təˈnaɪt]",
+    "释义(中文)": "n. 今晚\nadv. 在今晚",
+    "释义(英文)": "n. the present or immediately coming night\nr. during the night of the present day"
+  },
+  {
+    "单词": "tomorrow",
+    "英音": "[təˈmɒrəʊ]",
+    "美音": "[təˈmɑːroʊ]",
+    "释义(中文)": "n. 明天；未来\nadv. 明天；未来地（等于to-morrow）",
+    "释义(英文)": "n. the day after today\nn. the near future\nr. the next day, the day after, following the present day"
+  },
+  {
+    "单词": "bored",
+    "英音": "[bɔːd]",
+    "美音": "[bɔːrd]",
+    "释义(中文)": "v. 使厌烦（bore的过去式）；烦扰\nadj. 无聊的；无趣的；烦人的",
+    "释义(英文)": "s. tired of the world"
+  },
+  {
+    "单词": "vacation",
+    "英音": "[veɪˈkeɪʃn; vəˈkeɪʃn]",
+    "美音": "[veɪˈkeɪʃn; vəˈkeɪʃn]",
+    "释义(中文)": "n. 假期；（房屋）搬出\nvi. 休假，度假",
+    "释义(英文)": "n. leisure time away from work devoted to rest or pleasure\nn. the act of making something legally void\nv. spend or take a vacation"
+  },
+  {
+    "单词": "go camping",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 去野营；去露营；宿营",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "like",
+    "英音": "[laɪk]",
+    "美音": "[laɪk]",
+    "释义(中文)": "vt. 喜欢；想；愿意\nvi. 喜欢；希望\nprep. 像；如同\nadj. 同样的；相似的\nn. 爱好；同样的人或物\nadv. 可能\nconj. 好像",
+    "释义(英文)": "n. a similar kind\nn. a kind of person\nv. find enjoyable or agreeable\nv. be fond of"
+  },
+  {
+    "单词": "take photos",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 照相；拍照；拍照片",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "plan",
+    "英音": "[plæn]",
+    "美音": "[plæn]",
+    "释义(中文)": "n. 计划；平面图\nvt. 计划；设计；打算\nvi. 计划；打算\n",
+    "释义(英文)": "n. a series of steps to be carried out or goals to be accomplished\nn. scale drawing of a structure\nv. have the will and intention to carry out some action\nv. make plans for something"
+  },
+  {
+    "单词": "love",
+    "英音": "[lʌv]",
+    "美音": "[lʌv]",
+    "释义(中文)": "n. 恋爱；亲爱的；酷爱；喜爱的事物；爱情，爱意；疼爱；热爱；爱人，所爱之物\nv. 爱，热爱；爱戴；赞美，称赞；喜爱；喜好；喜欢；爱慕\n",
+    "释义(英文)": "n. a strong positive emotion of regard and affection\nn. any object of warm affection or devotion; \nn. a deep feeling of sexual desire and attraction\nn. a score of zero in tennis or squash"
+  },
+  {
+    "单词": "ship",
+    "英音": "[ʃɪp]",
+    "美音": "[ʃɪp]",
+    "释义(中文)": "n. 船；舰；太空船\nvt. 运送，乘船；以船运送\nvi. 上船；乘船旅行；当船员\n",
+    "释义(英文)": "n. a vessel that carries passengers or freight\nv. hire for work on a ship\nv. travel by ship\nv. place on board a ship"
+  },
+  {
+    "单词": "train",
+    "英音": "[treɪn]",
+    "美音": "[treɪn]",
+    "释义(中文)": "n. 火车；行列；长队；裙裾\nv. 培养；训练；瞄准\n",
+    "释义(英文)": "n. public transport provided by a line of railway cars coupled together and drawn by a locomotive\nn. a series of consequences wrought by an event\nn. piece of cloth forming the long back section of a gown that is drawn along the floor\nv. create by training and teaching"
+  },
+  {
+    "单词": "bus",
+    "英音": "[bʌs]",
+    "美音": "[bʌs]",
+    "释义(中文)": "n. 公共汽车\n乘公共汽车",
+    "释义(英文)": "n. a vehicle carrying many passengers; used for public transport\nn. a car that is old and unreliable\nv. send or move around by bus\nv. ride in a bus"
+  },
+  {
+    "单词": "by",
+    "英音": "[baɪ]",
+    "美音": "[baɪ]",
+    "释义(中文)": "prep. 通过；被；依据；经由；在附近；在……之前\nadv. 通过；经过；附近；[互联网] 白俄罗斯的国家代码顶级域名",
+    "释义(英文)": "r. so as to pass a given point"
+  },
+  {
+    "单词": "by ship",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 乘船；乘轮船；坐轮船",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "by plane",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "adv. 乘飞机\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "by bus",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 乘公共汽车\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "by train",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 坐火车\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "stay in a hotel",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "stay with my aunt and uncle",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "go sightseeing",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 去观光；去观光旅行；出去观光",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "Tibet",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 西藏（中国一自治区）",
+    "释义(英文)": "n. an autonomous region of the Peoples Republic of China; located in the Himalayas"
+  },
+  {
+    "单词": "hurray",
+    "英音": "[hʊˈreɪ]",
+    "美音": "[huˈreɪ]",
+    "释义(中文)": "n. 万岁呼声；狂热\nvt. 向…欢呼（等于hurrah）\nint. 加油\nvi. 欢呼",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "wolves",
+    "英音": "[wʊlvz]",
+    "美音": "[wʊlvz]",
+    "释义(中文)": "n. 狼；贪婪者；色狼（wolf的复数）\nv. 大口地快吃；狼吞虎咽（wolf的单三形式）",
+    "释义(英文)": "n any of various predatory carnivorous canine mammals of North America and Eurasia that usually hunt in packs\nn Austrian composer (1860-1903)\nn German classical scholar who claimed that the Iliad and Odyssey were composed by several authors (1759-1824)\nn a man who is aggressive in making amorous advances to women\nn a cruelly rapacious person"
+  },
+  {
+    "单词": "have a picnic",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 举行野餐；去野餐；吃野餐",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "visit",
+    "英音": "[ˈvɪzɪt]",
+    "美音": "[ˈvɪzɪt]",
+    "释义(中文)": "n. 访问；参观；逗留\nvt. 访问；参观；视察\nvi. 访问；暂住；闲谈\n",
+    "释义(英文)": "n. the act of going to see some person or place or thing for a short time\nn. a meeting arranged by the visitor to see someone (such as a doctor or lawyer) for treatment or advice\nn. the act of visiting in an official capacity (as for an inspection)\nn. the act of going to see some person in a professional capacity"
+  },
+  {
+    "单词": "relatives",
+    "英音": "[ˈrelətɪvz]",
+    "美音": "[ˈrelətɪvz]",
+    "释义(中文)": "n. 亲属；[语] 关系词（relative的复数）",
+    "释义(英文)": "n a person related by blood or marriage\nn an animal or plant that bears a relationship to another (as related by common descent or by membership in the same genus)"
+  },
+  {
+    "单词": "help",
+    "英音": "[help]",
+    "美音": "[help]",
+    "释义(中文)": "n. 帮助；补救办法；帮忙者；有益的东西\nvt. 帮助；促进；治疗；补救\nvi. 帮助；有用；招待\n",
+    "释义(英文)": "v. give help or assistance; be of service\nv. improve the condition of\nv. be of use\nv. contribute to the furtherance of"
+  },
+  {
+    "单词": "play with friends",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "make models",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "surf the Internet",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 上网；网上冲浪；上网冲浪",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "read books",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 读书；看书；阅读",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "next",
+    "英音": "[nekst]",
+    "美音": "[nekst]",
+    "释义(中文)": "adv. 然后；下次；其次\nadj. 下一个的；其次的；贴近的\nn. 下一个\nprep. 靠近；居于…之后",
+    "释义(英文)": "r. at the time or occasion immediately following"
+  },
+  {
+    "单词": "during",
+    "英音": "[ˈdjʊərɪŋ]",
+    "美音": "[ˈdʊrɪŋ]",
+    "释义(中文)": "prep. 在…的时候，在…的期间\n",
+    "释义(英文)": "prep. In the time of; as long as the action or existence of;\n   as, during life; during the space of a year."
+  },
+  {
+    "单词": "fruit",
+    "英音": "[fruːt]",
+    "美音": "[fruːt]",
+    "释义(中文)": "n. 水果；产物\nvt. 使……结果实\nvi. 结果实\n",
+    "释义(英文)": "n. the ripened reproductive body of a seed plant\nn. the consequence of some effort or action\nv. cause to bear fruit\nv. bear fruit"
+  },
+  {
+    "单词": "the Great Wall of China",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "do tai chi",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "never",
+    "英音": "[ˈnevə(r)]",
+    "美音": "[ˈnevər]",
+    "释义(中文)": "adv. 从未；决不",
+    "释义(英文)": "r. not ever; at no time in the past or future\nr. not at all; certainly not; not in any circumstances"
+  },
+  {
+    "单词": "sometimes",
+    "英音": "[ˈsʌmtaɪmz]",
+    "美音": "[ˈsʌmtaɪmz]",
+    "释义(中文)": "adv. 有时，间或",
+    "释义(英文)": "r. on certain occasions or in certain cases but not always; at other times for six months\""
+  },
+  {
+    "单词": "usually",
+    "英音": "[ˈjuːʒuəli]",
+    "美音": "[ˈjuːʒuəli; ˈjuːʒəli]",
+    "释义(中文)": "adv. 通常，经常",
+    "释义(英文)": "r under normal conditions"
+  },
+  {
+    "单词": "always",
+    "英音": "[ˈɔːlweɪz]",
+    "美音": "[ˈɔːlweɪz]",
+    "释义(中文)": "adv. 永远，一直；总是；常常",
+    "释义(英文)": "r. at all times; all the time and on every occasion\nr. at any time or in any event\nr. forever; throughout all time"
+  },
+  {
+    "单词": "subway",
+    "英音": "[ˈsʌbweɪ]",
+    "美音": "[ˈsʌbweɪ]",
+    "释义(中文)": "n. 地铁；地道\nvi. 乘地铁",
+    "释义(英文)": "n an electric railway operating below the surface of the ground (usually in a city)\nn an underground tunnel or passage enabling pedestrians to cross a road or railway"
+  },
+  {
+    "单词": "taxi",
+    "英音": "[ˈtæksi]",
+    "美音": "[ˈtæksi]",
+    "释义(中文)": "n. 出租汽车\nvt. 使滑行；用出租车送\nvi. 乘出租车；滑行",
+    "释义(英文)": "v. travel slowly\nv. ride in a taxicab"
+  },
+  {
+    "单词": "bike",
+    "英音": "[baɪk]",
+    "美音": "[baɪk]",
+    "释义(中文)": "n. 自行车；脚踏车\nvi. 骑自行车（或摩托车）\n",
+    "释义(英文)": "n a motor vehicle with two wheels and a strong frame\nn a wheeled vehicle that has two wheels and is moved by foot pedals\nv ride a bicycle"
+  },
+  {
+    "单词": "take",
+    "英音": "[teɪk]",
+    "美音": "[teɪk]",
+    "释义(中文)": "vi. 拿；获得\nvt. 拿，取；采取；接受（礼物等）；买，花费；耗费（时间等）\nn. 捕获量；看法；利益，盈益；（入场券的）售得金额",
+    "释义(英文)": "n. the act of photographing a scene or part of a scene without interruption\nv. carry out\nv. require (time or space)\nv. get into one's hands, take physically"
+  },
+  {
+    "单词": "drive",
+    "英音": "[draɪv]",
+    "美音": "[draɪv]",
+    "释义(中文)": "n. 驱动器；驾车；[心理] 内驱力，推进力；快车道\nvi. 开车；猛击；飞跑\nvt. 推动，发动（机器等）；驾驶（马车，汽车等）；驱赶",
+    "释义(英文)": "n. the act of applying force to propel something\nn. a mechanism by which force or power is transmitted in a machine\nn. the trait of being highly motivated\nn. hitting a golf ball off of a tee with a driver"
+  },
+  {
+    "单词": "walk",
+    "英音": "[wɔːk]",
+    "美音": "[wɔːk]",
+    "释义(中文)": "n. 步行，走；散步\nvi. 走，步行；散步\nvt. 散步；走过\n",
+    "释义(英文)": "n. the act of traveling by foot\nn. manner of walking\nn. the act of walking somewhere\nn. a path set aside for walking"
+  },
+  {
+    "单词": "woods",
+    "英音": "[wʊdz]",
+    "美音": "[wʊdz]",
+    "释义(中文)": "n. [林] 树林；森林；木头（wood的复数）\nv. 供以木材；用森林覆盖（wood的第三人称单数）\n",
+    "释义(英文)": "n the trees and other plants in a large densely wooded area\nn the hard fibrous lignified substance under the bark of trees\nn the trees and other plants in a large densely wooded area\nn United States film actress (1938-1981)\nn English conductor (1869-1944)\nn English writer of novels about murders and thefts and forgeries (1814-1887)\nn United States painter noted for works based on life in the Midwest (1892-1942)\nn any wind instrument other than the brass instruments\nn a golf club with a long shaft used to hit long shots; originally made with a wooden head"
+  },
+  {
+    "单词": "look for",
+    "英音": "[ˈlʊk fɔː(r)]",
+    "美音": "[ˈlʊk fɔːr]",
+    "释义(中文)": "v. 寻找；探索；渴望；盼望\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "candies",
+    "英音": "[ˈkændɪz]",
+    "美音": "[ˈkændiz]",
+    "释义(中文)": "n. 糖果，果饵（candy的复数）",
+    "释义(英文)": "n a rich sweet made of flavored sugar and often combined with fruit or nuts\nv coat with something sweet, such as a hard sugar glaze"
+  },
+  {
+    "单词": "find",
+    "英音": "[faɪnd]",
+    "美音": "[faɪnd]",
+    "释义(中文)": "n. 发现\nvi. 裁决\nvt. 查找，找到；发现；认为；感到；获得\n",
+    "释义(英文)": "v. come upon, as if by accident; meet with\nv. come upon after searching; find the location of something that was missed or lost\nv. come to believe on the basis of emotion, intuitions, or indefinite grounds\nv. obtain through effort or management"
+  },
+  {
+    "单词": "lost",
+    "英音": "[lɒst]",
+    "美音": "[lɔːst]",
+    "释义(中文)": "adj. 失去的；丧失的；迷惑的\nv. 遗失（lose的过去分词）；失败",
+    "释义(英文)": "a. no longer in your possession or control; unable to be found or recovered\na. spiritually or physically doomed or destroyed\na. not gained or won\ns. incapable of being recovered or regained"
+  },
+  {
+    "单词": "once",
+    "英音": "[wʌns]",
+    "美音": "[wʌns]",
+    "释义(中文)": "adv. 一次；曾经\nconj. 一旦\nn. 一次，一回",
+    "释义(英文)": "r. on one occasion\nr. as soon as\nr. at a previous time;"
+  },
+  {
+    "单词": "twice",
+    "英音": "[twaɪs]",
+    "美音": "[twaɪs]",
+    "释义(中文)": "adv. 两次；两倍",
+    "释义(英文)": "r. two times"
+  },
+  {
+    "单词": "three times",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 最好的时光；三次；三倍",
+    "释义(英文)": "plural of three-time"
+  },
+  {
+    "单词": "go fishing",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 去钓鱼；垂钓；我以前常去钓鱼",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "go hiking",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 去远足；去徒步旅行；去徒步远足",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "go ice-skating",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "go swimming",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 去游泳\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "often",
+    "英音": "[ˈɒf(ə)n]",
+    "美音": "[ˈɔːf(ə)n]",
+    "释义(中文)": "adv. 常常，时常",
+    "释义(英文)": "r. in many cases or instances"
+  },
+  {
+    "单词": "fish",
+    "英音": "[fɪʃ]",
+    "美音": "[fɪʃ]",
+    "释义(中文)": "n. 鱼，鱼类\nvt. 钓鱼，捕鱼；搜寻\nvi. 捕鱼，钓鱼；用钩捞取\n",
+    "释义(英文)": "n. any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills\nn. the flesh of fish used as food\nv. seek indirectly\nv. catch or try to catch fish or shellfish"
+  },
+  {
+    "单词": "favorite",
+    "英音": "[ˈfeɪvərɪt]",
+    "美音": "[ˈfeɪvərɪt]",
+    "释义(中文)": "n. 幸运儿；喜欢的事物；特别喜欢的人\nadj. 最喜爱的；中意的；宠爱的",
+    "释义(英文)": "n. something regarded with special favor or liking\ns. appealing to the general public"
+  },
+  {
+    "单词": "activity",
+    "英音": "[ækˈtɪvəti]",
+    "美音": "[ækˈtɪvəti]",
+    "释义(中文)": "n. 活动；行动；活跃",
+    "释义(英文)": "n. any specific behavior\nn. (chemistry) the capacity of a substance to take part in a chemical reaction"
+  },
+  {
+    "单词": "about",
+    "英音": "[əˈbaʊt]",
+    "美音": "[əˈbaʊt]",
+    "释义(中文)": "prep. 关于；大约\nn. 大致；粗枝大叶；不拘小节的人\nadj. 在附近的；四处走动的；在起作用的\nadv. 大约；周围；到处\n",
+    "释义(英文)": "s. on the move\nr. all around or on all sides\nr. in the area or vicinity\nr. used of movement to or among many different places or in no particular direction"
+  },
+  {
+    "单词": "habit",
+    "英音": "[ˈhæbɪt]",
+    "美音": "[ˈhæbɪt]",
+    "释义(中文)": "n. 习惯，习性；嗜好\nvt. 使穿衣",
+    "释义(英文)": "n. an established custom\nn. (psychology) an automatic pattern of behavior in reaction to a specific situation; may be inherited or acquired through frequent repetition\nn. a distinctive attire worn by a member of a religious order\nn. the general form or mode of growth (especially of a plant or crystal)"
+  },
+  {
+    "单词": "brush",
+    "英音": "[brʌʃ]",
+    "美音": "[brʌʃ]",
+    "释义(中文)": "n. 刷子；画笔；毛笔；争吵；与某人有效冲突；灌木丛地带；矮树丛；狐狸尾巴\nvi. 刷；擦过；掠过；（经过时）轻触\nvt. 刷；画；",
+    "释义(英文)": "n. a dense growth of bushes\nn. an implement that has hairs or bristles firmly set into a handle\nn. momentary contact\nn. conducts current between rotating and stationary parts of a generator or motor"
+  },
+  {
+    "单词": "teeth",
+    "英音": "[tiːθ]",
+    "美音": "[tiːθ]",
+    "释义(中文)": "n. 牙齿",
+    "释义(英文)": "n the kind and number and arrangement of teeth (collectively) in a person or animal\nn hard bonelike structures in the jaws of vertebrates; used for biting and chewing or for attack and defense\nn something resembling the tooth of an animal\nn toothlike structure in invertebrates found in the mouth or alimentary canal or on a shell\nn a means of enforcement\nn one of a number of uniform projections on a gear"
+  },
+  {
+    "单词": "comb",
+    "英音": "[kəʊm]",
+    "美音": "[koʊm]",
+    "释义(中文)": "n. 梳子；蜂巢；鸡冠\nvt. 梳头发；梳毛\nvi. （浪）涌起",
+    "释义(英文)": "n. a flat device with narrow pointed teeth on one edge; disentangles or arranges hair\nn. the fleshy red crest on the head of the domestic fowl and other gallinaceous birds\nn. any of several tools for straightening fibers\nn. ciliated comb-like swimming plate of a ctenophore"
+  },
+  {
+    "单词": "hair",
+    "英音": "[heə(r)]",
+    "美音": "[her]",
+    "释义(中文)": "n. 头发；毛发；些微\nadj. 毛发的；护理毛发的；用毛发制成的\nvt. 除去…的毛发\nvi. 生长毛发；形成毛状纤维",
+    "释义(英文)": "n. a covering for the body (or parts of it) consisting of a dense growth of threadlike structures (as on the human head); helps to prevent heat loss\nn. filamentous hairlike growth on a plant\nn. any of the cylindrical filaments characteristically growing from the epidermis of a mammal\nn. a filamentous projection or process on an organism"
+  },
+  {
+    "单词": "finish",
+    "英音": "[ˈfɪnɪʃ]",
+    "美音": "[ˈfɪnɪʃ]",
+    "释义(中文)": "n. 结束；完美；回味（葡萄酒）\nvt. 完成；结束；用完\nvi. 结束，终止；终结",
+    "释义(英文)": "n. the place designated as the end (as of a race or journey)\nn. designated event that concludes a contest (especially a race)\nn. the downfall of someone (as of persons on one side of a conflict)\nn. (wine tasting) the taste of a wine on the back of the tongue (as it is swallowed)"
+  },
+  {
+    "单词": "pack",
+    "英音": "[pæk]",
+    "美音": "[pæk]",
+    "释义(中文)": "n. 包装；一群；背包；包裹；一副\nvt. 包装；压紧；捆扎；挑选；塞满\nvi. 挤；包装货物；被包装；群集\n",
+    "释义(英文)": "n. a complete collection of similar things\nn. a convenient package or parcel (as of cigarettes or film)\nn. a group of hunting animals\nn. a cream that cleanses and tones the skin"
+  },
+  {
+    "单词": "schoolbag",
+    "英音": "[ˈskuːlbæɡ]",
+    "美音": "[ˈskuːlˌbæɡ]",
+    "释义(中文)": "n. 书包",
+    "释义(英文)": "n. a bag for carrying school books and supplies"
+  },
+  {
+    "单词": "hang up",
+    "英音": "[ˈhæŋ ʌp]",
+    "美音": "[hæŋ ʌp]",
+    "释义(中文)": "v. 挂断电话；挂机；悬挂；耽搁\n",
+    "释义(英文)": "n. an emotional preoccupation\nn. an unforeseen obstacle"
+  },
+  {
+    "单词": "take out",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 取出；带出(散步等)；除去(污点等)；取得(专卖权等)\n",
+    "释义(英文)": "n. prepared food that is intended to be eaten off of the premises\nn. (bridge) a bid that asks your partner to bid another suit\ns. of or involving food to be taken and eaten off the premises"
+  },
+  {
+    "单词": "trash",
+    "英音": "[træʃ]",
+    "美音": "[træʃ]",
+    "释义(中文)": "n. 垃圾；废物\nvt. 丢弃；修剪树枝",
+    "释义(英文)": "n. worthless people\nv. dispose of (something useless or old)"
+  },
+  {
+    "单词": "clean up",
+    "英音": "[ˈkliːn ʌp]",
+    "美音": "[ˈkliːn ʌp]",
+    "释义(中文)": "na. 收拾干净；【机械工程】改正；〔俚语〕赚厚利\n",
+    "释义(英文)": "n. (baseball) the fourth position in the batting order (usually filled by the best batter on the team)"
+  },
+  {
+    "单词": "understand",
+    "英音": "[ˌʌndəˈstænd]",
+    "美音": "[ˌʌndərˈstænd]",
+    "释义(中文)": "vi. 理解；懂得；熟悉\nvt. 理解；懂；获悉；推断；省略",
+    "释义(英文)": "v. know and comprehend the nature or meaning of\nv. perceive (an idea or situation) mentally\nv. make sense of a language\nv. believe to be the case"
+  }
+]

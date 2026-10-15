@@ -1,0 +1,541 @@
+[
+  {
+    "单词": "banana",
+    "英音": "[bəˈnɑːnə]",
+    "美音": "[bəˈnænə]",
+    "释义(中文)": "n. 香蕉；喜剧演员；大鹰钩鼻\n",
+    "释义(英文)": "n. any of several tropical and subtropical treelike herbs of the genus Musa having a terminal crown of large entire leaves and usually bearing hanging clusters of elongated fruits\nn. elongated crescent-shaped yellow fruit with soft sweet flesh"
+  },
+  {
+    "单词": "fruits",
+    "英音": "[fruːts]",
+    "美音": "[fruːts]",
+    "释义(中文)": "n. 水果；成果，收益（fruit的复数）；孽息\nv. 结果实（fruit的第三人称单数）",
+    "释义(英文)": "n the ripened reproductive body of a seed plant\nn an amount of a product\nn the consequence of some effort or action\nv cause to bear fruit\nv bear fruit"
+  },
+  {
+    "单词": "nut",
+    "英音": "[nʌt]",
+    "美音": "[nʌt]",
+    "释义(中文)": "n. 螺母，螺帽；坚果；难对付的人，难解的问题\nvi. 采坚果\n",
+    "释义(英文)": "n. usually large hard-shelled seed\nn. Egyptian goddess of the sky\nn. a small (usually square or hexagonal) metal block with internal screw thread to be fitted onto a bolt\nv. gather nuts"
+  },
+  {
+    "单词": "an",
+    "英音": "[ən]",
+    "美音": "[ən; æn]",
+    "释义(中文)": "art. 一（在元音音素前）",
+    "释义(英文)": "n an associate degree in nursing"
+  },
+  {
+    "单词": "apple",
+    "英音": "[ˈæp(ə)l]",
+    "美音": "[ˈæpl]",
+    "释义(中文)": "n. 苹果，苹果树，苹果似的东西；[美俚]炸弹，手榴弹，（棒球的）球；[美俚]人，家伙。",
+    "释义(英文)": "n. fruit with red or yellow or green skin and sweet to tart crisp whitish flesh\nn. native Eurasian tree widely cultivated in many varieties for its firm rounded edible fruits"
+  },
+  {
+    "单词": "orange",
+    "英音": "[ˈɒrɪndʒ]",
+    "美音": "[ˈɔrɪndʒ]",
+    "释义(中文)": "adj. 橙色的；橘色的\nn. 橙；橙色；桔子\n",
+    "释义(英文)": "n. round yellow to orange fruit of any of several citrus trees\nn. orange color or pigment; any of a range of colors between red and yellow\nn. any citrus tree bearing oranges\nn. any pigment producing the orange color"
+  },
+  {
+    "单词": "peach",
+    "英音": "[piːtʃ]",
+    "美音": "[piːtʃ]",
+    "释义(中文)": "n. 桃子；桃树；桃红色；受人喜欢的人（或物）\nadj. 桃色的；用桃子制成的\nvt. 告发\nvi. 告密\n",
+    "释义(英文)": "n. cultivated in temperate regions\nn. downy juicy fruit with sweet yellowish or whitish flesh"
+  },
+  {
+    "单词": "pear",
+    "英音": "[peə(r)]",
+    "美音": "[per]",
+    "释义(中文)": "n. [园艺] 梨树；梨子\n",
+    "释义(英文)": "n. sweet juicy gritty-textured fruit available in many varieties\nn. Old World tree having sweet gritty-textured juicy fruit; widely cultivated in many varieties"
+  },
+  {
+    "单词": "strawberry",
+    "英音": "[ˈstrɔːbəri]",
+    "美音": "[ˈstrɔːberi]",
+    "释义(中文)": "n. 草莓；草莓色",
+    "释义(英文)": "n. sweet fleshy red fruit\nn. any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry\nn. a soft red birthmark"
+  },
+  {
+    "单词": "sweet",
+    "英音": "[swiːt]",
+    "美音": "[swiːt]",
+    "释义(中文)": "n. 糖果；乐趣；芳香；宝贝\nadj. 甜的；悦耳的；芳香的；亲切的\n（俚）酷毙了\n",
+    "释义(英文)": "n. English phonetician; one of the founders of modern phonetics (1845-1912)\nn. a food rich in sugar\nn. the taste experience when sugar dissolves in the mouth\na. having or denoting the characteristic taste of sugar"
+  },
+  {
+    "单词": "lemon",
+    "英音": "[ˈlemən]",
+    "美音": "[ˈlemən]",
+    "释义(中文)": "adj. 柠檬色的\nn. 柠檬\n",
+    "释义(英文)": "n. yellow oval fruit with juicy acidic flesh\nn. a small evergreen tree that originated in Asia but is widely cultivated for its fruit\nn. a distinctive tart flavor characteristic of lemons\nn. an artifact (especially an automobile) that is defective or unsatisfactory"
+  },
+  {
+    "单词": "sour",
+    "英音": "[ˈsaʊə(r)]",
+    "美音": "[ˈsaʊər]",
+    "释义(中文)": "n. 酸味；苦事\nadj. 酸的；发酵的；刺耳的；酸臭的；讨厌的\nvt. 使变酸；使失望\nvi. 发酵；变酸；厌烦\n",
+    "释义(英文)": "n. a cocktail made of a liquor (especially whiskey or gin) mixed with lemon or lime juice and sugar\nn. the taste experience when vinegar or lemon juice is taken into the mouth\nv. go sour or spoil\nv. make sour or more sour"
+  },
+  {
+    "单词": "pineapple",
+    "英音": "[ˈpaɪnæp(ə)l]",
+    "美音": "[ˈpaɪnæpl]",
+    "释义(中文)": "n. [园艺] 菠萝；[园艺] 凤梨\nadj. 凤梨科的",
+    "释义(英文)": "n. a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics\nn. large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated"
+  },
+  {
+    "单词": "watermelon",
+    "英音": "[ˈwɔːtəmelən]",
+    "美音": "[ˈwɔːtərmelən]",
+    "释义(中文)": "n. 西瓜",
+    "释义(英文)": "n. an African melon\nn. large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp"
+  },
+  {
+    "单词": "they",
+    "英音": "[ðeɪ]",
+    "美音": "[ðeɪ]",
+    "释义(中文)": "pron. 他们；它们；她们",
+    "释义(英文)": "obj. The plural of he, she, or it. They is never used\n   adjectively, but always as a pronoun proper, and sometimes refers to\n   persons without an antecedent expressed."
+  },
+  {
+    "单词": "are",
+    "英音": "[ɑ:(r)]",
+    "美音": "[ər; ɑːr; er]",
+    "释义(中文)": "v. 是（be的第二人称单复数现在式）\nn. 公亩\n",
+    "释义(英文)": "n. a unit of surface area equal to 100 square meters"
+  },
+  {
+    "单词": "tomatoes",
+    "英音": "[təˈmɑːtəʊz]",
+    "美音": "[təˈmeɪtoʊz]",
+    "释义(中文)": "n. 蕃茄（tomato的复数形式）",
+    "释义(英文)": "n mildly acid red or yellow pulpy fruit eaten as a vegetable\nn native to South America; widely cultivated in many varieties"
+  },
+  {
+    "单词": "these",
+    "英音": "[ðiːz]",
+    "美音": "[ðiːz]",
+    "释义(中文)": "adj. 这些的\npron. 这些",
+    "释义(英文)": "pron. The plural of this. See This.\npl.  of This"
+  },
+  {
+    "单词": "those",
+    "英音": "[ðəʊz]",
+    "美音": "[ðoʊz]",
+    "释义(中文)": "adj. 那些的\npron. 那些（that的复数）",
+    "释义(英文)": "pron. The plural of that. See That."
+  },
+  {
+    "单词": "beans",
+    "英音": "[bi:nz]",
+    "美音": "[biːnz]",
+    "释义(中文)": "n. 豆类；豆子；黄豆（bean的复数）",
+    "释义(英文)": "n any of various edible seeds of plants of the family Leguminosae used for food\nn any of various seeds or fruits that are beans or resemble beans\nn any of various leguminous plants grown for their edible seeds and pods\nn informal terms for a human head\nv hit on the head, especially with a pitched baseball"
+  },
+  {
+    "单词": "cabbages",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 洋白菜，卷心菜( cabbage的名词复数 )",
+    "释义(英文)": "n any of various types of cabbage\nn informal terms for money\nn any of various cultivars of the genus Brassica oleracea grown for their edible leaves or flowers\nv make off with belongings of others"
+  },
+  {
+    "单词": "potatoes",
+    "英音": "[pəˈteɪtəʊz]",
+    "美音": "[pəˈtetoz]",
+    "释义(中文)": "n. [作物] 土豆（potato的复数形式）；[作物] 马铃薯",
+    "释义(英文)": "n an edible tuber native to South America; a staple food of Ireland\nn annual native to South America having underground stolons bearing edible starchy tubers; widely cultivated as a garden vegetable; vines are poisonous"
+  },
+  {
+    "单词": "carrots",
+    "英音": "[ˈkærəts]",
+    "美音": "[ˈkærəts]",
+    "释义(中文)": "n. [园艺] 胡萝卜；红萝卜（carrot的复数形式）",
+    "释义(英文)": "n deep orange edible root of the cultivated carrot plant\nn perennial plant widely cultivated as an annual in many varieties for its long conical orange edible roots; temperate and tropical regions\nn orange root; important source of carotene\nn promise of reward as in \"carrot and stick\"; "
+  },
+  {
+    "单词": "help",
+    "英音": "[help]",
+    "美音": "[help]",
+    "释义(中文)": "n. 帮助；补救办法；帮忙者；有益的东西\nvt. 帮助；促进；治疗；补救\nvi. 帮助；有用；招待\n",
+    "释义(英文)": "v. give help or assistance; be of service\nv. improve the condition of\nv. be of use\nv. contribute to the furtherance of"
+  },
+  {
+    "单词": "you",
+    "英音": "[ju]",
+    "美音": "[juː; jə]",
+    "释义(中文)": "pron. 你；你们\n",
+    "释义(英文)": "dat. & obj. The pronoun of the second person, in the nominative,\n   dative, and objective case, indicating the person or persons addressed.\n   See the Note under Ye."
+  },
+  {
+    "单词": "mushrooms",
+    "英音": "[ˈmʌʃrʊmz]",
+    "美音": "[ˈmʌʃrʊmz]",
+    "释义(中文)": "n. 蘑菇；蕈类（mushroom的复数形式）\nv. 采蘑菇；蘑菇般地迅速增长（mushroom的第三人称单数形式）",
+    "释义(英文)": "n common name for an edible agaric (contrasting with the inedible toadstool)\nn mushrooms and related fleshy fungi (including toadstools, puffballs, morels, coral fungi, etc.)\nn any of various fleshy fungi of the subdivision Basidiomycota consisting of a cap at the end of a stem arising from an underground mycelium\nn a large cloud of rubble and dust shaped like a mushroom and rising into the sky after an explosion (especially of a nuclear bomb)\nn fleshy body of any of numerous edible fungi\nv pick or gather mushrooms\nv grow and spread fast"
+  },
+  {
+    "单词": "onions",
+    "英音": "[ˈʌnjənz]",
+    "美音": "[ˈʌnjənz]",
+    "释义(中文)": "n. [园艺] 洋葱（onion的复数）\nv. 因洋葱使掉泪（onion的单三形式）",
+    "释义(英文)": "n the bulb of an onion plant\nn bulbous plant having hollow leaves cultivated worldwide for its rounded edible bulb\nn an aromatic flavorful vegetable"
+  },
+  {
+    "单词": "how many",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 多少\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "birds",
+    "英音": "[bɝdz]",
+    "美音": "[bɜːrdz]",
+    "释义(中文)": "n. [鸟] 鸟类；禽（bird的复数）\nv. 打鸟；观察研究野鸟；起哄（bird的三单形式）",
+    "释义(英文)": "n warm-blooded egg-laying vertebrates characterized by feathers and forelimbs modified as wings\nn the flesh of a bird or fowl (wild or domestic) used as food\nn informal terms for a (young) woman\nn a cry or noise made to express displeasure or contempt\nn badminton equipment consisting of a ball of cork or rubber with a crown of feathers\nv watch and study birds in their natural habitat"
+  },
+  {
+    "单词": "there",
+    "英音": "[ðeə(r)]",
+    "美音": "[ðer]",
+    "释义(中文)": "n. 那个地方\nadv. 在那里；在那边；在那点上\nint. 你瞧",
+    "释义(英文)": "n. a location other than here; that place\nr. in or at that place\nr. in that matter\nr. to or toward that place; away from the speaker"
+  },
+  {
+    "单词": "eggs",
+    "英音": "[eɡz]",
+    "美音": "[eɡz]",
+    "释义(中文)": "n. [禽] 蛋（egg的复数形式）；鸡蛋",
+    "释义(英文)": "n oval reproductive body of a fowl (especially a hen) used as food\nn animal reproductive body consisting of an ovum or embryo together with nutritive and protective envelopes; especially the thin-shelled reproductive body laid by e.g. female birds\nn oval reproductive body of a fowl (especially a hen) used as food\nn one of the two male reproductive glands that produce spermatozoa and secrete androgens\nv throw eggs at\nv coat with beaten egg"
+  },
+  {
+    "单词": "flowers",
+    "英音": "[ˈflaʊəz]",
+    "美音": "[ˈflaʊərz]",
+    "释义(中文)": "[植] 花（flower的复数）\n",
+    "释义(英文)": "n a plant cultivated for its blooms or blossoms\nn reproductive organ of angiosperm plants especially one having showy or colorful parts\nn the period of greatest prosperity or productivity\nv produce or yield flowers"
+  },
+  {
+    "单词": "one",
+    "英音": "[wʌn]",
+    "美音": "[wʌn]",
+    "释义(中文)": "pron. 一个人；任何人\nadj. 一的；唯一的\nn. 一\nnum. 一；一个\n",
+    "释义(英文)": "n. the smallest whole number or a numeral representing this number\nn. a single person or thing\ns. used of a single unit or thing; not two or more\ns. having the indivisible character of a unit"
+  },
+  {
+    "单词": "two",
+    "英音": "[tuː]",
+    "美音": "[tuː]",
+    "释义(中文)": "num. 二\nn. 两个\nadj. 两个的",
+    "释义(英文)": "n. the cardinal number that is the sum of one and one or a numeral representing this number\ns. being one more than one"
+  },
+  {
+    "单词": "three",
+    "英音": "[θriː]",
+    "美音": "[θriː]",
+    "释义(中文)": "num. 三\nn. 三，三个\nadj. 三的，三个的",
+    "释义(英文)": "n. the cardinal number that is the sum of one and one and one\ns. being one more than two"
+  },
+  {
+    "单词": "five",
+    "英音": "[faɪv]",
+    "美音": "[faɪv]",
+    "释义(中文)": "num. 五，五个\nn. 五，五个；五美元钞票\nadj. 五的；五个的\n",
+    "释义(英文)": "n. the cardinal number that is the sum of four and one\ns. being one more than four"
+  },
+  {
+    "单词": "four",
+    "英音": "[fɔː(r)]",
+    "美音": "[fɔːr]",
+    "释义(中文)": "num. 四；四个\nadj. 四的；四个的\n",
+    "释义(英文)": "n. the cardinal number that is the sum of three and one\ns. being one more than three"
+  },
+  {
+    "单词": "big",
+    "英音": "[bɪɡ]",
+    "美音": "[bɪɡ]",
+    "释义(中文)": "adj. 大的；重要的；量大的\nadv. 大量地；顺利；夸大地\n",
+    "释义(英文)": "s. significant\ns. loud and firm\ns. conspicuous in position or importance\ns. prodigious"
+  },
+  {
+    "单词": "crocodile",
+    "英音": "[ˈkrɒkədaɪl]",
+    "美音": "[ˈkrɑːkədaɪl]",
+    "释义(中文)": "n. 鳄鱼",
+    "释义(英文)": "n. large voracious aquatic reptile having a long snout with massive jaws and sharp teeth and a body covered with bony plates; of sluggish tropical waters"
+  },
+  {
+    "单词": "small",
+    "英音": "[smɔːl]",
+    "美音": "[smɔːl]",
+    "释义(中文)": "n. 小件物品；矮小的人\nadj. 少的，小的；微弱的；几乎没有的；不重要的；幼小的\nadv. 小小地；卑鄙地\n",
+    "释义(英文)": "n. the slender part of the back\nn. a garment size for a small person\na. limited or below average in number or quantity or magnitude or extent\ns. slight or limited; especially in degree or intensity or scope"
+  },
+  {
+    "单词": "six",
+    "英音": "[sɪks]",
+    "美音": "[sɪks]",
+    "释义(中文)": "num. 六，六个\nn. 六，六个\n",
+    "释义(英文)": "n. the cardinal number that is the sum of five and one\ns. denoting a quantity consisting of six items or units"
+  },
+  {
+    "单词": "seven",
+    "英音": "[ˈsev(ə)n]",
+    "美音": "[ˈsev(ə)n]",
+    "释义(中文)": "num. 七个，七\nn. 七个，七\nadj. 七的；七个的\n",
+    "释义(英文)": "n. the cardinal number that is the sum of six and one\ns. being one more than six"
+  },
+  {
+    "单词": "eight",
+    "英音": "[eɪt]",
+    "美音": "[eɪt]",
+    "释义(中文)": "num. 八；八个；第八\nn. 八字形\nadj. 八的",
+    "释义(英文)": "n. the cardinal number that is the sum of seven and one\ns. being one more than seven"
+  },
+  {
+    "单词": "nine",
+    "英音": "[naɪn]",
+    "美音": "[naɪn]",
+    "释义(中文)": "n. 九，九个\nnum. 九；九个\nadj. 九的，九个的\n",
+    "释义(英文)": "n. the cardinal number that is the sum of eight and one\ns. denoting a quantity consisting of one more than eight and one less than ten"
+  },
+  {
+    "单词": "ten",
+    "英音": "[ten]",
+    "美音": "[ten]",
+    "释义(中文)": "num. 十个，十\n",
+    "释义(英文)": "n. the cardinal number that is the sum of nine and one; the base of the decimal system\ns. being one more than nine"
+  },
+  {
+    "单词": "color",
+    "英音": "[ˈkʌlə(r)]",
+    "美音": "[ˈkʌlər]",
+    "释义(中文)": "n. 颜色；肤色；颜料；脸色\nvt. 粉饰；给...涂颜色；歪曲\nvi. 变色；获得颜色",
+    "释义(英文)": "n. a visual attribute of things that results from the light they emit or transmit or reflect\nn. interest and variety and intensity\nn. the timbre of a musical sound"
+  },
+  {
+    "单词": "brown",
+    "英音": "[braʊn]",
+    "美音": "[braʊn]",
+    "释义(中文)": "n. 褐色，棕色\nadj. 棕色的，褐色的；太阳晒黑的\nvt. 使变成褐色\nvi. 变成褐色\n",
+    "释义(英文)": "n. an orange of low brightness and saturation\nn. Scottish botanist who first observed the movement of small particles in fluids now known a Brownian motion (1773-1858)\nn. abolitionist who was hanged after leading an unsuccessful raid at Harper's Ferry, Virginia (1800-1859)\nv. fry in a pan until it changes color"
+  },
+  {
+    "单词": "black",
+    "英音": "[blæk]",
+    "美音": "[blæk]",
+    "释义(中文)": "n. 黑色；黑人；黑颜料\nadj. 黑色的；黑人的；邪恶的\nvt. 使变黑；把鞋油等涂在…上；把（眼眶）打成青肿\nvi. 变黑\n",
+    "释义(英文)": "n. the quality or state of the achromatic color of least lightness (bearing the least resemblance to white)\nn. British chemist who identified carbon dioxide and who formulated the concepts of specific heat and latent heat (1728-1799)\nn. popular child actress of the 1930's (born in 1928)\nn. a person with dark skin who comes from Africa (or whose ancestors came from Africa)"
+  },
+  {
+    "单词": "red",
+    "英音": "[red]",
+    "美音": "[red]",
+    "释义(中文)": "n. 红色，红颜料；赤字\nadj. 红色的；红肿的，充血的",
+    "释义(英文)": "n. red color or pigment; the chromatic color resembling the hue of blood\nn. a tributary of the Mississippi River that flows eastward from Texas along the southern boundary of Oklahoma and through Louisiana\ns. of a color at the end of the color spectrum (next to orange); resembling the color of blood or cherries or tomatoes or rubies"
+  },
+  {
+    "单词": "blue",
+    "英音": "[bluː]",
+    "美音": "[bluː]",
+    "释义(中文)": "adj. 蓝色的；沮丧的，忧郁的；下流的\nn. 蓝色；[复数]（美国海、陆、空三军穿的）蓝色制服；蓝颜料；[the blue(s)][用作单数或复数]布鲁斯（歌曲）（一种伤感的美国黑人民歌\nvi. 变成蓝色，呈蓝色\nvt. 把…染成蓝色；使成蓝色；给…用上蓝剂；用上蓝剂于\n",
+    "释义(英文)": "n. blue color or pigment; resembling the color of the clear sky in the daytime\nn. blue clothing\nn. any organization or party whose uniforms or badges are blue\nn. any of numerous small butterflies of the family Lycaenidae"
+  },
+  {
+    "单词": "green",
+    "英音": "[ɡriːn]",
+    "美音": "[ɡriːn]",
+    "释义(中文)": "n. 绿色；青春\nadj. 绿色的；青春的\nvt. 使…变绿色\nvi. 变绿色",
+    "释义(英文)": "n. green color or pigment; resembling the color of growing grass\nn. United States labor leader who was president of the American Federation of Labor from 1924 to 1952 and who led the struggle with the Congress of Industrial Organizations (1873-1952)\nn. an environmentalist who belongs to the Green Party\nn. a river that rises in western Wyoming and flows southward through Utah to become a tributary of the Colorado River"
+  },
+  {
+    "单词": "yellow",
+    "英音": "[ˈjeləʊ]",
+    "美音": "[ˈjeloʊ]",
+    "释义(中文)": "n. 黄色；黄种人；黄色颜料\nadj. 黄色的；黄皮肤的\nvt. 使变黄或发黄\nvi. 变黄或发黄",
+    "释义(英文)": "n. yellow color or pigment; the chromatic color resembling the hue of sunflowers or ripe lemons\nv. turn yellow\ns. of the color intermediate between green and orange in the color spectrum; of something resembling the color of an egg yolk\ns. changed to a yellowish color by age"
+  },
+  {
+    "单词": "white",
+    "英音": "[waɪt]",
+    "美音": "[waɪt]",
+    "释义(中文)": "n. 白色；洁白；白种人\nadj. 白色的；白种的；纯洁的",
+    "释义(英文)": "n. a member of the Caucasoid race\nn. the quality or state of the achromatic color of greatest lightness (bearing the least resemblance to black)\nn. United States jurist appointed chief justice of the United States Supreme Court in 1910 by President Taft; noted for his work on antitrust legislation (1845-1921)\nn. Australian writer (1912-1990)"
+  },
+  {
+    "单词": "many",
+    "英音": "[ˈmeni]",
+    "美音": "[ˈmeni]",
+    "释义(中文)": "pron. 许多；许多人\nadj. 许多的\n",
+    "释义(英文)": "a. a quantifier that can be used with count nouns and is often preceded by `as' or `too' or `so' or `that'; amounting to a large but indefinite number"
+  },
+  {
+    "单词": "thank you",
+    "英音": "[ˈθæŋk juː]",
+    "美音": "[ˈθæŋk juː]",
+    "释义(中文)": "int. （表示感激）谢谢你；（接受好意）好；（婉言谢绝）不用了\nn. 感谢；谢意；酬谢；谢辞\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "tree",
+    "英音": "[triː]",
+    "美音": "[triː]",
+    "释义(中文)": "n. 树；木料；树状物\nvt. 把...赶上树\nvi. 爬上树；逃上树\n",
+    "释义(英文)": "n. a tall perennial woody plant having a main trunk and branches forming a distinct elevated crown; includes both gymnosperms and angiosperms\nn. a figure that branches from a single root\nn. English actor and theatrical producer noted for his lavish productions of Shakespeare (1853-1917)\nv. plant with trees"
+  },
+  {
+    "单词": "can",
+    "英音": "[kən; kæn]",
+    "美音": "[kən; kæn]",
+    "释义(中文)": "aux. 能； 能够； 可以； 可能\nn. 罐头； （用金属或塑料制作的）容器； （马口铁或其他金属制作的）食品罐头\nvt. 将…装入密封罐中保存",
+    "释义(英文)": "n. airtight sealed metal container for food or drink or paint etc.\nn. the quantity contained in a can\nn. a buoy with a round bottom and conical top\nv. preserve in a can or tin"
+  },
+  {
+    "单词": "climb",
+    "英音": "[klaɪm]",
+    "美音": "[klaɪm]",
+    "释义(中文)": "n. 爬；攀登\nvi. 爬；攀登；上升\nvt. 爬；攀登；上升",
+    "释义(英文)": "n. an event that involves rising to a higher point (as in altitude or temperature or intensity etc.)\nn. the act of climbing something\nv. go upward with gradual or continuous progress\nv. move with difficulty, by grasping"
+  },
+  {
+    "单词": "see",
+    "英音": "[siː]",
+    "美音": "[siː]",
+    "释义(中文)": "vi. 看；看见；领会\nvt. 看见；理解；领会\n",
+    "释义(英文)": "n. the seat within a bishop's diocese where his cathedral is located\nv. perceive by sight or have the power to perceive by sight\nv. deem to be\nv. be careful or certain to do something; make certain of something"
+  },
+  {
+    "单词": "our",
+    "英音": "[ɑː(r)]",
+    "美音": "[ɑːr]",
+    "释义(中文)": "pron. 我们的",
+    "释义(英文)": "pl.  of I\npossessive pron. Of or pertaining to us; belonging to us; as, our\n   country; our rights; our troops; our endeavors. See I."
+  },
+  {
+    "单词": "house",
+    "英音": "[haʊs]",
+    "美音": "[haʊs]",
+    "释义(中文)": "n. 住宅；家庭；机构；议会；某种用途的建筑物\nvt. 覆盖；给…房子住；把…储藏在房内\nvi. 住\n",
+    "释义(英文)": "n. a dwelling that serves as living quarters for one or more families\nn. the members of a religious community living together\nn. the audience gathered together in a theatre or cinema\nn. an official assembly having legislative powers"
+  },
+  {
+    "单词": "read",
+    "英音": "[riːd]",
+    "美音": "[riːd]",
+    "释义(中文)": "n. 阅读；读物\nadj. 有学问的\nvi. 读；读起来\nvt. 阅读；读懂，理解\n",
+    "释义(英文)": "n. something that is read\nv. interpret something that is written or printed\nv. have or contain a certain wording or form\nv. look at, interpret, and say out loud something that is written or printed"
+  },
+  {
+    "单词": "run",
+    "英音": "[rʌn]",
+    "美音": "[rʌn]",
+    "释义(中文)": "n. 奔跑；赛跑；趋向；奔跑的路程\nvt. 管理，经营；运行；参赛\nvi. 经营；奔跑；运转\n",
+    "释义(英文)": "n. a score in baseball made by a runner touching all four bases safely\nn. (American football) a play in which a player attempts to carry the ball through or past the opposing team\nn. a regular trip\nn. the act of running; traveling on foot at a fast pace"
+  },
+  {
+    "单词": "walk",
+    "英音": "[wɔːk]",
+    "美音": "[wɔːk]",
+    "释义(中文)": "n. 步行，走；散步\nvi. 走，步行；散步\nvt. 散步；走过\n",
+    "释义(英文)": "n. the act of traveling by foot\nn. manner of walking\nn. the act of walking somewhere\nn. a path set aside for walking"
+  },
+  {
+    "单词": "jump",
+    "英音": "[dʒʌmp]",
+    "美音": "[dʒʌmp]",
+    "释义(中文)": "n. 跳跃；暴涨；惊跳\nvt. 跳跃；使跳跃；跳过；突升\nvi. 跳跃；暴涨；猛增\n",
+    "释义(英文)": "n. a sudden and decisive increase\nn. (film) an abrupt transition from one scene to another\nn. descent with a parachute\nn. the act of jumping; propelling yourself off the ground"
+  },
+  {
+    "单词": "speak",
+    "英音": "[spiːk]",
+    "美音": "[spiːk]",
+    "释义(中文)": "vi. 说话；演讲；表明；陈述\nvt. 讲话；发言；讲演",
+    "释义(英文)": "v. use language\nv. make a characteristic or natural sound"
+  },
+  {
+    "单词": "but",
+    "英音": "[bət]",
+    "美音": "[bət; bʌt]",
+    "释义(中文)": "conj. 但是；而是；然而\nadv. 仅仅，只\nprep. 除…以外\n",
+    "释义(英文)": "r and nothing more"
+  },
+  {
+    "单词": "listen",
+    "英音": "[ˈlɪs(ə)n]",
+    "美音": "[ˈlɪsn]",
+    "释义(中文)": "vi. 听，倾听；听从，听信\nn. 听，倾听",
+    "释义(英文)": "v. hear with intention\nv. listen and pay attention"
+  },
+  {
+    "单词": "sing",
+    "英音": "[sɪŋ]",
+    "美音": "[sɪŋ]",
+    "释义(中文)": "n. 演唱；鸣声；呼啸声\nvt. 唱；用诗赞颂；唱着使\nvi. 唱歌；歌颂；鸣叫；呼号\n",
+    "释义(英文)": "v. deliver by singing\nv. produce tones with the voice\nv. to make melodious sounds"
+  },
+  {
+    "单词": "dance",
+    "英音": "[dɑːns]",
+    "美音": "[dæns]",
+    "释义(中文)": "n. 舞蹈；舞会；舞曲\nadj. 舞蹈的；用于跳舞的\nvt. 跳舞；使跳跃\nvi. 跳舞；跳跃；飘扬\n",
+    "释义(英文)": "n. an artistic form of nonverbal communication\nn. a party of people assembled for dancing\nn. a party for social dancing\nv. move in a graceful and rhythmical way"
+  },
+  {
+    "单词": "draw",
+    "英音": "[drɔː]",
+    "美音": "[drɔː]",
+    "释义(中文)": "n. 平局；抽签\nvi. 拉；拖\nvt. 画；拉；吸引\n",
+    "释义(英文)": "n. a gully that is shallower than a ravine\nn. the finish of a contest in which the score is tied and the winner is undecided\nn. anything (straws or pebbles etc.) taken or chosen at random\nn. a playing card or cards dealt or taken from the pack"
+  },
+  {
+    "单词": "swim",
+    "英音": "[swɪm]",
+    "美音": "[swɪm]",
+    "释义(中文)": "n. 游泳；漂浮；眩晕\nadj. 游泳时穿戴的\nvi. 游泳；漂浮；浸；眩晕\nvt. 游过；使浮起",
+    "释义(英文)": "v. travel through water\nv. be dizzy or giddy\nv. be covered with or submerged in a liquid\nv. move as if gliding through water"
+  },
+  {
+    "单词": "write",
+    "英音": "[raɪt]",
+    "美音": "[raɪt]",
+    "释义(中文)": "vi. 写，写字；写作，作曲；写信\nvt. 写，书写；写信给；著述",
+    "释义(英文)": "v. produce a literary work\nv. communicate or express by writing\nv. communicate (with) in writing\nv. communicate by letter"
+  },
+  {
+    "单词": "please",
+    "英音": "[pliːz]",
+    "美音": "[pliːz]",
+    "释义(中文)": "int. 请（礼貌用语）\nvt. 使喜欢；使高兴，使满意\nvi. 讨人喜欢；令人高兴",
+    "释义(英文)": "v. give pleasure to or be pleasing to\nv. be the will of or have the will (to)\nv. give satisfaction\nr. used in polite request"
+  },
+  {
+    "单词": "candy",
+    "英音": "[ˈkændi]",
+    "美音": "[ˈkændi]",
+    "释义(中文)": "n. 糖果（等于sweets）；冰糖（等于sugar candy，rock candy）；毒品\nadj. 新潮的（服饰）；甜言蜜语的\nvt. 用糖煮；使结晶为砂糖；美化\nvi. 糖煮；成为结晶",
+    "释义(英文)": "n. a rich sweet made of flavored sugar and often combined with fruit or nuts"
+  },
+  {
+    "单词": "cookies",
+    "英音": "[ˈkʊkiz]",
+    "美音": "[ˈkʊkiz]",
+    "释义(中文)": "n. 饼干",
+    "释义(英文)": "n any of various small flat sweet cakes (`biscuit' is the British term)\nn the cook on a ranch or at a camp\nn a short line of text that a web site puts on your computer's hard drive when you access the web site\nn the cook on a ranch or at a camp\nn any of various small flat sweet cakes (`biscuit' is the British term)"
+  },
+  {
+    "单词": "monkey",
+    "英音": "[ˈmʌŋki]",
+    "美音": "[ˈmʌŋki]",
+    "释义(中文)": "n. 猴子；顽童\nvi. 胡闹；捣蛋\nvt. 嘲弄",
+    "释义(英文)": "n. any of various long-tailed primates (excluding the prosimians)"
+  }
+]

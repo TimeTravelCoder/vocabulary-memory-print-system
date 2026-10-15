@@ -1,0 +1,478 @@
+[
+  {
+    "单词": "Hello.",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "int. 喂；哈罗\nn. 表示问候， 惊奇或唤起注意时的用语\n",
+    "释义(英文)": "n. an expression of greeting"
+  },
+  {
+    "单词": "I'm",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "abbr. 我是（缩写）",
+    "释义(英文)": " A contraction of I am."
+  },
+  {
+    "单词": "I am",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 我是；这就是我；唯我是问",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "Hi.",
+    "英音": "[haɪ]",
+    "美音": "[haɪ]",
+    "释义(中文)": " 可移动磁盘",
+    "释义(英文)": "n an expression of greeting\nn a state in the United States in the central Pacific on the Hawaiian Islands"
+  },
+  {
+    "单词": "Good morning!",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "int. （上午见面时用语，非正式场合常说 Morning）早上好\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "Good afternoon!",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "下午好![午后见面时的招呼语]；再见![午后分别时的招呼语]",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "Good evening!",
+    "英音": "[ˌɡʊd ˈiːvnɪŋ]",
+    "美音": "[ˌɡʊd ˈiːvnɪŋ]",
+    "释义(中文)": "int. （晚上见面时用语）晚上好\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "Woof!",
+    "英音": "[wʊf]",
+    "美音": "[wʊf]",
+    "释义(中文)": "n. 纬线；织物；低吠声\nvi. 发出低吠声；发低音",
+    "释义(英文)": "n. the yarn woven across the warp yarn in weaving"
+  },
+  {
+    "单词": "Good night!",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "un. 连夜；告辞；晚上好\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "morning",
+    "英音": "[ˈmɔːnɪŋ]",
+    "美音": "[ˈmɔːrnɪŋ]",
+    "释义(中文)": "n. 早晨；黎明；初期",
+    "释义(英文)": "n. the time period between dawn and noon"
+  },
+  {
+    "单词": "afternoon",
+    "英音": "[ˌɑːftəˈnuːn]",
+    "美音": "[ˌæftərˈnuːn]",
+    "释义(中文)": "n. 午后，下午",
+    "释义(英文)": "n. the part of the day between noon and evening"
+  },
+  {
+    "单词": "evening",
+    "英音": "[ˈiːvnɪŋ]",
+    "美音": "[ˈiːvnɪŋ]",
+    "释义(中文)": "n. 晚上；傍晚；（联欢性的）晚会；后期\nadj. 在晚上的；为晚上的；晚上用的\nint. 晚上好（等于good evening）",
+    "释义(英文)": "n. the latter part of the day (the period of decreasing daylight from late afternoon until nightfall)\nn. a later concluding time period\nn. the early part of night (from dinner until bedtime) spent in a special way"
+  },
+  {
+    "单词": "night",
+    "英音": "[naɪt]",
+    "美音": "[naɪt]",
+    "释义(中文)": "n. 夜晚，晚上；黑暗，黑夜\nadj. 夜晚的，夜间的",
+    "释义(英文)": "n. the time after sunset and before sunrise while it is dark outside\nn. a period of ignorance or backwardness or gloom\nn. the period spent sleeping\nn. the dark part of the diurnal cycle considered a time unit"
+  },
+  {
+    "单词": "Miss",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 女士，小姐，年轻未婚女子\nvt. 错过，想念，缺（勤）",
+    "释义(英文)": "n. a failure to hit (or meet or find etc)\nn. a form of address for an unmarried woman\nv. fail to perceive or to catch with the senses or the mind\nv. feel or suffer from the lack of"
+  },
+  {
+    "单词": "Miss Li",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "mum",
+    "英音": "[mʌm]",
+    "美音": "[mʌm]",
+    "释义(中文)": "adj. 沉默的\nn. 妈妈（口语）；沉默；菊花\nvi. 演哑剧\nint. 别说话",
+    "释义(英文)": "n. secrecy\ns. failing to speak or communicate etc when expected to"
+  },
+  {
+    "单词": "dad",
+    "英音": "[dæd]",
+    "美音": "[dæd]",
+    "释义(中文)": "n. 爸爸；爹爹\n",
+    "释义(英文)": "n. an informal term for a father; probably derived from baby talk"
+  },
+  {
+    "单词": "this",
+    "英音": "[ðɪs]",
+    "美音": "[ðɪs]",
+    "释义(中文)": "adj. 这；本；这个；今\npron. 这；这个；这里\nadv. 这样地；这么\n",
+    "释义(英文)": "pron. & a. As a demonstrative pronoun, this denotes something\n   that is present or near in place or time, or something just mentioned,\n   or that is just about to be mentioned.\npron. & a. As an adjective, this has the same demonstrative\n   force as the pronoun, but is followed by a noun; as, this book; this\n   way to town."
+  },
+  {
+    "单词": "is",
+    "英音": "[ɪz]",
+    "美音": "[ɪz]",
+    "释义(中文)": "v. 是（be的三单形式）\nn. 存在",
+    "释义(英文)": "v have the quality of being; (copula, used with an adjective or a predicate noun)\nv be identical to; be someone or something\nv occupy a certain position or area; be somewhere\nv have an existence, be extant\nv happen, occur, take place; this was during the visit to my parents' house\"\nv be identical or equivalent to\nv form or compose\nv work in a specific place, with a specific subject, or in a specific function\nv represent, as of a character on stage\nv spend or use time\nv have life, be alive\nv to remain unmolested, undisturbed, or uninterrupted -- used only in infinitive form\nv be priced at"
+  },
+  {
+    "单词": "This is ...",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 这是；这位是；我是",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "Goodbye!",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "int. 再见\nn. 告别；告别辞\n",
+    "释义(英文)": "n a farewell remark"
+  },
+  {
+    "单词": "Mr",
+    "英音": "[ˈmɪstə(r)]",
+    "美音": "[ˈmɪstər]",
+    "释义(中文)": "abbr. 先生（Mister）",
+    "释义(英文)": "n a form of address for a man"
+  },
+  {
+    "单词": "Mr Green",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "Is this ...?",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "a",
+    "英音": "[ə]",
+    "美音": "[ə; eɪ]",
+    "释义(中文)": "n. 字母A；第一流的；学业成绩达最高标准的评价符号\nabbr. [物]安（ampere）",
+    "释义(英文)": "n. the 1st letter of the Roman alphabet\nn. the blood group whose red cells carry the A antigen"
+  },
+  {
+    "单词": "teddy",
+    "英音": "[ˈtedi]",
+    "美音": "[ˈtedi]",
+    "释义(中文)": "n. 连衫衬裤；泰迪玩具熊\n",
+    "释义(英文)": "n. plaything consisting of a child's toy bear (usually plush and stuffed with soft materials)"
+  },
+  {
+    "单词": "box",
+    "英音": "[bɒks]",
+    "美音": "[bɑːks]",
+    "释义(中文)": "n. 箱，盒子；包厢；一拳\nvt. 拳击；装…入盒中；打耳光\nvi. 拳击\n",
+    "释义(英文)": "n. a (usually rectangular) container; may have a lid\nn. private area in a theater or grandstand where a small group can watch the performance\nn. the quantity contained in a box\nn. a rectangular drawing"
+  },
+  {
+    "单词": "yes",
+    "英音": "[jes]",
+    "美音": "[jes]",
+    "释义(中文)": "n. 是（表示肯定）\nadv. 是, 是的",
+    "释义(英文)": "n. an affirmative"
+  },
+  {
+    "单词": "bag",
+    "英音": "[bæɡ]",
+    "美音": "[bæɡ]",
+    "释义(中文)": "n. 袋；猎获物；（俚）一瓶啤酒\nvt. 猎获；把…装入袋中；占据，私吞；使膨大\nvi. 松垂",
+    "释义(英文)": "n. a flexible container with a single opening\nn. the quantity of game taken in a particular period (usually by one person)\nn. a container used for carrying money and small personal items or accessories (especially by women)\nn. the quantity that a bag will hold"
+  },
+  {
+    "单词": "no",
+    "英音": "[nəʊ]",
+    "美音": "[noʊ]",
+    "释义(中文)": "adv. 不\nadj. 没有；不是\nn. 不；否决票\nabbr. 数字（number）；元素锘（nobelium）的符号\n",
+    "释义(英文)": "n. a negative\na. quantifier; used with either mass nouns or plural count nouns for indicating a complete or almost complete lack or zero quantity of\nr. referring to the degree to which a certain quality is present\nr. not in any degree or manner; not at all"
+  },
+  {
+    "单词": "puppy",
+    "英音": "[ˈpʌpi]",
+    "美音": "[ˈpʌpi]",
+    "释义(中文)": "n. 小狗，幼犬",
+    "释义(英文)": "n. a young dog\nn. an inexperienced young person"
+  },
+  {
+    "单词": "cherry",
+    "英音": "[ˈtʃeri]",
+    "美音": "[ˈtʃeri]",
+    "释义(中文)": "n. 樱桃；樱桃树；如樱桃的鲜红色；处女膜，处女\n",
+    "释义(英文)": "n. wood of any of various cherry trees especially the black cherry\nn. any of numerous trees and shrubs producing a small fleshy round fruit with a single hard stone; many also produce a valuable hardwood\nn. a red fruit with a single hard stone"
+  },
+  {
+    "单词": "please",
+    "英音": "[pliːz]",
+    "美音": "[pliːz]",
+    "释义(中文)": "int. 请（礼貌用语）\nvt. 使喜欢；使高兴，使满意\nvi. 讨人喜欢；令人高兴",
+    "释义(英文)": "v. give pleasure to or be pleasing to\nv. be the will of or have the will (to)\nv. give satisfaction\nr. used in polite request"
+  },
+  {
+    "单词": "banana",
+    "英音": "[bəˈnɑːnə]",
+    "美音": "[bəˈnænə]",
+    "释义(中文)": "n. 香蕉；喜剧演员；大鹰钩鼻\n",
+    "释义(英文)": "n. any of several tropical and subtropical treelike herbs of the genus Musa having a terminal crown of large entire leaves and usually bearing hanging clusters of elongated fruits\nn. elongated crescent-shaped yellow fruit with soft sweet flesh"
+  },
+  {
+    "单词": "peach",
+    "英音": "[piːtʃ]",
+    "美音": "[piːtʃ]",
+    "释义(中文)": "n. 桃子；桃树；桃红色；受人喜欢的人（或物）\nadj. 桃色的；用桃子制成的\nvt. 告发\nvi. 告密\n",
+    "释义(英文)": "n. cultivated in temperate regions\nn. downy juicy fruit with sweet yellowish or whitish flesh"
+  },
+  {
+    "单词": "grape",
+    "英音": "[ɡreɪp]",
+    "美音": "[ɡreɪp]",
+    "释义(中文)": "n. 葡萄；葡萄酒；葡萄树；葡萄色\n",
+    "释义(英文)": "n. any of various juicy fruit of the genus Vitis with green or purple skins; grow in clusters\nn. any of numerous woody vines of genus Vitis bearing clusters of edible berries"
+  },
+  {
+    "单词": "OK.",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 确定；好；击",
+    "释义(英文)": "k an endorsement\nv give sanction to\ns being satisfactory or in satisfactory condition\nr in a satisfactory or adequate manner; (`alright' is a nonstandard variant of `all right')"
+  },
+  {
+    "单词": "Thank you.",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "int. （表示感激）谢谢你；（接受好意）好；（婉言谢绝）不用了\nn. 感谢；谢意；酬谢；谢辞\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "Look!",
+    "英音": "[lʊk]",
+    "美音": "[lʊk]",
+    "释义(中文)": "n. 看；外观；查找；瞧\nv. 看；寻找；瞧；注意\nlinkv. 显得；似乎；看来好像\nint. 听我说\n",
+    "释义(英文)": "n. the act of directing the eyes toward something and perceiving it visually\nn. physical appearance\nv. perceive with attention; direct one's gaze towards\nv. give a certain impression or have a certain outward aspect"
+  },
+  {
+    "单词": "Ha! Ha!",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. (造在花园界沟里不遮挡视线的)隐篱；哈哈的笑声；哈哈的笑声；〔美俚〕(对某人的)嘲笑\nint. 哈哈；哈哈!〔表示嘲笑等〕\n",
+    "释义(英文)": "n a loud laugh that sounds like a horse neighing\nn a ditch with one side being a retaining wall; used to divide lands without defacing the landscape"
+  },
+  {
+    "单词": "look at",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 看；考虑\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "my",
+    "英音": "[maɪ]",
+    "美音": "[maɪ]",
+    "释义(中文)": "pron. 我的\nint. 哎呀（表示惊奇等）；喔唷\n",
+    "释义(英文)": "a. Of or belonging to me; -- used always attributively; as, my\n   body; my book; -- mine is used in the predicate; as, the book is mine.\n   See Mine."
+  },
+  {
+    "单词": "balloon",
+    "英音": "[bəˈluːn]",
+    "美音": "[bəˈluːn]",
+    "释义(中文)": "n. 气球\nadj. 像气球般鼓起的\nvt. 使像气球般鼓起；使激增\nvi. 激增；膨胀如气球\n",
+    "释义(英文)": "n. large tough nonrigid bag filled with gas or heated air\nn. small thin inflatable rubber bag with narrow neck\nv. ride in a hot-air balloon\nv. become inflated"
+  },
+  {
+    "单词": "pink",
+    "英音": "[pɪŋk]",
+    "美音": "[pɪŋk]",
+    "释义(中文)": "n. 粉红色；化身，典范；石竹花；头面人物\nadj. 粉红的；比较激进的；石竹科的；脸色发红的\nvt. 扎，刺，戳；使…变粉红色；使…面红耳赤\nvi. 变粉红色\n",
+    "释义(英文)": "n. a light shade of red\nn. any of various flowers of plants of the genus Dianthus cultivated for their fragrant flowers\nv. sound like a car engine that is firing too early\nv. cut in a zigzag pattern with pinking shears, in sewing"
+  },
+  {
+    "单词": "it's",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "abbr. 它的（it has）；它是（it is）",
+    "释义(英文)": "n the branch of engineering that deals with the use of computers and telecommunications to retrieve and store and transmit information"
+  },
+  {
+    "单词": "it is",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 它是；是的；这是",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "nice",
+    "英音": "[naɪs]",
+    "美音": "[naɪs]",
+    "释义(中文)": "adj. 精密的；美好的；细微的；和蔼的\n",
+    "释义(英文)": "n. a city in southeastern France on the Mediterranean; the leading resort on the French Riviera\na. pleasant or pleasing or agreeable in nature or appearance\ns. done with delicacy and skill"
+  },
+  {
+    "单词": "red",
+    "英音": "[red]",
+    "美音": "[red]",
+    "释义(中文)": "n. 红色，红颜料；赤字\nadj. 红色的；红肿的，充血的",
+    "释义(英文)": "n. red color or pigment; the chromatic color resembling the hue of blood\nn. a tributary of the Mississippi River that flows eastward from Texas along the southern boundary of Oklahoma and through Louisiana\ns. of a color at the end of the color spectrum (next to orange); resembling the color of blood or cherries or tomatoes or rubies"
+  },
+  {
+    "单词": "blue",
+    "英音": "[bluː]",
+    "美音": "[bluː]",
+    "释义(中文)": "adj. 蓝色的；沮丧的，忧郁的；下流的\nn. 蓝色；[复数]（美国海、陆、空三军穿的）蓝色制服；蓝颜料；[the blue(s)][用作单数或复数]布鲁斯（歌曲）（一种伤感的美国黑人民歌\nvi. 变成蓝色，呈蓝色\nvt. 把…染成蓝色；使成蓝色；给…用上蓝剂；用上蓝剂于\n",
+    "释义(英文)": "n. blue color or pigment; resembling the color of the clear sky in the daytime\nn. blue clothing\nn. any organization or party whose uniforms or badges are blue\nn. any of numerous small butterflies of the family Lycaenidae"
+  },
+  {
+    "单词": "green",
+    "英音": "[ɡriːn]",
+    "美音": "[ɡriːn]",
+    "释义(中文)": "n. 绿色；青春\nadj. 绿色的；青春的\nvt. 使…变绿色\nvi. 变绿色",
+    "释义(英文)": "n. green color or pigment; resembling the color of growing grass\nn. United States labor leader who was president of the American Federation of Labor from 1924 to 1952 and who led the struggle with the Congress of Industrial Organizations (1873-1952)\nn. an environmentalist who belongs to the Green Party\nn. a river that rises in western Wyoming and flows southward through Utah to become a tributary of the Colorado River"
+  },
+  {
+    "单词": "I",
+    "英音": "[aɪ]",
+    "美音": "[aɪ]",
+    "释义(中文)": "n. 碘元素；英语字母I\npron. 我",
+    "释义(英文)": "n. the 9th letter of the Roman alphabet"
+  },
+  {
+    "单词": "can",
+    "英音": "[kən; kæn]",
+    "美音": "[kən; kæn]",
+    "释义(中文)": "aux. 能； 能够； 可以； 可能\nn. 罐头； （用金属或塑料制作的）容器； （马口铁或其他金属制作的）食品罐头\nvt. 将…装入密封罐中保存",
+    "释义(英文)": "n. airtight sealed metal container for food or drink or paint etc.\nn. the quantity contained in a can\nn. a buoy with a round bottom and conical top\nv. preserve in a can or tin"
+  },
+  {
+    "单词": "I can ...",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 我能；爱肯我能；能够",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "dance",
+    "英音": "[dɑːns]",
+    "美音": "[dæns]",
+    "释义(中文)": "n. 舞蹈；舞会；舞曲\nadj. 舞蹈的；用于跳舞的\nvt. 跳舞；使跳跃\nvi. 跳舞；跳跃；飘扬\n",
+    "释义(英文)": "n. an artistic form of nonverbal communication\nn. a party of people assembled for dancing\nn. a party for social dancing\nv. move in a graceful and rhythmical way"
+  },
+  {
+    "单词": "robot",
+    "英音": "[ˈrəʊbɒt]",
+    "美音": "[ˈroʊbɑːt]",
+    "释义(中文)": "n. 机器人；遥控设备，自动机械；机械般工作的人",
+    "释义(英文)": "n a mechanism that can move automatically"
+  },
+  {
+    "单词": "sing",
+    "英音": "[sɪŋ]",
+    "美音": "[sɪŋ]",
+    "释义(中文)": "n. 演唱；鸣声；呼啸声\nvt. 唱；用诗赞颂；唱着使\nvi. 唱歌；歌颂；鸣叫；呼号\n",
+    "释义(英文)": "v. deliver by singing\nv. produce tones with the voice\nv. to make melodious sounds"
+  },
+  {
+    "单词": "draw",
+    "英音": "[drɔː]",
+    "美音": "[drɔː]",
+    "释义(中文)": "n. 平局；抽签\nvi. 拉；拖\nvt. 画；拉；吸引\n",
+    "释义(英文)": "n. a gully that is shallower than a ravine\nn. the finish of a contest in which the score is tied and the winner is undecided\nn. anything (straws or pebbles etc.) taken or chosen at random\nn. a playing card or cards dealt or taken from the pack"
+  },
+  {
+    "单词": "Great!",
+    "英音": "[ɡreɪt]",
+    "美音": "[ɡreɪt]",
+    "释义(中文)": "n. 大师；大人物；伟人们\nadj. 伟大的，重大的；极好的，好的；主要的",
+    "释义(英文)": "n. a person who has achieved distinction and honor in some field\ns. relatively large in size or number or extent; larger than others of its kind\ns. of major significance or importance\ns. remarkable or out of the ordinary in degree or magnitude or effect"
+  },
+  {
+    "单词": "cook",
+    "英音": "[kʊk]",
+    "美音": "[kʊk]",
+    "释义(中文)": "n. 厨师，厨子\nvt. 烹调，煮\nvi. 烹调，做菜\n",
+    "释义(英文)": "n. someone who cooks food\nn. English navigator who claimed the east coast of Australia for Britain and discovered several Pacific islands (1728-1779)\nv. prepare a hot meal\nv. prepare for eating by applying heat"
+  },
+  {
+    "单词": "Wow!",
+    "英音": "[waʊ]",
+    "美音": "[waʊ]",
+    "释义(中文)": "[计] Grave Composer音乐模块（MOD）文件",
+    "释义(英文)": "v. impress greatly"
+  },
+  {
+    "单词": "put on",
+    "英音": "[pʊt ɒn]",
+    "美音": "[pʊt ɑːn]",
+    "释义(中文)": "na. 假话\n",
+    "释义(英文)": "n a composition that imitates or misrepresents somebody's style, usually in a humorous way\nn something intended to deceive; deliberate trickery intended to gain an advantage\nn a ludicrous or grotesque act done for fun and amusement"
+  },
+  {
+    "单词": "your",
+    "英音": "[jɔː(r); jə(r)]",
+    "美音": "[jʊr; jər]",
+    "释义(中文)": "pron. 你的，你们的",
+    "释义(英文)": "pron. & a. The form of the possessive case of the personal\n   pronoun you."
+  },
+  {
+    "单词": "coat",
+    "英音": "[kəʊt]",
+    "美音": "[koʊt]",
+    "释义(中文)": "n. 外套\nvt. 覆盖…的表面\n",
+    "释义(英文)": "n. an outer garment that has sleeves and covers the body from shoulder down; worn outdoors\nn. growth of hair or wool or fur covering the body of an animal\nv. put a coat on; cover the surface of; furnish with a surface\nv. cover or provide with a coat"
+  },
+  {
+    "单词": "oh",
+    "英音": "[əʊ]",
+    "美音": "[oʊ]",
+    "释义(中文)": "int. 哦；哎呀（表示惊讶或恐惧等）",
+    "释义(英文)": "n a midwestern state in north central United States in the Great Lakes region"
+  },
+  {
+    "单词": "cold",
+    "英音": "[kəʊld]",
+    "美音": "[kəʊld]",
+    "释义(中文)": "n. 寒冷；感冒\nadj. 寒冷的；冷淡的，不热情的；失去知觉的\nadv. 完全地",
+    "释义(英文)": "n. a mild viral infection involving the nose and respiratory passages (but not the lungs)\nn. the sensation produced by low temperatures\na. having a low or inadequate temperature or feeling a sensation of coldness or having been made cold by e.g. ice or refrigeration\na. extended meanings; especially of psychological coldness; without human warmth or emotion"
+  },
+  {
+    "单词": "scarf",
+    "英音": "[skɑːf]",
+    "美音": "[skɑːrf]",
+    "释义(中文)": "n. 围巾；嵌接，嵌接处；头巾领巾\nvt. 披嵌接；用围巾围",
+    "释义(英文)": "n. a garment worn around the head or neck or shoulders for warmth or decoration\nv. masturbate while strangling oneself\nv. unite by a scarf joint\nv. wrap in or adorn with a scarf"
+  },
+  {
+    "单词": "beanie",
+    "英音": "[ˈbiːni]",
+    "美音": "[ˈbiːni]",
+    "释义(中文)": "n. 无檐小便帽；（有花饰或羽饰的）小圆女帽",
+    "释义(英文)": "n. a small skullcap; formerly worn by schoolboys and college freshmen"
+  },
+  {
+    "单词": "sweater",
+    "英音": "[ˈswetə(r)]",
+    "美音": "[ˈswetər]",
+    "释义(中文)": "n. 毛线衣，运动衫；大量出汗的人，发汗剂",
+    "释义(英文)": "n. a crocheted or knitted garment covering the upper part of the body"
+  }
+]

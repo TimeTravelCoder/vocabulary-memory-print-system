@@ -1,0 +1,961 @@
+[
+  {
+    "单词": "feel",
+    "英音": "n. 感觉；触摸\nvi. 觉得；摸索\nvt. 感觉；认为；触摸；试探",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. an intuitive awareness; \nn. manual stimulation of the genital area for sexual pleasure\nv. undergo an emotional sensation or be in a particular state of mind\nv. perceive by a physical sensation, e.g., coming from the skin or muscles"
+  },
+  {
+    "单词": "happy",
+    "英音": "adj. 幸福的；高兴的；巧妙的\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "a. enjoying or showing or marked by joy or pleasure\ns. well expressed and to the point"
+  },
+  {
+    "单词": "sad",
+    "英音": "adj. 难过的；悲哀的，令人悲痛的；凄惨的，阴郁的（形容颜色）",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "a. experiencing or showing sorrow or unhappiness\ns. of things that make you feel sad"
+  },
+  {
+    "单词": "tired",
+    "英音": "v. 疲倦；对…腻烦（tire的过去分词形式）\nadj. 疲倦的；厌倦的，厌烦的",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "a. depleted of strength or energy"
+  },
+  {
+    "单词": "angry",
+    "英音": "adj. 生气的；愤怒的；狂暴的；（伤口等）发炎的",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "a. feeling or showing anger\ns. (of the elements) as if showing violent anger\ns. severely inflamed and painful"
+  },
+  {
+    "单词": "go out to play",
+    "英音": "无",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "snowman",
+    "英音": "n. 雪人\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a figure of a person made of packed snow"
+  },
+  {
+    "单词": "make a snowman",
+    "英音": " 堆雪人；做雪人；堆一个雪人",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "why",
+    "英音": "int. 哎呀！什么？\nadv. 为什么",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the cause or intention underlying an action or situation, especially in the phrase `the whys and wherefores'"
+  },
+  {
+    "单词": "because",
+    "英音": "conj. 因为",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "conj. By or for the cause that; on this account that; for the\n   reason that.\nconj. In order that; that."
+  },
+  {
+    "单词": "come on",
+    "英音": "na. (演员)出台；进行(很好)；(暴风雨等)起；(病,苦痛等)加深\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n anything that serves as an enticement\nn qualities that attract by seeming to promise some kind of reward"
+  },
+  {
+    "单词": "a little",
+    "英音": "n. 一点\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "drink",
+    "英音": "n. 酒，饮料；喝酒\nvt. 喝，饮；吸收；举杯庆贺\nvi. 喝酒；饮水；干杯",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a single serving of a beverage\nn. the act of drinking alcoholic beverages to excess\nn. any large deep body of water\nv. take in liquids"
+  },
+  {
+    "单词": "make",
+    "英音": "vt. 使得；进行；布置，准备，整理；制造；认为；获得；形成；安排；引起；构成\nvi. 开始；前进；增大；被制造\nn. 制造；构造；性情\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "v. engage in\nv. give certain properties to something\nv. make or cause to be or to become\nv. compel or make somebody or something to act in a certain way"
+  },
+  {
+    "单词": "so",
+    "英音": "conj. 所以；因此\nadv. 如此，这么；确是如此\npron. 这样\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "r. to a very great extent or degree\nr. in a manner that facilitates\nr. in such a condition or manner, especially as expressed or implied\nr. to a certain unspecified extent or degree"
+  },
+  {
+    "单词": "tell",
+    "英音": "vt. 告诉，说；辨别；吩咐；断定\nvi. 讲述；告发，泄密；识别\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a Swiss patriot who lived in the early 14th century and who was renowned for his skill as an archer; according to legend an Austrian governor compelled him to shoot an apple from his son's head with his crossbow (which he did successfully without mishap)\nv. let something be known\nv. narrate or give a detailed account of\nv. discern or comprehend"
+  },
+  {
+    "单词": "spring",
+    "英音": "n. 春天；弹簧；泉水；活力；跳跃\nadj. 春天的\nvt. 使跳起；使爆炸；突然提出；使弹开\nvi. 生长；涌出；跃出；裂开\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the season of growth\nn. a metal elastic device that returns to its shape or position when pushed or pulled or pressed\nn. a natural flow of ground water\nn. a point at which water issues forth"
+  },
+  {
+    "单词": "summer",
+    "英音": "n. 夏季；全盛时期\nadj. 夏季的\nvi. 避暑；过夏天\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the warmest season of the year; in the northern hemisphere it extends from the summer solstice to the autumnal equinox\nn. the period of finest development, happiness, or beauty\nv. spend the summer"
+  },
+  {
+    "单词": "autumn",
+    "英音": "n. 秋天；成熟期；渐衰期，凋落期\nadj. 秋天的，秋季的\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n the season when the leaves fall from the trees"
+  },
+  {
+    "单词": "winter",
+    "英音": "n. 冬季；年岁；萧条期\nadj. 冬天的；越冬的\nvi. 过冬\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the coldest season of the year; in the northern hemisphere it extends from the winter solstice to the vernal equinox\nv. spend the winter"
+  },
+  {
+    "单词": "season",
+    "英音": "n. 时期；季节；赛季\nvt. 给…调味；使适应\nvi. 变得成熟；变干燥",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a period of the year marked by special events or activities in some field\nn. one of the natural periods into which the year is divided by the equinoxes and solstices or atmospheric conditions\nn. a recurrent time marked by major holidays\nv. lend flavor to"
+  },
+  {
+    "单词": "plant",
+    "英音": "n. 工厂，车间；植物；设备；庄稼\nvt. 种植；培养；栽培；安置\nvi. 种植\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. buildings for carrying on industrial labor\nn. (botany) a living organism lacking the power of locomotion\nn. an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience\nn. something planted secretly for discovery by another"
+  },
+  {
+    "单词": "plant trees",
+    "英音": " 种树；植树；植树造林",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "ride",
+    "英音": "n. 骑；乘坐；交通工具；可供骑行的路；（乘坐汽车等的）旅行；乘骑；（乘车或骑车的）短途旅程；供乘骑的游乐设施\nvi. 骑马；乘车；依靠；漂浮\nvt. 骑；乘；控制；（骑马、自行车等）穿越；搭乘；飘浮\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a mechanical device that you ride for amusement or excitement\nv. sit and travel on the back of animal, usually while controlling its motions\nv. be carried or travel on or in a vehicle\nv. continue undisturbed and without interference"
+  },
+  {
+    "单词": "ride a bike",
+    "英音": " 骑自行车；骑车；骑单车",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "Tree Planting Day",
+    "英音": "无",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "interesting",
+    "英音": "adj. 有趣的；引起兴趣的，令人关注的",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "a. arousing or holding the attention"
+  },
+  {
+    "单词": "March",
+    "英音": "n. 三月",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the month following February and preceding April\nn. the act of marching; walking with regular steps (especially in a procession of some kind)\nn. a steady advance\nn. a procession of people walking together"
+  },
+  {
+    "单词": "April",
+    "英音": "n. 四月",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the month following March and preceding May"
+  },
+  {
+    "单词": "May",
+    "英音": "aux. 可以，能够；可能，也许；祝，愿；会，能",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the month following April and preceding June"
+  },
+  {
+    "单词": "warm",
+    "英音": "n. 取暖；加热\nadj. 温暖的；热情的\nvt. 使…兴奋；使…温暖；使…感兴趣\nvi. 同情；激动；变温暖\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "v. get warm or warmer\nv. make warm or warmer\na. having or producing a comfortable and agreeable degree of heat or imparting or maintaining heat\na. psychologically warm; friendly and responsive"
+  },
+  {
+    "单词": "hot",
+    "英音": "adj. 热的；辣的；热情的；激动的；紧迫的\nvt. 增加；给…加温\nadv. 热；紧迫地\nvi. 变热\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "a. used of physical heat; having a high or higher than desirable temperature or giving off heat or feeling or causing a sensation of heat or burning\ns. characterized by violent and forceful activity or movement; very intense\na. extended meanings; especially of psychological heat; marked by intensity or vehemence especially of passion or enthusiasm\ns. (color) bold and intense"
+  },
+  {
+    "单词": "go swimming",
+    "英音": "na. 去游泳\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "cool",
+    "英音": "n. 凉爽；凉爽的空气\nadj. 凉爽的；冷静的；出色的\nvt. 使…冷却；使…平静下来\nvi. 变凉；平息\nadv. 冷静地\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the quality of being at a refreshingly low temperature\nv. make cool or cooler\nv. loose heat\nv. lose intensity"
+  },
+  {
+    "单词": "rich",
+    "英音": "adj. 富有的；肥沃的；昂贵的\nadj. 油腻的，含有很多脂肪\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "a. possessing material wealth\na. having an abundant supply of desirable qualities or substances (especially natural resources)\ns. of great worth or quality\ns. very productive"
+  },
+  {
+    "单词": "cold",
+    "英音": "n. 寒冷；感冒\nadj. 寒冷的；冷淡的，不热情的；失去知觉的\nadv. 完全地",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a mild viral infection involving the nose and respiratory passages (but not the lungs)\nn. the sensation produced by low temperatures\na. having a low or inadequate temperature or feeling a sensation of coldness or having been made cold by e.g. ice or refrigeration\na. extended meanings; especially of psychological coldness; without human warmth or emotion"
+  },
+  {
+    "单词": "begin",
+    "英音": "vi. 开始；首先\nvt. 开始\n\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. Israeli statesman (born in Russia) who (as prime minister of Israel) negotiated a peace treaty with Anwar Sadat (then the president of Egypt) (1913-1992)\nv. have a beginning, in a temporal, spatial, or evaluative sense\nv. set in motion, cause to start\nv. begin to speak or say"
+  },
+  {
+    "单词": "from",
+    "英音": "prep. 来自，从；由于；今后\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "prep. Out of the neighborhood of; lessening or losing proximity\n   to; leaving behind; by reason of; out of; by aid of; -- used whenever\n   departure, setting out, commencement of action, being, state,\n   occurrence, etc., or procedure, emanation, absence, separation, etc.,\n   are to be expressed. It is construed with, and indicates, the point of\n   space or time at which the action, state, etc., are regarded as setting\n   out or beginning; also, less frequently, the source, the cause, the\n   occasion, out of which anything proceeds; -- the aritithesis and\n   correlative of to; as, it, is one hundred miles from Boston to\n   Springfield; he took his sword from his side; light proceeds from the\n   sun; separate the coarse wool from the fine; men have all sprung from\n   Adam, and often go from good to bad, and from bad to worse; the merit\n   of an action depends on the principle from which it proceeds; men judge\n   of facts from personal knowledge, or from testimony."
+  },
+  {
+    "单词": "January",
+    "英音": "n. 一月",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the first month of the year; begins 10 days after the winter solstice"
+  },
+  {
+    "单词": "February",
+    "英音": "n. 二月",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the month following January and preceding March"
+  },
+  {
+    "单词": "June",
+    "英音": "n. 六月；琼（人名，来源于拉丁语，含义是“年轻气盛的六月”）",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the month following May and preceding July"
+  },
+  {
+    "单词": "July",
+    "英音": "n. 七月",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the month following June and preceding August"
+  },
+  {
+    "单词": "August",
+    "英音": "n. 八月（简写为Aug）\nadj. 威严的；令人敬畏的",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the month following July and preceding September\ns. of or befitting a lord\ns. profoundly honored"
+  },
+  {
+    "单词": "September",
+    "英音": "n. 九月",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the month following August and preceding October"
+  },
+  {
+    "单词": "October",
+    "英音": "n. [天] 十月",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the month following September and preceding November"
+  },
+  {
+    "单词": "November",
+    "英音": "n. 十一月",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the month following October and preceding December"
+  },
+  {
+    "单词": "December",
+    "英音": "n. 十二月",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the last (12th) month of the year"
+  },
+  {
+    "单词": "which",
+    "英音": "adj. 哪一个；哪一些\npron. 哪/那一个；哪/那一些",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "a. Of what sort or kind; what; what a; who.\na. A interrogative pronoun, used both substantively and\n   adjectively, and in direct and indirect questions, to ask for, or refer\n   to, an individual person or thing among several of a class; as, which\n   man is it? which woman was it? which is the house? he asked which route\n   he should take; which is best, to live or to die? See the Note under\n   What, pron., 1.\npron. A relative pronoun, used esp. in referring to an\n   antecedent noun or clause, but sometimes with reference to what is\n   specified or implied in a sentence, or to a following noun or clause\n   (generally involving a reference, however, to something which has\n   preceded). It is used in all numbers and genders, and was formerly used\n   of persons.\npron. A compound relative or indefinite pronoun, standing for\n   any one which, whichever, that which, those which, the . . . which, and\n   the like; as, take which you will."
+  },
+  {
+    "单词": "become",
+    "英音": "vt. 适合；相称\nvi. 成为；变得；变成",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "v. enter or assume a certain state or condition\nv. undergo a change or development\nv. come into existence\nv. enhance the appearance of"
+  },
+  {
+    "单词": "better",
+    "英音": "n. 长辈；较好者；打赌的人（等于bettor）\nadj. 较好的\nvt. 改善；胜过\nadv. 更好的；更多的；较大程度地\nvi. 变得较好\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. something superior in quality or condition or effect\nn. a superior person having claim to precedence\nn. the superior one of two alternatives\nv. surpass in excellence"
+  },
+  {
+    "单词": "Christmas",
+    "英音": "n. 圣诞节；圣诞节期间",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. period extending from Dec. 24 to Jan. 6\nn. a Christian holiday celebrating the birth of Christ; a quarter day in England, Wales, and Ireland"
+  },
+  {
+    "单词": "New Year",
+    "英音": "n. 新年\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "year",
+    "英音": "n. 年；年度；历年；年纪；一年的期间；某年级的学生",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a period of time containing 365 (or 366) days\nn. a period of time occupying a regular part of a calendar year that is used for some particular activity\nn. the period of time that it takes for a planet (as, e.g., Earth or Mars) to make a complete revolution around the sun"
+  },
+  {
+    "单词": "each",
+    "英音": "adj. 每；各自的\npron. 每个；各自\nadv. 每个；各自",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "s. (used of count nouns) every one considered individually\nr. to or from every one of two or more (considered individually)"
+  },
+  {
+    "单词": "month",
+    "英音": "n. 月，一个月的时间",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a time unit of approximately 30 days"
+  },
+  {
+    "单词": "first",
+    "英音": "num. 第一\nn. 第一；开始；冠军\nadj. 第一的；基本的；最早的\nadv. 第一；首先；优先；宁愿\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the first or highest in an ordering or series\nn. the first element in a countable series\nn. an honours degree of the highest class\na. preceding all others in time or space or degree"
+  },
+  {
+    "单词": "second",
+    "英音": "num. 第二\nn. 秒；第二名；瞬间；二等品\nadj. 第二的；次要的；附加的\nvt. 支持\nadv. 第二；其次；居第二位\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. 1/60 of a minute; the basic unit of time adopted under the Systeme International d'Unites\nn. following the first in an ordering or series\nn. a 60th part of a minute of arc\nn. the official attendant of a contestant in a duel or boxing match"
+  },
+  {
+    "单词": "third",
+    "英音": "num. 第三；三分之一\nadj. 第三的；三分之一的",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. following the second position in an ordering or series\nn. the musical interval between one note and another three notes away from it\ns. coming next after the second and just before the fourth in position\nr. in the third place"
+  },
+  {
+    "单词": "fourth",
+    "英音": "num. 第四\nn. 第四，月的第四日；四分之一\nadj. 第四的，第四个的；四分之一的",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. following the third position; number four in a countable series\nn. the musical interval between one note and another four notes away from it\ns. coming next after the third and just before the fifth in position or time or degree or magnitude"
+  },
+  {
+    "单词": "fifth",
+    "英音": "num. 第五\nn. 第五；五分之一\nadj. 第五的；五分之一的",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a quantity of liquor equal to one fifth of a United States gallon\nn. position five in a countable series of things\nn. the musical interval between one note and another five notes away from it\ns. coming next after the fourth and just before the sixth in position"
+  },
+  {
+    "单词": "eighth",
+    "英音": "num. 第八；八分之一\nadj. 第八的；八分之一的",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. position eight in a countable series of things\ns. coming next after the seventh and just before the ninth in position"
+  },
+  {
+    "单词": "ninth",
+    "英音": "num. 第九\nadj. 第九的；九分之一的\nn. 九分之一",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. position nine in a countable series of things\ns. coming next after the eighth and just before the tenth in position"
+  },
+  {
+    "单词": "twelfth",
+    "英音": "n. 第十二；月的第十二日\nadj. 第十二的，第十二个的；十二分之一的",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. position 12 in a countable series of things\ns. coming next after the eleventh and just before the thirteenth in position"
+  },
+  {
+    "单词": "twentieth",
+    "英音": "n. 二十分之一\nnum. 第二十\nadj. 第二十的；二十分之一的",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. position 20 in a countable series of things\ns. coming next after the nineteenth in position"
+  },
+  {
+    "单词": "twenty-fifth",
+    "英音": "第二十五",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "s coming next after the twenty-fourth in position"
+  },
+  {
+    "单词": "village",
+    "英音": "n. 村庄；村民；（动物的）群落",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a community of people smaller than a town\nn. a settlement smaller than a town"
+  },
+  {
+    "单词": "bird",
+    "英音": "n. 鸟；家伙；羽毛球\nvt. 向…喝倒彩；起哄\nvi. 猎鸟；观察研究野鸟\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. warm-blooded egg-laying vertebrates characterized by feathers and forelimbs modified as wings\nn. the flesh of a bird or fowl (wild or domestic) used as food\nv. watch and study birds in their natural habitat"
+  },
+  {
+    "单词": "snake",
+    "英音": "n. 蛇；阴险的人\nvt. 拉（木材等）；迂回前进\nvi. 迂回前进",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. limbless scaly elongate reptile; some are venomous\nn. a deceitful or treacherous person\nn. a tributary of the Columbia River that rises in Wyoming and flows westward; discovered in 1805 by the Lewis and Clark Expedition\nn. something long, thin, and flexible that resembles a snake"
+  },
+  {
+    "单词": "potato",
+    "英音": "n. [作物] 土豆，[作物] 马铃薯",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. an edible tuber native to South America; a staple food of Ireland\nn. annual native to South America having underground stolons bearing edible starchy tubers; widely cultivated as a garden vegetable; vines are poisonous"
+  },
+  {
+    "单词": "tomato",
+    "英音": "n. 番茄，西红柿",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. mildly acid red or yellow pulpy fruit eaten as a vegetable\nn. native to South America; widely cultivated in many varieties"
+  },
+  {
+    "单词": "river",
+    "英音": "n. 河，江\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a large natural stream of water (larger than a creek)"
+  },
+  {
+    "单词": "lake",
+    "英音": "n. 湖；深红色颜料；胭脂红\nvt. （使）血球溶解\nvi. （使）血球溶解\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a body of (usually fresh) water surrounded by land\nn. a purplish red pigment prepared from lac or cochineal\nn. any of numerous bright translucent organic pigments"
+  },
+  {
+    "单词": "kind",
+    "英音": "n. 种类；性质\nadj. 和蔼的；宽容的；令人感激的\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a category of things distinguished by some common characteristic or quality\na. having or showing a tender and considerate and helpful nature; used especially of persons and their behavior\ns. agreeable, conducive to comfort\ns. tolerant and forgiving under provocation"
+  },
+  {
+    "单词": "around",
+    "英音": "prep. 四处；在…周围\nadv. 大约；到处；在附近",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "r. by a circular or circuitous route\nr. in a circle or circular motion\nr. to a particular destination either specified or understood\nr. in circumference"
+  },
+  {
+    "单词": "sound",
+    "英音": "n. 声音，语音；噪音；海峡；吵闹；听力范围；[医] 探条\nadj. 健全的，健康的；合理的；可靠的；有效彻底的\nvt. 听（诊）；测量，测…深；使发声；试探；宣告\nvi. 听起来；发出声音；回响；测深\nadv. 彻底地，充分地",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the particular auditory effect produced by a given cause\nn. the subjective sensation of hearing something\nn. mechanical vibrations transmitted by an elastic medium\nn. the sudden occurrence of an audible event"
+  },
+  {
+    "单词": "by",
+    "英音": "prep. 通过；被；依据；经由；在附近；在……之前\nadv. 通过；经过；附近；[互联网] 白俄罗斯的国家代码顶级域名",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "r. so as to pass a given point"
+  },
+  {
+    "单词": "grow",
+    "英音": "vi. 发展；生长；渐渐变得…\nvt. 使生长；种植；扩展\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "v. become larger, greater, or bigger; expand or gain\nv. increase in size by natural process\nv. cause to grow or develop\nv. cultivate by growing, often involving improvements by means of agricultural techniques"
+  },
+  {
+    "单词": "other",
+    "英音": "adj. 其他的，另外的\npron. 另外一个",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "a. not the same one or ones already mentioned or implied\ns. recently past\ns. very unusual; different in character or quality from the normal or expected"
+  },
+  {
+    "单词": "wild",
+    "英音": "n. 荒野\nadj. 野生的；野蛮的；狂热的；荒凉的\nadv. 疯狂地；胡乱地\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a wild primitive state untouched by civilization\na. marked by extreme lack of restraint or control\na. in a natural state; not tamed or domesticated or cultivated\ns. in a state of extreme emotion"
+  },
+  {
+    "单词": "even",
+    "英音": "adj. [数] 偶数的；平坦的；相等的\nadv. 甚至；即使；还；实际上\nvt. 使平坦；使相等\nvi. 变平；变得可比较；成为相等\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "v. become even or more even\nv. make even or more even\na. divisible by two\ns. equal in degree or extent or amount; or equally matched or balanced"
+  },
+  {
+    "单词": "happily",
+    "英音": "adv. 快乐地；幸福地；幸运地；恰当地",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "r. in a joyous manner\nr. in an unexpectedly lucky way"
+  },
+  {
+    "单词": "weather",
+    "英音": "n. 天气；气象；气候；处境\nvt. 经受住；使风化；侵蚀；使受风吹雨打\nadj. 露天的；迎风的\nvi. 风化；受侵蚀；经受风雨\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the atmospheric conditions that comprise the state of the atmosphere in terms of temperature and wind and clouds and precipitation\nv. face and withstand with courage\nv. cause to slope\nv. sail to the windward of"
+  },
+  {
+    "单词": "weather report",
+    "英音": "na. 气象通报；天气预报\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "sunny",
+    "英音": "adj. 阳光充足的，和煦的；快活的；性情开朗的",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "s bright and pleasant; promoting a feeling of cheer"
+  },
+  {
+    "单词": "windy",
+    "英音": "adj. 多风的，有风的；腹胀的；吹牛的",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "s. resembling the wind in speed, force, or variability"
+  },
+  {
+    "单词": "cloudy",
+    "英音": "adj. 多云的；阴天的；愁容满面的",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "s. lacking definite form or limits\na. full of or covered with clouds\ns. (of liquids) clouded as with sediment"
+  },
+  {
+    "单词": "rainy",
+    "英音": "adj. 下雨的；多雨的\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "s (of weather) wet by periods of rain"
+  },
+  {
+    "单词": "snowy",
+    "英音": "adj. 下雪的，多雪的；被雪覆盖的；洁白无瑕的",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "s marked by the presence of snow\ns covered with snow\ns of the white color of snow"
+  },
+  {
+    "单词": "moon",
+    "英音": "n. 月亮；月球；月光；卫星\nvi. 闲荡；出神\nvt. 虚度\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the natural satellite of the Earth\nn. any object resembling a moon\nn. United States religious leader (born in Korea) who founded the Unification Church in 1954; was found guilty of conspiracy to evade taxes (born in 1920)\nn. any natural satellite of a planet"
+  },
+  {
+    "单词": "star",
+    "英音": "n. 星，恒星；明星；星形物\nadj. 明星的，主角的；星形的\nvt. 用星号标于；由…主演，由…担任主角\nvi. 担任主角\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. (astronomy) a celestial body of hot gases that radiates energy derived from thermonuclear reactions in the interior\nn. any celestial body visible (as a point of light) from the Earth at night\nn. an actor who plays a principal role\nn. a plane figure with 5 or more points; often used as an emblem"
+  },
+  {
+    "单词": "see you",
+    "英音": " 再见；回头见；回见",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "fine",
+    "英音": "n. 罚款\nadj. 好的；优良的；细小的，精美的；健康的；晴朗的\nvt. 罚款；澄清\nadv. 很好地；精巧地\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. money extracted as a penalty\ns. minutely precise especially in differences in meaning\ns. thin in thickness or diameter\ns. characterized by elegance or refinement or accomplishment"
+  },
+  {
+    "单词": "say",
+    "英音": "vt. 讲；说明；例如；声称；假设；指明\nvi. 讲；表示；念；假定；背诵\n\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the chance to speak\nv. communicate or express nonverbally\nv. utter aloud\nv. state as one's opinion or judgement; declare"
+  },
+  {
+    "单词": "will",
+    "英音": "n. 意志；决心；情感；遗嘱；意图；心愿\nvt. 决心要；遗赠；用意志力使\nvi. 愿意；下决心\naux. 将；愿意；必须",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a fixed and persistent intent or purpose\nn. a legal document declaring a person's wishes regarding the disposal of their property when they die\nv. decree or ordain\nv. determine by choice"
+  },
+  {
+    "单词": "holiday",
+    "英音": "n. 假日；节日；休息日\nvi. 外出度假\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a day on which work is suspended by law or custom"
+  },
+  {
+    "单词": "next",
+    "英音": "adv. 然后；下次；其次\nadj. 下一个的；其次的；贴近的\nn. 下一个\nprep. 靠近；居于…之后",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "r. at the time or occasion immediately following"
+  },
+  {
+    "单词": "travel",
+    "英音": "n. 旅行；游历；漫游\nvt. 经过；在…旅行\nvi. 旅行；行进；步行；交往",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the act of going from one place to another\nv. change location; move, travel, or proceed, also metaphorically\nv. undertake a journey or trip\nv. make a trip for pleasure"
+  },
+  {
+    "单词": "enjoy",
+    "英音": "vt. 欣赏，享受；喜爱；使过得快活",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "v. derive or receive pleasure from; get enjoyment from; take pleasure in\nv. have benefit from\nv. have for one's benefit"
+  },
+  {
+    "单词": "place of interest",
+    "英音": "na. 名胜\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "the Palace Museum",
+    "英音": " 故宫博物院；故宫博物馆；北京故宫",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "the Great Wall",
+    "英音": " 长城；万里长城；中国万里长城",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "the West Lake",
+    "英音": " 西湖；杭州西湖；新西湖",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "May Day",
+    "英音": "n. 【节】五一(国际)劳动节\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. an internationally recognized distress signal via radiotelephone (from the French m'aider)"
+  },
+  {
+    "单词": "large",
+    "英音": "adj. 大的；多数的；广博的\nadv. 大大地；夸大地\nn. 大\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a garment size for a large person\na. above average in size or number or quantity or magnitude or extent\ns. fairly large or important in effect; influential\ns. having broad power and range and scope"
+  },
+  {
+    "单词": "all",
+    "英音": "n. 全部\nadj. 全部的\nadv. 全然地；越发\npron. 全部\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "a. quantifier; used with either mass or count nouns to indicate the whole number or amount of or every one of a class\ns. completely given to or absorbed by"
+  },
+  {
+    "单词": "wonderful",
+    "英音": "adj. 极好的，精彩的，绝妙的；奇妙的；美妙；胜；神妙",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "s extraordinarily good or great; used especially as intensifiers"
+  },
+  {
+    "单词": "slow",
+    "英音": "adj. 慢的；减速的；迟钝的\nvt. 放慢；阻碍\nvi. 变慢；变萧条\nadv. 慢慢地；迟缓地\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "v. become slow or slower\nv. cause to proceed more slowly\na. not moving quickly; taking a comparatively long time\na. at a slow tempo"
+  },
+  {
+    "单词": "headache",
+    "英音": "n. 头痛；麻烦；令人头痛之事",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. pain in the head caused by dilation of cerebral arteries or muscle contractions or a reaction to drugs"
+  },
+  {
+    "单词": "cold",
+    "英音": "n. 寒冷；感冒\nadj. 寒冷的；冷淡的，不热情的；失去知觉的\nadv. 完全地",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a mild viral infection involving the nose and respiratory passages (but not the lungs)\nn. the sensation produced by low temperatures\na. having a low or inadequate temperature or feeling a sensation of coldness or having been made cold by e.g. ice or refrigeration\na. extended meanings; especially of psychological coldness; without human warmth or emotion"
+  },
+  {
+    "单词": "cough",
+    "英音": "n. 咳嗽，咳嗽声；咳嗽病\nvt. 咳出\nvi. 咳嗽\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a sudden noisy expulsion of air from the lungs that clears the air passages; a common symptom of upper respiratory infection or bronchitis or pneumonia or tuberculosis\nv. exhale abruptly, as when one has a chest cold or congestion"
+  },
+  {
+    "单词": "fever",
+    "英音": "n. 发烧，发热；狂热\nvt. 使发烧；使狂热；使患热病\nvi. 发烧；狂热；患热病",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a rise in the temperature of the body; frequently a symptom of infection\nn. intense nervous anticipation"
+  },
+  {
+    "单词": "toothache",
+    "英音": "n. [口腔] 牙痛",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. an ache localized in or around a tooth"
+  },
+  {
+    "单词": "stomachache",
+    "英音": "n. 腹痛，肚子痛；胃痛",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. an ache localized in the stomach or abdominal region"
+  },
+  {
+    "单词": "see a doctor",
+    "英音": "na. 去就医；去看医生\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "bad",
+    "英音": "n. 坏事；坏人\nadj. 坏的；严重的；劣质的\nadv. 很，非常；坏地；邪恶地\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. that which is below standard or expectations as of ethics or decency\na. having undesirable or negative qualities\ns. very intense\ns. feeling physical discomfort or pain (`tough' is occasionally used colloquially for `bad')"
+  },
+  {
+    "单词": "wrong",
+    "英音": "n. 坏事；不公正\nadj. 错误的；失常的；不适当的\nvt. 委屈；无理地对待；诽谤\nadv. 错误地；邪恶地，不正当地\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. that which is contrary to the principles of justice or law\nn. any harm or injury resulting from a violation of a legal right\nv. treat unjustly; do wrong to\na. contrary to conscience or morality or law"
+  },
+  {
+    "单词": "ill",
+    "英音": "n. 疾病；不幸\nadj. 生病的；坏的；邪恶的；不吉利的\nadv. 不利地；恶劣地；几乎不\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "a. affected by an impairment of normal physical or mental function\ns. resulting in suffering or adversity\ns. distressing\ns. indicating hostility or enmity"
+  },
+  {
+    "单词": "just",
+    "英音": "adv. 只是，仅仅；刚才，刚刚；正好，恰好；实在；刚要\nadj. 公正的，合理的；正直的，正义的；正确的；公平的；应得的\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "a. used especially of what is legally or ethically right or proper or fitting\nr. only a moment ago\nr. absolutely\nr. exactly at this moment or the moment described;"
+  },
+  {
+    "单词": "stay",
+    "英音": "n. 逗留；停止；支柱\nvi. 停留；坚持；暂住；停下\nvt. 坚持；暂住；抑制",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. continuing or remaining in a place or state\nn. a judicial order forbidding some action until an event occurs or the order is lifted\nn. a thin strip of metal or bone that is used to stiffen a garment (e.g. a corset)\nn. (nautical) brace consisting of a heavy rope or wire cable used as a support for a mast or spar"
+  },
+  {
+    "单词": "call",
+    "英音": "n. 电话；呼叫；要求；访问\nvi. 呼叫；拜访；叫牌\nvt. 呼叫；称呼；召集\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a telephone connection\nn. a special disposition (as if from a divine source) to pursue a particular course\nn. a demand especially in the phrase \"the call of duty\"\nn. a brief social visit"
+  },
+  {
+    "单词": "lesson",
+    "英音": "n. 教训；课\nvt. 教训；上课",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a unit of instruction\nn. a task assigned for individual study"
+  },
+  {
+    "单词": "worry",
+    "英音": "n. 担心；烦恼；撕咬\nvi. 担心；烦恼；撕咬\nvt. 担心；发愁；折磨",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a strong feeling of anxiety\nv. be worried, concerned, anxious, troubled, or uneasy\nv. be concerned with\nv. disturb the peace of mind of; afflict with mental agitation or distress"
+  },
+  {
+    "单词": "well",
+    "英音": "n. 井；源泉\nadj. 良好的；健康的；适宜的\nadv. 很好地；充分地；满意地；适当地\nv. 涌出\n\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a deep hole or shaft dug or drilled to obtain water or oil or gas or brine\nn. a cavity or vessel used to contain liquid\nn. an abundant source\nn. an open shaft through the floors of a building (as for a stairway)"
+  },
+  {
+    "单词": "rest",
+    "英音": "n. 休息，静止；休息时间；剩余部分；支架\nvt. 使休息，使轻松；把…寄托于\nvi. 休息；静止；依赖；安置\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. freedom from activity (work or strain or responsibility)\nn. a state of inaction\nn. euphemisms for death (based on an analogy between lying in a bed and in a tomb)\nn. a support on which things can be put"
+  },
+  {
+    "单词": "habit",
+    "英音": "n. 习惯，习性；嗜好\nvt. 使穿衣",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. an established custom\nn. (psychology) an automatic pattern of behavior in reaction to a specific situation; may be inherited or acquired through frequent repetition\nn. a distinctive attire worn by a member of a religious order\nn. the general form or mode of growth (especially of a plant or crystal)"
+  },
+  {
+    "单词": "litter",
+    "英音": "n. 垃圾；轿，担架；一窝（动物的幼崽）；凌乱\nvt. 乱丢；给…垫褥草；把…弄得乱七八糟\nvi. 产仔；乱扔废弃物\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the offspring at one birth of a multiparous mammal\nn. rubbish carelessly dropped or left about (especially in public places)\nn. conveyance consisting of a chair or bed carried on two poles by bearers\nv. strew"
+  },
+  {
+    "单词": "loudly",
+    "英音": "adv. 大声地，响亮地",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "r. with relatively high volume"
+  },
+  {
+    "单词": "full",
+    "英音": "n. 全部；完整\nadj. 完全的，完整的；满的，充满的；丰富的；完美的；丰满的；详尽的\nvt. 把衣服缝得宽大\nadv. 十分，非常；完全地；整整",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "v. beat for the purpose of cleaning and thickening\nv. make (a garment) fuller by pleating or gathering\na. containing as much or as many as is possible or normal\ns. complete in extent or degree and in every particular"
+  },
+  {
+    "单词": "noise",
+    "英音": "n. [环境] 噪音；响声；杂音\nvt. 谣传\nvi. 发出声音；大声议论\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. sound of any kind (especially unintelligible or dissonant sound)\nn. the auditory experience of sound that lacks musical quality; sound that is a disagreeable auditory experience\nn. electrical or acoustic activity that can disturb communication\nn. a loud outcry of protest or complaint"
+  },
+  {
+    "单词": "keep",
+    "英音": "vt. 保持；经营；遵守；饲养\nvi. 保持；继续不断\nn. 保持；生计；生活费\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the main tower within the walls of a medieval castle or fortress\nv. keep in a certain state, position, or activity; e.g., \"keep clean\"\nv. retain possession of\nv. look after; be the keeper of; have charge of"
+  },
+  {
+    "单词": "quiet",
+    "英音": "n. 安静；和平\nadj. 安静的；安定的；不动的；温顺的\nvt. 使平息；安慰\nvi. 平静下来",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "a. characterized by an absence or near absence of agitation or activity\na. free of noise or uproar; or making little if any sound\ns. not showy or obtrusive\na. of the sun characterized by a low level of surface phenomena like sunspots e.g."
+  },
+  {
+    "单词": "wait in line",
+    "英音": "v. 排队等待\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "lie",
+    "英音": "vi. 躺；说谎；位于；展现\nvt. 谎骗\nn. 谎言；位置\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a statement that deviates from or perverts the truth\nn. Norwegian diplomat who was the first Secretary General of the United Nations (1896-1968)\nn. position or manner in which something is situated\nv. be located or situated somewhere; occupy a certain position"
+  },
+  {
+    "单词": "care",
+    "英音": "n. 关怀；照料；谨慎；忧虑\nvt. 在意；希望或喜欢\nvi. 照顾；关心；喜爱；顾虑\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the work of providing treatment for or attending to someone or something\nn. a cause for feeling concern\nn. attention and management implying responsibility for safety\nn. activity involved in maintaining something in good working order"
+  },
+  {
+    "单词": "take care of",
+    "英音": "na. 照看；处理；清除\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "read in bed",
+    "英音": "无",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "close",
+    "英音": "n. 结束\nadj. 紧密的；亲密的；亲近的\nvt. 关；结束；使靠近\nvi. 关；结束；关闭\nadv. 紧密地\n",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "v. move so that an opening or passage is obstructed; make shut\nv. become closed\nv. finish or terminate (meetings, speeches, etc.)\nv. complete a business deal, negotiation, or an agreement"
+  }
+]

@@ -1,0 +1,856 @@
+[
+  {
+    "单词": "spring",
+    "英音": "[sprɪŋ]",
+    "美音": "[sprɪŋ]",
+    "释义(中文)": "n. 春天；弹簧；泉水；活力；跳跃\nadj. 春天的\nvt. 使跳起；使爆炸；突然提出；使弹开\nvi. 生长；涌出；跃出；裂开\n",
+    "释义(英文)": "n. the season of growth\nn. a metal elastic device that returns to its shape or position when pushed or pulled or pressed\nn. a natural flow of ground water\nn. a point at which water issues forth"
+  },
+  {
+    "单词": "festival",
+    "英音": "[ˈfestɪv(ə)l]",
+    "美音": "[ˈfestɪvl]",
+    "释义(中文)": "n. 节日；庆祝，纪念活动；欢乐\nadj. 节日的，喜庆的；快乐的",
+    "释义(英文)": "n. a day or period of time set aside for feasting and celebration\nn. an organized series of acts and performances (usually in one place)"
+  },
+  {
+    "单词": "Spring Festival",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 春节\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "like",
+    "英音": "[laɪk]",
+    "美音": "[laɪk]",
+    "释义(中文)": "vt. 喜欢；想；愿意\nvi. 喜欢；希望\nprep. 像；如同\nadj. 同样的；相似的\nn. 爱好；同样的人或物\nadv. 可能\nconj. 好像",
+    "释义(英文)": "n. a similar kind\nn. a kind of person\nv. find enjoyable or agreeable\nv. be fond of"
+  },
+  {
+    "单词": "new",
+    "英音": "[njuː]",
+    "美音": "[nuː]",
+    "释义(中文)": "adj. 新的，新鲜的；更新的；初见的\nadv. 新近\n",
+    "释义(英文)": "a. not of long duration; having just (or relatively recently) come into being or been made or acquired or discovered\ns. having no previous example or precedent or parallel\ns. other than the former one(s); different\na. unaffected by use or exposure"
+  },
+  {
+    "单词": "year",
+    "英音": "[jɪə(r)]",
+    "美音": "[jɪr]",
+    "释义(中文)": "n. 年；年度；历年；年纪；一年的期间；某年级的学生",
+    "释义(英文)": "n. a period of time containing 365 (or 366) days\nn. a period of time occupying a regular part of a calendar year that is used for some particular activity\nn. the period of time that it takes for a planet (as, e.g., Earth or Mars) to make a complete revolution around the sun"
+  },
+  {
+    "单词": "New Year's Day",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 元旦\n",
+    "释义(英文)": " the first day of a calendar year; the first day of\n   January. Often colloquially abbreviated to New year's or new year."
+  },
+  {
+    "单词": "I see.",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 我明白了；我知道了；我了解",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "beautiful",
+    "英音": "[ˈbjuːtɪf(ə)l]",
+    "美音": "[ˈbjuːtɪf(ə)l]",
+    "释义(中文)": "adj. 美丽的\n出色地\n出色的\n迷人的\n迷人地",
+    "释义(英文)": "a. delighting the senses or exciting intellectual or emotional admiration\ns. (of weather) highly enjoyable"
+  },
+  {
+    "单词": "dumpling",
+    "英音": "[ˈdʌmplɪŋ]",
+    "美音": "[ˈdʌmplɪŋ]",
+    "释义(中文)": "n. 饺子，汤团；面团布丁",
+    "释义(英文)": "n. small balls or strips of boiled or steamed dough\nn. dessert made by baking fruit wrapped in pastry"
+  },
+  {
+    "单词": "yourself",
+    "英音": "[jɔːˈself]",
+    "美音": "[jɔːrˈself; jʊrˈself; jərˈself]",
+    "释义(中文)": "pron. 你自己",
+    "释义(英文)": "pron. An emphasized or reflexive form of the pronoun of the\n   second person; -- used as a subject commonly with you; as, you yourself\n   shall see it; also, alone in the predicate, either in the nominative or\n   objective case; as, you have injured yourself."
+  },
+  {
+    "单词": "Help yourself.",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 别客气；请自便；随便吃",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "delicious",
+    "英音": "[dɪˈlɪʃəs]",
+    "美音": "[dɪˈlɪʃəs]",
+    "释义(中文)": "adj. 美味的；可口的",
+    "释义(英文)": "n. variety of sweet eating apples"
+  },
+  {
+    "单词": "lantern",
+    "英音": "[ˈlæntən]",
+    "美音": "[ˈlæntərn]",
+    "释义(中文)": "n. 灯笼；提灯；灯笼式天窗",
+    "释义(英文)": "n. light in a transparent protective case"
+  },
+  {
+    "单词": "wonderful",
+    "英音": "[ˈwʌndəf(ə)l]",
+    "美音": "[ˈwʌndərf(ə)l]",
+    "释义(中文)": "adj. 极好的，精彩的，绝妙的；奇妙的；美妙；胜；神妙",
+    "释义(英文)": "s extraordinarily good or great; used especially as intensifiers"
+  },
+  {
+    "单词": "Dragon Boat Festival",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 端午节；龙舟节；端午节英语作文",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "Mid-Autumn Festival",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "《英汉医学词典》mid autumn festival\n中秋节",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "mooncake",
+    "英音": "['mu:nkeɪk]",
+    "美音": "[ˈmuːnkeɪk]",
+    "释义(中文)": "n. 月饼",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "Christmas",
+    "英音": "[ˈkrɪsməs]",
+    "美音": "[ˈkrɪsməs]",
+    "释义(中文)": "n. 圣诞节；圣诞节期间",
+    "释义(英文)": "n. period extending from Dec. 24 to Jan. 6\nn. a Christian holiday celebrating the birth of Christ; a quarter day in England, Wales, and Ireland"
+  },
+  {
+    "单词": "card",
+    "英音": "[kɑːd]",
+    "美音": "[kɑːrd]",
+    "释义(中文)": "n. 卡片；纸牌；明信片\nvt. 记于卡片上\n",
+    "释义(英文)": "n. one of a set of small pieces of stiff paper marked in various ways and used for playing games or for telling fortunes\nn. a card certifying the identity of the bearer\nn. a rectangular piece of stiff paper used to send messages (may have printed greetings or pictures)\nn. thin cardboard, usually rectangular"
+  },
+  {
+    "单词": "tree",
+    "英音": "[triː]",
+    "美音": "[triː]",
+    "释义(中文)": "n. 树；木料；树状物\nvt. 把...赶上树\nvi. 爬上树；逃上树\n",
+    "释义(英文)": "n. a tall perennial woody plant having a main trunk and branches forming a distinct elevated crown; includes both gymnosperms and angiosperms\nn. a figure that branches from a single root\nn. English actor and theatrical producer noted for his lavish productions of Shakespeare (1853-1917)\nv. plant with trees"
+  },
+  {
+    "单词": "clock",
+    "英音": "[klɒk]",
+    "美音": "[klɑːk]",
+    "释义(中文)": "n. 时钟；计时器\nvt. 记录；记时\nvi. 打卡；记录时间\n",
+    "释义(英文)": "n. a timepiece that shows the time of day\nv. measure the time or duration of an event or action or the person who performs an action in a certain period of time"
+  },
+  {
+    "单词": "party",
+    "英音": "[ˈpɑːti]",
+    "美音": "[ˈpɑːrti]",
+    "释义(中文)": "n. 政党，党派；聚会，派对；当事人 [复数 parties]\nvi. 参加社交聚会 [ 过去式 partied 过去分词 partied 现在分词 partying ]",
+    "释义(英文)": "n. an organization to gain political power\nn. a group of people gathered together for pleasure\nn. a band of people associated temporarily in some activity\nn. an occasion on which people can assemble for social interaction and entertainment"
+  },
+  {
+    "单词": "full",
+    "英音": "[fʊl]",
+    "美音": "[fʊl]",
+    "释义(中文)": "n. 全部；完整\nadj. 完全的，完整的；满的，充满的；丰富的；完美的；丰满的；详尽的\nvt. 把衣服缝得宽大\nadv. 十分，非常；完全地；整整",
+    "释义(英文)": "v. beat for the purpose of cleaning and thickening\nv. make (a garment) fuller by pleating or gathering\na. containing as much or as many as is possible or normal\ns. complete in extent or degree and in every particular"
+  },
+  {
+    "单词": "rice",
+    "英音": "[raɪs]",
+    "美音": "[raɪs]",
+    "释义(中文)": "n. 稻；米饭\nvt. 把…捣成米糊状\n",
+    "释义(英文)": "n. grains used as food either unpolished or more often polished\nn. annual or perennial rhizomatous marsh grasses; seed used for food; straw used for paper\nn. English lyricist who frequently worked with Andrew Lloyd Webber (born in 1944)\nn. United States playwright (1892-1967)"
+  },
+  {
+    "单词": "rice dumpling",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 粽子；汤圆；肉粽",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "warm",
+    "英音": "[wɔːm]",
+    "美音": "[wɔːrm]",
+    "释义(中文)": "n. 取暖；加热\nadj. 温暖的；热情的\nvt. 使…兴奋；使…温暖；使…感兴趣\nvi. 同情；激动；变温暖\n",
+    "释义(英文)": "v. get warm or warmer\nv. make warm or warmer\na. having or producing a comfortable and agreeable degree of heat or imparting or maintaining heat\na. psychologically warm; friendly and responsive"
+  },
+  {
+    "单词": "which",
+    "英音": "[wɪtʃ]",
+    "美音": "[wɪtʃ]",
+    "释义(中文)": "adj. 哪一个；哪一些\npron. 哪/那一个；哪/那一些",
+    "释义(英文)": "a. Of what sort or kind; what; what a; who.\na. A interrogative pronoun, used both substantively and\n   adjectively, and in direct and indirect questions, to ask for, or refer\n   to, an individual person or thing among several of a class; as, which\n   man is it? which woman was it? which is the house? he asked which route\n   he should take; which is best, to live or to die? See the Note under\n   What, pron., 1.\npron. A relative pronoun, used esp. in referring to an\n   antecedent noun or clause, but sometimes with reference to what is\n   specified or implied in a sentence, or to a following noun or clause\n   (generally involving a reference, however, to something which has\n   preceded). It is used in all numbers and genders, and was formerly used\n   of persons.\npron. A compound relative or indefinite pronoun, standing for\n   any one which, whichever, that which, those which, the . . . which, and\n   the like; as, take which you will."
+  },
+  {
+    "单词": "season",
+    "英音": "[ˈsiːzn]",
+    "美音": "[ˈsiːzn]",
+    "释义(中文)": "n. 时期；季节；赛季\nvt. 给…调味；使适应\nvi. 变得成熟；变干燥",
+    "释义(英文)": "n. a period of the year marked by special events or activities in some field\nn. one of the natural periods into which the year is divided by the equinoxes and solstices or atmospheric conditions\nn. a recurrent time marked by major holidays\nv. lend flavor to"
+  },
+  {
+    "单词": "winter",
+    "英音": "[ˈwɪntə(r)]",
+    "美音": "[ˈwɪntər]",
+    "释义(中文)": "n. 冬季；年岁；萧条期\nadj. 冬天的；越冬的\nvi. 过冬\n",
+    "释义(英文)": "n. the coldest season of the year; in the northern hemisphere it extends from the winter solstice to the vernal equinox\nv. spend the winter"
+  },
+  {
+    "单词": "too",
+    "英音": "[tuː]",
+    "美音": "[tuː]",
+    "释义(中文)": "adv. 太；也；很；还；非常；过度",
+    "释义(英文)": "r to a degree exceeding normal or proper limits\nr in addition"
+  },
+  {
+    "单词": "snow",
+    "英音": "[snəʊ]",
+    "美音": "[snoʊ]",
+    "释义(中文)": "n. 雪，积雪；下雪\nvt. 使纷纷落下；使变白\nvi. 降雪\n",
+    "释义(英文)": "n. precipitation falling from clouds in the form of ice crystals\nn. a layer of snowflakes (white crystals of frozen water) covering the ground\nn. English writer of novels about moral dilemmas in academe (1905-1980)\nv. fall as snow"
+  },
+  {
+    "单词": "summer",
+    "英音": "[ˈsʌmə(r)]",
+    "美音": "[ˈsʌmər]",
+    "释义(中文)": "n. 夏季；全盛时期\nadj. 夏季的\nvi. 避暑；过夏天\n",
+    "释义(英文)": "n. the warmest season of the year; in the northern hemisphere it extends from the summer solstice to the autumnal equinox\nn. the period of finest development, happiness, or beauty\nv. spend the summer"
+  },
+  {
+    "单词": "cool",
+    "英音": "[kuːl]",
+    "美音": "[kuːl]",
+    "释义(中文)": "n. 凉爽；凉爽的空气\nadj. 凉爽的；冷静的；出色的\nvt. 使…冷却；使…平静下来\nvi. 变凉；平息\nadv. 冷静地\n",
+    "释义(英文)": "n. the quality of being at a refreshingly low temperature\nv. make cool or cooler\nv. loose heat\nv. lose intensity"
+  },
+  {
+    "单词": "fall",
+    "英音": "[fɔːl]",
+    "美音": "[fɔːl]",
+    "释义(中文)": "n. 下降；秋天；瀑布\nadj. 秋天的\nvi. 落下；变成；来临；减弱\nvt. 砍倒；击倒\n",
+    "释义(英文)": "n. the season when the leaves fall from the trees\nn. the lapse of mankind into sinfulness because of the sin of Adam and Eve\nn. a lapse into sin; a loss of innocence or of chastity\nn. a sudden decline in strength or number or importance"
+  },
+  {
+    "单词": "poor",
+    "英音": "[pɔː(r)]",
+    "美音": "[pʊr; pɔːr]",
+    "释义(中文)": "adj. 贫穷的；可怜的；贫乏的；卑鄙的\n",
+    "释义(英文)": "a. having little money or few possessions\na. characterized by or indicating poverty\na. lacking in specific resources, qualities or substances\ns. unsatisfactory"
+  },
+  {
+    "单词": "matter",
+    "英音": "[ˈmætə(r)]",
+    "美音": "[ˈmætər]",
+    "释义(中文)": "n. 物质；事件\nvi. 有关系；要紧\n",
+    "释义(英文)": "n. a vaguely specified concern\nn. that which has mass and occupies space\nn. a problem\nn. (used with negation) having consequence"
+  },
+  {
+    "单词": "busy",
+    "英音": "[ˈbɪzi]",
+    "美音": "[ˈbɪzi]",
+    "释义(中文)": "adj. 忙碌的；热闹的；正被占用的\nvt. 使忙于\n",
+    "释义(英文)": "v. keep busy with\na. actively or fully engaged or occupied\ns. overcrowded or cluttered with detail\ns. crowded with or characterized by much activity"
+  },
+  {
+    "单词": "park",
+    "英音": "[pɑːk]",
+    "美音": "[pɑːrk]",
+    "释义(中文)": "n. 公园；[交] 停车场\nvt. 停放；放置；寄存\nvi. 停放车辆\n",
+    "释义(英文)": "n. a large area of land preserved in its natural state as public property\nn. a piece of open land for recreational use in an urban area\nn. Scottish explorer in Africa (1771-1806)\nn. a gear position that acts as a parking brake"
+  },
+  {
+    "单词": "idea",
+    "英音": "[aɪˈdɪə]",
+    "美音": "[aɪˈdiːə]",
+    "释义(中文)": "n. 想法；主意；概念",
+    "释义(英文)": "n. the content of cognition; the main thing you are thinking about\nn. a personal view"
+  },
+  {
+    "单词": "fever",
+    "英音": "[ˈfiːvə(r)]",
+    "美音": "[ˈfiːvər]",
+    "释义(中文)": "n. 发烧，发热；狂热\nvt. 使发烧；使狂热；使患热病\nvi. 发烧；狂热；患热病",
+    "释义(英文)": "n. a rise in the temperature of the body; frequently a symptom of infection\nn. intense nervous anticipation"
+  },
+  {
+    "单词": "gee",
+    "英音": "[dʒiː]",
+    "美音": "[dʒiː]",
+    "释义(中文)": "n. 马；字母G；一千美元（美俚）\nv. 向右转\nint. 向右！前进！快！（驾驭马牛等的吆喝声）",
+    "释义(英文)": "v. turn to the right side\nv. give a command to a horse to turn to the right side"
+  },
+  {
+    "单词": "bad",
+    "英音": "[bæd]",
+    "美音": "[bæd]",
+    "释义(中文)": "n. 坏事；坏人\nadj. 坏的；严重的；劣质的\nadv. 很，非常；坏地；邪恶地\n",
+    "释义(英文)": "n. that which is below standard or expectations as of ethics or decency\na. having undesirable or negative qualities\ns. very intense\ns. feeling physical discomfort or pain (`tough' is occasionally used colloquially for `bad')"
+  },
+  {
+    "单词": "care",
+    "英音": "[keə(r)]",
+    "美音": "[ker]",
+    "释义(中文)": "n. 关怀；照料；谨慎；忧虑\nvt. 在意；希望或喜欢\nvi. 照顾；关心；喜爱；顾虑\n",
+    "释义(英文)": "n. the work of providing treatment for or attending to someone or something\nn. a cause for feeling concern\nn. attention and management implying responsibility for safety\nn. activity involved in maintaining something in good working order"
+  },
+  {
+    "单词": "take care",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "v. 当心；留心\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "hope",
+    "英音": "[həʊp]",
+    "美音": "[hoʊp]",
+    "释义(中文)": "n. 希望；期望；信心\nvi. 希望；期待；信赖\nvt. 希望；期望\n",
+    "释义(英文)": "n. a specific instance of feeling hopeful\nn. the general feeling that some desire will be fulfilled\nn. someone (or something) on which expectations are centered\nn. United States comedian (born in England) who appeared in films with Bing Crosby (1903-2003)"
+  },
+  {
+    "单词": "so",
+    "英音": "[səʊ]",
+    "美音": "[soʊ]",
+    "释义(中文)": "conj. 所以；因此\nadv. 如此，这么；确是如此\npron. 这样\n",
+    "释义(英文)": "r. to a very great extent or degree\nr. in a manner that facilitates\nr. in such a condition or manner, especially as expressed or implied\nr. to a certain unspecified extent or degree"
+  },
+  {
+    "单词": "cold",
+    "英音": "[kəʊld]",
+    "美音": "[kəʊld]",
+    "释义(中文)": "n. 寒冷；感冒\nadj. 寒冷的；冷淡的，不热情的；失去知觉的\nadv. 完全地",
+    "释义(英文)": "n. a mild viral infection involving the nose and respiratory passages (but not the lungs)\nn. the sensation produced by low temperatures\na. having a low or inadequate temperature or feeling a sensation of coldness or having been made cold by e.g. ice or refrigeration\na. extended meanings; especially of psychological coldness; without human warmth or emotion"
+  },
+  {
+    "单词": "headache",
+    "英音": "[ˈhedeɪk]",
+    "美音": "[ˈhedeɪk]",
+    "释义(中文)": "n. 头痛；麻烦；令人头痛之事",
+    "释义(英文)": "n. pain in the head caused by dilation of cerebral arteries or muscle contractions or a reaction to drugs"
+  },
+  {
+    "单词": "stomachache",
+    "英音": "[ˈstʌməkeɪk]",
+    "美音": "[ˈstʌməkˌeɪk]",
+    "释义(中文)": "n. 腹痛，肚子痛；胃痛",
+    "释义(英文)": "n. an ache localized in the stomach or abdominal region"
+  },
+  {
+    "单词": "toothache",
+    "英音": "[ˈtuːθeɪk]",
+    "美音": "[ˈtuːθeɪk]",
+    "释义(中文)": "n. [口腔] 牙痛",
+    "释义(英文)": "n. an ache localized in or around a tooth"
+  },
+  {
+    "单词": "fun",
+    "英音": "[fʌn]",
+    "美音": "[fʌn]",
+    "释义(中文)": "n. 乐趣；玩笑；有趣的人或事\nadj. 供娱乐用的\nvi. 开玩笑",
+    "释义(英文)": "n. activities that are enjoyable or amusing\nn. verbal wit or mockery (often at another's expense but not to be taken seriously)\nn. violent and excited activity"
+  },
+  {
+    "单词": "roller coaster",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 过山车；〈比喻〉剧烈起伏(的事物)\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "exciting",
+    "英音": "[ɪkˈsaɪtɪŋ]",
+    "美音": "[ɪkˈsaɪtɪŋ]",
+    "释义(中文)": "adj. 令人兴奋的；使人激动的\nv. 激动；刺激（excite的ing形式）；唤起",
+    "释义(英文)": "a. creating or arousing excitement\ns. stimulating interest and discussion"
+  },
+  {
+    "单词": "ooh",
+    "英音": "[uː]",
+    "美音": "[uː]",
+    "释义(中文)": "int. （表示惊异、热心、高兴或不悦的叫声）哦！",
+    "释义(英文)": "v. express admiration and pleasure by uttering `ooh' or `aah'"
+  },
+  {
+    "单词": "scared",
+    "英音": "[skeəd]",
+    "美音": "[skerd]",
+    "释义(中文)": "v. 使害怕（scare的过去分词）\nadj. 害怕的",
+    "释义(英文)": "v cause fear in\nv cause to lose courage\nv mark with a scar\ns made afraid"
+  },
+  {
+    "单词": "bumper car",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 碰碰车；常用于美式英语\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "really",
+    "英音": "[ˈriːəli]",
+    "美音": "[ˈriːəli]",
+    "释义(中文)": "adv. 实际上，事实上；真正地，真实地；真的吗？（表语气）",
+    "释义(英文)": "r in accordance with truth or fact or reality\nr in actual fact\nr in fact (used as intensifiers or sentence modifiers)\nr used as intensifiers; `real' is sometimes used informally for `really'; `rattling' is informal"
+  },
+  {
+    "单词": "excited",
+    "英音": "[ɪkˈsaɪtɪd]",
+    "美音": "[ɪkˈsaɪtɪd]",
+    "释义(中文)": "v. 激动；唤起（excite的过去分词）\nadj. 兴奋的；激动的；活跃的",
+    "释义(英文)": "a. in an aroused state"
+  },
+  {
+    "单词": "tired",
+    "英音": "[ˈtaɪəd]",
+    "美音": "[ˈtaɪərd]",
+    "释义(中文)": "v. 疲倦；对…腻烦（tire的过去分词形式）\nadj. 疲倦的；厌倦的，厌烦的",
+    "释义(英文)": "a. depleted of strength or energy"
+  },
+  {
+    "单词": "phew",
+    "英音": "[fjuː]",
+    "美音": "[fjuː]",
+    "释义(中文)": "int. 唷（表示不快、惊讶的声音）\nvi. 咂舌头",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "store",
+    "英音": "[stɔː(r)]",
+    "美音": "[stɔːr]",
+    "释义(中文)": "n. 商店；储备，贮藏；仓库\nvt. 贮藏，储存\n",
+    "释义(英文)": "n. a supply of something available for future use\nv. keep or lay aside for future use\nv. find a place for and put away for storage"
+  },
+  {
+    "单词": "buy",
+    "英音": "[baɪ]",
+    "美音": "[baɪ]",
+    "释义(中文)": "n. 购买，买卖；所购的物品\nvi. 买，采购\nvt. 购买；获得；贿赂\n",
+    "释义(英文)": "v. obtain by purchase; acquire by means of a financial transaction\nv. be worth or be capable of buying\nv. acquire by trade or sacrifice or exchange\nv. accept as true"
+  },
+  {
+    "单词": "him",
+    "英音": "[hɪm; ɪm]",
+    "美音": "[hɪm; ɪm]",
+    "释义(中文)": "pron. 他（宾格）\n",
+    "释义(英文)": "pron. Them. See Hem.\npron. The objective case of he. See He."
+  },
+  {
+    "单词": "present",
+    "英音": "[ˈprez(ə)nt]",
+    "美音": "[ˈpreznt]",
+    "释义(中文)": "n. 现在；礼物；瞄准\nadj. 现在的；出席的\nvt. 提出；介绍；呈现；赠送\nvi. 举枪瞄准",
+    "释义(英文)": "n. the period of time that is happening now; any continuous stretch of time including the moment of speech\nn. something presented as a gift\nn. a verb tense that expresses actions or states at the time of speaking\nv. bring forward and present to the mind"
+  },
+  {
+    "单词": "watch",
+    "英音": "[wɒtʃ]",
+    "美音": "[wɑːtʃ]",
+    "释义(中文)": "n. 手表；监视；守护；值班人\nvt. 观察；注视；看守；警戒\nvi. 观看，注视；守侯，看守",
+    "释义(英文)": "n. a small portable timepiece\nn. a period of time (4 or 2 hours) during which some of a ship's crew are on duty\nn. a purposeful surveillance to guard or observe\nn. the period during which someone (especially a guard) is on duty"
+  },
+  {
+    "单词": "cost",
+    "英音": "[kɒst]",
+    "美音": "[kɔːst]",
+    "释义(中文)": "n. 费用，代价，成本；损失\nvt. 花费；使付出；使花许多钱\nvi. 花费\n",
+    "释义(英文)": "n. the total spent for goods or services including money and time and labor\nv. be priced at\nv. require to lose, suffer, or sacrifice"
+  },
+  {
+    "单词": "too much",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 太过份\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "robot",
+    "英音": "[ˈrəʊbɒt]",
+    "美音": "[ˈroʊbɑːt]",
+    "释义(中文)": "n. 机器人；遥控设备，自动机械；机械般工作的人",
+    "释义(英文)": "n a mechanism that can move automatically"
+  },
+  {
+    "单词": "look for",
+    "英音": "[ˈlʊk fɔː(r)]",
+    "美音": "[ˈlʊk fɔːr]",
+    "释义(中文)": "v. 寻找；探索；渴望；盼望\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "flower",
+    "英音": "[ˈflaʊə(r)]",
+    "美音": "[ˈflaʊər]",
+    "释义(中文)": "n. 花；精华；开花植物\nvt. 使开花；用花装饰\nvi. 成熟，发育；开花；繁荣；旺盛\n",
+    "释义(英文)": "n. a plant cultivated for its blooms or blossoms\nn. reproductive organ of angiosperm plants especially one having showy or colorful parts\nn. the period of greatest prosperity or productivity"
+  },
+  {
+    "单词": "grandma",
+    "英音": "[ˈɡrænmɑː]",
+    "美音": "[ˈɡrænmɑː]",
+    "释义(中文)": "n. 奶奶；外婆",
+    "释义(英文)": "n. the mother of your father or mother"
+  },
+  {
+    "单词": "her",
+    "英音": "[hə(r)]",
+    "美音": "[hər; ɜːr; ər; hɜːr]",
+    "释义(中文)": "pron. 她（she的宾格）；她的（she的所有格）；她（指某个国家；一艘船）\n",
+    "释义(英文)": "pron. & a. The form of the objective and the possessive case of\n   the personal pronoun she; as, I saw her with her purse out.\npron. pl. Alt. of Here"
+  },
+  {
+    "单词": "happen",
+    "英音": "[ˈhæpən]",
+    "美音": "[ˈhæpən]",
+    "释义(中文)": "vi. 发生；碰巧；偶然遇到",
+    "释义(英文)": "v. come to pass\nv. happen, occur, or be the case in the course of events or by chance\nv. chance to be or do something, without intention or causation\nv. come into being; become reality"
+  },
+  {
+    "单词": "What's happening?",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 在忙什么；正在发生什么；发生了什么事",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "surprise",
+    "英音": "[səˈpraɪz]",
+    "美音": "[sərˈpraɪz]",
+    "释义(中文)": "n. 惊奇，诧异；突然袭击\nadj. 令人惊讶的\nvt. 使惊奇；奇袭",
+    "释义(英文)": "n. the astonishment you feel when something totally unexpected happens to you\nn. a sudden unexpected event\nn. the act of surprising someone\nv. cause to be surprised"
+  },
+  {
+    "单词": "blow",
+    "英音": "[bləʊ]",
+    "美音": "[bloʊ]",
+    "释义(中文)": "n. 吹；打击；殴打\nvt. 风吹\nvi. 风吹；喘气\n",
+    "释义(英文)": "n. a powerful stroke with the fist or a weapon\nn. an impact (as from a collision)\nn. forceful exhalation through the nose or mouth\nv. exhale hard"
+  },
+  {
+    "单词": "blow out",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 取消；停止鼓风；(吹)胀；吹破\n",
+    "释义(英文)": "n. The cleaning of the flues of a boiler from scale, etc.,\n   by a blast of steam."
+  },
+  {
+    "单词": "all",
+    "英音": "[ɔːl]",
+    "美音": "[ɔːl]",
+    "释义(中文)": "n. 全部\nadj. 全部的\nadv. 全然地；越发\npron. 全部\n",
+    "释义(英文)": "a. quantifier; used with either mass or count nouns to indicate the whole number or amount of or every one of a class\ns. completely given to or absorbed by"
+  },
+  {
+    "单词": "from",
+    "英音": "[frəm; frɒm]",
+    "美音": "[frəm; frʌm; frɑːm]",
+    "释义(中文)": "prep. 来自，从；由于；今后\n",
+    "释义(英文)": "prep. Out of the neighborhood of; lessening or losing proximity\n   to; leaving behind; by reason of; out of; by aid of; -- used whenever\n   departure, setting out, commencement of action, being, state,\n   occurrence, etc., or procedure, emanation, absence, separation, etc.,\n   are to be expressed. It is construed with, and indicates, the point of\n   space or time at which the action, state, etc., are regarded as setting\n   out or beginning; also, less frequently, the source, the cause, the\n   occasion, out of which anything proceeds; -- the aritithesis and\n   correlative of to; as, it, is one hundred miles from Boston to\n   Springfield; he took his sword from his side; light proceeds from the\n   sun; separate the coarse wool from the fine; men have all sprung from\n   Adam, and often go from good to bad, and from bad to worse; the merit\n   of an action depends on the principle from which it proceeds; men judge\n   of facts from personal knowledge, or from testimony."
+  },
+  {
+    "单词": "aunt",
+    "英音": "[ɑːnt]",
+    "美音": "[ænt]",
+    "释义(中文)": "n. 阿姨；姑妈；伯母；舅妈",
+    "释义(英文)": "n. the sister of your father or mother; the wife of your uncle"
+  },
+  {
+    "单词": "grandpa",
+    "英音": "[ˈɡrænpɑː]",
+    "美音": "[ˈɡrænpɑː]",
+    "释义(中文)": "n. 爷爷；外公",
+    "释义(英文)": "n the father of your father or mother"
+  },
+  {
+    "单词": "uncle",
+    "英音": "[ˈʌŋk(ə)l]",
+    "美音": "[ˈʌŋkl]",
+    "释义(中文)": "n. 叔叔；伯父；伯伯；舅父；姨丈；姑父",
+    "释义(英文)": "n. the brother of your father or mother; the husband of your aunt\nn. a source of help and advice and encouragement"
+  },
+  {
+    "单词": "cousin",
+    "英音": "[ˈkʌzn]",
+    "美音": "[ˈkʌzn]",
+    "释义(中文)": "n. 堂兄弟姊妹；表兄弟姊妹",
+    "释义(英文)": "n. the child of your aunt or uncle"
+  },
+  {
+    "单词": "post office",
+    "英音": "[ˈpəust ɔfis]",
+    "美音": "[ˈpost ɔfɪs]",
+    "释义(中文)": "n. 邮局；邮政部门；邮政系统；邮差敲门游戏（儿童用假托的信件换取亲吻）\n",
+    "释义(英文)": "n. See under 4th Post."
+  },
+  {
+    "单词": "policeman",
+    "英音": "[pəˈliːsmən]",
+    "美音": "[pəˈliːsmən]",
+    "释义(中文)": "n. 警察，警员；[分化] 淀帚（橡皮头玻璃搅棒）",
+    "释义(英文)": "n. a member of a police force"
+  },
+  {
+    "单词": "ask",
+    "英音": "[ɑːsk]",
+    "美音": "[æsk]",
+    "释义(中文)": "vt. 问，询问；要求；需要；邀请；讨价\nvi. 问，询问；要求\n",
+    "释义(英文)": "v. inquire about\nv. make a request or demand for something to somebody\nv. direct or put; seek an answer to\nv. consider obligatory; request and expect"
+  },
+  {
+    "单词": "excuse me",
+    "英音": "[ɪk'skjʊs mi]",
+    "美音": "[ɪkˈskjuːz mi]",
+    "释义(中文)": "un. 请原谅；对不起\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "over there",
+    "英音": "['əʊvə(r) ðeə(r)]",
+    "美音": "[ˈəʊvər ðer]",
+    "释义(中文)": "na. 在那边；〔美国〕在欧洲；〔大战用语〕在战地\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "ah",
+    "英音": "[ɑː]",
+    "美音": "[ɑː]",
+    "释义(中文)": "int. 啊；呀\n",
+    "释义(英文)": "interj. An exclamation, expressive of surprise, pity, complaint,\n   entreaty, contempt, threatening, delight, triumph, etc., according to\n   the manner of utterance."
+  },
+  {
+    "单词": "see",
+    "英音": "[siː]",
+    "美音": "[siː]",
+    "释义(中文)": "vi. 看；看见；领会\nvt. 看见；理解；领会\n",
+    "释义(英文)": "n. the seat within a bishop's diocese where his cathedral is located\nv. perceive by sight or have the power to perceive by sight\nv. deem to be\nv. be careful or certain to do something; make certain of something"
+  },
+  {
+    "单词": "clerk",
+    "英音": "[klɑːk]",
+    "美音": "[klɜːrk]",
+    "释义(中文)": "n. 职员，办事员；店员；书记；记账员；<古>牧师，教士\nvi. 当销售员，当店员；当职员\n",
+    "释义(英文)": "n. an employee who performs clerical work (e.g., keeps records or accounts)\nv. work as a clerk, as in the legal business"
+  },
+  {
+    "单词": "may",
+    "英音": "[meɪ]",
+    "美音": "[meɪ]",
+    "释义(中文)": "aux. 可以，能够；可能，也许；祝，愿；会，能",
+    "释义(英文)": "n. the month following April and preceding June"
+  },
+  {
+    "单词": "send",
+    "英音": "[send]",
+    "美音": "[send]",
+    "释义(中文)": "n. 上升运动\nvi. 派人；寄信\nvt. 发送，寄；派遣；使进入；发射\n",
+    "释义(英文)": "v. cause to go somewhere\nv. to cause or order to be taken, directed, or transmitted to another place\nv. transfer"
+  },
+  {
+    "单词": "How long ...?",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "conj. 多长时间\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "take",
+    "英音": "[teɪk]",
+    "美音": "[teɪk]",
+    "释义(中文)": "vi. 拿；获得\nvt. 拿，取；采取；接受（礼物等）；买，花费；耗费（时间等）\nn. 捕获量；看法；利益，盈益；（入场券的）售得金额",
+    "释义(英文)": "n. the act of photographing a scene or part of a scene without interruption\nv. carry out\nv. require (time or space)\nv. get into one's hands, take physically"
+  },
+  {
+    "单词": "about",
+    "英音": "[əˈbaʊt]",
+    "美音": "[əˈbaʊt]",
+    "释义(中文)": "prep. 关于；大约\nn. 大致；粗枝大叶；不拘小节的人\nadj. 在附近的；四处走动的；在起作用的\nadv. 大约；周围；到处\n",
+    "释义(英文)": "s. on the move\nr. all around or on all sides\nr. in the area or vicinity\nr. used of movement to or among many different places or in no particular direction"
+  },
+  {
+    "单词": "bookstore",
+    "英音": "[ˈbʊkstɔː(r)]",
+    "美音": "[ˈbʊkstɔːr]",
+    "释义(中文)": "n. 书店（等于bookshop）",
+    "释义(英文)": "n a shop where books are sold"
+  },
+  {
+    "单词": "restaurant",
+    "英音": "[ˈrestrɒnt]",
+    "美音": "[ˈrestrɑːnt; ˈrestərɑːnt]",
+    "释义(中文)": "n. 餐馆；[经] 饭店",
+    "释义(英文)": "n. a building where people go to eat"
+  },
+  {
+    "单词": "hospital",
+    "英音": "[ˈhɒspɪt(ə)l]",
+    "美音": "[ˈhɑːspɪtl]",
+    "释义(中文)": "n. 医院\n",
+    "释义(英文)": "n. a health facility where patients receive treatment\nn. a medical institution where sick or injured people are given medical or surgical care"
+  },
+  {
+    "单词": "supermarket",
+    "英音": "[ˈsuːpəmɑːkɪt]",
+    "美音": "[ˈsuːpərmɑːrkɪt]",
+    "释义(中文)": "n. 超级市场；自助售货商店",
+    "释义(英文)": "n. a large self-service grocery store selling groceries and dairy products and household goods"
+  },
+  {
+    "单词": "bathroom",
+    "英音": "[ˈbɑːθruːm; ˈbɑːθrʊm]",
+    "美音": "[ˈbæθruːm]",
+    "释义(中文)": "n. 浴室；厕所；盥洗室",
+    "释义(英文)": "n. a room (as in a residence) containing a bathtub or shower and usually a washbasin and toilet"
+  },
+  {
+    "单词": "living room",
+    "英音": "['lɪvɪŋ ru:m]",
+    "美音": "[ˈlɪvɪŋ ruːm]",
+    "释义(中文)": "n. 客厅；起居室\n",
+    "释义(英文)": "n a room in a private house or establishment where people can sit and talk and relax"
+  },
+  {
+    "单词": "TV",
+    "英音": "[ˌtiː ˈviː]",
+    "美音": "[ˌtiː ˈviː]",
+    "释义(中文)": "abbr. 电视（television）",
+    "释义(英文)": "n broadcasting visual images of stationary or moving objects\nn an electronic device that receives television signals and displays them on a screen"
+  },
+  {
+    "单词": "work",
+    "英音": "[wɜːk]",
+    "美音": "[wɜːrk]",
+    "释义(中文)": "n. 工作；[物] 功；产品；操作；职业；行为；事业；工厂；著作；文学、音乐或艺术作品\nvt. 使工作；操作；经营；使缓慢前进\nvi. 工作；运作；起作用\n",
+    "释义(英文)": "n. activity directed toward making or doing something\nn. a product produced or accomplished through the effort or activity or agency of a person or thing\nn. (physics) a manifestation of energy; the transfer of energy from one physical system to another expressed as the product of a force and the distance through which it moves a body in the direction of that force\nv. exert oneself by doing mental or physical work for a purpose or out of necessity"
+  },
+  {
+    "单词": "funny",
+    "英音": "[ˈfʌni]",
+    "美音": "[ˈfʌni]",
+    "释义(中文)": "n. 滑稽人物；笑话，有趣的故事；滑稽连环漫画栏；（英）（比赛用）单人双桨小艇\nadj. 有趣的，好笑的，滑稽的；（口）稀奇的，古怪的，奇异的；有病的，不舒服的；狡猾的，欺骗（性）的，可疑的，不光明",
+    "释义(英文)": "s. experiencing odd bodily sensations"
+  },
+  {
+    "单词": "spider",
+    "英音": "[ˈspaɪdə(r)]",
+    "美音": "[ˈspaɪdər]",
+    "释义(中文)": "n. 蜘蛛；设圈套者；三脚架",
+    "释义(英文)": "n. predatory arachnid with eight legs, two poison fangs, two feelers, and usually two silk-spinning organs at the back end of the body; they spin silk to make cocoons for eggs or traps for prey\nn. a computer program that prowls the internet looking for publicly accessible resources that can be added to a database; the database can then be searched with a search engine\nn. a skillet made of cast iron"
+  },
+  {
+    "单词": "take ... away",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "adj. 买回去的\n",
+    "释义(英文)": "s of or involving food to be taken and eaten off the premises"
+  },
+  {
+    "单词": "ugh",
+    "英音": "[ɜː]",
+    "美音": "[ʊx；ɜː]",
+    "释义(中文)": "int. 啊；呸",
+    "释义(英文)": "interj. An exclamation expressive of disgust, horror, or recoil.\n   Its utterance is usually accompanied by a shudder."
+  },
+  {
+    "单词": "bedroom",
+    "英音": "[ˈbedruːm]",
+    "美音": "[ˈbedruːm; ˈbedrʊm]",
+    "释义(中文)": "n. 卧室\nadj. 两性关系的；城郊住宅区的",
+    "释义(英文)": "n. a room used primarily for sleeping"
+  },
+  {
+    "单词": "kitchen",
+    "英音": "[ˈkɪtʃɪn]",
+    "美音": "[ˈkɪtʃɪn]",
+    "释义(中文)": "n. 厨房；炊具；炊事人员\n",
+    "释义(英文)": "n. a room equipped for preparing meals"
+  },
+  {
+    "单词": "dining room",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 饭厅；餐厅\n",
+    "释义(英文)": "n a room used for dining"
+  },
+  {
+    "单词": "photo",
+    "英音": "[ˈfəʊtəʊ]",
+    "美音": "[ˈfoʊtoʊ]",
+    "释义(中文)": "n. 照片",
+    "释义(英文)": "n a representation of a person or scene in the form of a print or transparent slide; recorded by a camera on light-sensitive material"
+  },
+  {
+    "单词": "hang",
+    "英音": "[hæŋ]",
+    "美音": "[hæŋ]",
+    "释义(中文)": "n. 悬挂；暂停，中止\nvt. 悬挂，垂下；装饰；绞死；使悬而未决\nvi. 悬着，垂下；被绞死；悬而不决\n",
+    "释义(英文)": "n. the way a garment hangs\nn. a gymnastic exercise performed on the rings or horizontal bar or parallel bars when the gymnast's weight is supported by the arms\nv. be suspended or hanging\nv. cause to be hanging or suspended"
+  },
+  {
+    "单词": "hundred",
+    "英音": "[ˈhʌndrəd]",
+    "美音": "[ˈhʌndrəd]",
+    "释义(中文)": "num. 百；百个\nn. 一百；许多\nadj. 一百的；许多的",
+    "释义(英文)": "n. ten 10s\ns. being ten more than ninety"
+  },
+  {
+    "单词": "quickly",
+    "英音": "[ˈkwɪkli]",
+    "美音": "[ˈkwɪkli]",
+    "释义(中文)": "adv. 迅速地；很快地",
+    "释义(英文)": "r. with rapid movements"
+  },
+  {
+    "单词": "smile",
+    "英音": "[smaɪl]",
+    "美音": "[smaɪl]",
+    "释义(中文)": "n. 微笑；笑容；喜色\nvt. 微笑着表示\nvi. 微笑\n",
+    "释义(英文)": "n. a facial expression characterized by turning up the corners of the mouth; usually shows pleasure or amusement\nv. change one's facial expression by spreading the lips, often to signal pleasure\nv. express with a smile"
+  },
+  {
+    "单词": "oops",
+    "英音": "[ʊps]",
+    "美音": "[ʊpsˌuːps]",
+    "释义(中文)": "int. 哎哟（表示惊讶，狼狈时所发的喊声）",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "sixty",
+    "英音": "[ˈsɪksti]",
+    "美音": "[ˈsɪksti]",
+    "释义(中文)": "num. 六十；六十个",
+    "释义(英文)": "n. the cardinal number that is the product of ten and six\ns. being ten more than fifty"
+  },
+  {
+    "单词": "seventy",
+    "英音": "[ˈsev(ə)nti]",
+    "美音": "[ˈsev(ə)nti]",
+    "释义(中文)": "n. 七十；七十个；七十岁；七十年代\nnum. 七十\nadj. 七十的；七十个的；七十岁的",
+    "释义(英文)": "n. the cardinal number that is the product of ten and seven\ns. being ten more than sixty"
+  },
+  {
+    "单词": "eighty",
+    "英音": "[ˈeɪti]",
+    "美音": "[ˈeɪti]",
+    "释义(中文)": "num. 八十\nn. 八十；八十岁；八十年代\nadj. 八十的，八十个的；八十岁的",
+    "释义(英文)": "n. the cardinal number that is the product of ten and eight\ns. being ten more than seventy"
+  },
+  {
+    "单词": "ninety",
+    "英音": "[ˈnaɪnti]",
+    "美音": "[ˈnaɪnti]",
+    "释义(中文)": "n. 九十\nadj. 九十的；九十岁的\nnum. 九十",
+    "释义(英文)": "n. the cardinal number that is the product of ten and nine\ns. being ten more than eighty"
+  }
+]

@@ -1,0 +1,842 @@
+[
+  {
+    "单词": "hello",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. an expression of greeting"
+  },
+  {
+    "单词": "hi",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n an expression of greeting\nn a state in the United States in the central Pacific on the Hawaiian Islands"
+  },
+  {
+    "单词": "goodbye",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n a farewell remark"
+  },
+  {
+    "单词": "Miss",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a failure to hit (or meet or find etc)\nn. a form of address for an unmarried woman\nv. fail to perceive or to catch with the senses or the mind\nv. feel or suffer from the lack of"
+  },
+  {
+    "单词": "bye-bye",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n a farewell remark"
+  },
+  {
+    "单词": "I'm",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": " A contraction of I am."
+  },
+  {
+    "单词": "I am",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "what's",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "what is",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "your",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "pron. & a. The form of the possessive case of the personal\n   pronoun you."
+  },
+  {
+    "单词": "name",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a language unit by which a person or thing is known\nn. a person's reputation\nn. family based on male descent\nn. a well-known or notable person"
+  },
+  {
+    "单词": "my",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "a. Of or belonging to me; -- used always attributively; as, my\n   body; my book; -- mine is used in the predicate; as, the book is mine.\n   See Mine."
+  },
+  {
+    "单词": "is",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "v have the quality of being; (copula, used with an adjective or a predicate noun)\nv be identical to; be someone or something\nv occupy a certain position or area; be somewhere\nv have an existence, be extant\nv happen, occur, take place; this was during the visit to my parents' house\"\nv be identical or equivalent to\nv form or compose\nv work in a specific place, with a specific subject, or in a specific function\nv represent, as of a character on stage\nv spend or use time\nv have life, be alive\nv to remain unmolested, undisturbed, or uninterrupted -- used only in infinitive form\nv be priced at"
+  },
+  {
+    "单词": "apple",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. fruit with red or yellow or green skin and sweet to tart crisp whitish flesh\nn. native Eurasian tree widely cultivated in many varieties for its firm rounded edible fruits"
+  },
+  {
+    "单词": "boy",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a friendly informal reference to a grown man\nn. (ethnic slur) offensive and disparaging term for Black man"
+  },
+  {
+    "单词": "cat",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. feline mammal usually having thick soft fur and no ability to roar: domestic cats; wildcats\nn. a spiteful woman gossip\nv. beat with a cat-o'-nine-tails"
+  },
+  {
+    "单词": "dog",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds\nn. informal term for a man"
+  },
+  {
+    "单词": "egg",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. animal reproductive body consisting of an ovum or embryo together with nutritive and protective envelopes; especially the thin-shelled reproductive body laid by e.g. female birds\nn. oval reproductive body of a fowl (especially a hen) used as food\nv. throw eggs at\nv. coat with beaten egg"
+  },
+  {
+    "单词": "fish",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills\nn. the flesh of fish used as food\nv. seek indirectly\nv. catch or try to catch fish or shellfish"
+  },
+  {
+    "单词": "girl",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a young woman\nn. a friendly informal reference to a grown woman"
+  },
+  {
+    "单词": "how",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "adv. In what manner or way; by what means or process.\nadv. To what degree or extent, number or amount; in what\n   proportion; by what measure or quality.\nadv. For what reason; from what cause.\nadv. In what state, condition, or plight.\nadv. By what name, designation, or title.\nadv. At what price; how dear."
+  },
+  {
+    "单词": "are",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a unit of surface area equal to 100 square meters"
+  },
+  {
+    "单词": "you",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "dat. & obj. The pronoun of the second person, in the nominative,\n   dative, and objective case, indicating the person or persons addressed.\n   See the Note under Ye."
+  },
+  {
+    "单词": "fine",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. money extracted as a penalty\ns. minutely precise especially in differences in meaning\ns. thin in thickness or diameter\ns. characterized by elegance or refinement or accomplishment"
+  },
+  {
+    "单词": "thank",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "v. express gratitude or show appreciation to"
+  },
+  {
+    "单词": "this",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "pron. & a. As a demonstrative pronoun, this denotes something\n   that is present or near in place or time, or something just mentioned,\n   or that is just about to be mentioned.\npron. & a. As an adjective, this has the same demonstrative\n   force as the pronoun, but is followed by a noun; as, this book; this\n   way to town."
+  },
+  {
+    "单词": "nice",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a city in southeastern France on the Mediterranean; the leading resort on the French Riviera\na. pleasant or pleasing or agreeable in nature or appearance\ns. done with delicacy and skill"
+  },
+  {
+    "单词": "to",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "prep. The preposition to primarily indicates approach and arrival,\n   motion made in the direction of a place or thing and attaining it,\n   access; and also, motion or tendency without arrival; movement toward;\n   -- opposed to from.\nprep. Hence, it indicates motion, course, or tendency toward a\n   time, a state or condition, an aim, or anything capable of being\n   regarded as a limit to a tendency, movement, or action; as, he is going\n   to a trade; he is rising to wealth and honor.\nprep. In a very general way, and with innumerable varieties of\n   application, to connects transitive verbs with their remoter or\n   indirect object, and adjectives, nouns, and neuter or passive verbs\n   with a following noun which limits their action. Its sphere verges upon\n   that of for, but it contains less the idea of design or appropriation;\n   as, these remarks were addressed to a large audience; let us keep this\n   seat to ourselves; a substance sweet to the taste; an event painful to\n   the mind; duty to God and to our parents; a dislike to spirituous\n   liquor.\nprep. As sign of the infinitive, to had originally the use of last\n   defined, governing the infinitive as a verbal noun, and connecting it\n   as indirect object with a preceding verb or adjective; thus, ready to\n   go, i.e., ready unto going; good to eat, i.e., good for eating; I do my\n   utmost to lead my life pleasantly. But it has come to be the almost\n   constant prefix to the infinitive, even in situations where it has no\n   prepositional meaning, as where the infinitive is direct object or\n   subject; thus, I love to learn, i.e., I love learning; to die for one's\n   country is noble, i.e., the dying for one's country. Where the\n   infinitive denotes the design or purpose, good usage formerly allowed\n   the prefixing of for to the to; as, what went ye out for see? (Matt.\n   xi. 8).\nprep. In many phrases, and in connection with many other words, to\n   has a pregnant meaning, or is used elliptically.\nprep. Extent; limit; degree of comprehension; inclusion as far as;\n   as, they met us to the number of three hundred.\nprep. Effect; end; consequence; as, the prince was flattered to\n   his ruin; he engaged in a war to his cost; violent factions exist to\n   the prejudice of the state.\nprep. Apposition; connection; antithesis; opposition; as, they\n   engaged hand to hand.\nprep. Accord; adaptation; as, an occupation to his taste; she has\n   a husband to her mind.\nprep. Comparison; as, three is to nine as nine is to twenty-seven;\n   it is ten to one that you will offend him.\nprep. Addition; union; accumulation.\nprep. Accompaniment; as, she sang to his guitar; they danced to\n   the music of a piano.\nprep. Character; condition of being; purpose subserved or office\n   filled."
+  },
+  {
+    "单词": "meet",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a meeting at which a number of athletic contests are held\nv. come together\nv. get together socially or for a specific purpose\nv. fill or meet a want or need"
+  },
+  {
+    "单词": "me",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n a state in New England"
+  },
+  {
+    "单词": "too",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "r to a degree exceeding normal or proper limits\nr in addition"
+  },
+  {
+    "单词": "hair",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a covering for the body (or parts of it) consisting of a dense growth of threadlike structures (as on the human head); helps to prevent heat loss\nn. filamentous hairlike growth on a plant\nn. any of the cylindrical filaments characteristically growing from the epidermis of a mammal\nn. a filamentous projection or process on an organism"
+  },
+  {
+    "单词": "ice-cream",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n frozen dessert containing cream and sugar and flavoring"
+  },
+  {
+    "单词": "juice",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the liquid part that can be extracted from plant or animal tissue by squeezing or cooking\nn. energetic vitality\nn. electric current\nn. any of several liquids of the body"
+  },
+  {
+    "单词": "key",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. metal device shaped in such a way that when it is inserted into the appropriate lock the lock's mechanism can be rotated\nn. something crucial for explaining\nn. pitch of the voice\nn. any of 24 major or minor diatonic scales that provide the tonal framework for a piece of music"
+  },
+  {
+    "单词": "lion",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. large gregarious predatory feline of Africa and India having a tawny coat with a shaggy mane in the male\nn. a celebrity who is lionized (much sought after)"
+  },
+  {
+    "单词": "milk",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a white nutritious liquid secreted by mammals and used as food by human beings\nn. produced by mammary glands of female mammals for feeding their young\nn. a river that rises in the Rockies in northwestern Montana and flows eastward to become a tributary of the Missouri River\nn. any of several nutritive milklike liquids"
+  },
+  {
+    "单词": "night",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the time after sunset and before sunrise while it is dark outside\nn. a period of ignorance or backwardness or gloom\nn. the period spent sleeping\nn. the dark part of the diurnal cycle considered a time unit"
+  },
+  {
+    "单词": "good",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. benefit\nn. moral excellence or admirableness\nn. that which is pleasing or valuable or useful\na. having desirable or positive qualities especially those suitable for a thing specified"
+  },
+  {
+    "单词": "morning",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the time period between dawn and noon"
+  },
+  {
+    "单词": "mom",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n informal terms for a mother"
+  },
+  {
+    "单词": "afternoon",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the part of the day between noon and evening"
+  },
+  {
+    "单词": "Mr.",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n a form of address for a man"
+  },
+  {
+    "单词": "evening",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the latter part of the day (the period of decreasing daylight from late afternoon until nightfall)\nn. a later concluding time period\nn. the early part of night (from dinner until bedtime) spent in a special way"
+  },
+  {
+    "单词": "dad",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. an informal term for a father; probably derived from baby talk"
+  },
+  {
+    "单词": "orange",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. round yellow to orange fruit of any of several citrus trees\nn. orange color or pigment; any of a range of colors between red and yellow\nn. any citrus tree bearing oranges\nn. any pigment producing the orange color"
+  },
+  {
+    "单词": "pear",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. sweet juicy gritty-textured fruit available in many varieties\nn. Old World tree having sweet gritty-textured juicy fruit; widely cultivated in many varieties"
+  },
+  {
+    "单词": "question",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. an instance of questioning\nn. the subject matter at issue\nn. a sentence of inquiry that asks for a reply\nn. an informal reference to a marriage proposal"
+  },
+  {
+    "单词": "rabbit",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. any of various burrowing animals of the family Leporidae having long ears and short tails; some domesticated and raised for pets or food\nn. flesh of any of various rabbits or hares (wild or domesticated) eaten as food\nv. hunt rabbits"
+  },
+  {
+    "单词": "sun",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the star that is the source of light and heat for the planets in the solar system\nn. a person considered as a source of warmth or energy or glory etc\nn. any star around which a planetary system revolves\nv. expose one's body to the sun"
+  },
+  {
+    "单词": "tiger",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a fierce or audacious person\nn. large feline of forests in most of Asia having a tawny coat with black stripes; endangered"
+  },
+  {
+    "单词": "it's",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n the branch of engineering that deals with the use of computers and telecommunications to retrieve and store and transmit information"
+  },
+  {
+    "单词": "it is",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "a",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the 1st letter of the Roman alphabet\nn. the blood group whose red cells carry the A antigen"
+  },
+  {
+    "单词": "no",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a negative\na. quantifier; used with either mass nouns or plural count nouns for indicating a complete or almost complete lack or zero quantity of\nr. referring to the degree to which a certain quality is present\nr. not in any degree or manner; not at all"
+  },
+  {
+    "单词": "it",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n the branch of engineering that deals with the use of computers and telecommunications to retrieve and store and transmit information"
+  },
+  {
+    "单词": "isn't",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "is not",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "look",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the act of directing the eyes toward something and perceiving it visually\nn. physical appearance\nv. perceive with attention; direct one's gaze towards\nv. give a certain impression or have a certain outward aspect"
+  },
+  {
+    "单词": "that",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "pron., a., conj., &  As a demonstrative pronoun (pl. Those),\n   that usually points out, or refers to, a person or thing previously\n   mentioned, or supposed to be understood. That, as a demonstrative, may\n   precede the noun to which it refers; as, that which he has said is\n   true; those in the basket are good apples.\npron., a., conj., &  As an adjective, that has the same\n   demonstrative force as the pronoun, but is followed by a noun.\npron., a., conj., &  As a relative pronoun, that is\n   equivalent to who or which, serving to point out, and make definite, a\n   person or thing spoken of, or alluded to, before, and may be either\n   singular or plural.\npron., a., conj., &  As a conjunction, that retains much of\n   its force as a demonstrative pronoun.\npron., a., conj., &  To introduce a clause employed as the\n   object of the preceding verb, or as the subject or predicate nominative\n   of a verb.\npron., a., conj., &  To introduce, a reason or cause; --\n   equivalent to for that, in that, for the reason that, because.\npron., a., conj., &  To introduce a purpose; -- usually\n   followed by may, or might, and frequently preceded by so, in order, to\n   the end, etc.\npron., a., conj., &  To introduce a consequence, result, or\n   effect; -- usually preceded by so or such, sometimes by that.\npron., a., conj., &  In an elliptical sentence to introduce\n   a dependent sentence expressing a wish, or a cause of surprise,\n   indignation, or the like.\npron., a., conj., &  As adverb: To such a degree; so; as, he\n   was that frightened he could say nothing."
+  },
+  {
+    "单词": "yes",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. an affirmative"
+  },
+  {
+    "单词": "an",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n an associate degree in nursing"
+  },
+  {
+    "单词": "umbrella",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a lightweight handheld collapsible canopy\nn. a formation of military planes maintained over ground operations or targets\nn. having the function of uniting a group of similar things\ns. covering or applying simultaneously to a number of similar items or elements or groups"
+  },
+  {
+    "单词": "vegetable",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant\nn. any of various herbaceous plants cultivated for an edible part such as the fruit or the root of the beet or the leaf of spinach or the seeds of bean plants or the flower buds of broccoli or cauliflower"
+  },
+  {
+    "单词": "water",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. binary compound that occurs at room temperature as a clear colorless odorless tasteless liquid; freezes into ice below 0 degrees centigrade and boils above 100 degrees centigrade; widely used as a solvent\nn. once thought to be one of four elements composing the universe (Empedocles)\nn. a liquid necessary for the life of most animals and plants\nv. supply with water, as with channels or ditches or streams"
+  },
+  {
+    "单词": "box",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a (usually rectangular) container; may have a lid\nn. private area in a theater or grandstand where a small group can watch the performance\nn. the quantity contained in a box\nn. a rectangular drawing"
+  },
+  {
+    "单词": "yellow",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. yellow color or pigment; the chromatic color resembling the hue of sunflowers or ripe lemons\nv. turn yellow\ns. of the color intermediate between green and orange in the color spectrum; of something resembling the color of an egg yolk\ns. changed to a yellowish color by age"
+  },
+  {
+    "单词": "zoo",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n the facility where wild animals are housed for exhibition"
+  },
+  {
+    "单词": "I",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the 9th letter of the Roman alphabet"
+  },
+  {
+    "单词": "have",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "v. have or possess, either in a concrete or an abstract sense\nv. have as a feature\nv. have a personal or business relationship with someone\nv. have left"
+  },
+  {
+    "单词": "bag",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a flexible container with a single opening\nn. the quantity of game taken in a particular period (usually by one person)\nn. a container used for carrying money and small personal items or accessories (especially by women)\nn. the quantity that a bag will hold"
+  },
+  {
+    "单词": "in",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "s. holding office\ns. directed or bound inward\ns. currently fashionable\nr. to or toward the inside of"
+  },
+  {
+    "单词": "how many",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "eraser",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. an implement used to erase something"
+  },
+  {
+    "单词": "pencil",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a thin cylindrical pointed writing implement; a rod of marking substance encased in wood\nn. graphite (or a similar substance) used in such a way as to be a medium of communication\nn. a figure formed by a set of straight lines or light rays meeting at a point\nn. a cosmetic in a long thin stick; designed to be applied to a particular part of the face"
+  },
+  {
+    "单词": "pen",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a writing implement with a point from which ink flows\nn. an enclosure for confining livestock\nn. female swan"
+  },
+  {
+    "单词": "crayon",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. writing implement consisting of a colored stick of composition wax used for writing and drawing\nv. write, draw, or trace with a crayon"
+  },
+  {
+    "单词": "ruler",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a person who rules or commands"
+  },
+  {
+    "单词": "book",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a written work or composition that has been published (printed on pages bound together)\nn. physical objects consisting of a number of pages bound together\nn. a collection of playing cards satisfying the rules of a card game\nn. a collection of rules or prescribed standards on the basis of which decisions are made"
+  },
+  {
+    "单词": "do",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the syllable naming the first (tonic) note of any major scale in solmization\nv. get (something) done\nv. proceed or get along\nv. create or design, often in a certain way"
+  },
+  {
+    "单词": "and",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "conj. A particle which expresses the relation of connection or\n   addition. It is used to conjoin a word with a word, a clause with a\n   clause, or a sentence with a sentence.\nconj. In order to; -- used instead of the infinitival to,\n   especially after try, come, go.\nconj. It is sometimes, in old songs, a mere expletive.\nconj. If; though. See An, conj."
+  },
+  {
+    "单词": "some",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "a. quantifier; used with either mass nouns or plural count nouns to indicate an unspecified number or quantity\ns. relatively much but unspecified in amount or extent\ns. relatively many but unspecified in number\ns. remarkable"
+  },
+  {
+    "单词": "don't",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "what",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "pron., a., & adv. As an interrogative pronoun, used in asking\n   questions regarding either persons or things; as, what is this? what\n   did you say? what poem is this? what child is lost?\npron., a., & adv. As an exclamatory word: -- (a) Used absolutely\n   or independently; -- often with a question following.\npron., a., & adv. Used adjectively, meaning how remarkable, or\n   how great; as, what folly! what eloquence! what courage!\npron., a., & adv. Sometimes prefixed to adjectives in an\n   adverbial sense, as nearly equivalent to how; as, what happy boys!\npron., a., & adv. As a relative pronoun\npron., a., & adv. Used substantively with the antecedent\n   suppressed, equivalent to that which, or those [persons] who, or those\n   [things] which; -- called a compound relative.\npron., a., & adv. Used adjectively, equivalent to the . . .\n   which; the sort or kind of . . . which; rarely, the . . . on, or at,\n   which.\npron., a., & adv. Used adverbially in a sense corresponding to\n   the adjectival use; as, he picked what good fruit he saw.\npron., a., & adv. Whatever; whatsoever; what thing soever; --\n   used indefinitely.\npron., a., & adv. Used adverbially, in part; partly; somewhat;\n   -- with a following preposition, especially, with, and commonly with\n   repetition.\nn. Something; thing; stuff.\ninterrog. adv. Why? For what purpose? On what account?"
+  },
+  {
+    "单词": "at",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. 100 at equal 1 kip in Laos"
+  },
+  {
+    "单词": "toy",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a nonfunctional replica of something else (frequently used as a modifier)\nn. a device regarded as providing amusement\nv. manipulate manually or in one's mind or imagination"
+  },
+  {
+    "单词": "plane",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. (mathematics) an unbounded two-dimensional shape\nn. a level of existence or development\nn. a power tool for smoothing or shaping wood\nn. a carpenter's hand tool with an adjustable blade for smoothing or shaping wood"
+  },
+  {
+    "单词": "ship",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a vessel that carries passengers or freight\nv. hire for work on a ship\nv. travel by ship\nv. place on board a ship"
+  },
+  {
+    "单词": "kite",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a bank check that has been fraudulently altered to increase its face value\nn. a bank check drawn on insufficient funds at another bank in order to take advantage of the float\nn. plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string\nn. any of several small graceful hawks of the family Accipitridae having long pointed wings and feeding on insects and small animals"
+  },
+  {
+    "单词": "car",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a motor vehicle with four wheels; usually propelled by an internal combustion engine\nn. a wheeled vehicle adapted to the rails of railroad\nn. the compartment that is suspended from an airship and that carries personnel and the cargo and the power plant\nn. where passengers ride up and down"
+  },
+  {
+    "单词": "ball",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. round object that is hit or thrown or kicked in games\nn. an object with a spherical shape\nn. the people assembled at a lavish formal dance\nn. a spherical object used as a plaything"
+  },
+  {
+    "单词": "bike",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n a motor vehicle with two wheels and a strong frame\nn a wheeled vehicle that has two wheels and is moved by foot pedals\nv ride a bicycle"
+  },
+  {
+    "单词": "they",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "obj. The plural of he, she, or it. They is never used\n   adjectively, but always as a pronoun proper, and sometimes refers to\n   persons without an antecedent expressed."
+  },
+  {
+    "单词": "these",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "pron. The plural of this. See This.\npl.  of This"
+  },
+  {
+    "单词": "those",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "pron. The plural of that. See That."
+  },
+  {
+    "单词": "bear",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. massive plantigrade carnivorous or omnivorous mammals with long shaggy coats and strong claws\nn. an investor with a pessimistic market outlook; an investor who expects prices to fall and so sells now in order to buy later at a lower price\nv. have\nv. move while holding up or supporting"
+  },
+  {
+    "单词": "where",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "pron. & conj. Whether.\nadv. At or in what place; hence, in what situation, position,\n   or circumstances; -- used interrogatively.\nadv. At or in which place; at the place in which; hence, in the\n   case or instance in which; -- used relatively.\nadv. To what or which place; hence, to what goal, result, or\n   issue; whither; -- used interrogatively and relatively; as, where are\n   you going?\nconj. Whereas.\nn. Place; situation."
+  },
+  {
+    "单词": "live",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "v. lead a certain kind of life; live in a certain style\nv. pursue a positive and satisfying existence\na. actually being performed at the time of hearing or viewing\na. exerting force or containing energy"
+  },
+  {
+    "单词": "one",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the smallest whole number or a numeral representing this number\nn. a single person or thing\ns. used of a single unit or thing; not two or more\ns. having the indivisible character of a unit"
+  },
+  {
+    "单词": "two",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the cardinal number that is the sum of one and one or a numeral representing this number\ns. being one more than one"
+  },
+  {
+    "单词": "panda",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n large black-and-white herbivorous mammal of bamboo forests of China and Tibet; in some classifications considered a member of the bear family or of a separate family Ailuropodidae\nn reddish-brown Old World raccoon-like carnivore; in some classifications considered unrelated to the giant pandas"
+  },
+  {
+    "单词": "three",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the cardinal number that is the sum of one and one and one\ns. being one more than two"
+  },
+  {
+    "单词": "four",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the cardinal number that is the sum of three and one\ns. being one more than three"
+  },
+  {
+    "单词": "monkey",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. any of various long-tailed primates (excluding the prosimians)"
+  },
+  {
+    "单词": "five",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the cardinal number that is the sum of four and one\ns. being one more than four"
+  },
+  {
+    "单词": "elephant",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. five-toed pachyderm\nn. the symbol of the Republican Party; introduced in cartoons by Thomas Nast in 1874"
+  },
+  {
+    "单词": "ten",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the cardinal number that is the sum of nine and one; the base of the decimal system\ns. being one more than nine"
+  },
+  {
+    "单词": "animal",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a living organism characterized by voluntary movement\ns. marked by the appetites and passions of the body"
+  },
+  {
+    "单词": "six",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the cardinal number that is the sum of five and one\ns. denoting a quantity consisting of six items or units"
+  },
+  {
+    "单词": "nine",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the cardinal number that is the sum of eight and one\ns. denoting a quantity consisting of one more than eight and one less than ten"
+  },
+  {
+    "单词": "color",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a visual attribute of things that results from the light they emit or transmit or reflect\nn. interest and variety and intensity\nn. the timbre of a musical sound"
+  },
+  {
+    "单词": "blue",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. blue color or pigment; resembling the color of the clear sky in the daytime\nn. blue clothing\nn. any organization or party whose uniforms or badges are blue\nn. any of numerous small butterflies of the family Lycaenidae"
+  },
+  {
+    "单词": "green",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. green color or pigment; resembling the color of growing grass\nn. United States labor leader who was president of the American Federation of Labor from 1924 to 1952 and who led the struggle with the Congress of Industrial Organizations (1873-1952)\nn. an environmentalist who belongs to the Green Party\nn. a river that rises in western Wyoming and flows southward through Utah to become a tributary of the Colorado River"
+  },
+  {
+    "单词": "red",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. red color or pigment; the chromatic color resembling the hue of blood\nn. a tributary of the Mississippi River that flows eastward from Texas along the southern boundary of Oklahoma and through Louisiana\ns. of a color at the end of the color spectrum (next to orange); resembling the color of blood or cherries or tomatoes or rubies"
+  },
+  {
+    "单词": "orange",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. round yellow to orange fruit of any of several citrus trees\nn. orange color or pigment; any of a range of colors between red and yellow\nn. any citrus tree bearing oranges\nn. any pigment producing the orange color"
+  },
+  {
+    "单词": "black",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the quality or state of the achromatic color of least lightness (bearing the least resemblance to white)\nn. British chemist who identified carbon dioxide and who formulated the concepts of specific heat and latent heat (1728-1799)\nn. popular child actress of the 1930's (born in 1928)\nn. a person with dark skin who comes from Africa (or whose ancestors came from Africa)"
+  },
+  {
+    "单词": "white",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a member of the Caucasoid race\nn. the quality or state of the achromatic color of greatest lightness (bearing the least resemblance to black)\nn. United States jurist appointed chief justice of the United States Supreme Court in 1910 by President Taft; noted for his work on antitrust legislation (1845-1921)\nn. Australian writer (1912-1990)"
+  },
+  {
+    "单词": "brown",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. an orange of low brightness and saturation\nn. Scottish botanist who first observed the movement of small particles in fluids now known a Brownian motion (1773-1858)\nn. abolitionist who was hanged after leading an unsuccessful raid at Harper's Ferry, Virginia (1800-1859)\nv. fry in a pan until it changes color"
+  },
+  {
+    "单词": "eight",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the cardinal number that is the sum of seven and one\ns. being one more than seven"
+  },
+  {
+    "单词": "seven",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the cardinal number that is the sum of six and one\ns. being one more than six"
+  }
+]

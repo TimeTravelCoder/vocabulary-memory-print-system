@@ -1,0 +1,611 @@
+[
+  {
+    "单词": "season",
+    "英音": "[ˈsiːzn]",
+    "美音": "[ˈsiːzn]",
+    "释义(中文)": "n. 时期；季节；赛季\nvt. 给…调味；使适应\nvi. 变得成熟；变干燥",
+    "释义(英文)": "n. a period of the year marked by special events or activities in some field\nn. one of the natural periods into which the year is divided by the equinoxes and solstices or atmospheric conditions\nn. a recurrent time marked by major holidays\nv. lend flavor to"
+  },
+  {
+    "单词": "spring",
+    "英音": "[sprɪŋ]",
+    "美音": "[sprɪŋ]",
+    "释义(中文)": "n. 春天；弹簧；泉水；活力；跳跃\nadj. 春天的\nvt. 使跳起；使爆炸；突然提出；使弹开\nvi. 生长；涌出；跃出；裂开\n",
+    "释义(英文)": "n. the season of growth\nn. a metal elastic device that returns to its shape or position when pushed or pulled or pressed\nn. a natural flow of ground water\nn. a point at which water issues forth"
+  },
+  {
+    "单词": "summer",
+    "英音": "[ˈsʌmə(r)]",
+    "美音": "[ˈsʌmər]",
+    "释义(中文)": "n. 夏季；全盛时期\nadj. 夏季的\nvi. 避暑；过夏天\n",
+    "释义(英文)": "n. the warmest season of the year; in the northern hemisphere it extends from the summer solstice to the autumnal equinox\nn. the period of finest development, happiness, or beauty\nv. spend the summer"
+  },
+  {
+    "单词": "fall",
+    "英音": "[fɔːl]",
+    "美音": "[fɔːl]",
+    "释义(中文)": "n. 下降；秋天；瀑布\nadj. 秋天的\nvi. 落下；变成；来临；减弱\nvt. 砍倒；击倒\n",
+    "释义(英文)": "n. the season when the leaves fall from the trees\nn. the lapse of mankind into sinfulness because of the sin of Adam and Eve\nn. a lapse into sin; a loss of innocence or of chastity\nn. a sudden decline in strength or number or importance"
+  },
+  {
+    "单词": "winter",
+    "英音": "[ˈwɪntə(r)]",
+    "美音": "[ˈwɪntər]",
+    "释义(中文)": "n. 冬季；年岁；萧条期\nadj. 冬天的；越冬的\nvi. 过冬\n",
+    "释义(英文)": "n. the coldest season of the year; in the northern hemisphere it extends from the winter solstice to the vernal equinox\nv. spend the winter"
+  },
+  {
+    "单词": "sunny",
+    "英音": "[ˈsʌni]",
+    "美音": "[ˈsʌni]",
+    "释义(中文)": "adj. 阳光充足的，和煦的；快活的；性情开朗的",
+    "释义(英文)": "s bright and pleasant; promoting a feeling of cheer"
+  },
+  {
+    "单词": "rainy",
+    "英音": "[ˈreɪni]",
+    "美音": "[ˈreɪni]",
+    "释义(中文)": "adj. 下雨的；多雨的\n",
+    "释义(英文)": "s (of weather) wet by periods of rain"
+  },
+  {
+    "单词": "windy",
+    "英音": "[ˈwɪndi]",
+    "美音": "[ˈwɪndi]",
+    "释义(中文)": "adj. 多风的，有风的；腹胀的；吹牛的",
+    "释义(英文)": "s. resembling the wind in speed, force, or variability"
+  },
+  {
+    "单词": "cloudy",
+    "英音": "[ˈklaʊdi]",
+    "美音": "[ˈklaʊdi]",
+    "释义(中文)": "adj. 多云的；阴天的；愁容满面的",
+    "释义(英文)": "s. lacking definite form or limits\na. full of or covered with clouds\ns. (of liquids) clouded as with sediment"
+  },
+  {
+    "单词": "hot",
+    "英音": "[hɒt]",
+    "美音": "[hɑːt]",
+    "释义(中文)": "adj. 热的；辣的；热情的；激动的；紧迫的\nvt. 增加；给…加温\nadv. 热；紧迫地\nvi. 变热\n",
+    "释义(英文)": "a. used of physical heat; having a high or higher than desirable temperature or giving off heat or feeling or causing a sensation of heat or burning\ns. characterized by violent and forceful activity or movement; very intense\na. extended meanings; especially of psychological heat; marked by intensity or vehemence especially of passion or enthusiasm\ns. (color) bold and intense"
+  },
+  {
+    "单词": "look at",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 看；考虑\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "flower",
+    "英音": "[ˈflaʊə(r)]",
+    "美音": "[ˈflaʊər]",
+    "释义(中文)": "n. 花；精华；开花植物\nvt. 使开花；用花装饰\nvi. 成熟，发育；开花；繁荣；旺盛\n",
+    "释义(英文)": "n. a plant cultivated for its blooms or blossoms\nn. reproductive organ of angiosperm plants especially one having showy or colorful parts\nn. the period of greatest prosperity or productivity"
+  },
+  {
+    "单词": "leaves",
+    "英音": "[liːvz]",
+    "美音": "[liːvz]",
+    "释义(中文)": "n. 树叶；花瓣（leaf的复数）\nv. 离开（leave的第三人称单数）",
+    "释义(英文)": "n the main organ of photosynthesis and transpiration in higher plants\nn a sheet of any written or printed material (especially in a manuscript or book)\nn hinged or detachable flat section (as of a table or door)\nn the period of time during which you are absent from work or duty\nn permission to do something\nn the act of departing politely\nv go away from a place\nv go and leave behind, either intentionally or by neglect or forgetfulness\nv act or be so as to become in a specified state\nv leave unchanged or undisturbed or refrain from taking\nv move out of or depart from\nv make a possibility or provide opportunity for; permit to be attainable or cause to remain\nv have as a result or residue\nv remove oneself from an association with or participation in\nv put into the care or protection of someone\nv leave or give by will after one's death\nv have left or have as a remainder\nv be survived by after one's death\nv transmit (knowledge or skills)\nv leave behind unintentionally"
+  },
+  {
+    "单词": "cold",
+    "英音": "[kəʊld]",
+    "美音": "[kəʊld]",
+    "释义(中文)": "n. 寒冷；感冒\nadj. 寒冷的；冷淡的，不热情的；失去知觉的\nadv. 完全地",
+    "释义(英文)": "n. a mild viral infection involving the nose and respiratory passages (but not the lungs)\nn. the sensation produced by low temperatures\na. having a low or inadequate temperature or feeling a sensation of coldness or having been made cold by e.g. ice or refrigeration\na. extended meanings; especially of psychological coldness; without human warmth or emotion"
+  },
+  {
+    "单词": "weather",
+    "英音": "[ˈweðə(r)]",
+    "美音": "[ˈweðər]",
+    "释义(中文)": "n. 天气；气象；气候；处境\nvt. 经受住；使风化；侵蚀；使受风吹雨打\nadj. 露天的；迎风的\nvi. 风化；受侵蚀；经受风雨\n",
+    "释义(英文)": "n. the atmospheric conditions that comprise the state of the atmosphere in terms of temperature and wind and clouds and precipitation\nv. face and withstand with courage\nv. cause to slope\nv. sail to the windward of"
+  },
+  {
+    "单词": "hang glider",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. (从悬崖等处滑下的)滑翔风筝\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "month",
+    "英音": "[mʌnθ]",
+    "美音": "[mʌnθ]",
+    "释义(中文)": "n. 月，一个月的时间",
+    "释义(英文)": "n. a time unit of approximately 30 days"
+  },
+  {
+    "单词": "January",
+    "英音": "[ˈdʒænjuəri]",
+    "美音": "[ˈdʒænjueri]",
+    "释义(中文)": "n. 一月",
+    "释义(英文)": "n. the first month of the year; begins 10 days after the winter solstice"
+  },
+  {
+    "单词": "February",
+    "英音": "[ˈfebruəri]",
+    "美音": "[ˈfebrueri]",
+    "释义(中文)": "n. 二月",
+    "释义(英文)": "n. the month following January and preceding March"
+  },
+  {
+    "单词": "March",
+    "英音": "[mɑːtʃ]",
+    "美音": "[mɑːrtʃ]",
+    "释义(中文)": "n. 三月",
+    "释义(英文)": "n. the month following February and preceding April\nn. the act of marching; walking with regular steps (especially in a procession of some kind)\nn. a steady advance\nn. a procession of people walking together"
+  },
+  {
+    "单词": "April",
+    "英音": "[ˈeɪprəl]",
+    "美音": "[ˈeɪprəl]",
+    "释义(中文)": "n. 四月",
+    "释义(英文)": "n. the month following March and preceding May"
+  },
+  {
+    "单词": "May",
+    "英音": "[meɪ]",
+    "美音": "[meɪ]",
+    "释义(中文)": "aux. 可以，能够；可能，也许；祝，愿；会，能",
+    "释义(英文)": "n. the month following April and preceding June"
+  },
+  {
+    "单词": "June",
+    "英音": "[dʒuːn]",
+    "美音": "[dʒuːn]",
+    "释义(中文)": "n. 六月；琼（人名，来源于拉丁语，含义是“年轻气盛的六月”）",
+    "释义(英文)": "n. the month following May and preceding July"
+  },
+  {
+    "单词": "before",
+    "英音": "[bɪˈfɔː(r)]",
+    "美音": "[bɪˈfɔːr]",
+    "释义(中文)": "prep. 在…之前，先于\nconj. 在…以前；在…之前\nadv. 以前；在前",
+    "释义(英文)": "r earlier in time; previously\nr at or in the front"
+  },
+  {
+    "单词": "after",
+    "英音": "[ˈɑːftə(r)]",
+    "美音": "[ˈæftər]",
+    "释义(中文)": "conj. 在……之后\nprep. 在……之后\nadj. 以后的\nadv. 后来，以后",
+    "释义(英文)": "s. located farther aft\nr. behind or in the rear"
+  },
+  {
+    "单词": "when",
+    "英音": "[wen]",
+    "美音": "[wen]",
+    "释义(中文)": "conj. 考虑到；既然；当…时；在…时；如果\nn. 时间，时候；日期；场合\nadv. 什么时候，何时；（用于时间的表达方式之后）在那时；其时；当时\npron. 那时；什么时侯",
+    "释义(英文)": "adv. At what time; -- used interrogatively.\nadv. At what time; at, during, or after the time that; at or\n   just after, the moment that; -- used relatively.\nadv. While; whereas; although; -- used in the manner of a\n   conjunction to introduce a dependent adverbial sentence or clause,\n   having a causal, conditional, or adversative relation to the principal\n   proposition; as, he chose to turn highwayman when he might have\n   continued an honest man; he removed the tree when it was the best in\n   the grounds.\nadv. Which time; then; -- used elliptically as a noun."
+  },
+  {
+    "单词": "winter holiday",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 寒假；冬季假期；冬季节日",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "go ice-skating",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "now",
+    "英音": "[naʊ]",
+    "美音": "[naʊ]",
+    "释义(中文)": "adv. 现在；如今；立刻\nadj. 现在的\nn. 现在；目前\nconj. 由于；既然",
+    "释义(英文)": "n. the momentary present\nr. in the historical present; at this point in the narration of a series of past events\nr. used to preface a command or reproof or request\nr. at the present moment"
+  },
+  {
+    "单词": "beach",
+    "英音": "[biːtʃ]",
+    "美音": "[biːtʃ]",
+    "释义(中文)": "n. 海滩；湖滨\nvt. 将…拖上岸\nvi. 搁浅；定居\n",
+    "释义(英文)": "n. an area of sand sloping down to the water of a sea or lake\nv. land on a beach"
+  },
+  {
+    "单词": "today",
+    "英音": "[təˈdeɪ]",
+    "美音": "[təˈdeɪ]",
+    "释义(中文)": "n. 今天；现今\nadv. 今天；现今\n",
+    "释义(英文)": "n. the present time or age\nn. the day that includes the present moment (as opposed to yesterday or tomorrow)\nr. on this day as distinct from yesterday or tomorrow"
+  },
+  {
+    "单词": "July",
+    "英音": "[dʒʊˈlaɪ]",
+    "美音": "[dʒʊˈlaɪ]",
+    "释义(中文)": "n. 七月",
+    "释义(英文)": "n. the month following June and preceding August"
+  },
+  {
+    "单词": "August",
+    "英音": "[ˈɔːɡəst]",
+    "美音": "[ˈɔːɡəst]",
+    "释义(中文)": "n. 八月（简写为Aug）\nadj. 威严的；令人敬畏的",
+    "释义(英文)": "n. the month following July and preceding September\ns. of or befitting a lord\ns. profoundly honored"
+  },
+  {
+    "单词": "September",
+    "英音": "[sepˈtembə(r)]",
+    "美音": "[sepˈtembər]",
+    "释义(中文)": "n. 九月",
+    "释义(英文)": "n. the month following August and preceding October"
+  },
+  {
+    "单词": "October",
+    "英音": "[ɒkˈtəʊbə(r)]",
+    "美音": "[ɑːkˈtoʊbər]",
+    "释义(中文)": "n. [天] 十月",
+    "释义(英文)": "n. the month following September and preceding November"
+  },
+  {
+    "单词": "November",
+    "英音": "[nəʊˈvembə(r)]",
+    "美音": "[noʊˈvembər]",
+    "释义(中文)": "n. 十一月",
+    "释义(英文)": "n. the month following October and preceding December"
+  },
+  {
+    "单词": "December",
+    "英音": "[dɪˈsembə(r)]",
+    "美音": "[dɪˈsembər]",
+    "释义(中文)": "n. 十二月",
+    "释义(英文)": "n. the last (12th) month of the year"
+  },
+  {
+    "单词": "1st",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "abbr. 第一（first）",
+    "释义(英文)": "s indicating the beginning unit in a series"
+  },
+  {
+    "单词": "2nd",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 第二(second)",
+    "释义(英文)": "s coming next after the first in position in space or time or degree or magnitude"
+  },
+  {
+    "单词": "3rd",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 第三(third)",
+    "释义(英文)": "s coming next after the second and just before the fourth in position"
+  },
+  {
+    "单词": "4th",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 第四(fourth)",
+    "释义(英文)": "s coming next after the third and just before the fifth in position or time or degree or magnitude"
+  },
+  {
+    "单词": "20th",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "21st",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "22nd",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "23rd",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "30th",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "31st",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "birthday",
+    "英音": "[ˈbɜːθdeɪ]",
+    "美音": "[ˈbɜːrθdeɪ]",
+    "释义(中文)": "n. 生日，诞辰；诞生的日子",
+    "释义(英文)": "n. an anniversary of the day on which a person was born (or the celebration of it)\nn. the date on which a person was born"
+  },
+  {
+    "单词": "date",
+    "英音": "[deɪt]",
+    "美音": "[deɪt]",
+    "释义(中文)": "n. 日期；约会；年代；枣椰子\nvt. 确定…年代；和…约会\nvi. 过时；注明日期；始于（某一历史时期）\n",
+    "释义(英文)": "n. the specified day of the month\nn. a participant in a date\nn. a meeting arranged in advance\nn. a particular but unspecified point in time"
+  },
+  {
+    "单词": "party",
+    "英音": "[ˈpɑːti]",
+    "美音": "[ˈpɑːrti]",
+    "释义(中文)": "n. 政党，党派；聚会，派对；当事人 [复数 parties]\nvi. 参加社交聚会 [ 过去式 partied 过去分词 partied 现在分词 partying ]",
+    "释义(英文)": "n. an organization to gain political power\nn. a group of people gathered together for pleasure\nn. a band of people associated temporarily in some activity\nn. an occasion on which people can assemble for social interaction and entertainment"
+  },
+  {
+    "单词": "grandma",
+    "英音": "[ˈɡrænmɑː]",
+    "美音": "[ˈɡrænmɑː]",
+    "释义(中文)": "n. 奶奶；外婆",
+    "释义(英文)": "n. the mother of your father or mother"
+  },
+  {
+    "单词": "bag",
+    "英音": "[bæɡ]",
+    "美音": "[bæɡ]",
+    "释义(中文)": "n. 袋；猎获物；（俚）一瓶啤酒\nvt. 猎获；把…装入袋中；占据，私吞；使膨大\nvi. 松垂",
+    "释义(英文)": "n. a flexible container with a single opening\nn. the quantity of game taken in a particular period (usually by one person)\nn. a container used for carrying money and small personal items or accessories (especially by women)\nn. the quantity that a bag will hold"
+  },
+  {
+    "单词": "map",
+    "英音": "[mæp]",
+    "美音": "[mæp]",
+    "释义(中文)": "vt. 映射；计划；绘制地图；确定基因在染色体中的位置\nn. 地图；示意图；染色体图\nvi. 基因被安置\n",
+    "释义(英文)": "n. a diagrammatic representation of the earth's surface (or part of it)\nv. make a map of; show or establish the features of details of\nv. explore or survey for the purpose of making a map\nv. locate within a specific region of a chromosome in relation to known DNA or gene sequences"
+  },
+  {
+    "单词": "pencil case",
+    "英音": "[ˈpensl keɪs]",
+    "美音": "[ˈpensl keɪs]",
+    "释义(中文)": "n. 铅笔盒；铅笔袋\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "picture",
+    "英音": "[ˈpɪktʃə(r)]",
+    "美音": "[ˈpɪktʃər]",
+    "释义(中文)": "n. 照片，图画；影片；景色；化身\nvt. 画；想像；描写",
+    "释义(英文)": "n. a visual representation (of an object or scene or person or abstraction) produced on a surface\nn. a situation treated as an observable object\nn. illustrations used to decorate or explain a text\nn. a typical example of some state or quality"
+  },
+  {
+    "单词": "blackboard",
+    "英音": "[ˈblækbɔːd]",
+    "美音": "[ˈblækbɔːrd]",
+    "释义(中文)": "n. 黑板",
+    "释义(英文)": "n. sheet of slate; for writing with chalk"
+  },
+  {
+    "单词": "crayon",
+    "英音": "[ˈkreɪən; ˈkreɪɒn]",
+    "美音": "[ˈkreɪən; ˈkreɪɑːn]",
+    "释义(中文)": "n. 蜡笔，有色粉笔\nvt. 以蜡笔作画，用颜色粉笔画",
+    "释义(英文)": "n. writing implement consisting of a colored stick of composition wax used for writing and drawing\nv. write, draw, or trace with a crayon"
+  },
+  {
+    "单词": "paper",
+    "英音": "[ˈpeɪpə(r)]",
+    "美音": "[ˈpeɪpər]",
+    "释义(中文)": "n. 纸；论文；文件；报纸\nadj. 纸做的\nvt. 用纸糊；用纸包装\nvi. 贴糊墙纸；发交通违章传票\n",
+    "释义(英文)": "n. a material made of cellulose pulp derived mainly from wood or rags or certain grasses\nn. a medium for written communication\nn. a scholarly article describing the results of observations or stating hypotheses\nv. cover with paper"
+  },
+  {
+    "单词": "glue",
+    "英音": "[ɡluː]",
+    "美音": "[ɡluː]",
+    "释义(中文)": "n. 胶；各种胶合物\nvt. 粘合；似胶般固着于",
+    "释义(英文)": "n. cement consisting of a sticky substance that is used as an adhesive\nv. join or attach with or as if with glue\nv. be fixed as if by glue"
+  },
+  {
+    "单词": "any",
+    "英音": "[ˈeni]",
+    "美音": "[ˈeni]",
+    "释义(中文)": "adj. 任何的；所有的；丝毫\npron. 任何；任何一个；若干\nadv. 稍微；少许\n",
+    "释义(英文)": "s. one or some or every or all without specification\nr. to any degree or extent"
+  },
+  {
+    "单词": "but",
+    "英音": "[bət]",
+    "美音": "[bət; bʌt]",
+    "释义(中文)": "conj. 但是；而是；然而\nadv. 仅仅，只\nprep. 除…以外\n",
+    "释义(英文)": "r and nothing more"
+  },
+  {
+    "单词": "some",
+    "英音": "[sʌm]",
+    "美音": "[sʌm; səm]",
+    "释义(中文)": "adj. 一些；某个；大约；相当多的\npron. 一些；若干；其中的一部分；（数量不确切时用）有些人\nadv. 非常；相当；<美>稍微",
+    "释义(英文)": "a. quantifier; used with either mass nouns or plural count nouns to indicate an unspecified number or quantity\ns. relatively much but unspecified in amount or extent\ns. relatively many but unspecified in number\ns. remarkable"
+  },
+  {
+    "单词": "color",
+    "英音": "[ˈkʌlə(r)]",
+    "美音": "[ˈkʌlər]",
+    "释义(中文)": "n. 颜色；肤色；颜料；脸色\nvt. 粉饰；给...涂颜色；歪曲\nvi. 变色；获得颜色",
+    "释义(英文)": "n. a visual attribute of things that results from the light they emit or transmit or reflect\nn. interest and variety and intensity\nn. the timbre of a musical sound"
+  },
+  {
+    "单词": "juice",
+    "英音": "[dʒuːs]",
+    "美音": "[dʒuːs]",
+    "释义(中文)": "n. （水果）汁，液；果汁",
+    "释义(英文)": "n. the liquid part that can be extracted from plant or animal tissue by squeezing or cooking\nn. energetic vitality\nn. electric current\nn. any of several liquids of the body"
+  },
+  {
+    "单词": "rice",
+    "英音": "[raɪs]",
+    "美音": "[raɪs]",
+    "释义(中文)": "n. 稻；米饭\nvt. 把…捣成米糊状\n",
+    "释义(英文)": "n. grains used as food either unpolished or more often polished\nn. annual or perennial rhizomatous marsh grasses; seed used for food; straw used for paper\nn. English lyricist who frequently worked with Andrew Lloyd Webber (born in 1944)\nn. United States playwright (1892-1967)"
+  },
+  {
+    "单词": "salt",
+    "英音": "[sɔːlt]",
+    "美音": "[sɔːlt]",
+    "释义(中文)": "n. 盐；风趣，刺激性\nadj. 咸水的；含盐的，咸味的；盐腌的；猥亵的\nvt. 用盐腌；给…加盐；将盐撒在道路上使冰或雪融化",
+    "释义(英文)": "n. a compound formed by replacing hydrogen in an acid by a metal (or a radical that acts like a metal)\nn. white crystalline form of especially sodium chloride used to season and preserve food\nn. the taste experience when common salt is taken into the mouth\nv. add salt to"
+  },
+  {
+    "单词": "sugar",
+    "英音": "[ˈʃʊɡə(r)]",
+    "美音": "[ˈʃʊɡər]",
+    "释义(中文)": "n. 糖；食糖；甜言蜜语\nvt. 加糖于；粉饰\nvi. 形成糖\n",
+    "释义(英文)": "n. a white crystalline carbohydrate used as a sweetener and preservative\nv. sweeten with sugar"
+  },
+  {
+    "单词": "meat",
+    "英音": "[miːt]",
+    "美音": "[miːt]",
+    "释义(中文)": "n. 肉，肉类（食用）",
+    "释义(英文)": "n. the flesh of animals (including fishes and birds and snails) used as food"
+  },
+  {
+    "单词": "vegetables",
+    "英音": "[ˈvedʒtəb(ə)lz]",
+    "美音": "[ˈvedʒtəb(ə)lz]",
+    "释义(中文)": "n. [园艺] 蔬菜（vegetable的复数形式）；菜类",
+    "释义(英文)": "n edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant\nn any of various herbaceous plants cultivated for an edible part such as the fruit or the root of the beet or the leaf of spinach or the seeds of bean plants or the flower buds of broccoli or cauliflower"
+  },
+  {
+    "单词": "tofu",
+    "英音": "[ˈtəʊfuː]",
+    "美音": "[ˈtoʊfuː]",
+    "释义(中文)": "n. 豆腐",
+    "释义(英文)": "n cheeselike food made of curdled soybean milk"
+  },
+  {
+    "单词": "fruit",
+    "英音": "[fruːt]",
+    "美音": "[fruːt]",
+    "释义(中文)": "n. 水果；产物\nvt. 使……结果实\nvi. 结果实\n",
+    "释义(英文)": "n. the ripened reproductive body of a seed plant\nn. the consequence of some effort or action\nv. cause to bear fruit\nv. bear fruit"
+  },
+  {
+    "单词": "need",
+    "英音": "[niːd]",
+    "美音": "[niːd]",
+    "释义(中文)": "n. 需要，要求；缺乏；必要之物\nvt. 需要\nvi. 需要",
+    "释义(英文)": "n. a condition requiring relief\nn. anything that is necessary but lacking\nv. have or feel a need for"
+  },
+  {
+    "单词": "cook",
+    "英音": "[kʊk]",
+    "美音": "[kʊk]",
+    "释义(中文)": "n. 厨师，厨子\nvt. 烹调，煮\nvi. 烹调，做菜\n",
+    "释义(英文)": "n. someone who cooks food\nn. English navigator who claimed the east coast of Australia for Britain and discovered several Pacific islands (1728-1779)\nv. prepare a hot meal\nv. prepare for eating by applying heat"
+  },
+  {
+    "单词": "and",
+    "英音": "[ənd]",
+    "美音": "[ənd; ən; n; ænd]",
+    "释义(中文)": "conj. 和，与；就；而且；但是；然后\n",
+    "释义(英文)": "conj. A particle which expresses the relation of connection or\n   addition. It is used to conjoin a word with a word, a clause with a\n   clause, or a sentence with a sentence.\nconj. In order to; -- used instead of the infinitival to,\n   especially after try, come, go.\nconj. It is sometimes, in old songs, a mere expletive.\nconj. If; though. See An, conj."
+  },
+  {
+    "单词": "forty",
+    "英音": "[ˈfɔːti]",
+    "美音": "[ˈfɔːrti]",
+    "释义(中文)": "n. 四十\nadj. 四十的；四十个的",
+    "释义(英文)": "n. the cardinal number that is the product of ten and four\ns. being ten more than thirty"
+  },
+  {
+    "单词": "fifty",
+    "英音": "[ˈfɪfti]",
+    "美音": "[ˈfɪfti]",
+    "释义(中文)": "n. 五十；五十个；编号为50的东西\nadj. 五十的；五十个的；众多的",
+    "释义(英文)": "n. the cardinal number that is the product of ten and five\ns. being ten more than forty"
+  },
+  {
+    "单词": "sixty",
+    "英音": "[ˈsɪksti]",
+    "美音": "[ˈsɪksti]",
+    "释义(中文)": "num. 六十；六十个",
+    "释义(英文)": "n. the cardinal number that is the product of ten and six\ns. being ten more than fifty"
+  },
+  {
+    "单词": "seventy",
+    "英音": "[ˈsev(ə)nti]",
+    "美音": "[ˈsev(ə)nti]",
+    "释义(中文)": "n. 七十；七十个；七十岁；七十年代\nnum. 七十\nadj. 七十的；七十个的；七十岁的",
+    "释义(英文)": "n. the cardinal number that is the product of ten and seven\ns. being ten more than sixty"
+  },
+  {
+    "单词": "eighty",
+    "英音": "[ˈeɪti]",
+    "美音": "[ˈeɪti]",
+    "释义(中文)": "num. 八十\nn. 八十；八十岁；八十年代\nadj. 八十的，八十个的；八十岁的",
+    "释义(英文)": "n. the cardinal number that is the product of ten and eight\ns. being ten more than seventy"
+  },
+  {
+    "单词": "ninety",
+    "英音": "[ˈnaɪnti]",
+    "美音": "[ˈnaɪnti]",
+    "释义(中文)": "n. 九十\nadj. 九十的；九十岁的\nnum. 九十",
+    "释义(英文)": "n. the cardinal number that is the product of ten and nine\ns. being ten more than eighty"
+  },
+  {
+    "单词": "hundred",
+    "英音": "[ˈhʌndrəd]",
+    "美音": "[ˈhʌndrəd]",
+    "释义(中文)": "num. 百；百个\nn. 一百；许多\nadj. 一百的；许多的",
+    "释义(英文)": "n. ten 10s\ns. being ten more than ninety"
+  },
+  {
+    "单词": "one hundred",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 一百\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "cheap",
+    "英音": "[tʃiːp]",
+    "美音": "[tʃiːp]",
+    "释义(中文)": "adj. 便宜的；小气的；不值钱的\nadv. 便宜地",
+    "释义(英文)": "a. relatively low in price or charging low prices\ns. embarrassingly stingy"
+  },
+  {
+    "单词": "expensive",
+    "英音": "[ɪkˈspensɪv]",
+    "美音": "[ɪkˈspensɪv]",
+    "释义(中文)": "adj. 昂贵的；花钱的",
+    "释义(英文)": "a. high in price or charging high prices"
+  },
+  {
+    "单词": "dollar",
+    "英音": "[ˈdɒlə(r)]",
+    "美音": "[ˈdɑːlər]",
+    "释义(中文)": "n. 美元\n",
+    "释义(英文)": "n. the basic monetary unit in many countries; equal to 100 cents\nn. a piece of paper money worth one dollar\nn. a United States coin worth one dollar\nn. a symbol of commercialism or greed"
+  },
+  {
+    "单词": "magic",
+    "英音": "[ˈmædʒɪk]",
+    "美音": "[ˈmædʒɪk]",
+    "释义(中文)": "n. 巫术；魔法；戏法\nadj. 不可思议的；有魔力的；魔术的\n",
+    "释义(英文)": "n. any art that invokes supernatural powers"
+  },
+  {
+    "单词": "try",
+    "英音": "[traɪ]",
+    "美音": "[traɪ]",
+    "释义(中文)": "n. 尝试；努力；试验\nvt. 试图，努力；试验；审判；考验\nvi. 尝试；努力；试验\n",
+    "释义(英文)": "v. make an effort or attempt\nv. give pain or trouble to\nv. test the limits of\nv. melt (fat or lard) in order to separate out impurities"
+  }
+]

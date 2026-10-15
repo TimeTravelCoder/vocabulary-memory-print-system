@@ -1,0 +1,562 @@
+[
+  {
+    "单词": "wear",
+    "英音": "[weə(r)]",
+    "美音": "[wer]",
+    "释义(中文)": "n. 衣物；磨损；耐久性\nv. 穿着；用旧；耗损；面露",
+    "释义(英文)": "n. impairment resulting from long use\nn. the act of having on your person as a covering or adornment\nv. be dressed in\nv. have on one's person"
+  },
+  {
+    "单词": "coat",
+    "英音": "[kəʊt]",
+    "美音": "[koʊt]",
+    "释义(中文)": "n. 外套\nvt. 覆盖…的表面\n",
+    "释义(英文)": "n. an outer garment that has sleeves and covers the body from shoulder down; worn outdoors\nn. growth of hair or wool or fur covering the body of an animal\nv. put a coat on; cover the surface of; furnish with a surface\nv. cover or provide with a coat"
+  },
+  {
+    "单词": "sleep",
+    "英音": "[sliːp]",
+    "美音": "[sliːp]",
+    "释义(中文)": "n. 睡眠\nvi. 睡，睡觉\n",
+    "释义(英文)": "n. a natural and periodic state of rest during which consciousness of the world is suspended\nn. a torpid state resembling deep sleep\nn. a period of time spent sleeping\nv. be asleep"
+  },
+  {
+    "单词": "tired",
+    "英音": "[ˈtaɪəd]",
+    "美音": "[ˈtaɪərd]",
+    "释义(中文)": "v. 疲倦；对…腻烦（tire的过去分词形式）\nadj. 疲倦的；厌倦的，厌烦的",
+    "释义(英文)": "a. depleted of strength or energy"
+  },
+  {
+    "单词": "pass",
+    "英音": "[pɑːs]",
+    "美音": "[pæs]",
+    "释义(中文)": "n. 及格；经过；护照；途径；传球\nvt. 通过；经过；传递\nvi. 经过；传递；变化；终止\n",
+    "释义(英文)": "n. (military) a written leave of absence\nn. (American football) a play that involves one player throwing the ball to a teammate\nn. the location in a range of mountains of a geological formation that is lower than the surrounding peaks\nn. any authorization to pass or go somewhere"
+  },
+  {
+    "单词": "headache",
+    "英音": "[ˈhedeɪk]",
+    "美音": "[ˈhedeɪk]",
+    "释义(中文)": "n. 头痛；麻烦；令人头痛之事",
+    "释义(英文)": "n. pain in the head caused by dilation of cerebral arteries or muscle contractions or a reaction to drugs"
+  },
+  {
+    "单词": "habit",
+    "英音": "[ˈhæbɪt]",
+    "美音": "[ˈhæbɪt]",
+    "释义(中文)": "n. 习惯，习性；嗜好\nvt. 使穿衣",
+    "释义(英文)": "n. an established custom\nn. (psychology) an automatic pattern of behavior in reaction to a specific situation; may be inherited or acquired through frequent repetition\nn. a distinctive attire worn by a member of a religious order\nn. the general form or mode of growth (especially of a plant or crystal)"
+  },
+  {
+    "单词": "have a cold",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 伤风\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "stay up",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 不去睡觉；不沉\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "go to bed",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 睡；同床；【印】付印\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "from then on",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 从那时起\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "visit",
+    "英音": "[ˈvɪzɪt]",
+    "美音": "[ˈvɪzɪt]",
+    "释义(中文)": "n. 访问；参观；逗留\nvt. 访问；参观；视察\nvi. 访问；暂住；闲谈\n",
+    "释义(英文)": "n. the act of going to see some person or place or thing for a short time\nn. a meeting arranged by the visitor to see someone (such as a doctor or lawyer) for treatment or advice\nn. the act of visiting in an official capacity (as for an inspection)\nn. the act of going to see some person in a professional capacity"
+  },
+  {
+    "单词": "photo",
+    "英音": "[ˈfəʊtəʊ]",
+    "美音": "[ˈfoʊtoʊ]",
+    "释义(中文)": "n. 照片",
+    "释义(英文)": "n a representation of a person or scene in the form of a print or transparent slide; recorded by a camera on light-sensitive material"
+  },
+  {
+    "单词": "angry",
+    "英音": "[ˈæŋɡri]",
+    "美音": "[ˈæŋɡri]",
+    "释义(中文)": "adj. 生气的；愤怒的；狂暴的；（伤口等）发炎的",
+    "释义(英文)": "a. feeling or showing anger\ns. (of the elements) as if showing violent anger\ns. severely inflamed and painful"
+  },
+  {
+    "单词": "high",
+    "英音": "[haɪ]",
+    "美音": "[haɪ]",
+    "释义(中文)": "n. 高水平；天空；由麻醉品引起的快感；高压地带\nadj. 高的；高级的；崇高的；高音调的\nadv. 高；奢侈地\n",
+    "释义(英文)": "n. a lofty level or position or degree\nn. an air mass of higher than normal pressure\nn. a state of sustained elation\nn. a state of altered consciousness induced by alcohol or narcotics"
+  },
+  {
+    "单词": "once",
+    "英音": "[wʌns]",
+    "美音": "[wʌns]",
+    "释义(中文)": "adv. 一次；曾经\nconj. 一旦\nn. 一次，一回",
+    "释义(英文)": "r. on one occasion\nr. as soon as\nr. at a previous time;"
+  },
+  {
+    "单词": "trip",
+    "英音": "[trɪp]",
+    "美音": "[trɪp]",
+    "释义(中文)": "n. 旅行；绊倒；差错\nvt. 绊倒；使犯错\nvi. 绊倒；远足；犯错误；轻快地走\n",
+    "释义(英文)": "n. a journey for some purpose (usually including the return)\nn. a hallucinatory experience induced by drugs\nn. an exciting or stimulating experience\nn. a light or nimble tread"
+  },
+  {
+    "单词": "build",
+    "英音": "[bɪld]",
+    "美音": "[bɪld]",
+    "释义(中文)": "n. 构造；体形；体格\nvi. 建筑；建造\nvt. 建立；建筑",
+    "释义(英文)": "v. build or establish something abstract\nv. improve the cleansing action of\nv. order, supervise, or finance the construction of\nv. give form to, according to a plan"
+  },
+  {
+    "单词": "take photos",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 照相；拍照；拍照片",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "boat",
+    "英音": "[bəʊt]",
+    "美音": "[boʊt]",
+    "释义(中文)": "n. 小船；轮船\nvi. 划船",
+    "释义(英文)": "n. a small vessel for travel on water\nv. ride in a boat on water"
+  },
+  {
+    "单词": "zoo",
+    "英音": "[zuː]",
+    "美音": "[zuː]",
+    "释义(中文)": "n. 动物园; <美俚>（铁路货车的最后一节）守车; <美俚>核粒子园",
+    "释义(英文)": "n the facility where wild animals are housed for exhibition"
+  },
+  {
+    "单词": "last",
+    "英音": "[lɑːst]",
+    "美音": "[læst]",
+    "释义(中文)": "n. 末尾，最后；上个；鞋楦（做鞋的模型）\nadj. 最后的；最近的，最新的；仅剩的；最不可能…的\nvi. 持续；维持，够用；持久\nvt. 度过，拖过；使维持\nadv. 最后地；上次，最近；最后一点\n",
+    "释义(英文)": "n. the last or lowest in an ordering or series\nn. a person's dying act; the final thing a person can do\nn. a unit of weight equal to 4,000 pounds\nn. a unit of capacity for grain equal to 80 bushels"
+  },
+  {
+    "单词": "life",
+    "英音": "[laɪf]",
+    "美音": "[laɪf]",
+    "释义(中文)": "n. 生活，生存；寿命",
+    "释义(英文)": "n. a characteristic state or mode of living\nn. the experience of being alive; the course of human events and activities\nn. the course of existence of an individual; the actions and events that occur in living\nn. the period during which something is functional (as between birth and death)"
+  },
+  {
+    "单词": "protect",
+    "英音": "[prəˈtekt]",
+    "美音": "[prəˈtekt]",
+    "释义(中文)": "vt. 保护，防卫；警戒",
+    "释义(英文)": "v. shield from danger, injury, destruction, or damage\nv. use tariffs to favor domestic industry"
+  },
+  {
+    "单词": "mine",
+    "英音": "[maɪn]",
+    "美音": "[maɪn]",
+    "释义(中文)": "n. 矿，矿藏；矿山，矿井；地雷，水雷\nvt. 开采，采掘；在…布雷\nvi. 开矿，采矿；埋设地雷\npron. 我的\n",
+    "释义(英文)": "n. excavation in the earth from which ores and minerals are extracted\nn. explosive device that explodes on contact; designed to destroy vehicles or ships or to kill or maim personnel\nv. get from the earth by excavation\nv. lay mines"
+  },
+  {
+    "单词": "middle",
+    "英音": "[ˈmɪd(ə)l]",
+    "美音": "[ˈmɪd(ə)l]",
+    "释义(中文)": "adj. 中间的，中部的；中级的，中等的\nn. 中间，中央；腰部",
+    "释义(英文)": "n. an intermediate part or section\nn. the middle area of the human torso (usually in front)\nn. time between the beginning and the end of a temporal period\nv. put in the middle"
+  },
+  {
+    "单词": "off",
+    "英音": "[ɒf]",
+    "美音": "[ɔːf]",
+    "释义(中文)": "prep. 离开；脱落\nadv. 切断；走开\nadj. 远离的；空闲的",
+    "释义(英文)": "a. not in operation or operational\ns. below a satisfactory level\na. (of events) no longer planned or scheduled\ns. in an unpalatable state"
+  },
+  {
+    "单词": "world",
+    "英音": "[wɜːld]",
+    "美音": "[wɜːrld]",
+    "释义(中文)": "n. 世界；领域；世俗；全人类；物质生活",
+    "释义(英文)": "n. people in general; especially a distinctive group of people with some shared interest\nn. all of your experiences that determine how things appear to you\nn. a part of the earth that can be considered separately\nn. all of the living human inhabitants of the earth"
+  },
+  {
+    "单词": "have a good look at",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. (仔细)看一看\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "do one's best",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 竭尽所能；尽力\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "wait for",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 等；等待\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "in the middle of",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 正在…当中；在…的中途；在…的中央；在…的中部\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "after some time",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 不久之后\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "supermarket",
+    "英音": "[ˈsuːpəmɑːkɪt]",
+    "美音": "[ˈsuːpərmɑːrkɪt]",
+    "释义(中文)": "n. 超级市场；自助售货商店",
+    "释义(英文)": "n. a large self-service grocery store selling groceries and dairy products and household goods"
+  },
+  {
+    "单词": "taxi",
+    "英音": "[ˈtæksi]",
+    "美音": "[ˈtæksi]",
+    "释义(中文)": "n. 出租汽车\nvt. 使滑行；用出租车送\nvi. 乘出租车；滑行",
+    "释义(英文)": "v. travel slowly\nv. ride in a taxicab"
+  },
+  {
+    "单词": "sweater",
+    "英音": "[ˈswetə(r)]",
+    "美音": "[ˈswetər]",
+    "释义(中文)": "n. 毛线衣，运动衫；大量出汗的人，发汗剂",
+    "释义(英文)": "n. a crocheted or knitted garment covering the upper part of the body"
+  },
+  {
+    "单词": "cool",
+    "英音": "[kuːl]",
+    "美音": "[kuːl]",
+    "释义(中文)": "n. 凉爽；凉爽的空气\nadj. 凉爽的；冷静的；出色的\nvt. 使…冷却；使…平静下来\nvi. 变凉；平息\nadv. 冷静地\n",
+    "释义(英文)": "n. the quality of being at a refreshingly low temperature\nv. make cool or cooler\nv. loose heat\nv. lose intensity"
+  },
+  {
+    "单词": "young",
+    "英音": "[jʌŋ]",
+    "美音": "[jʌŋ]",
+    "释义(中文)": "n. 年轻人；（动物的）崽，仔\nadj. 年轻的；初期的；没有经验的\n",
+    "释义(英文)": "n. any immature animal\nn. United States film and television actress (1913-2000)\nn. United States civil rights leader (1921-1971)\nn. British physicist and Egyptologist; he revived the wave theory of light and proposed a three-component theory of color vision; he also played an important role in deciphering the hieroglyphics on the Rosetta Stone (1773-1829)"
+  },
+  {
+    "单词": "clothes",
+    "英音": "[kləʊðz]",
+    "美音": "[kloʊðz; kloʊz]",
+    "释义(中文)": "n. 衣服",
+    "释义(英文)": "n clothing in general\nv provide with clothes or put clothes on\nv furnish with power or authority; of kings or emperors\nv cover as if with clothing"
+  },
+  {
+    "单词": "poor",
+    "英音": "[pɔː(r)]",
+    "美音": "[pʊr; pɔːr]",
+    "释义(中文)": "adj. 贫穷的；可怜的；贫乏的；卑鄙的\n",
+    "释义(英文)": "a. having little money or few possessions\na. characterized by or indicating poverty\na. lacking in specific resources, qualities or substances\ns. unsatisfactory"
+  },
+  {
+    "单词": "dead",
+    "英音": "[ded]",
+    "美音": "[ded]",
+    "释义(中文)": "n. 死者\nadj. 无生命的；呆板的；废弃了的\nadv. 完全地",
+    "释义(英文)": "n. people who are no longer living\nn. a time when coldness (or some other quality associated with death) is intense\na. no longer having or seeming to have or expecting to have life\na. not showing characteristics of life especially the capacity to sustain life; no longer exerting force or having energy or heat"
+  },
+  {
+    "单词": "quickly",
+    "英音": "[ˈkwɪkli]",
+    "美音": "[ˈkwɪkli]",
+    "释义(中文)": "adv. 迅速地；很快地",
+    "释义(英文)": "r. with rapid movements"
+  },
+  {
+    "单词": "lose",
+    "英音": "[luːz]",
+    "美音": "[luːz]",
+    "释义(中文)": "vt. 浪费；使沉溺于；使迷路；遗失；错过\nvi. 失败；受损失\n",
+    "释义(英文)": "v. fail to keep or to maintain; cease to have, either physically or in an abstract sense\nv. fail to win\nv. suffer the loss of a person through death or removal\nv. miss from one's possessions; lose sight of"
+  },
+  {
+    "单词": "try on",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 试穿；〈非正式〉搞恶作剧(以试探能否被容忍)；〈非正式〉耍花招\n",
+    "释义(英文)": "n putting clothes on to see whether they fit"
+  },
+  {
+    "单词": "put on",
+    "英音": "[pʊt ɒn]",
+    "美音": "[pʊt ɑːn]",
+    "释义(中文)": "na. 假话\n",
+    "释义(英文)": "n a composition that imitates or misrepresents somebody's style, usually in a humorous way\nn something intended to deceive; deliberate trickery intended to gain an advantage\nn a ludicrous or grotesque act done for fun and amusement"
+  },
+  {
+    "单词": "umbrella",
+    "英音": "[ʌmˈbrelə]",
+    "美音": "[ʌmˈbrelə]",
+    "释义(中文)": "n. 雨伞；保护伞；庇护；伞形结构",
+    "释义(英文)": "n. a lightweight handheld collapsible canopy\nn. a formation of military planes maintained over ground operations or targets\nn. having the function of uniting a group of similar things\ns. covering or applying simultaneously to a number of similar items or elements or groups"
+  },
+  {
+    "单词": "luck",
+    "英音": "[lʌk]",
+    "美音": "[lʌk]",
+    "释义(中文)": "n. 运气；幸运；带来好运的东西\nvi. 靠运气，走运；凑巧碰上\n",
+    "释义(英文)": "n. an unknown and unpredictable phenomenon that causes an event to result one way rather than another\nn. an unknown and unpredictable phenomenon that leads to a favorable outcome"
+  },
+  {
+    "单词": "library",
+    "英音": "[ˈlaɪbrəri; ˈlaɪbri]",
+    "美音": "[ˈlaɪbreri]",
+    "释义(中文)": "n. 图书馆，藏书室；文库",
+    "释义(英文)": "n. a room where books are kept\nn. a collection of literary documents or records kept for reference or borrowing\nn. a depository built to contain books and other materials for reading and study\nn. (computing) a collection of standard programs and subroutines that are stored and available for immediate use"
+  },
+  {
+    "单词": "left",
+    "英音": "[left]",
+    "美音": "[left]",
+    "释义(中文)": "adj. 左边的；左派的；剩下的\nadv. 在左面\nn. 左边；左派；激进分子\nv. 离开（leave的过去式）",
+    "释义(英文)": "n. location near or direction toward the left side; i.e. the side to the north when a person or object faces east\nn. those who support varying degrees of social or political or economic change designed to promote the public welfare\nn. the hand that is on the left side of the body\nn. a turn toward the side of the body that is on the north when the person is facing east"
+  },
+  {
+    "单词": "end",
+    "英音": "[end]",
+    "美音": "[end]",
+    "释义(中文)": "n. 结束；目标；尽头；末端；死亡\nvi. 结束，终止；终结\nvt. 结束，终止；终结\n",
+    "释义(英文)": "n. either extremity of something that has length\nn. the point in time at which something ends\nn. the concluding parts of an event or occurrence\nn. a final part or section"
+  },
+  {
+    "单词": "surprised",
+    "英音": "[səˈpraɪzd]",
+    "美音": "[sərˈpraɪzd]",
+    "释义(中文)": "v. 使惊奇（surprise的过去分词形式）\nadj. 感到惊讶的，出人意料的",
+    "释义(英文)": "a. taken unawares or suddenly and feeling wonder or astonishment"
+  },
+  {
+    "单词": "at the end",
+    "英音": "[æt ði end]",
+    "美音": "[æt ði end]",
+    "释义(中文)": "na. 终于\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "on the right",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 在右边；在右侧；在右面",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "next to",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "prep. 紧邻；在…近旁；仅次于；紧接\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "look for",
+    "英音": "[ˈlʊk fɔː(r)]",
+    "美音": "[ˈlʊk fɔːr]",
+    "释义(中文)": "v. 寻找；探索；渴望；盼望\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "lovely",
+    "英音": "[ˈlʌvli]",
+    "美音": "[ˈlʌvli]",
+    "释义(中文)": "adj. 可爱的；令人愉快的；爱恋的；秀丽的，优美的\nn. 美女；可爱的东西",
+    "释义(英文)": "s. appealing to the emotions as well as the eye"
+  },
+  {
+    "单词": "a lot of",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "det. 许多\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "between",
+    "英音": "[bɪˈtwiːn]",
+    "美音": "[bɪˈtwiːn]",
+    "释义(中文)": "prep. 在…之间\nadv. 在中间",
+    "释义(英文)": "r. in the interval\nr. in between"
+  },
+  {
+    "单词": "hour",
+    "英音": "[ˈaʊə(r)]",
+    "美音": "[ˈaʊər]",
+    "释义(中文)": "n. 小时；钟头；课时；…点钟\n",
+    "释义(英文)": "n. a period of time equal to 1/24th of a day\nn. clock time\nn. a special and memorable period\nn. distance measured by the time taken to cover it"
+  },
+  {
+    "单词": "team",
+    "英音": "[tiːm]",
+    "美音": "[tiːm]",
+    "释义(中文)": "n. 队；组\nvt. 使合作\nvi. 合作\n",
+    "释义(英文)": "n. a cooperative unit (especially in sports)\nn. two or more draft animals that work together to pull something\nv. form a team"
+  },
+  {
+    "单词": "later",
+    "英音": "[ˈleɪtə(r)]",
+    "美音": "[ˈleɪtər]",
+    "释义(中文)": "adv. 后来；稍后；随后\nadj. 更迟的；更后的\n",
+    "释义(英文)": "s. coming at a subsequent time or stage\nr. comparative of the adverb `late'"
+  },
+  {
+    "单词": "cloud",
+    "英音": "[klaʊd]",
+    "美音": "[klaʊd]",
+    "释义(中文)": "n. 云；阴云；云状物；一大群；黑斑\nvt. 使混乱；以云遮敝；使忧郁；玷污\nvi. 阴沉；乌云密布\n",
+    "释义(英文)": "n. any collection of particles (e.g., smoke or dust) or gases that is visible\nn. a visible mass of water or ice particles suspended at a considerable altitude\nn. out of touch with reality\nn. a cause of worry or gloom or trouble"
+  },
+  {
+    "单词": "clear",
+    "英音": "[klɪə(r)]",
+    "美音": "[klɪr]",
+    "释义(中文)": "n. 清除；空隙\nadj. 清楚的；清澈的；晴朗的；无罪的\nvt. 通过；清除；使干净；跳过\nvi. 放晴；变清澈\nadv. 清晰地；完全地\n",
+    "释义(英文)": "n. the state of being free of suspicion\nv. make a way or path by removing objects\nv. remove\nv. be debited and credited to the proper bank accounts"
+  },
+  {
+    "单词": "shine",
+    "英音": "[ʃaɪn]",
+    "美音": "[ʃaɪn]",
+    "释义(中文)": "vt. 照射，擦亮；把…的光投向；（口）通过擦拭使…变得有光泽或光\nvi. 发出光；反射光，闪耀；出类拔萃，表现突出；露出；照耀；显露；出众\nn. 光亮，光泽；好天气；擦亮；晴天；擦皮鞋；鬼把戏或诡计\n",
+    "释义(英文)": "v. emit light; be bright, as of the sun or a light\nv. be distinguished or eminent\nv. be clear and obvious\nv. throw or flash the light of (a lamp)"
+  },
+  {
+    "单词": "raincoat",
+    "英音": "[ˈreɪnkəʊt]",
+    "美音": "[ˈreɪnkoʊt]",
+    "释义(中文)": "n. （美）雨衣",
+    "释义(英文)": "n. a water-resistant coat"
+  },
+  {
+    "单词": "talk about",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 讲(某事)\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "laugh at",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 嘲笑；付之一笑；因…而发笑\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "deaf",
+    "英音": "[def]",
+    "美音": "[def]",
+    "释义(中文)": "adj. 聋的",
+    "释义(英文)": "n. people who have severe hearing impairments\na. lacking or deprived of the sense of hearing wholly or in part\ns. (usually followed by `to') unwilling or refusing to pay heed"
+  },
+  {
+    "单词": "queen",
+    "英音": "[kwiːn]",
+    "美音": "[kwiːn]",
+    "释义(中文)": "n. 女王，王后；（纸牌中的）皇后；（蜜蜂等的）蜂王\nvt. 使…成为女王或王后\nvi. 做女王\n",
+    "释义(英文)": "n. the only fertile female in a colony of social insects such as bees and ants and termites; its function is to lay eggs\nn. a female sovereign ruler\nn. the wife or widow of a king\nn. something personified as a woman who is considered the best or most important of her kind"
+  },
+  {
+    "单词": "holiday",
+    "英音": "[ˈhɒlədeɪ]",
+    "美音": "[ˈhɑːlədeɪ]",
+    "释义(中文)": "n. 假日；节日；休息日\nvi. 外出度假\n",
+    "释义(英文)": "n. a day on which work is suspended by law or custom"
+  },
+  {
+    "单词": "student",
+    "英音": "[ˈstjuːdnt]",
+    "美音": "[ˈstuːdnt]",
+    "释义(中文)": "n. 学生；学者\n",
+    "释义(英文)": "n. a learner who is enrolled in an educational institution"
+  },
+  {
+    "单词": "parent",
+    "英音": "[ˈpeərənt]",
+    "美音": "[ˈperənt]",
+    "释义(中文)": "n. 父亲（或母亲）；父母亲；根源\n",
+    "释义(英文)": "n. a father or mother; one who begets or one who gives birth to or nurtures and raises a child; a relative who plays the role of guardian\nn. an organism (plant or animal) from which younger ones are obtained"
+  },
+  {
+    "单词": "travel",
+    "英音": "[ˈtræv(ə)l]",
+    "美音": "[ˈtrævl]",
+    "释义(中文)": "n. 旅行；游历；漫游\nvt. 经过；在…旅行\nvi. 旅行；行进；步行；交往",
+    "释义(英文)": "n. the act of going from one place to another\nv. change location; move, travel, or proceed, also metaphorically\nv. undertake a journey or trip\nv. make a trip for pleasure"
+  },
+  {
+    "单词": "moon",
+    "英音": "[muːn]",
+    "美音": "[muːn]",
+    "释义(中文)": "n. 月亮；月球；月光；卫星\nvi. 闲荡；出神\nvt. 虚度\n",
+    "释义(英文)": "n. the natural satellite of the Earth\nn. any object resembling a moon\nn. United States religious leader (born in Korea) who founded the Unification Church in 1954; was found guilty of conspiracy to evade taxes (born in 1920)\nn. any natural satellite of a planet"
+  },
+  {
+    "单词": "ago",
+    "英音": "[əˈɡəʊ]",
+    "美音": "[əˈɡoʊ]",
+    "释义(中文)": "adj. 以前的；过去的\nadv. 以前，以往\n",
+    "释义(英文)": "s. gone by; or in the past\nr. in the past"
+  },
+  {
+    "单词": "famous",
+    "英音": "[ˈfeɪməs]",
+    "美音": "[ˈfeɪməs]",
+    "释义(中文)": "adj. 著名的；极好的，非常令人满意的",
+    "释义(英文)": "s widely known and esteemed"
+  },
+  {
+    "单词": "capital",
+    "英音": "[ˈkæpɪt(ə)l]",
+    "美音": "[ˈkæpɪt(ə)l]",
+    "释义(中文)": "n. 首都，省会；资金；大写字母；资本家\nadj. 首都的；重要的；大写的\n",
+    "释义(英文)": "n. assets available for use in the production of further assets\nn. wealth in the form of money or property owned by a person or business and human resources of economic value\nn. a seat of government\nn. one of the large alphabetic characters used as the first letter in writing or printing proper names and sometimes for emphasis; capitals were kept in the upper half of the type case and so became known as upper-case letters\""
+  },
+  {
+    "单词": "climb",
+    "英音": "[klaɪm]",
+    "美音": "[klaɪm]",
+    "释义(中文)": "n. 爬；攀登\nvi. 爬；攀登；上升\nvt. 爬；攀登；上升",
+    "释义(英文)": "n. an event that involves rising to a higher point (as in altitude or temperature or intensity etc.)\nn. the act of climbing something\nv. go upward with gradual or continuous progress\nv. move with difficulty, by grasping"
+  },
+  {
+    "单词": "come to an end",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 完结\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "some day",
+    "英音": "[ˈsʌm deɪ]",
+    "美音": "[ˈsʌm ˌdeɪ]",
+    "释义(中文)": "adv. 总有一天；有朝一日；将来\n",
+    "释义(英文)": "r. some unspecified time in the future"
+  }
+]

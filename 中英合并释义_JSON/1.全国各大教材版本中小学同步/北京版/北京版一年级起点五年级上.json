@@ -1,0 +1,485 @@
+[
+  {
+    "单词": "supermarket",
+    "英音": "[ˈsuːpəmɑːkɪt]",
+    "美音": "[ˈsuːpərmɑːrkɪt]",
+    "释义(中文)": "n. 超级市场；自助售货商店",
+    "释义(英文)": "n. a large self-service grocery store selling groceries and dairy products and household goods"
+  },
+  {
+    "单词": "meat",
+    "英音": "[miːt]",
+    "美音": "[miːt]",
+    "释义(中文)": "n. 肉，肉类（食用）",
+    "释义(英文)": "n. the flesh of animals (including fishes and birds and snails) used as food"
+  },
+  {
+    "单词": "juice",
+    "英音": "[dʒuːs]",
+    "美音": "[dʒuːs]",
+    "释义(中文)": "n. （水果）汁，液；果汁",
+    "释义(英文)": "n. the liquid part that can be extracted from plant or animal tissue by squeezing or cooking\nn. energetic vitality\nn. electric current\nn. any of several liquids of the body"
+  },
+  {
+    "单词": "pay",
+    "英音": "[peɪ]",
+    "美音": "[peɪ]",
+    "释义(中文)": "n. 工资，薪水；付款；报答\nvt. 支付，付；偿还，补偿；给予\nvi. 付款；偿还\nadj. 收费的；需付费的",
+    "释义(英文)": "v. give money, usually in exchange for goods or services\nv. do or give something to somebody in return\nv. be worth it\nv. render"
+  },
+  {
+    "单词": "English",
+    "英音": "[ˈɪŋɡlɪʃ]",
+    "美音": "[ˈɪŋɡlɪʃ]",
+    "释义(中文)": "n. 英语；英国人；英文；英格兰人\nadj. 英国人的；英国的；英文的\nvt. 把…译成英语",
+    "释义(英文)": "n. an Indo-European language belonging to the West Germanic branch; the official language of Britain and the United States and most of the commonwealth countries\nn. the people of England\nn. the discipline that studies the English language and literature"
+  },
+  {
+    "单词": "difficult",
+    "英音": "[ˈdɪfɪkəlt]",
+    "美音": "[ˈdɪfɪkəlt]",
+    "释义(中文)": "adj. 困难的；不随和的；执拗的",
+    "释义(英文)": "a. not easy; requiring great physical or mental effort to accomplish or comprehend or endure"
+  },
+  {
+    "单词": "maths",
+    "英音": "[mæθs]",
+    "美音": "[mæθs]",
+    "释义(中文)": "n. 数学（等于mathematics）\n",
+    "释义(英文)": "n a science (or group of related sciences) dealing with the logic of quantity and shape and arrangement\nn a science (or group of related sciences) dealing with the logic of quantity and shape and arrangement"
+  },
+  {
+    "单词": "subject",
+    "英音": "[ˈsʌbdʒɪkt; ˈsʌbdʒekt]",
+    "美音": "[ˈsʌbdʒɪkt; ˈsʌbdʒekt]",
+    "释义(中文)": "n. 主题；科目；[语] 主语；国民\nadj. 服从的；易患…的；受制于…的\nvt. 使…隶属；使屈从于…",
+    "释义(英文)": "n. the subject matter of a conversation or discussion\nn. something (a person or object or scene) selected by an artist or photographer for graphic representation\nn. (grammar) one of the two main constituents of a sentence; the grammatical constituent about which something is predicated\nn. a person who is subjected to experimental or other observational procedures; someone who is an object of investigation"
+  },
+  {
+    "单词": "draw",
+    "英音": "[drɔː]",
+    "美音": "[drɔː]",
+    "释义(中文)": "n. 平局；抽签\nvi. 拉；拖\nvt. 画；拉；吸引\n",
+    "释义(英文)": "n. a gully that is shallower than a ravine\nn. the finish of a contest in which the score is tied and the winner is undecided\nn. anything (straws or pebbles etc.) taken or chosen at random\nn. a playing card or cards dealt or taken from the pack"
+  },
+  {
+    "单词": "art",
+    "英音": "[ɑːt]",
+    "美音": "[ɑːrt]",
+    "释义(中文)": "n. 艺术；美术；艺术品\nv. 是（be的变体）\nadj. 艺术的；艺术品的\n",
+    "释义(英文)": "n. the products of human creativity; works of art collectively\nn. the creation of beautiful or significant things\nn. a superior skill that you can learn by study and practice and observation"
+  },
+  {
+    "单词": "science",
+    "英音": "[ˈsaɪəns]",
+    "美音": "[ˈsaɪəns]",
+    "释义(中文)": "n. 科学；技术；学科；理科\n",
+    "释义(英文)": "n. a particular branch of scientific knowledge"
+  },
+  {
+    "单词": "sheep",
+    "英音": "[ʃiːp]",
+    "美音": "[ʃiːp]",
+    "释义(中文)": "n. 羊，绵羊；胆小鬼\n",
+    "释义(英文)": "n. woolly usually horned ruminant mammal related to the goat\nn. a timid defenseless simpleton who is readily preyed upon\nn. a docile and vulnerable person who would rather follow than make an independent decision"
+  },
+  {
+    "单词": "bear",
+    "英音": "[beə(r)]",
+    "美音": "[ber]",
+    "释义(中文)": "n. 熊\nvt. 结果实，开花（正式）\nvt. 忍受；承受；具有；支撑\n",
+    "释义(英文)": "n. massive plantigrade carnivorous or omnivorous mammals with long shaggy coats and strong claws\nn. an investor with a pessimistic market outlook; an investor who expects prices to fall and so sells now in order to buy later at a lower price\nv. have\nv. move while holding up or supporting"
+  },
+  {
+    "单词": "minute",
+    "英音": "[ˈmɪnɪt]",
+    "美音": "[ˈmɪnɪt]",
+    "释义(中文)": "n. 分，分钟；片刻，一会儿；备忘录，笔记；会议记录\nvt. 将…记录下来\nadj. 微小的，详细的 [maɪˈnjuːt; US -ˈnuːt; maɪˋnut]",
+    "释义(英文)": "n. a unit of time equal to 60 seconds or 1/60th of an hour\nn. a unit of angular distance equal to a 60th of a degree\nn. a short note\ns. characterized by painstaking care and detailed examination"
+  },
+  {
+    "单词": "put",
+    "英音": "[pʊt]",
+    "美音": "[pʊt]",
+    "释义(中文)": "n. 掷；笨蛋；投击；怪人\nadj. 固定不动的\nvi. 出发；击；航行；发芽\nvt. 放；表达；移动；安置；赋予\n",
+    "释义(英文)": "v. put into a certain place or abstract location\nv. cause to be in a certain state; cause to be in a certain relation\nv. attribute or give\nv. cause (someone) to undergo something"
+  },
+  {
+    "单词": "must",
+    "英音": "[məst]",
+    "美音": "[məst; mʌst]",
+    "释义(中文)": "aux. 必须，一定；可以，应当；很可能\nn. 绝对必要的事物；未发酵葡萄汁\n",
+    "释义(英文)": "n. a necessary or essential thing\nn. grape juice before or during fermentation\ns. highly recommended"
+  },
+  {
+    "单词": "brother",
+    "英音": "[ˈbrʌðə(r)]",
+    "美音": "[ˈbrʌðər]",
+    "释义(中文)": "n. 兄弟；同事；战友\nint. 我的老兄！\n",
+    "释义(英文)": "n. a male with the same parents as someone else\nn. a male person who is a fellow member (of a fraternity or religion or other group)\nn. used as a term of address for those male persons engaged in the same movement\nn. (Roman Catholic Church) a title given to a monk and used as form of address"
+  },
+  {
+    "单词": "pass",
+    "英音": "[pɑːs]",
+    "美音": "[pæs]",
+    "释义(中文)": "n. 及格；经过；护照；途径；传球\nvt. 通过；经过；传递\nvi. 经过；传递；变化；终止\n",
+    "释义(英文)": "n. (military) a written leave of absence\nn. (American football) a play that involves one player throwing the ball to a teammate\nn. the location in a range of mountains of a geological formation that is lower than the surrounding peaks\nn. any authorization to pass or go somewhere"
+  },
+  {
+    "单词": "finish",
+    "英音": "[ˈfɪnɪʃ]",
+    "美音": "[ˈfɪnɪʃ]",
+    "释义(中文)": "n. 结束；完美；回味（葡萄酒）\nvt. 完成；结束；用完\nvi. 结束，终止；终结",
+    "释义(英文)": "n. the place designated as the end (as of a race or journey)\nn. designated event that concludes a contest (especially a race)\nn. the downfall of someone (as of persons on one side of a conflict)\nn. (wine tasting) the taste of a wine on the back of the tongue (as it is swallowed)"
+  },
+  {
+    "单词": "homework",
+    "英音": "[ˈhəʊmwɜːk]",
+    "美音": "[ˈhoʊmwɜːrk]",
+    "释义(中文)": "n. 家庭作业，课外作业",
+    "释义(英文)": "n. preparatory school work done outside school (especially at home)"
+  },
+  {
+    "单词": "half",
+    "英音": "[hɑːf]",
+    "美音": "[hæf]",
+    "释义(中文)": "n. 一半；半场；半学年\nadj. 一半的；不完全的；半途的\nadv. 一半地；部分地\n",
+    "释义(英文)": "n. one of two divisions into which some games or performances are divided: the two divisions are separated by an interval\ns. consisting of one of two equivalent parts in value or quantity\ns. partial\na. (of siblings) related through one parent only"
+  },
+  {
+    "单词": "late",
+    "英音": "[leɪt]",
+    "美音": "[leɪt]",
+    "释义(中文)": "adj. 晚的；迟的；已故的；最近的\nadv. 晚；迟；最近；在晚期",
+    "释义(英文)": "a. being or occurring at an advanced period of time or after a usual or expected time\ns. of the immediate past or just previous to the present time\ns. having died recently\na. of a later stage in the development of a language or literature; used especially of dead languages"
+  },
+  {
+    "单词": "dirty",
+    "英音": "[ˈdɜːti]",
+    "美音": "[ˈdɜːrti]",
+    "释义(中文)": "adj. 下流的，卑鄙的；肮脏的；恶劣的；暗淡的\nvt. 弄脏\nvi. 变脏",
+    "释义(英文)": "v. make soiled, filthy, or dirty\na. soiled or likely to soil with dirt or grime\na. (of behavior or especially language) characterized by obscenity or indecency\ns. vile; despicable"
+  },
+  {
+    "单词": "ask",
+    "英音": "[ɑːsk]",
+    "美音": "[æsk]",
+    "释义(中文)": "vt. 问，询问；要求；需要；邀请；讨价\nvi. 问，询问；要求\n",
+    "释义(英文)": "v. inquire about\nv. make a request or demand for something to somebody\nv. direct or put; seek an answer to\nv. consider obligatory; request and expect"
+  },
+  {
+    "单词": "join",
+    "英音": "[dʒɔɪn]",
+    "美音": "[dʒɔɪn]",
+    "释义(中文)": "vt. 参加；结合；连接\nvi. 加入；参加；结合\nn. 结合；连接；接合点\n",
+    "释义(英文)": "v. become part of; become a member of a group or organization\nv. cause to become joined or linked\nv. come into the company of\nv. make contact or come together"
+  },
+  {
+    "单词": "wash",
+    "英音": "[wɒʃ]",
+    "美音": "[wɑːʃ]",
+    "释义(中文)": "n. 洗涤；洗的衣服；化妆水；冲积物\nvt. 洗涤；洗刷；冲走；拍打\nvi. 洗澡；被冲蚀\n",
+    "释义(英文)": "n. a thin coat of water-base paint\nn. the work of cleansing (usually with soap and water)\nn. the dry bed of an intermittent stream (as at the bottom of a canyon)\nn. a watercolor made by applying a series of monochrome washes one over the other"
+  },
+  {
+    "单词": "autumn",
+    "英音": "[ˈɔːtəm]",
+    "美音": "[ˈɔːtəm; ˈɑːtəm]",
+    "释义(中文)": "n. 秋天；成熟期；渐衰期，凋落期\nadj. 秋天的，秋季的\n",
+    "释义(英文)": "n the season when the leaves fall from the trees"
+  },
+  {
+    "单词": "family",
+    "英音": "[ˈfæməli]",
+    "美音": "[ˈfæməli]",
+    "释义(中文)": "n. 家庭；亲属；家族；子女；[生]科；语族；[化]族\nadj. 家庭的；家族的；适合于全家的",
+    "释义(英文)": "n. a social unit living together\nn. primary social group; parents and children\nn. people descended from a common ancestor\nn. (biology) a taxonomic group containing one or more genera"
+  },
+  {
+    "单词": "fruit",
+    "英音": "[fruːt]",
+    "美音": "[fruːt]",
+    "释义(中文)": "n. 水果；产物\nvt. 使……结果实\nvi. 结果实\n",
+    "释义(英文)": "n. the ripened reproductive body of a seed plant\nn. the consequence of some effort or action\nv. cause to bear fruit\nv. bear fruit"
+  },
+  {
+    "单词": "climb",
+    "英音": "[klaɪm]",
+    "美音": "[klaɪm]",
+    "释义(中文)": "n. 爬；攀登\nvi. 爬；攀登；上升\nvt. 爬；攀登；上升",
+    "释义(英文)": "n. an event that involves rising to a higher point (as in altitude or temperature or intensity etc.)\nn. the act of climbing something\nv. go upward with gradual or continuous progress\nv. move with difficulty, by grasping"
+  },
+  {
+    "单词": "usually",
+    "英音": "[ˈjuːʒuəli]",
+    "美音": "[ˈjuːʒuəli; ˈjuːʒəli]",
+    "释义(中文)": "adv. 通常，经常",
+    "释义(英文)": "r under normal conditions"
+  },
+  {
+    "单词": "him",
+    "英音": "[hɪm; ɪm]",
+    "美音": "[hɪm; ɪm]",
+    "释义(中文)": "pron. 他（宾格）\n",
+    "释义(英文)": "pron. Them. See Hem.\npron. The objective case of he. See He."
+  },
+  {
+    "单词": "dress",
+    "英音": "[dres]",
+    "美音": "[dres]",
+    "释义(中文)": "n. 连衣裙；女装\nvt. 给…穿衣\nvi. 穿衣\n",
+    "释义(英文)": "n. a one-piece garment for a woman; has skirt and bodice\nv. put on clothes\nv. provide with clothes or put clothes on\nv. put a finish on"
+  },
+  {
+    "单词": "night",
+    "英音": "[naɪt]",
+    "美音": "[naɪt]",
+    "释义(中文)": "n. 夜晚，晚上；黑暗，黑夜\nadj. 夜晚的，夜间的",
+    "释义(英文)": "n. the time after sunset and before sunrise while it is dark outside\nn. a period of ignorance or backwardness or gloom\nn. the period spent sleeping\nn. the dark part of the diurnal cycle considered a time unit"
+  },
+  {
+    "单词": "as",
+    "英音": "[əz]",
+    "美音": "[əz; æz]",
+    "释义(中文)": "conj. 因为；随着；虽然；依照；当…时\nprep. 如同；当作；以…的身份\nadv. 同样地；和…一样的",
+    "释义(英文)": "n a very poisonous metallic element that has three allotropic forms; arsenic and arsenic compounds are used as herbicides and insecticides and various alloys; found in arsenopyrite and orpiment and realgar\nn a United States territory on the eastern part of the island of Samoa\nn a metric unit of length equal to one ten billionth of a meter (or 0.0001 micron); used to specify wavelengths of electromagnetic radiation\nn any of several fat-soluble vitamins essential for normal vision; prevents night blindness or inflammation or dryness of the eyes\nn one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)\nn (biochemistry) purine base found in DNA and RNA; pairs with thymine in DNA and with uracil in RNA\nn the basic unit of electric current adopted under the Systeme International d'Unites\nn the 1st letter of the Roman alphabet\nn the blood group whose red cells carry the A antigen\nr to the same degree (often followed by `as')"
+  },
+  {
+    "单词": "tongue",
+    "英音": "[tʌŋ]",
+    "美音": "[tʌŋ]",
+    "释义(中文)": "n. 舌头；语言\nvt. 舔；斥责；用舌吹\nvi. 说话；吹管乐器\n",
+    "释义(英文)": "n. a mobile mass of muscular tissue covered with mucous membrane and located in the oral cavity\nn. any long thin projection that is transient\nn. a manner of speaking\nn. the tongue of certain animals used as meat"
+  },
+  {
+    "单词": "the U.S.A.",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 美国；悠游美国",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "the United States of America",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 美利坚合众国\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "east",
+    "英音": "[iːst]",
+    "美音": "[iːst]",
+    "释义(中文)": "n. 东方；东风；东方国家\nadj. 东方的；向东的；从东方来的\nadv. 向东方，在东方\n",
+    "释义(英文)": "n. the cardinal compass point that is at 90 degrees\nn. the countries of Asia\nn. the region of the United States lying to the north of the Ohio River and to the east of the Mississippi River\nn. the direction corresponding to the eastward cardinal compass point"
+  },
+  {
+    "单词": "morning",
+    "英音": "[ˈmɔːnɪŋ]",
+    "美音": "[ˈmɔːrnɪŋ]",
+    "释义(中文)": "n. 早晨；黎明；初期",
+    "释义(英文)": "n. the time period between dawn and noon"
+  },
+  {
+    "单词": "the U.K.",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 英国",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "clock",
+    "英音": "[klɒk]",
+    "美音": "[klɑːk]",
+    "释义(中文)": "n. 时钟；计时器\nvt. 记录；记时\nvi. 打卡；记录时间\n",
+    "释义(英文)": "n. a timepiece that shows the time of day\nv. measure the time or duration of an event or action or the person who performs an action in a certain period of time"
+  },
+  {
+    "单词": "river",
+    "英音": "[ˈrɪvə(r)]",
+    "美音": "[ˈrɪvər]",
+    "释义(中文)": "n. 河，江\n",
+    "释义(英文)": "n. a large natural stream of water (larger than a creek)"
+  },
+  {
+    "单词": "city",
+    "英音": "[ˈsɪti]",
+    "美音": "[ˈsɪti]",
+    "释义(中文)": "n. 城市，都市\nadj. 城市的；都会的",
+    "释义(英文)": "n. a large and densely populated urban area; may include several independent administrative districts\nn. an incorporated administrative district established by state charter\nn. people living in a large densely populated municipality"
+  },
+  {
+    "单词": "afternoon",
+    "英音": "[ˌɑːftəˈnuːn]",
+    "美音": "[ˌæftərˈnuːn]",
+    "释义(中文)": "n. 午后，下午",
+    "释义(英文)": "n. the part of the day between noon and evening"
+  },
+  {
+    "单词": "map",
+    "英音": "[mæp]",
+    "美音": "[mæp]",
+    "释义(中文)": "vt. 映射；计划；绘制地图；确定基因在染色体中的位置\nn. 地图；示意图；染色体图\nvi. 基因被安置\n",
+    "释义(英文)": "n. a diagrammatic representation of the earth's surface (or part of it)\nv. make a map of; show or establish the features of details of\nv. explore or survey for the purpose of making a map\nv. locate within a specific region of a chromosome in relation to known DNA or gene sequences"
+  },
+  {
+    "单词": "Canada",
+    "英音": "[ˈkænədə]",
+    "美音": "[ˈkænədə]",
+    "释义(中文)": "n. 加拿大（北美洲国家）",
+    "释义(英文)": "n. a nation in northern North America; the French were the first Europeans to settle in mainland Canada"
+  },
+  {
+    "单词": "leaf",
+    "英音": "[liːf]",
+    "美音": "[liːf]",
+    "释义(中文)": "n. 叶子；（书籍等的）一张；扇页\nvi. 生叶；翻书页\nvt. 翻…的页，匆匆翻阅\n",
+    "释义(英文)": "n. the main organ of photosynthesis and transpiration in higher plants\nn. a sheet of any written or printed material (especially in a manuscript or book)\nn. hinged or detachable flat section (as of a table or door)\nv. turn over pages"
+  },
+  {
+    "单词": "tennis",
+    "英音": "[ˈtenɪs]",
+    "美音": "[ˈtenɪs]",
+    "释义(中文)": "n. 网球（运动）\n",
+    "释义(英文)": "n. a game played with rackets by two or four players who hit a ball back and forth over a net that divides the court"
+  },
+  {
+    "单词": "golf",
+    "英音": "[ɡɒlf]",
+    "美音": "[ɡɑːlf]",
+    "释义(中文)": "n. 高尔夫球；高尔夫球运动\nvi. 打高尔夫球\n",
+    "释义(英文)": "n. a game played on a large open course with 9 or 18 holes; the object is use as few strokes as possible in playing all the holes\nv. play golf"
+  },
+  {
+    "单词": "British",
+    "英音": "[ˈbrɪtɪʃ]",
+    "美音": "[ˈbrɪtɪʃ]",
+    "释义(中文)": "n. 英国人\nadj. 英国的；英国人的；大不列颠的",
+    "释义(英文)": "n. the people of Great Britain\na. of or relating to or characteristic of Great Britain or its people or culture"
+  },
+  {
+    "单词": "basketball",
+    "英音": "[ˈbɑːskɪtbɔːl]",
+    "美音": "[ˈbæskɪtbɔːl]",
+    "释义(中文)": "n. 篮球；篮球运动",
+    "释义(英文)": "n. a game played on a court by two opposing teams of 5 players; points are scored by throwing the ball through an elevated horizontal hoop\nn. an inflated ball used in playing basketball"
+  },
+  {
+    "单词": "with",
+    "英音": "[wɪð]",
+    "美音": "[wɪð; wɪθ]",
+    "释义(中文)": "prep. 用；随着；支持；和…在一起\n",
+    "释义(英文)": "n. See Withe.\nprep. With denotes or expresses some situation or relation of\n   nearness, proximity, association, connection, or the like.\nprep. To denote a close or direct relation of opposition or\n   hostility; -- equivalent to against.\nprep. To denote association in respect of situation or\n   environment; hence, among; in the company of.\nprep. To denote a connection of friendship, support, alliance,\n   assistance, countenance, etc.; hence, on the side of.\nprep. To denote the accomplishment of cause, means, instrument,\n   etc; -- sometimes equivalent to by.\nprep. To denote association in thought, as for comparison or\n   contrast.\nprep. To denote simultaneous happening, or immediate succession\n   or consequence.\nprep. To denote having as a possession or an appendage; as, the\n   firmament with its stars; a bride with a large fortune."
+  },
+  {
+    "单词": "friend",
+    "英音": "[frend]",
+    "美音": "[frend]",
+    "释义(中文)": "n. 朋友；助手；赞助者\n",
+    "释义(英文)": "n. a person you know well and regard with affection and trust\nn. a member of the Religious Society of Friends founded by George Fox (the Friends have never called themselves Quakers)"
+  },
+  {
+    "单词": "baseball",
+    "英音": "[ˈbeɪsbɔːl]",
+    "美音": "[ˈbeɪsbɔːl]",
+    "释义(中文)": "n. 棒球；棒球运动",
+    "释义(英文)": "n. a ball game played with a bat and ball between two teams of nine players; teams take turns at bat trying to score runs\nn. a ball used in playing baseball"
+  },
+  {
+    "单词": "team",
+    "英音": "[tiːm]",
+    "美音": "[tiːm]",
+    "释义(中文)": "n. 队；组\nvt. 使合作\nvi. 合作\n",
+    "释义(英文)": "n. a cooperative unit (especially in sports)\nn. two or more draft animals that work together to pull something\nv. form a team"
+  },
+  {
+    "单词": "ski",
+    "英音": "[skiː]",
+    "美音": "[skiː]",
+    "释义(中文)": "n. 滑雪橇\nvi. 滑雪\nadj. 滑雪（用）的",
+    "释义(英文)": "n. narrow wood or metal or plastic runners used in pairs for gliding over snow\nv. move along on skis"
+  },
+  {
+    "单词": "winter",
+    "英音": "[ˈwɪntə(r)]",
+    "美音": "[ˈwɪntər]",
+    "释义(中文)": "n. 冬季；年岁；萧条期\nadj. 冬天的；越冬的\nvi. 过冬\n",
+    "释义(英文)": "n. the coldest season of the year; in the northern hemisphere it extends from the winter solstice to the vernal equinox\nv. spend the winter"
+  },
+  {
+    "单词": "fast",
+    "英音": "[fɑːst]",
+    "美音": "[fæst]",
+    "释义(中文)": "n. 斋戒；绝食\nadj. 快速的，迅速的；紧的，稳固的\nadv. 迅速地；紧紧地；彻底地\nvi. 禁食，斋戒\n",
+    "释义(英文)": "n. abstaining from food\nv. abstain from certain foods, as for religious or medical reasons\nv. abstain from eating\na. acting or moving or capable of acting or moving quickly"
+  },
+  {
+    "单词": "panda",
+    "英音": "[ˈpændə]",
+    "美音": "[ˈpændə]",
+    "释义(中文)": "n. 熊猫；猫熊\n",
+    "释义(英文)": "n large black-and-white herbivorous mammal of bamboo forests of China and Tibet; in some classifications considered a member of the bear family or of a separate family Ailuropodidae\nn reddish-brown Old World raccoon-like carnivore; in some classifications considered unrelated to the giant pandas"
+  },
+  {
+    "单词": "forget",
+    "英音": "[fəˈɡet]",
+    "美音": "[fərˈɡet]",
+    "释义(中文)": "vi. 忘记\nvt. 忘记；忽略\n\n",
+    "释义(英文)": "v. dismiss from the mind; stop remembering\nv. be unable to remember\nv. forget to do something\nv. leave behind unintentionally"
+  },
+  {
+    "单词": "cousin",
+    "英音": "[ˈkʌzn]",
+    "美音": "[ˈkʌzn]",
+    "释义(中文)": "n. 堂兄弟姊妹；表兄弟姊妹",
+    "释义(英文)": "n. the child of your aunt or uncle"
+  },
+  {
+    "单词": "brave",
+    "英音": "[breɪv]",
+    "美音": "[breɪv]",
+    "释义(中文)": "n. 勇士\nadj. 勇敢的；华丽的\nvt. 勇敢地面对\n",
+    "释义(英文)": "n. a North American Indian warrior\nn. people who are brave\na. possessing or displaying courage; able to face and deal with danger or fear without flinching\ns. brightly colored and showy"
+  },
+  {
+    "单词": "tall",
+    "英音": "[tɔːl]",
+    "美音": "[tɔːl]",
+    "释义(中文)": "adj. 高的；长的；过分的；夸大的\nadv. 夸大地\n",
+    "释义(英文)": "n. a garment size for a tall person\na. great in vertical dimension; high in stature\ns. impressively difficult"
+  },
+  {
+    "单词": "driver",
+    "英音": "[ˈdraɪvə(r)]",
+    "美音": "[ˈdraɪvər]",
+    "释义(中文)": "n. 驾驶员；驱动程序；起子；传动器\n",
+    "释义(英文)": "n. the operator of a motor vehicle\nn. someone who drives animals that pull a vehicle\nn. a golfer who hits the golf ball with a driver\nn. (computer science) a program that determines how a computer will communicate with a peripheral device"
+  },
+  {
+    "单词": "early",
+    "英音": "[ˈɜːli]",
+    "美音": "[ˈɜːrli]",
+    "释义(中文)": "adj. 早期的；早熟的\nadv. 提早；在初期\n",
+    "释义(英文)": "a. at or near the beginning of a period of time or course of events or before the usual or expected time\na. being or occurring at an early stage of development\ns. belonging to the distant past\ns. very young"
+  },
+  {
+    "单词": "breakfast",
+    "英音": "[ˈbrekfəst]",
+    "美音": "[ˈbrekfəst]",
+    "释义(中文)": "n. 早餐；早饭\nvt. 为…供应早餐\nvi. 吃早餐",
+    "释义(英文)": "n. the first meal of the day (usually in the morning)\nv. eat an early morning meal\nv. provide breakfast for"
+  },
+  {
+    "单词": "busy",
+    "英音": "[ˈbɪzi]",
+    "美音": "[ˈbɪzi]",
+    "释义(中文)": "adj. 忙碌的；热闹的；正被占用的\nvt. 使忙于\n",
+    "释义(英文)": "v. keep busy with\na. actively or fully engaged or occupied\ns. overcrowded or cluttered with detail\ns. crowded with or characterized by much activity"
+  },
+  {
+    "单词": "dinner",
+    "英音": "[ˈdɪnə(r)]",
+    "美音": "[ˈdɪnər]",
+    "释义(中文)": "n. 晚餐，晚宴；宴会；正餐\n",
+    "释义(英文)": "n. the main meal of the day served in the evening or at midday\nn. a party of people assembled to have dinner together"
+  }
+]

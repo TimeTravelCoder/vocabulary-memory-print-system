@@ -1,0 +1,639 @@
+[
+  {
+    "单词": "often",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "r. in many cases or instances"
+  },
+  {
+    "单词": "every",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "s. (used of count nouns) each and all of the members of a group considered singly and without exception\ns. each and all of a series of entities or intervals as specified"
+  },
+  {
+    "单词": "week",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. any period of seven consecutive days\nn. a period of seven consecutive days starting on Sunday"
+  },
+  {
+    "单词": "Monday",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the second day of the week; the first working day"
+  },
+  {
+    "单词": "raise",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the amount a salary is increased\nn. increasing the size of a bet (as in poker)\nv. raise the level or amount of something\nv. raise from a lower to a higher position"
+  },
+  {
+    "单词": "national",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a person who owes allegiance to that nation\na. of or relating to or belonging to a nation or country\na. limited to or in the interests of a particular nation\na. concerned with or applicable to or belonging to an entire nation or country"
+  },
+  {
+    "单词": "flag",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. emblem usually consisting of a rectangular piece of cloth of distinctive design\nn. a rectangular piece of fabric used as a signalling device\nn. stratified stone that splits into pieces suitable as paving stones\nn. a conspicuously marked or shaped tail"
+  },
+  {
+    "单词": "national flag",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "meeting",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a formally arranged gathering\nn. a small informal social gathering\nn. a casual or unexpected convergence\nn. the social act of assembling for some common purpose"
+  },
+  {
+    "单词": "Tuesday",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the third day of the week; the second working day"
+  },
+  {
+    "单词": "Wednesday",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the fourth day of the week; the third working day"
+  },
+  {
+    "单词": "Thursday",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the fifth day of the week; the fourth working day"
+  },
+  {
+    "单词": "Friday",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the sixth day of the week; the fifth working day"
+  },
+  {
+    "单词": "clean",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "v. make clean by removing dirt, filth, or unwanted substances from\nv. remove unwanted substances from, such as feathers or pits\nv. be cleanable\nv. deprive wholly of money in a gambling game, robbery, etc."
+  },
+  {
+    "单词": "Saturday",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the seventh and last day of the week; observed as the Sabbath by Jews and some Christians"
+  },
+  {
+    "单词": "Sunday",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. first day of the week; observed as a day of rest and worship by most Christians\nn. United States evangelist (1862-1935)"
+  },
+  {
+    "单词": "stand",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the position where a thing or person stands\nn. a growth of similar plants (usually trees) in a particular area\nn. a small table for holding articles of various kinds\nn. an interruption of normal activity"
+  },
+  {
+    "单词": "door",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a swinging or sliding barrier that will close the entrance to a room or building or vehicle\nn. anything providing a means of access (or escape)\nn. a structure where people live or work (usually ordered along a street or road)\nn. a room that is entered via a door"
+  },
+  {
+    "单词": "Well done!",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "s. (meat) cooked until there is no pink meat left inside"
+  },
+  {
+    "单词": "bright",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "a. emitting or reflecting light readily or in large amounts\ns. having striking color\ns. characterized by quickness and ease in learning\ns. having lots of light either natural or artificial"
+  },
+  {
+    "单词": "close",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "v. move so that an opening or passage is obstructed; make shut\nv. become closed\nv. finish or terminate (meetings, speeches, etc.)\nv. complete a business deal, negotiation, or an agreement"
+  },
+  {
+    "单词": "turn off",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. something causing antagonism or loss of interest\nn. a side road where you can turn off"
+  },
+  {
+    "单词": "fan",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a device for creating a current of air by movement of a surface or surfaces\nn. an ardent follower and admirer\nv. strike out (a batter), (of a pitcher)\nv. make (an emotion) fiercer"
+  },
+  {
+    "单词": "all right",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "math",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n a science (or group of related sciences) dealing with the logic of quantity and shape and arrangement"
+  },
+  {
+    "单词": "English",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. an Indo-European language belonging to the West Germanic branch; the official language of Britain and the United States and most of the commonwealth countries\nn. the people of England\nn. the discipline that studies the English language and literature"
+  },
+  {
+    "单词": "worry",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a strong feeling of anxiety\nv. be worried, concerned, anxious, troubled, or uneasy\nv. be concerned with\nv. disturb the peace of mind of; afflict with mental agitation or distress"
+  },
+  {
+    "单词": "music",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. an artistic form of auditory communication incorporating instrumental or vocal tones in a structured and continuous manner\nn. any agreeable (pleasing and harmonious) sounds\nn. musical activity (singing or whistling etc.)\nn. (music) the sounds produced by singers or musical instruments (or reproductions of such sounds)"
+  },
+  {
+    "单词": "Chinese",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. any of the Sino-Tibetan languages spoken in China; regarded as dialects of a single language (even though they are mutually unintelligible) because they share an ideographic writing system\nn. a native or inhabitant of Communist China or of Nationalist China\na. of or pertaining to China or its peoples or cultures"
+  },
+  {
+    "单词": "art",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the products of human creativity; works of art collectively\nn. the creation of beautiful or significant things\nn. a superior skill that you can learn by study and practice and observation"
+  },
+  {
+    "单词": "PE",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the 17th letter of the Hebrew alphabet"
+  },
+  {
+    "单词": "help",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "v. give help or assistance; be of service\nv. improve the condition of\nv. be of use\nv. contribute to the furtherance of"
+  },
+  {
+    "单词": "science",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a particular branch of scientific knowledge"
+  },
+  {
+    "单词": "interesting",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "a. arousing or holding the attention"
+  },
+  {
+    "单词": "Ms.",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n a form of address for a woman"
+  },
+  {
+    "单词": "by car",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "work",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. activity directed toward making or doing something\nn. a product produced or accomplished through the effort or activity or agency of a person or thing\nn. (physics) a manifestation of energy; the transfer of energy from one physical system to another expressed as the product of a force and the distance through which it moves a body in the direction of that force\nv. exert oneself by doing mental or physical work for a purpose or out of necessity"
+  },
+  {
+    "单词": "on foot",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "aunt",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the sister of your father or mother; the wife of your uncle"
+  },
+  {
+    "单词": "plane",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. (mathematics) an unbounded two-dimensional shape\nn. a level of existence or development\nn. a power tool for smoothing or shaping wood\nn. a carpenter's hand tool with an adjustable blade for smoothing or shaping wood"
+  },
+  {
+    "单词": "ship",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a vessel that carries passengers or freight\nv. hire for work on a ship\nv. travel by ship\nv. place on board a ship"
+  },
+  {
+    "单词": "place",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. any area set aside for a particular purpose\nn. an abstract mental location\nn. a general vicinity\nn. a particular situation"
+  },
+  {
+    "单词": "train",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. public transport provided by a line of railway cars coupled together and drawn by a locomotive\nn. a series of consequences wrought by an event\nn. piece of cloth forming the long back section of a gown that is drawn along the floor\nv. create by training and teaching"
+  },
+  {
+    "单词": "kitchen",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a room equipped for preparing meals"
+  },
+  {
+    "单词": "shopping list",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "need",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a condition requiring relief\nn. anything that is necessary but lacking\nv. have or feel a need for"
+  },
+  {
+    "单词": "chicken",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the flesh of a chicken used for food\nn. a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl\nn. a foolhardy competition; a dangerous activity that is continued until one competitor becomes afraid and stops\ns. easily frightened"
+  },
+  {
+    "单词": "fruit",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the ripened reproductive body of a seed plant\nn. the consequence of some effort or action\nv. cause to bear fruit\nv. bear fruit"
+  },
+  {
+    "单词": "tea",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a beverage made by steeping tea leaves in water\nn. a light midafternoon meal of tea and sandwiches or cakes\nn. a tropical evergreen shrub or small tree extensively cultivated in e.g. China and Japan and India; source of tea leaves\nn. a reception or party at which tea is served"
+  },
+  {
+    "单词": "juice",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the liquid part that can be extracted from plant or animal tissue by squeezing or cooking\nn. energetic vitality\nn. electric current\nn. any of several liquids of the body"
+  },
+  {
+    "单词": "supermarket",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a large self-service grocery store selling groceries and dairy products and household goods"
+  },
+  {
+    "单词": "with",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. See Withe.\nprep. With denotes or expresses some situation or relation of\n   nearness, proximity, association, connection, or the like.\nprep. To denote a close or direct relation of opposition or\n   hostility; -- equivalent to against.\nprep. To denote association in respect of situation or\n   environment; hence, among; in the company of.\nprep. To denote a connection of friendship, support, alliance,\n   assistance, countenance, etc.; hence, on the side of.\nprep. To denote the accomplishment of cause, means, instrument,\n   etc; -- sometimes equivalent to by.\nprep. To denote association in thought, as for comparison or\n   contrast.\nprep. To denote simultaneous happening, or immediate succession\n   or consequence.\nprep. To denote having as a possession or an appendage; as, the\n   firmament with its stars; a bride with a large fortune."
+  },
+  {
+    "单词": "toy",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a nonfunctional replica of something else (frequently used as a modifier)\nn. a device regarded as providing amusement\nv. manipulate manually or in one's mind or imagination"
+  },
+  {
+    "单词": "these",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "pron. The plural of this. See This.\npl.  of This"
+  },
+  {
+    "单词": "Teddy Bear",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "seventy",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the cardinal number that is the product of ten and seven\ns. being ten more than sixty"
+  },
+  {
+    "单词": "hundred",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. ten 10s\ns. being ten more than ninety"
+  },
+  {
+    "单词": "sixty",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the cardinal number that is the product of ten and six\ns. being ten more than fifty"
+  },
+  {
+    "单词": "eighty",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the cardinal number that is the product of ten and eight\ns. being ten more than seventy"
+  },
+  {
+    "单词": "ninety",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the cardinal number that is the product of ten and nine\ns. being ten more than eighty"
+  },
+  {
+    "单词": "weather",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the atmospheric conditions that comprise the state of the atmosphere in terms of temperature and wind and clouds and precipitation\nv. face and withstand with courage\nv. cause to slope\nv. sail to the windward of"
+  },
+  {
+    "单词": "snow",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. precipitation falling from clouds in the form of ice crystals\nn. a layer of snowflakes (white crystals of frozen water) covering the ground\nn. English writer of novels about moral dilemmas in academe (1905-1980)\nv. fall as snow"
+  },
+  {
+    "单词": "cold",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a mild viral infection involving the nose and respiratory passages (but not the lungs)\nn. the sensation produced by low temperatures\na. having a low or inadequate temperature or feeling a sensation of coldness or having been made cold by e.g. ice or refrigeration\na. extended meanings; especially of psychological coldness; without human warmth or emotion"
+  },
+  {
+    "单词": "coat",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. an outer garment that has sleeves and covers the body from shoulder down; worn outdoors\nn. growth of hair or wool or fur covering the body of an animal\nv. put a coat on; cover the surface of; furnish with a surface\nv. cover or provide with a coat"
+  },
+  {
+    "单词": "rain",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. water falling in drops from vapor condensed in the atmosphere\nn. drops of fresh water that fall as precipitation from clouds\nn. anything happening rapidly or in quick successive\nv. precipitate as rain"
+  },
+  {
+    "单词": "but",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "r and nothing more"
+  },
+  {
+    "单词": "warm",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "v. get warm or warmer\nv. make warm or warmer\na. having or producing a comfortable and agreeable degree of heat or imparting or maintaining heat\na. psychologically warm; friendly and responsive"
+  },
+  {
+    "单词": "today",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the present time or age\nn. the day that includes the present moment (as opposed to yesterday or tomorrow)\nr. on this day as distinct from yesterday or tomorrow"
+  },
+  {
+    "单词": "sunny",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "s bright and pleasant; promoting a feeling of cheer"
+  },
+  {
+    "单词": "take",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the act of photographing a scene or part of a scene without interruption\nv. carry out\nv. require (time or space)\nv. get into one's hands, take physically"
+  },
+  {
+    "单词": "cloudy",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "s. lacking definite form or limits\na. full of or covered with clouds\ns. (of liquids) clouded as with sediment"
+  },
+  {
+    "单词": "windy",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "s. resembling the wind in speed, force, or variability"
+  },
+  {
+    "单词": "favorite",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. something regarded with special favor or liking\ns. appealing to the general public"
+  },
+  {
+    "单词": "season",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a period of the year marked by special events or activities in some field\nn. one of the natural periods into which the year is divided by the equinoxes and solstices or atmospheric conditions\nn. a recurrent time marked by major holidays\nv. lend flavor to"
+  },
+  {
+    "单词": "why",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the cause or intention underlying an action or situation, especially in the phrase `the whys and wherefores'"
+  },
+  {
+    "单词": "summer",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the warmest season of the year; in the northern hemisphere it extends from the summer solstice to the autumnal equinox\nn. the period of finest development, happiness, or beauty\nv. spend the summer"
+  },
+  {
+    "单词": "hot",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "a. used of physical heat; having a high or higher than desirable temperature or giving off heat or feeling or causing a sensation of heat or burning\ns. characterized by violent and forceful activity or movement; very intense\na. extended meanings; especially of psychological heat; marked by intensity or vehemence especially of passion or enthusiasm\ns. (color) bold and intense"
+  },
+  {
+    "单词": "long",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "a. primarily temporal sense; being or indicating a relatively great or greater than average duration or passage of time or a duration as specified\na. primarily spatial sense; of relatively great or greater than average spatial extension or extension as specified\ns. of relatively great height\na. holding securities or commodities in expectation of a rise in prices"
+  },
+  {
+    "单词": "vacation",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. leisure time away from work devoted to rest or pleasure\nn. the act of making something legally void\nv. spend or take a vacation"
+  },
+  {
+    "单词": "autumn",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n the season when the leaves fall from the trees"
+  },
+  {
+    "单词": "cool",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the quality of being at a refreshingly low temperature\nv. make cool or cooler\nv. loose heat\nv. lose intensity"
+  },
+  {
+    "单词": "winter",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the coldest season of the year; in the northern hemisphere it extends from the winter solstice to the vernal equinox\nv. spend the winter"
+  },
+  {
+    "单词": "wonderful",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "s extraordinarily good or great; used especially as intensifiers"
+  },
+  {
+    "单词": "will",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a fixed and persistent intent or purpose\nn. a legal document declaring a person's wishes regarding the disposal of their property when they die\nv. decree or ordain\nv. determine by choice"
+  },
+  {
+    "单词": "live",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "v. lead a certain kind of life; live in a certain style\nv. pursue a positive and satisfying existence\na. actually being performed at the time of hearing or viewing\na. exerting force or containing energy"
+  },
+  {
+    "单词": "the UK",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "visit",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. the act of going to see some person or place or thing for a short time\nn. a meeting arranged by the visitor to see someone (such as a doctor or lawyer) for treatment or advice\nn. the act of visiting in an official capacity (as for an inspection)\nn. the act of going to see some person in a professional capacity"
+  },
+  {
+    "单词": "Big Ben",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "the Great Wall",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "homework",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. preparatory school work done outside school (especially at home)"
+  },
+  {
+    "单词": "basketball",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "",
+    "释义(英文)": "n. a game played on a court by two opposing teams of 5 players; points are scored by throwing the ball through an elevated horizontal hoop\nn. an inflated ball used in playing basketball"
+  }
+]

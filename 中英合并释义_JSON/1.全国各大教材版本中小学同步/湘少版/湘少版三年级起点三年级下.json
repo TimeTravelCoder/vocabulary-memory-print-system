@@ -1,0 +1,653 @@
+[
+  {
+    "单词": "glad",
+    "英音": "[ɡlæd]",
+    "美音": "[ɡlæd]",
+    "释义(中文)": "adj. 高兴的；乐意的；令人高兴的；灿烂美丽的\nvt. 使高兴\n",
+    "释义(英文)": "a. showing or causing joy and pleasure; especially made happy\ns. eagerly disposed to act or to be of service\ns. feeling happy appreciation"
+  },
+  {
+    "单词": "see",
+    "英音": "[siː]",
+    "美音": "[siː]",
+    "释义(中文)": "vi. 看；看见；领会\nvt. 看见；理解；领会\n",
+    "释义(英文)": "n. the seat within a bishop's diocese where his cathedral is located\nv. perceive by sight or have the power to perceive by sight\nv. deem to be\nv. be careful or certain to do something; make certain of something"
+  },
+  {
+    "单词": "again",
+    "英音": "[əˈɡen]",
+    "美音": "[əˈɡen; əˈɡeɪn]",
+    "释义(中文)": "adv. 又，此外；再一次；再说；增加\nn. （英、保）阿盖恩",
+    "释义(英文)": "r. anew"
+  },
+  {
+    "单词": "fine",
+    "英音": "[faɪn]",
+    "美音": "[faɪn]",
+    "释义(中文)": "n. 罚款\nadj. 好的；优良的；细小的，精美的；健康的；晴朗的\nvt. 罚款；澄清\nadv. 很好地；精巧地\n",
+    "释义(英文)": "n. money extracted as a penalty\ns. minutely precise especially in differences in meaning\ns. thin in thickness or diameter\ns. characterized by elegance or refinement or accomplishment"
+  },
+  {
+    "单词": "too",
+    "英音": "[tuː]",
+    "美音": "[tuː]",
+    "释义(中文)": "adv. 太；也；很；还；非常；过度",
+    "释义(英文)": "r to a degree exceeding normal or proper limits\nr in addition"
+  },
+  {
+    "单词": "now",
+    "英音": "[naʊ]",
+    "美音": "[naʊ]",
+    "释义(中文)": "adv. 现在；如今；立刻\nadj. 现在的\nn. 现在；目前\nconj. 由于；既然",
+    "释义(英文)": "n. the momentary present\nr. in the historical present; at this point in the narration of a series of past events\nr. used to preface a command or reproof or request\nr. at the present moment"
+  },
+  {
+    "单词": "evening",
+    "英音": "[ˈiːvnɪŋ]",
+    "美音": "[ˈiːvnɪŋ]",
+    "释义(中文)": "n. 晚上；傍晚；（联欢性的）晚会；后期\nadj. 在晚上的；为晚上的；晚上用的\nint. 晚上好（等于good evening）",
+    "释义(英文)": "n. the latter part of the day (the period of decreasing daylight from late afternoon until nightfall)\nn. a later concluding time period\nn. the early part of night (from dinner until bedtime) spent in a special way"
+  },
+  {
+    "单词": "night",
+    "英音": "[naɪt]",
+    "美音": "[naɪt]",
+    "释义(中文)": "n. 夜晚，晚上；黑暗，黑夜\nadj. 夜晚的，夜间的",
+    "释义(英文)": "n. the time after sunset and before sunrise while it is dark outside\nn. a period of ignorance or backwardness or gloom\nn. the period spent sleeping\nn. the dark part of the diurnal cycle considered a time unit"
+  },
+  {
+    "单词": "Here you are.",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "[口语]；我们(或你，你们)到了!；这就是我们(或你，你们)所要的东西。",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "boy",
+    "英音": "[bɔɪ]",
+    "美音": "[bɔɪ]",
+    "释义(中文)": "n. 男孩；男人\n",
+    "释义(英文)": "n. a friendly informal reference to a grown man\nn. (ethnic slur) offensive and disparaging term for Black man"
+  },
+  {
+    "单词": "girl",
+    "英音": "[ɡɜːl]",
+    "美音": "[ɡɜːrl]",
+    "释义(中文)": "n. 女孩；姑娘，未婚女子；女职员，女演员；（男人的）女朋友\nn. （捷）吉尔",
+    "释义(英文)": "n. a young woman\nn. a friendly informal reference to a grown woman"
+  },
+  {
+    "单词": "baby",
+    "英音": "[ˈbeɪbi]",
+    "美音": "[ˈbeɪbi]",
+    "释义(中文)": "n. 婴儿，婴孩；孩子气的人\nadj. 婴儿的；幼小的\nvt. 纵容，娇纵；把……当婴儿般对待\n",
+    "释义(英文)": "n. a very young child (birth to 1 year) who has not yet begun to walk or talk\nn. the youngest member of a group (not necessarily young)\nn. an unborn child; a human fetus\nn. (slang) sometimes used as a term of address for attractive young women"
+  },
+  {
+    "单词": "man",
+    "英音": "[mæn]",
+    "美音": "[mæn]",
+    "释义(中文)": "n. 人；男人；人类；丈夫；雇工\nvt. 操纵；给…配置人员；使增强勇气；在…就位\n",
+    "释义(英文)": "n. an adult person who is male (as opposed to a woman)\nn. the generic use of the word to refer to any human being\nn. a male subordinate\nn. an adult male person who has a manly character (virile and courageous competent)"
+  },
+  {
+    "单词": "woman",
+    "英音": "[ˈwʊmən]",
+    "美音": "[ˈwʊmən]",
+    "释义(中文)": "n. 妇女；女性；成年女子",
+    "释义(英文)": "n. an adult female person (as opposed to a man)\nn. a female person who plays a significant role (wife or mistress or girlfriend) in the life of a particular man"
+  },
+  {
+    "单词": "colour",
+    "英音": "[ˈkʌlə(r)]",
+    "美音": "[ˈkʌlər]",
+    "释义(中文)": "n. 颜色；风格；气色，面色；外貌\nvt. 把…涂颜色，粉饰；歪曲；使脸红\nvi. 变色",
+    "释义(英文)": "n any material used for its color\nn a race with skin pigmentation different from the white race (especially Blacks)\nn (physics) the characteristic of quarks that determines their role in the strong interaction\nn interest and variety and intensity\nn the timbre of a musical sound\nn a visual attribute of things that results from the light they emit or transmit or reflect\nn an outward or token appearance or form that is deliberately misleading\nn the appearance of objects (or light sources) described in terms of a person's perception of their hue and lightness (or brightness) and saturation\nv modify or bias\nv decorate with colors\nv give a deceptive explanation or excuse for\nv affect as in thought or feeling\nv add color to\nv change color, often in an undesired manner\na having or capable of producing colors"
+  },
+  {
+    "单词": "balloon",
+    "英音": "[bəˈluːn]",
+    "美音": "[bəˈluːn]",
+    "释义(中文)": "n. 气球\nadj. 像气球般鼓起的\nvt. 使像气球般鼓起；使激增\nvi. 激增；膨胀如气球\n",
+    "释义(英文)": "n. large tough nonrigid bag filled with gas or heated air\nn. small thin inflatable rubber bag with narrow neck\nv. ride in a hot-air balloon\nv. become inflated"
+  },
+  {
+    "单词": "red",
+    "英音": "[red]",
+    "美音": "[red]",
+    "释义(中文)": "n. 红色，红颜料；赤字\nadj. 红色的；红肿的，充血的",
+    "释义(英文)": "n. red color or pigment; the chromatic color resembling the hue of blood\nn. a tributary of the Mississippi River that flows eastward from Texas along the southern boundary of Oklahoma and through Louisiana\ns. of a color at the end of the color spectrum (next to orange); resembling the color of blood or cherries or tomatoes or rubies"
+  },
+  {
+    "单词": "blue",
+    "英音": "[bluː]",
+    "美音": "[bluː]",
+    "释义(中文)": "adj. 蓝色的；沮丧的，忧郁的；下流的\nn. 蓝色；[复数]（美国海、陆、空三军穿的）蓝色制服；蓝颜料；[the blue(s)][用作单数或复数]布鲁斯（歌曲）（一种伤感的美国黑人民歌\nvi. 变成蓝色，呈蓝色\nvt. 把…染成蓝色；使成蓝色；给…用上蓝剂；用上蓝剂于\n",
+    "释义(英文)": "n. blue color or pigment; resembling the color of the clear sky in the daytime\nn. blue clothing\nn. any organization or party whose uniforms or badges are blue\nn. any of numerous small butterflies of the family Lycaenidae"
+  },
+  {
+    "单词": "yellow",
+    "英音": "[ˈjeləʊ]",
+    "美音": "[ˈjeloʊ]",
+    "释义(中文)": "n. 黄色；黄种人；黄色颜料\nadj. 黄色的；黄皮肤的\nvt. 使变黄或发黄\nvi. 变黄或发黄",
+    "释义(英文)": "n. yellow color or pigment; the chromatic color resembling the hue of sunflowers or ripe lemons\nv. turn yellow\ns. of the color intermediate between green and orange in the color spectrum; of something resembling the color of an egg yolk\ns. changed to a yellowish color by age"
+  },
+  {
+    "单词": "white",
+    "英音": "[waɪt]",
+    "美音": "[waɪt]",
+    "释义(中文)": "n. 白色；洁白；白种人\nadj. 白色的；白种的；纯洁的",
+    "释义(英文)": "n. a member of the Caucasoid race\nn. the quality or state of the achromatic color of greatest lightness (bearing the least resemblance to black)\nn. United States jurist appointed chief justice of the United States Supreme Court in 1910 by President Taft; noted for his work on antitrust legislation (1845-1921)\nn. Australian writer (1912-1990)"
+  },
+  {
+    "单词": "green",
+    "英音": "[ɡriːn]",
+    "美音": "[ɡriːn]",
+    "释义(中文)": "n. 绿色；青春\nadj. 绿色的；青春的\nvt. 使…变绿色\nvi. 变绿色",
+    "释义(英文)": "n. green color or pigment; resembling the color of growing grass\nn. United States labor leader who was president of the American Federation of Labor from 1924 to 1952 and who led the struggle with the Congress of Industrial Organizations (1873-1952)\nn. an environmentalist who belongs to the Green Party\nn. a river that rises in western Wyoming and flows southward through Utah to become a tributary of the Colorado River"
+  },
+  {
+    "单词": "black",
+    "英音": "[blæk]",
+    "美音": "[blæk]",
+    "释义(中文)": "n. 黑色；黑人；黑颜料\nadj. 黑色的；黑人的；邪恶的\nvt. 使变黑；把鞋油等涂在…上；把（眼眶）打成青肿\nvi. 变黑\n",
+    "释义(英文)": "n. the quality or state of the achromatic color of least lightness (bearing the least resemblance to white)\nn. British chemist who identified carbon dioxide and who formulated the concepts of specific heat and latent heat (1728-1799)\nn. popular child actress of the 1930's (born in 1928)\nn. a person with dark skin who comes from Africa (or whose ancestors came from Africa)"
+  },
+  {
+    "单词": "look",
+    "英音": "[lʊk]",
+    "美音": "[lʊk]",
+    "释义(中文)": "vt. 看；期待；注意；面向；看上去像\nvi. 看；看起来；注意；面向\nn. 看；样子；面容\n",
+    "释义(英文)": "n. the act of directing the eyes toward something and perceiving it visually\nn. physical appearance\nv. perceive with attention; direct one's gaze towards\nv. give a certain impression or have a certain outward aspect"
+  },
+  {
+    "单词": "at",
+    "英音": "[ət]",
+    "美音": "[ət; æt]",
+    "释义(中文)": "prep. 在（表示存在或出现的地点、场所、位置、空间）；以（某种价格、速度等）；向；达；因为；朝；忙于\nn. 阿特（老挝货币基本单位att）；[化]砹（极不稳定放射性元素）\nabbr. 密封的（airtight）；气温（air temperature）",
+    "释义(英文)": "n. 100 at equal 1 kip in Laos"
+  },
+  {
+    "单词": "T-shirt",
+    "英音": "[ˈtiː ʃɜːt]",
+    "美音": "[ˈtiː ʃɜːrt]",
+    "释义(中文)": "n. 短袖圆领汗衫",
+    "释义(英文)": "n a close-fitting pullover shirt"
+  },
+  {
+    "单词": "they",
+    "英音": "[ðeɪ]",
+    "美音": "[ðeɪ]",
+    "释义(中文)": "pron. 他们；它们；她们",
+    "释义(英文)": "obj. The plural of he, she, or it. They is never used\n   adjectively, but always as a pronoun proper, and sometimes refers to\n   persons without an antecedent expressed."
+  },
+  {
+    "单词": "but",
+    "英音": "[bət]",
+    "美音": "[bət; bʌt]",
+    "释义(中文)": "conj. 但是；而是；然而\nadv. 仅仅，只\nprep. 除…以外\n",
+    "释义(英文)": "r and nothing more"
+  },
+  {
+    "单词": "too",
+    "英音": "[tuː]",
+    "美音": "[tuː]",
+    "释义(中文)": "adv. 太；也；很；还；非常；过度",
+    "释义(英文)": "r to a degree exceeding normal or proper limits\nr in addition"
+  },
+  {
+    "单词": "big",
+    "英音": "[bɪɡ]",
+    "美音": "[bɪɡ]",
+    "释义(中文)": "adj. 大的；重要的；量大的\nadv. 大量地；顺利；夸大地\n",
+    "释义(英文)": "s. significant\ns. loud and firm\ns. conspicuous in position or importance\ns. prodigious"
+  },
+  {
+    "单词": "shorts",
+    "英音": "[ʃɔːts]",
+    "美音": "[ʃɔːrts]",
+    "释义(中文)": "n. 短裤\n",
+    "释义(英文)": "n trousers that end at or above the knee\nn underpants worn by men\nn the location on a baseball field where the shortstop is stationed\nn accidental contact between two points in an electric circuit that have a potential difference\nn the fielding position of the player on a baseball team who is stationed between second and third base\nv cheat someone by not returning him enough money\nv create a short circuit in"
+  },
+  {
+    "单词": "nice",
+    "英音": "[naɪs]",
+    "美音": "[naɪs]",
+    "释义(中文)": "adj. 精密的；美好的；细微的；和蔼的\n",
+    "释义(英文)": "n. a city in southeastern France on the Mediterranean; the leading resort on the French Riviera\na. pleasant or pleasing or agreeable in nature or appearance\ns. done with delicacy and skill"
+  },
+  {
+    "单词": "trousers",
+    "英音": "[ˈtraʊzəz]",
+    "美音": "[ˈtraʊzərz]",
+    "释义(中文)": "n. 裤子，长裤",
+    "释义(英文)": "n (usually in the plural) a garment extending from the waist to the knee or ankle, covering each leg separately\nn a garment (or part of a garment) designed for or relating to trousers"
+  },
+  {
+    "单词": "dress",
+    "英音": "[dres]",
+    "美音": "[dres]",
+    "释义(中文)": "n. 连衣裙；女装\nvt. 给…穿衣\nvi. 穿衣\n",
+    "释义(英文)": "n. a one-piece garment for a woman; has skirt and bodice\nv. put on clothes\nv. provide with clothes or put clothes on\nv. put a finish on"
+  },
+  {
+    "单词": "coat",
+    "英音": "[kəʊt]",
+    "美音": "[koʊt]",
+    "释义(中文)": "n. 外套\nvt. 覆盖…的表面\n",
+    "释义(英文)": "n. an outer garment that has sleeves and covers the body from shoulder down; worn outdoors\nn. growth of hair or wool or fur covering the body of an animal\nv. put a coat on; cover the surface of; furnish with a surface\nv. cover or provide with a coat"
+  },
+  {
+    "单词": "shirt",
+    "英音": "[ʃɜːt]",
+    "美音": "[ʃɜːrt]",
+    "释义(中文)": "n. 衬衫；汗衫，内衣",
+    "释义(英文)": "n. a garment worn on the upper half of the body\nv. put a shirt on"
+  },
+  {
+    "单词": "and",
+    "英音": "[ənd]",
+    "美音": "[ənd; ən; n; ænd]",
+    "释义(中文)": "conj. 和，与；就；而且；但是；然后\n",
+    "释义(英文)": "conj. A particle which expresses the relation of connection or\n   addition. It is used to conjoin a word with a word, a clause with a\n   clause, or a sentence with a sentence.\nconj. In order to; -- used instead of the infinitival to,\n   especially after try, come, go.\nconj. It is sometimes, in old songs, a mere expletive.\nconj. If; though. See An, conj."
+  },
+  {
+    "单词": "time",
+    "英音": "[taɪm]",
+    "美音": "[taɪm]",
+    "释义(中文)": "n. 时间；时代；次数；节拍；倍数\nadj. 定时的；定期的；分期的\nvt. 计时；测定…的时间；安排…的速度\n",
+    "释义(英文)": "n. an instance or single occasion for some event\nn. a period of time considered as a resource under your control and sufficient to accomplish something\nn. an indefinite period (usually marked by specific attributes or activities)\nn. a suitable moment"
+  },
+  {
+    "单词": "clock",
+    "英音": "[klɒk]",
+    "美音": "[klɑːk]",
+    "释义(中文)": "n. 时钟；计时器\nvt. 记录；记时\nvi. 打卡；记录时间\n",
+    "释义(英文)": "n. a timepiece that shows the time of day\nv. measure the time or duration of an event or action or the person who performs an action in a certain period of time"
+  },
+  {
+    "单词": "please",
+    "英音": "[pliːz]",
+    "美音": "[pliːz]",
+    "释义(中文)": "int. 请（礼貌用语）\nvt. 使喜欢；使高兴，使满意\nvi. 讨人喜欢；令人高兴",
+    "释义(英文)": "v. give pleasure to or be pleasing to\nv. be the will of or have the will (to)\nv. give satisfaction\nr. used in polite request"
+  },
+  {
+    "单词": "OK",
+    "英音": "[əʊˈkeɪ]",
+    "美音": "[ˌoʊ'keɪ]",
+    "释义(中文)": "adj. 好的；不错的\nadv. 行；很好\nint. 好；可以\nvt. 对…表示同意\nn. 同意",
+    "释义(英文)": "n a state in south central United States\nk an endorsement\ns being satisfactory or in satisfactory condition\nr an expression of agreement normally occurring at the beginning of a sentence"
+  },
+  {
+    "单词": "o'clock",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "abbr. …点钟（等于of the clock）",
+    "释义(英文)": "r. according to the clock"
+  },
+  {
+    "单词": "eleven",
+    "英音": "[ɪˈlev(ə)n]",
+    "美音": "[ɪˈlevn]",
+    "释义(中文)": "num. 十一；十一个\nn. 十一；十一个\nadj. 十一的；十一个的",
+    "释义(英文)": "n. the cardinal number that is the sum of ten and one\ns. being one more than ten"
+  },
+  {
+    "单词": "twelve",
+    "英音": "[twelv]",
+    "美音": "[twelv]",
+    "释义(中文)": "num. 十二；十二个\nn. 十二；十二个\nadj. 十二的；十二个的",
+    "释义(英文)": "n. the cardinal number that is the sum of eleven and one\ns. denoting a quantity consisting of 12 items or units"
+  },
+  {
+    "单词": "day",
+    "英音": "[deɪ]",
+    "美音": "[deɪ]",
+    "释义(中文)": "n. 一天；时期；白昼\nadj. 日间的；逐日的\nadv. 每天；经常在白天地\n",
+    "释义(英文)": "n. time for Earth to make a complete rotation on its axis\nn. some point or period in time\nn. a day assigned to a particular purpose or observance\nn. the time after sunrise and before sunset while it is light outside"
+  },
+  {
+    "单词": "how many",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 多少\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "count",
+    "英音": "[kaʊnt]",
+    "美音": "[kaʊnt]",
+    "释义(中文)": "n. 计数；计算；伯爵\nvt. 计算；认为\nvi. 计数；有价值\n",
+    "释义(英文)": "n. the total number counted\nn. the act of counting; reciting numbers in ascending order\nn. a nobleman (in various countries) having rank equal to a British earl\nv. determine the number or amount of"
+  },
+  {
+    "单词": "thirteen",
+    "英音": "[ˌθɜːˈtiːn]",
+    "美音": "[ˌθɜːrˈtiːn]",
+    "释义(中文)": "n. 十三；十三岁；十三个\nnum. 十三\nadj. 十三的；十三个的",
+    "释义(英文)": "n. the cardinal number that is the sum of twelve and one\ns. being one more than twelve"
+  },
+  {
+    "单词": "fourteen",
+    "英音": "[ˌfɔːˈtiːn]",
+    "美音": "[ˌfɔːrˈtiːn]",
+    "释义(中文)": "num. 十四；十四个；第十四\nn. 十四的记号；十四岁；十四点钟；十五世纪",
+    "释义(英文)": "n. the cardinal number that is the sum of thirteen and one\ns. being one more than thirteen"
+  },
+  {
+    "单词": "fifteen",
+    "英音": "[ˌfɪfˈtiːn]",
+    "美音": "[ˌfɪfˈtiːn]",
+    "释义(中文)": "n. 十五；十五个；十五人组成的橄榄球队\nnum. 十五\nadj. 十五的",
+    "释义(英文)": "n. the cardinal number that is the sum of fourteen and one\ns. being one more than fourteen"
+  },
+  {
+    "单词": "sixteen",
+    "英音": "[ˌsɪksˈtiːn]",
+    "美音": "[ˌsɪksˈtiːn]",
+    "释义(中文)": "num. 十六\nadj. 十六的，十六个的",
+    "释义(英文)": "n. the cardinal number that is the sum of fifteen and one\ns. being one more than fifteen"
+  },
+  {
+    "单词": "seventeen",
+    "英音": "[ˌsev(ə)nˈtiːn]",
+    "美音": "[ˌsevnˈtiːn]",
+    "释义(中文)": "n. 十七，十七个\nnum. 十七\nadj. 十七岁的；十七的，十七个的\n",
+    "释义(英文)": "n. the cardinal number that is the sum of sixteen and one\ns. being one more than sixteen"
+  },
+  {
+    "单词": "eighteen",
+    "英音": "[ˌeɪˈtiːn]",
+    "美音": "[ˌeɪˈtiːn]",
+    "释义(中文)": "n. 十八，十八个\nnum. 十八\nadj. 十八个的，十八的",
+    "释义(英文)": "n. the cardinal number that is the sum of seventeen and one\ns. being one more than seventeen"
+  },
+  {
+    "单词": "nineteen",
+    "英音": "[ˌnaɪnˈtiːn]",
+    "美音": "[ˌnaɪnˈtiːn]",
+    "释义(中文)": "num. 十九",
+    "释义(英文)": "n. the cardinal number that is the sum of eighteen and one\ns. being one more than eighteen"
+  },
+  {
+    "单词": "twenty",
+    "英音": "[ˈtwenti]",
+    "美音": "[ˈtwenti]",
+    "释义(中文)": "num. 二十\nn. 二十；二十年代\nadj. 二十的",
+    "释义(英文)": "n. the cardinal number that is the sum of nineteen and one\ns. denoting a quantity consisting of 20 items or units"
+  },
+  {
+    "单词": "orange",
+    "英音": "[ˈɒrɪndʒ]",
+    "美音": "[ˈɔrɪndʒ]",
+    "释义(中文)": "adj. 橙色的；橘色的\nn. 橙；橙色；桔子\n",
+    "释义(英文)": "n. round yellow to orange fruit of any of several citrus trees\nn. orange color or pigment; any of a range of colors between red and yellow\nn. any citrus tree bearing oranges\nn. any pigment producing the orange color"
+  },
+  {
+    "单词": "banana",
+    "英音": "[bəˈnɑːnə]",
+    "美音": "[bəˈnænə]",
+    "释义(中文)": "n. 香蕉；喜剧演员；大鹰钩鼻\n",
+    "释义(英文)": "n. any of several tropical and subtropical treelike herbs of the genus Musa having a terminal crown of large entire leaves and usually bearing hanging clusters of elongated fruits\nn. elongated crescent-shaped yellow fruit with soft sweet flesh"
+  },
+  {
+    "单词": "lemon",
+    "英音": "[ˈlemən]",
+    "美音": "[ˈlemən]",
+    "释义(中文)": "adj. 柠檬色的\nn. 柠檬\n",
+    "释义(英文)": "n. yellow oval fruit with juicy acidic flesh\nn. a small evergreen tree that originated in Asia but is widely cultivated for its fruit\nn. a distinctive tart flavor characteristic of lemons\nn. an artifact (especially an automobile) that is defective or unsatisfactory"
+  },
+  {
+    "单词": "market",
+    "英音": "[ˈmɑːkɪt]",
+    "美音": "[ˈmɑːrkɪt]",
+    "释义(中文)": "n. 市场；行情；股票市场；市面；集市；销路；商店\nvt. 在市场上出售\nvi. 做买卖\n",
+    "释义(英文)": "n. the world of commercial activity where goods and services are bought and sold\nn. the customers for a particular product or service\nn. the securities markets in the aggregate\nv. engage in the commercial promotion, sale, or distribution of"
+  },
+  {
+    "单词": "classroom",
+    "英音": "[ˈklɑːsruːm]",
+    "美音": "[ˈklæsruːm; ˈklæsrʊm]",
+    "释义(中文)": "n. 教室",
+    "释义(英文)": "n. a room in a school where lessons take place"
+  },
+  {
+    "单词": "apple",
+    "英音": "[ˈæp(ə)l]",
+    "美音": "[ˈæpl]",
+    "释义(中文)": "n. 苹果，苹果树，苹果似的东西；[美俚]炸弹，手榴弹，（棒球的）球；[美俚]人，家伙。",
+    "释义(英文)": "n. fruit with red or yellow or green skin and sweet to tart crisp whitish flesh\nn. native Eurasian tree widely cultivated in many varieties for its firm rounded edible fruits"
+  },
+  {
+    "单词": "pear",
+    "英音": "[peə(r)]",
+    "美音": "[per]",
+    "释义(中文)": "n. [园艺] 梨树；梨子\n",
+    "释义(英文)": "n. sweet juicy gritty-textured fruit available in many varieties\nn. Old World tree having sweet gritty-textured juicy fruit; widely cultivated in many varieties"
+  },
+  {
+    "单词": "sunny",
+    "英音": "[ˈsʌni]",
+    "美音": "[ˈsʌni]",
+    "释义(中文)": "adj. 阳光充足的，和煦的；快活的；性情开朗的",
+    "释义(英文)": "s bright and pleasant; promoting a feeling of cheer"
+  },
+  {
+    "单词": "rainy",
+    "英音": "[ˈreɪni]",
+    "美音": "[ˈreɪni]",
+    "释义(中文)": "adj. 下雨的；多雨的\n",
+    "释义(英文)": "s (of weather) wet by periods of rain"
+  },
+  {
+    "单词": "ice cream",
+    "英音": "[ˈaɪs kriːm]",
+    "美音": "[ˈaɪs kriːm]",
+    "释义(中文)": "n. 【食】冰淇淋\n",
+    "释义(英文)": "n frozen dessert containing cream and sugar and flavoring"
+  },
+  {
+    "单词": "cold",
+    "英音": "[kəʊld]",
+    "美音": "[kəʊld]",
+    "释义(中文)": "n. 寒冷；感冒\nadj. 寒冷的；冷淡的，不热情的；失去知觉的\nadv. 完全地",
+    "释义(英文)": "n. a mild viral infection involving the nose and respiratory passages (but not the lungs)\nn. the sensation produced by low temperatures\na. having a low or inadequate temperature or feeling a sensation of coldness or having been made cold by e.g. ice or refrigeration\na. extended meanings; especially of psychological coldness; without human warmth or emotion"
+  },
+  {
+    "单词": "warm",
+    "英音": "[wɔːm]",
+    "美音": "[wɔːrm]",
+    "释义(中文)": "n. 取暖；加热\nadj. 温暖的；热情的\nvt. 使…兴奋；使…温暖；使…感兴趣\nvi. 同情；激动；变温暖\n",
+    "释义(英文)": "v. get warm or warmer\nv. make warm or warmer\na. having or producing a comfortable and agreeable degree of heat or imparting or maintaining heat\na. psychologically warm; friendly and responsive"
+  },
+  {
+    "单词": "cool",
+    "英音": "[kuːl]",
+    "美音": "[kuːl]",
+    "释义(中文)": "n. 凉爽；凉爽的空气\nadj. 凉爽的；冷静的；出色的\nvt. 使…冷却；使…平静下来\nvi. 变凉；平息\nadv. 冷静地\n",
+    "释义(英文)": "n. the quality of being at a refreshingly low temperature\nv. make cool or cooler\nv. loose heat\nv. lose intensity"
+  },
+  {
+    "单词": "hot",
+    "英音": "[hɒt]",
+    "美音": "[hɑːt]",
+    "释义(中文)": "adj. 热的；辣的；热情的；激动的；紧迫的\nvt. 增加；给…加温\nadv. 热；紧迫地\nvi. 变热\n",
+    "释义(英文)": "a. used of physical heat; having a high or higher than desirable temperature or giving off heat or feeling or causing a sensation of heat or burning\ns. characterized by violent and forceful activity or movement; very intense\na. extended meanings; especially of psychological heat; marked by intensity or vehemence especially of passion or enthusiasm\ns. (color) bold and intense"
+  },
+  {
+    "单词": "weather",
+    "英音": "[ˈweðə(r)]",
+    "美音": "[ˈweðər]",
+    "释义(中文)": "n. 天气；气象；气候；处境\nvt. 经受住；使风化；侵蚀；使受风吹雨打\nadj. 露天的；迎风的\nvi. 风化；受侵蚀；经受风雨\n",
+    "释义(英文)": "n. the atmospheric conditions that comprise the state of the atmosphere in terms of temperature and wind and clouds and precipitation\nv. face and withstand with courage\nv. cause to slope\nv. sail to the windward of"
+  },
+  {
+    "单词": "like",
+    "英音": "[laɪk]",
+    "美音": "[laɪk]",
+    "释义(中文)": "vt. 喜欢；想；愿意\nvi. 喜欢；希望\nprep. 像；如同\nadj. 同样的；相似的\nn. 爱好；同样的人或物\nadv. 可能\nconj. 好像",
+    "释义(英文)": "n. a similar kind\nn. a kind of person\nv. find enjoyable or agreeable\nv. be fond of"
+  },
+  {
+    "单词": "windy",
+    "英音": "[ˈwɪndi]",
+    "美音": "[ˈwɪndi]",
+    "释义(中文)": "adj. 多风的，有风的；腹胀的；吹牛的",
+    "释义(英文)": "s. resembling the wind in speed, force, or variability"
+  },
+  {
+    "单词": "cloudy",
+    "英音": "[ˈklaʊdi]",
+    "美音": "[ˈklaʊdi]",
+    "释义(中文)": "adj. 多云的；阴天的；愁容满面的",
+    "释义(英文)": "s. lacking definite form or limits\na. full of or covered with clouds\ns. (of liquids) clouded as with sediment"
+  },
+  {
+    "单词": "snowy",
+    "英音": "[ˈsnəʊi]",
+    "美音": "[ˈsnoʊi]",
+    "释义(中文)": "adj. 下雪的，多雪的；被雪覆盖的；洁白无瑕的",
+    "释义(英文)": "s marked by the presence of snow\ns covered with snow\ns of the white color of snow"
+  },
+  {
+    "单词": "farmer",
+    "英音": "[ˈfɑːmə(r)]",
+    "美音": "[ˈfɑːrmər]",
+    "释义(中文)": "n. 农夫，农民\n",
+    "释义(英文)": "n. a person who operates a farm\nn. United States civil rights leader who in 1942 founded the Congress of Racial Equality (born in 1920)\nn. an expert on cooking whose cookbook has undergone many editions (1857-1915)"
+  },
+  {
+    "单词": "postman",
+    "英音": "[ˈpəʊstmən]",
+    "美音": "[ˈpoʊstmən]",
+    "释义(中文)": "n. 邮递员；邮差",
+    "释义(英文)": "n a man who delivers the mail"
+  },
+  {
+    "单词": "nurse",
+    "英音": "[nɜːs]",
+    "美音": "[nɜːrs]",
+    "释义(中文)": "vt. 看护，护理；照顾；培养；给…喂奶\nvi. 照料，护理；喂奶；当保姆\nn. 护士；奶妈，保姆\n",
+    "释义(英文)": "n. one skilled in caring for young children or the sick (usually under the supervision of a physician)\nv. try to cure by special care of treatment, of an illness or injury\nv. serve as a nurse; care for sick or handicapped people\nv. treat carefully"
+  },
+  {
+    "单词": "teacher",
+    "英音": "[ˈtiːtʃə(r)]",
+    "美音": "[ˈtiːtʃər]",
+    "释义(中文)": "n. 教师；导师\n",
+    "释义(英文)": "n. a person whose occupation is teaching\nn. a personified abstraction that teaches"
+  },
+  {
+    "单词": "doctor",
+    "英音": "[ˈdɒktə(r)]",
+    "美音": "[ˈdɑːktər]",
+    "释义(中文)": "vt. 修理；篡改，伪造；为…治病；授以博士学位\nn. 医生；博士\nvi. 就医；行医",
+    "释义(英文)": "n. a licensed medical practitioner\nn. children take the roles of physician or patient or nurse and pretend they are at the physician's office\nn. a person who holds Ph.D. degree (or the equivalent) from an academic institution\nv. give medical treatment to"
+  },
+  {
+    "单词": "driver",
+    "英音": "[ˈdraɪvə(r)]",
+    "美音": "[ˈdraɪvər]",
+    "释义(中文)": "n. 驾驶员；驱动程序；起子；传动器\n",
+    "释义(英文)": "n. the operator of a motor vehicle\nn. someone who drives animals that pull a vehicle\nn. a golfer who hits the golf ball with a driver\nn. (computer science) a program that determines how a computer will communicate with a peripheral device"
+  },
+  {
+    "单词": "fireman",
+    "英音": "[ˈfaɪəmən]",
+    "美音": "[ˈfaɪərmən]",
+    "释义(中文)": "n. 消防队员；救火队员；锅炉工\n",
+    "释义(英文)": "n. play in which children pretend to put out a fire\nn. a member of a fire department who tries to extinguish fires"
+  },
+  {
+    "单词": "policeman",
+    "英音": "[pəˈliːsmən]",
+    "美音": "[pəˈliːsmən]",
+    "释义(中文)": "n. 警察，警员；[分化] 淀帚（橡皮头玻璃搅棒）",
+    "释义(英文)": "n. a member of a police force"
+  },
+  {
+    "单词": "pupil",
+    "英音": "[ˈpjuːp(ə)l]",
+    "美音": "[ˈpjuːpl]",
+    "释义(中文)": "n. 学生；[解剖] 瞳孔；未成年人",
+    "释义(英文)": "n. the contractile aperture in the center of the iris of the eye; resembles a large black dot"
+  },
+  {
+    "单词": "policewoman",
+    "英音": "[pəˈliːswʊmən]",
+    "美音": "[pəˈliːswʊmən]",
+    "释义(中文)": "n. 女警察；女警官",
+    "释义(英文)": "n a woman policeman"
+  },
+  {
+    "单词": "go to",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 相当于；付出\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "by",
+    "英音": "[baɪ]",
+    "美音": "[baɪ]",
+    "释义(中文)": "prep. 通过；被；依据；经由；在附近；在……之前\nadv. 通过；经过；附近；[互联网] 白俄罗斯的国家代码顶级域名",
+    "释义(英文)": "r. so as to pass a given point"
+  },
+  {
+    "单词": "bus",
+    "英音": "[bʌs]",
+    "美音": "[bʌs]",
+    "释义(中文)": "n. 公共汽车\n乘公共汽车",
+    "释义(英文)": "n. a vehicle carrying many passengers; used for public transport\nn. a car that is old and unreliable\nv. send or move around by bus\nv. ride in a bus"
+  },
+  {
+    "单词": "them",
+    "英音": "[ðəm; ðem]",
+    "美音": "[ðəm; ðem]",
+    "释义(中文)": "pron. 他们；它们；她们\n",
+    "释义(英文)": "pron. The objective case of they. See They."
+  },
+  {
+    "单词": "ship",
+    "英音": "[ʃɪp]",
+    "美音": "[ʃɪp]",
+    "释义(中文)": "n. 船；舰；太空船\nvt. 运送，乘船；以船运送\nvi. 上船；乘船旅行；当船员\n",
+    "释义(英文)": "n. a vessel that carries passengers or freight\nv. hire for work on a ship\nv. travel by ship\nv. place on board a ship"
+  },
+  {
+    "单词": "plane",
+    "英音": "[pleɪn]",
+    "美音": "[pleɪn]",
+    "释义(中文)": "n. 飞机；平面；程度，水平\nadj. 平的；平面的\nvt. 刨平；用刨子刨；掠过水面\nvi. 刨；乘飞机旅行；翱翔\n",
+    "释义(英文)": "n. (mathematics) an unbounded two-dimensional shape\nn. a level of existence or development\nn. a power tool for smoothing or shaping wood\nn. a carpenter's hand tool with an adjustable blade for smoothing or shaping wood"
+  },
+  {
+    "单词": "school",
+    "英音": "[skuːl]",
+    "美音": "[skuːl]",
+    "释义(中文)": "n. 学校；学院；学派；鱼群\nvt. 教育",
+    "释义(英文)": "n. an educational institution\nn. a building where young people receive education\nn. the process of being formally educated at a school\nn. a body of creative artists or writers or thinkers linked by a similar style or by similar teachers"
+  },
+  {
+    "单词": "bike",
+    "英音": "[baɪk]",
+    "美音": "[baɪk]",
+    "释义(中文)": "n. 自行车；脚踏车\nvi. 骑自行车（或摩托车）\n",
+    "释义(英文)": "n a motor vehicle with two wheels and a strong frame\nn a wheeled vehicle that has two wheels and is moved by foot pedals\nv ride a bicycle"
+  },
+  {
+    "单词": "train",
+    "英音": "[treɪn]",
+    "美音": "[treɪn]",
+    "释义(中文)": "n. 火车；行列；长队；裙裾\nv. 培养；训练；瞄准\n",
+    "释义(英文)": "n. public transport provided by a line of railway cars coupled together and drawn by a locomotive\nn. a series of consequences wrought by an event\nn. piece of cloth forming the long back section of a gown that is drawn along the floor\nv. create by training and teaching"
+  },
+  {
+    "单词": "car",
+    "英音": "[kɑː(r)]",
+    "美音": "[kɑːr]",
+    "释义(中文)": "n. 汽车；车厢\n",
+    "释义(英文)": "n. a motor vehicle with four wheels; usually propelled by an internal combustion engine\nn. a wheeled vehicle adapted to the rails of railroad\nn. the compartment that is suspended from an airship and that carries personnel and the cargo and the power plant\nn. where passengers ride up and down"
+  }
+]

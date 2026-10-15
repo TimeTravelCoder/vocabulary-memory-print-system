@@ -1,0 +1,555 @@
+[
+  {
+    "单词": "day",
+    "英音": "[deɪ]",
+    "美音": "[deɪ]",
+    "释义(中文)": "n. 一天；时期；白昼\nadj. 日间的；逐日的\nadv. 每天；经常在白天地\n",
+    "释义(英文)": "n. time for Earth to make a complete rotation on its axis\nn. some point or period in time\nn. a day assigned to a particular purpose or observance\nn. the time after sunrise and before sunset while it is light outside"
+  },
+  {
+    "单词": "week",
+    "英音": "[wiːk]",
+    "美音": "[wiːk]",
+    "释义(中文)": "n. 周，星期",
+    "释义(英文)": "n. any period of seven consecutive days\nn. a period of seven consecutive days starting on Sunday"
+  },
+  {
+    "单词": "Wednesday",
+    "英音": "[ˈwenzdeɪ]",
+    "美音": "[ˈwenzdeɪ]",
+    "释义(中文)": "n. 星期三",
+    "释义(英文)": "n. the fourth day of the week; the third working day"
+  },
+  {
+    "单词": "Thursday",
+    "英音": "[ˈθɜːzdeɪ]",
+    "美音": "[ˈθɜːrzdeɪ]",
+    "释义(中文)": "n. 星期四",
+    "释义(英文)": "n. the fifth day of the week; the fourth working day"
+  },
+  {
+    "单词": "Monday",
+    "英音": "[ˈmʌndeɪ]",
+    "美音": "[ˈmʌndeɪ]",
+    "释义(中文)": "n. 星期一",
+    "释义(英文)": "n. the second day of the week; the first working day"
+  },
+  {
+    "单词": "Sunday",
+    "英音": "[ˈsʌndeɪ]",
+    "美音": "[ˈsʌndeɪ]",
+    "释义(中文)": "n. 星期日；礼拜日",
+    "释义(英文)": "n. first day of the week; observed as a day of rest and worship by most Christians\nn. United States evangelist (1862-1935)"
+  },
+  {
+    "单词": "Tuesday",
+    "英音": "[ˈtjuːzdeɪ]",
+    "美音": "[ˈtuːzdeɪ]",
+    "释义(中文)": "n. 星期二",
+    "释义(英文)": "n. the third day of the week; the second working day"
+  },
+  {
+    "单词": "Friday",
+    "英音": "[ˈfraɪdeɪ]",
+    "美音": "[ˈfraɪdeɪ]",
+    "释义(中文)": "n. 星期五",
+    "释义(英文)": "n. the sixth day of the week; the fifth working day"
+  },
+  {
+    "单词": "Saturday",
+    "英音": "[ˈsætədeɪ]",
+    "美音": "[ˈsætərdeɪ]",
+    "释义(中文)": "n. 星期六",
+    "释义(英文)": "n. the seventh and last day of the week; observed as the Sabbath by Jews and some Christians"
+  },
+  {
+    "单词": "today",
+    "英音": "[təˈdeɪ]",
+    "美音": "[təˈdeɪ]",
+    "释义(中文)": "n. 今天；现今\nadv. 今天；现今\n",
+    "释义(英文)": "n. the present time or age\nn. the day that includes the present moment (as opposed to yesterday or tomorrow)\nr. on this day as distinct from yesterday or tomorrow"
+  },
+  {
+    "单词": "every",
+    "英音": "[ˈevri]",
+    "美音": "[ˈevri]",
+    "释义(中文)": "adj. 每一的，每个的；每隔…的\n",
+    "释义(英文)": "s. (used of count nouns) each and all of the members of a group considered singly and without exception\ns. each and all of a series of entities or intervals as specified"
+  },
+  {
+    "单词": "diary",
+    "英音": "[ˈdaɪəri]",
+    "美音": "[ˈdaɪəri]",
+    "释义(中文)": "n. 日志，日记；日记簿",
+    "释义(英文)": "n. a daily written record of (usually personal) experiences and observations\nn. a personal journal (as a physical object)"
+  },
+  {
+    "单词": "remember",
+    "英音": "[rɪˈmembə(r)]",
+    "美音": "[rɪˈmembər]",
+    "释义(中文)": "vi. 记得，记起\nvt. 记得；牢记；纪念；代…问好",
+    "释义(英文)": "v. recall knowledge from memory; have a recollection\nv. keep in mind for attention or consideration\nv. recapture the past; indulge in memories\nv. show appreciation to"
+  },
+  {
+    "单词": "all",
+    "英音": "[ɔːl]",
+    "美音": "[ɔːl]",
+    "释义(中文)": "n. 全部\nadj. 全部的\nadv. 全然地；越发\npron. 全部\n",
+    "释义(英文)": "a. quantifier; used with either mass or count nouns to indicate the whole number or amount of or every one of a class\ns. completely given to or absorbed by"
+  },
+  {
+    "单词": "tomorrow",
+    "英音": "[təˈmɒrəʊ]",
+    "美音": "[təˈmɑːroʊ]",
+    "释义(中文)": "n. 明天；未来\nadv. 明天；未来地（等于to-morrow）",
+    "释义(英文)": "n. the day after today\nn. the near future\nr. the next day, the day after, following the present day"
+  },
+  {
+    "单词": "visit",
+    "英音": "[ˈvɪzɪt]",
+    "美音": "[ˈvɪzɪt]",
+    "释义(中文)": "n. 访问；参观；逗留\nvt. 访问；参观；视察\nvi. 访问；暂住；闲谈\n",
+    "释义(英文)": "n. the act of going to see some person or place or thing for a short time\nn. a meeting arranged by the visitor to see someone (such as a doctor or lawyer) for treatment or advice\nn. the act of visiting in an official capacity (as for an inspection)\nn. the act of going to see some person in a professional capacity"
+  },
+  {
+    "单词": "watch",
+    "英音": "[wɒtʃ]",
+    "美音": "[wɑːtʃ]",
+    "释义(中文)": "n. 手表；监视；守护；值班人\nvt. 观察；注视；看守；警戒\nvi. 观看，注视；守侯，看守",
+    "释义(英文)": "n. a small portable timepiece\nn. a period of time (4 or 2 hours) during which some of a ship's crew are on duty\nn. a purposeful surveillance to guard or observe\nn. the period during which someone (especially a guard) is on duty"
+  },
+  {
+    "单词": "time",
+    "英音": "[taɪm]",
+    "美音": "[taɪm]",
+    "释义(中文)": "n. 时间；时代；次数；节拍；倍数\nadj. 定时的；定期的；分期的\nvt. 计时；测定…的时间；安排…的速度\n",
+    "释义(英文)": "n. an instance or single occasion for some event\nn. a period of time considered as a resource under your control and sufficient to accomplish something\nn. an indefinite period (usually marked by specific attributes or activities)\nn. a suitable moment"
+  },
+  {
+    "单词": "... o'clock",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "abbr. …点钟（等于of the clock）",
+    "释义(英文)": "r. according to the clock"
+  },
+  {
+    "单词": "hurry",
+    "英音": "[ˈhʌri]",
+    "美音": "[ˈhɜːri]",
+    "释义(中文)": "n. 匆忙，急忙\nv. 仓促（做某事）；催促；（朝某方向）迅速移动；迅速处理\n",
+    "释义(英文)": "n. a condition of urgency making it necessary to hurry"
+  },
+  {
+    "单词": "early",
+    "英音": "[ˈɜːli]",
+    "美音": "[ˈɜːrli]",
+    "释义(中文)": "adj. 早期的；早熟的\nadv. 提早；在初期\n",
+    "释义(英文)": "a. at or near the beginning of a period of time or course of events or before the usual or expected time\na. being or occurring at an early stage of development\ns. belonging to the distant past\ns. very young"
+  },
+  {
+    "单词": "late",
+    "英音": "[leɪt]",
+    "美音": "[leɪt]",
+    "释义(中文)": "adj. 晚的；迟的；已故的；最近的\nadv. 晚；迟；最近；在晚期",
+    "释义(英文)": "a. being or occurring at an advanced period of time or after a usual or expected time\ns. of the immediate past or just previous to the present time\ns. having died recently\na. of a later stage in the development of a language or literature; used especially of dead languages"
+  },
+  {
+    "单词": "know",
+    "英音": "[nəʊ]",
+    "美音": "[noʊ]",
+    "释义(中文)": "vt. 知道；认识；懂得\nvi. 了解；熟悉；确信",
+    "释义(英文)": "n. the fact of being aware of information that is known to few people\nv. be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about\nv. know how to do or perform something\nv. be aware of the truth of something; have a belief or faith in something; regard as true beyond any doubt"
+  },
+  {
+    "单词": "fix",
+    "英音": "[fɪks]",
+    "美音": "[fɪks]",
+    "释义(中文)": "n. 困境；方位；贿赂\nvt. 使固定；修理；安装；准备\nvi. 固定；注视\n",
+    "释义(英文)": "n. informal terms for a difficult situation\nn. something craved, especially an intravenous injection of a narcotic drug\nn. an exemption granted after influence (e.g., money) is brought to bear\nv. set or place definitely"
+  },
+  {
+    "单词": "tell",
+    "英音": "[tel]",
+    "美音": "[tel]",
+    "释义(中文)": "vt. 告诉，说；辨别；吩咐；断定\nvi. 讲述；告发，泄密；识别\n",
+    "释义(英文)": "n. a Swiss patriot who lived in the early 14th century and who was renowned for his skill as an archer; according to legend an Austrian governor compelled him to shoot an apple from his son's head with his crossbow (which he did successfully without mishap)\nv. let something be known\nv. narrate or give a detailed account of\nv. discern or comprehend"
+  },
+  {
+    "单词": "night",
+    "英音": "[naɪt]",
+    "美音": "[naɪt]",
+    "释义(中文)": "n. 夜晚，晚上；黑暗，黑夜\nadj. 夜晚的，夜间的",
+    "释义(英文)": "n. the time after sunset and before sunrise while it is dark outside\nn. a period of ignorance or backwardness or gloom\nn. the period spent sleeping\nn. the dark part of the diurnal cycle considered a time unit"
+  },
+  {
+    "单词": "afternoon",
+    "英音": "[ˌɑːftəˈnuːn]",
+    "美音": "[ˌæftərˈnuːn]",
+    "释义(中文)": "n. 午后，下午",
+    "释义(英文)": "n. the part of the day between noon and evening"
+  },
+  {
+    "单词": "evening",
+    "英音": "[ˈiːvnɪŋ]",
+    "美音": "[ˈiːvnɪŋ]",
+    "释义(中文)": "n. 晚上；傍晚；（联欢性的）晚会；后期\nadj. 在晚上的；为晚上的；晚上用的\nint. 晚上好（等于good evening）",
+    "释义(英文)": "n. the latter part of the day (the period of decreasing daylight from late afternoon until nightfall)\nn. a later concluding time period\nn. the early part of night (from dinner until bedtime) spent in a special way"
+  },
+  {
+    "单词": "morning",
+    "英音": "[ˈmɔːnɪŋ]",
+    "美音": "[ˈmɔːrnɪŋ]",
+    "释义(中文)": "n. 早晨；黎明；初期",
+    "释义(英文)": "n. the time period between dawn and noon"
+  },
+  {
+    "单词": "space",
+    "英音": "[speɪs]",
+    "美音": "[speɪs]",
+    "释义(中文)": "n. 空间；太空；距离\nvt. 隔开\nvi. 留间隔",
+    "释义(英文)": "n. the unlimited expanse in which everything is located\nn. an empty area (usually bounded in some way between things)\nn. an area reserved for some particular purpose\nn. a blank character used to separate successive words in writing or printing"
+  },
+  {
+    "单词": "ask",
+    "英音": "[ɑːsk]",
+    "美音": "[æsk]",
+    "释义(中文)": "vt. 问，询问；要求；需要；邀请；讨价\nvi. 问，询问；要求\n",
+    "释义(英文)": "v. inquire about\nv. make a request or demand for something to somebody\nv. direct or put; seek an answer to\nv. consider obligatory; request and expect"
+  },
+  {
+    "单词": "him",
+    "英音": "[hɪm; ɪm]",
+    "美音": "[hɪm; ɪm]",
+    "释义(中文)": "pron. 他（宾格）\n",
+    "释义(英文)": "pron. Them. See Hem.\npron. The objective case of he. See He."
+  },
+  {
+    "单词": "question",
+    "英音": "[ˈkwestʃən]",
+    "美音": "[ˈkwestʃən]",
+    "释义(中文)": "n. 问题，疑问；询问；疑问句\nvt. 询问；怀疑；审问\nvi. 询问；",
+    "释义(英文)": "n. an instance of questioning\nn. the subject matter at issue\nn. a sentence of inquiry that asks for a reply\nn. an informal reference to a marriage proposal"
+  },
+  {
+    "单词": "when",
+    "英音": "[wen]",
+    "美音": "[wen]",
+    "释义(中文)": "conj. 考虑到；既然；当…时；在…时；如果\nn. 时间，时候；日期；场合\nadv. 什么时候，何时；（用于时间的表达方式之后）在那时；其时；当时\npron. 那时；什么时侯",
+    "释义(英文)": "adv. At what time; -- used interrogatively.\nadv. At what time; at, during, or after the time that; at or\n   just after, the moment that; -- used relatively.\nadv. While; whereas; although; -- used in the manner of a\n   conjunction to introduce a dependent adverbial sentence or clause,\n   having a causal, conditional, or adversative relation to the principal\n   proposition; as, he chose to turn highwayman when he might have\n   continued an honest man; he removed the tree when it was the best in\n   the grounds.\nadv. Which time; then; -- used elliptically as a noun."
+  },
+  {
+    "单词": "get up",
+    "英音": "[ɡet ʌp]",
+    "美音": "[ɡet ʌp]",
+    "释义(中文)": "na. 起床；起身；站起来；叫…起床\n",
+    "释义(英文)": "n a set of clothing (with accessories)"
+  },
+  {
+    "单词": "always",
+    "英音": "[ˈɔːlweɪz]",
+    "美音": "[ˈɔːlweɪz]",
+    "释义(中文)": "adv. 永远，一直；总是；常常",
+    "释义(英文)": "r. at all times; all the time and on every occasion\nr. at any time or in any event\nr. forever; throughout all time"
+  },
+  {
+    "单词": "often",
+    "英音": "[ˈɒf(ə)n]",
+    "美音": "[ˈɔːf(ə)n]",
+    "释义(中文)": "adv. 常常，时常",
+    "释义(英文)": "r. in many cases or instances"
+  },
+  {
+    "单词": "breakfast",
+    "英音": "[ˈbrekfəst]",
+    "美音": "[ˈbrekfəst]",
+    "释义(中文)": "n. 早餐；早饭\nvt. 为…供应早餐\nvi. 吃早餐",
+    "释义(英文)": "n. the first meal of the day (usually in the morning)\nv. eat an early morning meal\nv. provide breakfast for"
+  },
+  {
+    "单词": "sometimes",
+    "英音": "[ˈsʌmtaɪmz]",
+    "美音": "[ˈsʌmtaɪmz]",
+    "释义(中文)": "adv. 有时，间或",
+    "释义(英文)": "r. on certain occasions or in certain cases but not always; at other times for six months\""
+  },
+  {
+    "单词": "meat",
+    "英音": "[miːt]",
+    "美音": "[miːt]",
+    "释义(中文)": "n. 肉，肉类（食用）",
+    "释义(英文)": "n. the flesh of animals (including fishes and birds and snails) used as food"
+  },
+  {
+    "单词": "newspaper",
+    "英音": "[ˈnjuːzpeɪpə(r)]",
+    "美音": "[ˈnuːzpeɪpər]",
+    "释义(中文)": "n. 报纸\n报社\n旧报纸",
+    "释义(英文)": "n. a daily or weekly publication on folded sheets; contains news and articles and advertisements\nn. a business firm that publishes newspapers\nn. the physical object that is the product of a newspaper publisher\nn. cheap paper made from wood pulp and used for printing newspapers"
+  },
+  {
+    "单词": "exercise",
+    "英音": "[ˈeksəsaɪz]",
+    "美音": "[ˈeksərsaɪz]",
+    "释义(中文)": "n. 运动；练习；运用；操练；礼拜；典礼\nvt. 锻炼；练习；使用；使忙碌；使惊恐\nvi. 运动；练习",
+    "释义(英文)": "n. the activity of exerting your muscles in various ways to keep fit\nn. systematic training by multiple repetitions\nn. a task performed or problem solved in order to develop skill or understanding\nn. (usually plural) a ceremony that involves processions and speeches"
+  },
+  {
+    "单词": "lunch",
+    "英音": "[lʌntʃ]",
+    "美音": "[lʌntʃ]",
+    "释义(中文)": "n. 午餐\nvt. 吃午餐；供给午餐\nvi. 吃午餐；供给午餐",
+    "释义(英文)": "n. a midday meal\nv. take the midday meal\nv. provide a midday meal for"
+  },
+  {
+    "单词": "never",
+    "英音": "[ˈnevə(r)]",
+    "美音": "[ˈnevər]",
+    "释义(中文)": "adv. 从未；决不",
+    "释义(英文)": "r. not ever; at no time in the past or future\nr. not at all; certainly not; not in any circumstances"
+  },
+  {
+    "单词": "activity",
+    "英音": "[ækˈtɪvəti]",
+    "美音": "[ækˈtɪvəti]",
+    "释义(中文)": "n. 活动；行动；活跃",
+    "释义(英文)": "n. any specific behavior\nn. (chemistry) the capacity of a substance to take part in a chemical reaction"
+  },
+  {
+    "单词": "museum",
+    "英音": "[mjuˈziːəm]",
+    "美音": "[mjuˈziːəm]",
+    "释义(中文)": "n. 博物馆",
+    "释义(英文)": "n. a depository for collecting and displaying objects having scientific or historical or artistic value"
+  },
+  {
+    "单词": "dinosaur",
+    "英音": "[ˈdaɪnəsɔː(r)]",
+    "美音": "[ˈdaɪnəsɔːr]",
+    "释义(中文)": "n. 恐龙；过时、落伍的人或事物",
+    "释义(英文)": "n. any of numerous extinct terrestrial reptiles of the Mesozoic era"
+  },
+  {
+    "单词": "film",
+    "英音": "[fɪlm]",
+    "美音": "[fɪlm]",
+    "释义(中文)": "n. 电影；薄膜；胶卷；轻烟\nvt. 在…上覆以薄膜；把…拍成电影\nvi. 摄制电影；生薄膜；变得朦胧",
+    "释义(英文)": "n. a medium that disseminates moving pictures\nn. photographic material consisting of a base of celluloid covered with a photographic emulsion; used to make negatives or transparencies\nn. a thin coating or layer\nn. a thin sheet of (usually plastic and usually transparent) material used to wrap or cover things"
+  },
+  {
+    "单词": "shall",
+    "英音": "[ʃəl; ʃæl]",
+    "美音": "[ʃəl; ʃæl]",
+    "释义(中文)": "aux. 应；会；将；必须",
+    "释义(英文)": "v. i. & auxiliary. To owe; to be under obligation for.\nv. i. & auxiliary. To be obliged; must.\nv. i. & auxiliary. As an auxiliary, shall indicates a duty or\n   necessity whose obligation is derived from the person speaking; as, you\n   shall go; he shall go; that is, I order or promise your going. It thus\n   ordinarily expresses, in the second and third persons, a command, a\n   threat, or a promise. If the auxillary be emphasized, the command is\n   made more imperative, the promise or that more positive and sure. It is\n   also employed in the language of prophecy; as, \"the day shall come when\n   . . . , \" since a promise or threat and an authoritative prophecy\n   nearly coincide in significance. In shall with the first person, the\n   necessity of the action is sometimes implied as residing elsewhere than\n   in the speaker; as, I shall suffer; we shall see; and there is always a\n   less distinct and positive assertion of his volition than is indicated\n   by will. \"I shall go\" implies nearly a simple futurity; more exactly, a\n   foretelling or an expectation of my going, in which, naturally enough,\n   a certain degree of plan or intention may be included; emphasize the\n   shall, and the event is described as certain to occur, and the\n   expression approximates in meaning to our emphatic \"I will go.\" In a\n   question, the relation of speaker and source of obligation is of course\n   transferred to the person addressed; as, \"Shall you go?\" (answer, \"I\n   shall go\"); \"Shall he go?\" i. e., \"Do you require or promise his\n   going?\" (answer, \"He shall go\".) The same relation is transferred to\n   either second or third person in such phrases as \"You say, or think,\n   you shall go;\" \"He says, or thinks, he shall go.\" After a conditional\n   conjunction (as if, whether) shall is used in all persons to express\n   futurity simply; as, if I, you, or he shall say they are right. Should\n   is everywhere used in the same connection and the same senses as shall,\n   as its imperfect. It also expresses duty or moral obligation; as, he\n   should do it whether he will or not. In the early English, and hence in\n   our English Bible, shall is the auxiliary mainly used, in all the\n   persons, to express simple futurity. (Cf. Will, v. t.) Shall may be\n   used elliptically; thus, with an adverb or other word expressive of\n   motion go may be omitted."
+  },
+  {
+    "单词": "let's",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "让我们（let us的简写）",
+    "释义(英文)": "n a brutal terrorist group active in Kashmir; fights against India with the goal of restoring Islamic rule of India\nn a serve that strikes the net before falling into the receiver's court; the ball must be served again\nv make it possible through a specific action or lack of action for something to happen\nv actively cause something to happen\nv consent to, give permission\nv cause to move; cause to be in a certain position or condition\nv leave unchanged\nv grant use or occupation of under a term of contract"
+  },
+  {
+    "单词": "homework",
+    "英音": "[ˈhəʊmwɜːk]",
+    "美音": "[ˈhoʊmwɜːrk]",
+    "释义(中文)": "n. 家庭作业，课外作业",
+    "释义(英文)": "n. preparatory school work done outside school (especially at home)"
+  },
+  {
+    "单词": "group",
+    "英音": "[ɡruːp]",
+    "美音": "[ɡruːp]",
+    "释义(中文)": "n. 组；团体\nadj. 群的；团体的\nvt. 把…聚集；把…分组\nvi. 聚合",
+    "释义(英文)": "n. any number of entities (members) considered as a unit\nn. (chemistry) two or more atoms bound together as a single unit and forming part of a molecule\nn. a set that is closed, associative, has an identity element and every element has an inverse\nv. arrange into a group or groups"
+  },
+  {
+    "单词": "about",
+    "英音": "[əˈbaʊt]",
+    "美音": "[əˈbaʊt]",
+    "释义(中文)": "prep. 关于；大约\nn. 大致；粗枝大叶；不拘小节的人\nadj. 在附近的；四处走动的；在起作用的\nadv. 大约；周围；到处\n",
+    "释义(英文)": "s. on the move\nr. all around or on all sides\nr. in the area or vicinity\nr. used of movement to or among many different places or in no particular direction"
+  },
+  {
+    "单词": "enough",
+    "英音": "[ɪˈnʌf]",
+    "美音": "[ɪˈnʌf]",
+    "释义(中文)": "n. 很多；充足\nadj. 充足的\nadv. 足够地，充足地\nint. 够了！",
+    "释义(英文)": "n. an adequate quantity; a quantity that is large enough to achieve a purpose\nr. as much as necessary; (`plenty' is nonstandard) \"I've had plenty, thanks\""
+  },
+  {
+    "单词": "free",
+    "英音": "[friː]",
+    "美音": "[friː]",
+    "释义(中文)": "adj. 免费的；自由的，不受约束的；[化学] 游离的\nvt. 使自由，解放；释放\nadv. 自由地；免费\n",
+    "释义(英文)": "n. people who are free\nv. grant freedom to; free from confinement\nv. make (information) available for publication\nv. free from obligations or duties"
+  },
+  {
+    "单词": "by bus",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 乘公共汽车\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "close",
+    "英音": "[kləʊz]",
+    "美音": "[kloʊz; kloʊs]",
+    "释义(中文)": "n. 结束\nadj. 紧密的；亲密的；亲近的\nvt. 关；结束；使靠近\nvi. 关；结束；关闭\nadv. 紧密地\n",
+    "释义(英文)": "v. move so that an opening or passage is obstructed; make shut\nv. become closed\nv. finish or terminate (meetings, speeches, etc.)\nv. complete a business deal, negotiation, or an agreement"
+  },
+  {
+    "单词": "by bike",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 骑自行车；骑车；骑单车",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "buy",
+    "英音": "[baɪ]",
+    "美音": "[baɪ]",
+    "释义(中文)": "n. 购买，买卖；所购的物品\nvi. 买，采购\nvt. 购买；获得；贿赂\n",
+    "释义(英文)": "v. obtain by purchase; acquire by means of a financial transaction\nv. be worth or be capable of buying\nv. acquire by trade or sacrifice or exchange\nv. accept as true"
+  },
+  {
+    "单词": "robot",
+    "英音": "[ˈrəʊbɒt]",
+    "美音": "[ˈroʊbɑːt]",
+    "释义(中文)": "n. 机器人；遥控设备，自动机械；机械般工作的人",
+    "释义(英文)": "n a mechanism that can move automatically"
+  },
+  {
+    "单词": "by car",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 乘电车；乘汽车\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "on foot",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 步行；在进行中；徒步\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "by taxi",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 乘出租车；坐出租车；打的",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "weather",
+    "英音": "[ˈweðə(r)]",
+    "美音": "[ˈweðər]",
+    "释义(中文)": "n. 天气；气象；气候；处境\nvt. 经受住；使风化；侵蚀；使受风吹雨打\nadj. 露天的；迎风的\nvi. 风化；受侵蚀；经受风雨\n",
+    "释义(英文)": "n. the atmospheric conditions that comprise the state of the atmosphere in terms of temperature and wind and clouds and precipitation\nv. face and withstand with courage\nv. cause to slope\nv. sail to the windward of"
+  },
+  {
+    "单词": "rainy",
+    "英音": "[ˈreɪni]",
+    "美音": "[ˈreɪni]",
+    "释义(中文)": "adj. 下雨的；多雨的\n",
+    "释义(英文)": "s (of weather) wet by periods of rain"
+  },
+  {
+    "单词": "sunny",
+    "英音": "[ˈsʌni]",
+    "美音": "[ˈsʌni]",
+    "释义(中文)": "adj. 阳光充足的，和煦的；快活的；性情开朗的",
+    "释义(英文)": "s bright and pleasant; promoting a feeling of cheer"
+  },
+  {
+    "单词": "cloudy",
+    "英音": "[ˈklaʊdi]",
+    "美音": "[ˈklaʊdi]",
+    "释义(中文)": "adj. 多云的；阴天的；愁容满面的",
+    "释义(英文)": "s. lacking definite form or limits\na. full of or covered with clouds\ns. (of liquids) clouded as with sediment"
+  },
+  {
+    "单词": "snowy",
+    "英音": "[ˈsnəʊi]",
+    "美音": "[ˈsnoʊi]",
+    "释义(中文)": "adj. 下雪的，多雪的；被雪覆盖的；洁白无瑕的",
+    "释义(英文)": "s marked by the presence of snow\ns covered with snow\ns of the white color of snow"
+  },
+  {
+    "单词": "farm",
+    "英音": "[fɑːm]",
+    "美音": "[fɑːrm]",
+    "释义(中文)": "n. 农场；农家；畜牧场\nvt. 养殖；耕种；佃出（土地）\nvi. 种田，务农；经营农场",
+    "释义(英文)": "n. workplace consisting of farm buildings and cultivated land as a unit\nv. be a farmer; work as a farmer\nv. collect fees or profits"
+  },
+  {
+    "单词": "dark",
+    "英音": "[dɑːk]",
+    "美音": "[dɑːrk]",
+    "释义(中文)": "n. 黑暗；夜；黄昏；模糊\nadj. 黑暗的，深色的；模糊的；无知的；忧郁的\n",
+    "释义(英文)": "n. absence of light or illumination\nn. an unenlightened state\na. devoid of or deficient in light or brightness; shadowed or black\na. (used of color) having a dark hue"
+  },
+  {
+    "单词": "cloud",
+    "英音": "[klaʊd]",
+    "美音": "[klaʊd]",
+    "释义(中文)": "n. 云；阴云；云状物；一大群；黑斑\nvt. 使混乱；以云遮敝；使忧郁；玷污\nvi. 阴沉；乌云密布\n",
+    "释义(英文)": "n. any collection of particles (e.g., smoke or dust) or gases that is visible\nn. a visible mass of water or ice particles suspended at a considerable altitude\nn. out of touch with reality\nn. a cause of worry or gloom or trouble"
+  },
+  {
+    "单词": "rain",
+    "英音": "[reɪn]",
+    "美音": "[reɪn]",
+    "释义(中文)": "n. 雨；下雨；雨天；雨季\nvt. 大量地给；使大量落下\nvi. 下雨；降雨\n",
+    "释义(英文)": "n. water falling in drops from vapor condensed in the atmosphere\nn. drops of fresh water that fall as precipitation from clouds\nn. anything happening rapidly or in quick successive\nv. precipitate as rain"
+  },
+  {
+    "单词": "weather report",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 气象通报；天气预报\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "scared",
+    "英音": "[skeəd]",
+    "美音": "[skerd]",
+    "释义(中文)": "v. 使害怕（scare的过去分词）\nadj. 害怕的",
+    "释义(英文)": "v cause fear in\nv cause to lose courage\nv mark with a scar\ns made afraid"
+  },
+  {
+    "单词": "fun",
+    "英音": "[fʌn]",
+    "美音": "[fʌn]",
+    "释义(中文)": "n. 乐趣；玩笑；有趣的人或事\nadj. 供娱乐用的\nvi. 开玩笑",
+    "释义(英文)": "n. activities that are enjoyable or amusing\nn. verbal wit or mockery (often at another's expense but not to be taken seriously)\nn. violent and excited activity"
+  },
+  {
+    "单词": "windy",
+    "英音": "[ˈwɪndi]",
+    "美音": "[ˈwɪndi]",
+    "释义(中文)": "adj. 多风的，有风的；腹胀的；吹牛的",
+    "释义(英文)": "s. resembling the wind in speed, force, or variability"
+  },
+  {
+    "单词": "warm",
+    "英音": "[wɔːm]",
+    "美音": "[wɔːrm]",
+    "释义(中文)": "n. 取暖；加热\nadj. 温暖的；热情的\nvt. 使…兴奋；使…温暖；使…感兴趣\nvi. 同情；激动；变温暖\n",
+    "释义(英文)": "v. get warm or warmer\nv. make warm or warmer\na. having or producing a comfortable and agreeable degree of heat or imparting or maintaining heat\na. psychologically warm; friendly and responsive"
+  },
+  {
+    "单词": "coat",
+    "英音": "[kəʊt]",
+    "美音": "[koʊt]",
+    "释义(中文)": "n. 外套\nvt. 覆盖…的表面\n",
+    "释义(英文)": "n. an outer garment that has sleeves and covers the body from shoulder down; worn outdoors\nn. growth of hair or wool or fur covering the body of an animal\nv. put a coat on; cover the surface of; furnish with a surface\nv. cover or provide with a coat"
+  },
+  {
+    "单词": "sunglasses",
+    "英音": "[ˈsʌnɡlɑːsɪz]",
+    "美音": "[ˈsʌnɡlæsɪz]",
+    "释义(中文)": "n. 太阳镜；凸透镜（sunglass的复数）",
+    "释义(英文)": "n. spectacles that are darkened or polarized to protect the eyes from the glare of the sun"
+  }
+]

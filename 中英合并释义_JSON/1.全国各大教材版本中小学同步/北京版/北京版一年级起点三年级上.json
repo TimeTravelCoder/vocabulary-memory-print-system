@@ -1,0 +1,639 @@
+[
+  {
+    "单词": "boy",
+    "英音": "[bɔɪ]",
+    "美音": "[bɔɪ]",
+    "释义(中文)": "n. 男孩；男人\n",
+    "释义(英文)": "n. a friendly informal reference to a grown man\nn. (ethnic slur) offensive and disparaging term for Black man"
+  },
+  {
+    "单词": "girl",
+    "英音": "[ɡɜːl]",
+    "美音": "[ɡɜːrl]",
+    "释义(中文)": "n. 女孩；姑娘，未婚女子；女职员，女演员；（男人的）女朋友\nn. （捷）吉尔",
+    "释义(英文)": "n. a young woman\nn. a friendly informal reference to a grown woman"
+  },
+  {
+    "单词": "Miss",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 女士，小姐，年轻未婚女子\nvt. 错过，想念，缺（勤）",
+    "释义(英文)": "n. a failure to hit (or meet or find etc)\nn. a form of address for an unmarried woman\nv. fail to perceive or to catch with the senses or the mind\nv. feel or suffer from the lack of"
+  },
+  {
+    "单词": "first",
+    "英音": "[fɜːst]",
+    "美音": "[fɜːrst]",
+    "释义(中文)": "num. 第一\nn. 第一；开始；冠军\nadj. 第一的；基本的；最早的\nadv. 第一；首先；优先；宁愿\n",
+    "释义(英文)": "n. the first or highest in an ordering or series\nn. the first element in a countable series\nn. an honours degree of the highest class\na. preceding all others in time or space or degree"
+  },
+  {
+    "单词": "September",
+    "英音": "[sepˈtembə(r)]",
+    "美音": "[sepˈtembər]",
+    "释义(中文)": "n. 九月",
+    "释义(英文)": "n. the month following August and preceding October"
+  },
+  {
+    "单词": "second",
+    "英音": "[ˈsekənd]",
+    "美音": "[ˈsekənd; sɪˈkɑːnd]",
+    "释义(中文)": "num. 第二\nn. 秒；第二名；瞬间；二等品\nadj. 第二的；次要的；附加的\nvt. 支持\nadv. 第二；其次；居第二位\n",
+    "释义(英文)": "n. 1/60 of a minute; the basic unit of time adopted under the Systeme International d'Unites\nn. following the first in an ordering or series\nn. a 60th part of a minute of arc\nn. the official attendant of a contestant in a duel or boxing match"
+  },
+  {
+    "单词": "third",
+    "英音": "[θɜːd]",
+    "美音": "[θɜːrd]",
+    "释义(中文)": "num. 第三；三分之一\nadj. 第三的；三分之一的",
+    "释义(英文)": "n. following the second position in an ordering or series\nn. the musical interval between one note and another three notes away from it\ns. coming next after the second and just before the fourth in position\nr. in the third place"
+  },
+  {
+    "单词": "fourth",
+    "英音": "[fɔːθ]",
+    "美音": "[fɔːrθ]",
+    "释义(中文)": "num. 第四\nn. 第四，月的第四日；四分之一\nadj. 第四的，第四个的；四分之一的",
+    "释义(英文)": "n. following the third position; number four in a countable series\nn. the musical interval between one note and another four notes away from it\ns. coming next after the third and just before the fifth in position or time or degree or magnitude"
+  },
+  {
+    "单词": "pupil",
+    "英音": "[ˈpjuːp(ə)l]",
+    "美音": "[ˈpjuːpl]",
+    "释义(中文)": "n. 学生；[解剖] 瞳孔；未成年人",
+    "释义(英文)": "n. the contractile aperture in the center of the iris of the eye; resembles a large black dot"
+  },
+  {
+    "单词": "hi",
+    "英音": "[haɪ]",
+    "美音": "[haɪ]",
+    "释义(中文)": "int. 嗨！（表示问候或用以唤起注意）\n",
+    "释义(英文)": "n an expression of greeting\nn a state in the United States in the central Pacific on the Hawaiian Islands"
+  },
+  {
+    "单词": "name",
+    "英音": "[neɪm]",
+    "美音": "[neɪm]",
+    "释义(中文)": "n. 名称，名字；姓名；名誉\nvt. 命名，任命；指定；称呼；提名；叫出\nadj. 姓名的；据以取名的\n",
+    "释义(英文)": "n. a language unit by which a person or thing is known\nn. a person's reputation\nn. family based on male descent\nn. a well-known or notable person"
+  },
+  {
+    "单词": "meet",
+    "英音": "[miːt]",
+    "美音": "[miːt]",
+    "释义(中文)": "vt. 满足；遇见；对付\nvi. 相遇；接触\nn. 集会\nadj. 合适的；适宜的\n",
+    "释义(英文)": "n. a meeting at which a number of athletic contests are held\nv. come together\nv. get together socially or for a specific purpose\nv. fill or meet a want or need"
+  },
+  {
+    "单词": "fifth",
+    "英音": "[fɪfθ]",
+    "美音": "[fɪfθ]",
+    "释义(中文)": "num. 第五\nn. 第五；五分之一\nadj. 第五的；五分之一的",
+    "释义(英文)": "n. a quantity of liquor equal to one fifth of a United States gallon\nn. position five in a countable series of things\nn. the musical interval between one note and another five notes away from it\ns. coming next after the fourth and just before the sixth in position"
+  },
+  {
+    "单词": "sixth",
+    "英音": "[sɪksθ]",
+    "美音": "[sɪksθ]",
+    "释义(中文)": "n. 月的第六日，（与the连用的）第六个；六分之一\nadj. （与 the 连用）第六的，第六个的；六分之一的",
+    "释义(英文)": "n. position six in a countable series of things\nn. the musical interval between one note and another six notes away from it\ns. coming next after the fifth and just before the seventh in position"
+  },
+  {
+    "单词": "seventh",
+    "英音": "[ˈsev(ə)nθ]",
+    "美音": "[ˈsevnθ]",
+    "释义(中文)": "n. 第七；七分之一\nadj. 第七的；七分之一的\nadv. 居第七位地",
+    "释义(英文)": "n. position seven in a countable series of things\nn. the musical interval between one note and another seven notes away from it\ns. coming next after the sixth and just before the eighth in position"
+  },
+  {
+    "单词": "teacher",
+    "英音": "[ˈtiːtʃə(r)]",
+    "美音": "[ˈtiːtʃər]",
+    "释义(中文)": "n. 教师；导师\n",
+    "释义(英文)": "n. a person whose occupation is teaching\nn. a personified abstraction that teaches"
+  },
+  {
+    "单词": "card",
+    "英音": "[kɑːd]",
+    "美音": "[kɑːrd]",
+    "释义(中文)": "n. 卡片；纸牌；明信片\nvt. 记于卡片上\n",
+    "释义(英文)": "n. one of a set of small pieces of stiff paper marked in various ways and used for playing games or for telling fortunes\nn. a card certifying the identity of the bearer\nn. a rectangular piece of stiff paper used to send messages (may have printed greetings or pictures)\nn. thin cardboard, usually rectangular"
+  },
+  {
+    "单词": "tenth",
+    "英音": "[tenθ]",
+    "美音": "[tenθ]",
+    "释义(中文)": "num. 第十；十分之一\nadj. 十分之一的；第十个的",
+    "释义(英文)": "n. position ten in a countable series of things\ns. coming next after the ninth and just before the eleventh in position"
+  },
+  {
+    "单词": "eighth",
+    "英音": "[eɪtθ]",
+    "美音": "[eɪtθ]",
+    "释义(中文)": "num. 第八；八分之一\nadj. 第八的；八分之一的",
+    "释义(英文)": "n. position eight in a countable series of things\ns. coming next after the seventh and just before the ninth in position"
+  },
+  {
+    "单词": "ninth",
+    "英音": "[naɪnθ]",
+    "美音": "[naɪnθ]",
+    "释义(中文)": "num. 第九\nadj. 第九的；九分之一的\nn. 九分之一",
+    "释义(英文)": "n. position nine in a countable series of things\ns. coming next after the eighth and just before the tenth in position"
+  },
+  {
+    "单词": "month",
+    "英音": "[mʌnθ]",
+    "美音": "[mʌnθ]",
+    "释义(中文)": "n. 月，一个月的时间",
+    "释义(英文)": "n. a time unit of approximately 30 days"
+  },
+  {
+    "单词": "October",
+    "英音": "[ɒkˈtəʊbə(r)]",
+    "美音": "[ɑːkˈtoʊbər]",
+    "释义(中文)": "n. [天] 十月",
+    "释义(英文)": "n. the month following September and preceding November"
+  },
+  {
+    "单词": "eleventh",
+    "英音": "[ɪˈlev(ə)nθ]",
+    "美音": "[ɪˈlevnθ]",
+    "释义(中文)": "num. 第十一；十一分之一\nn. 第十一；十一分之一\nadj. 第十一的；十一分之一的",
+    "释义(英文)": "n. position 11 in a countable series of things\ns. coming next after the tenth and just before the twelfth in position"
+  },
+  {
+    "单词": "November",
+    "英音": "[nəʊˈvembə(r)]",
+    "美音": "[noʊˈvembər]",
+    "释义(中文)": "n. 十一月",
+    "释义(英文)": "n. the month following October and preceding December"
+  },
+  {
+    "单词": "right",
+    "英音": "[raɪt]",
+    "美音": "[raɪt]",
+    "释义(中文)": "n. 正确；右边；正义\nadj. 正确的；直接的；右方的\nvt. 纠正\nadv. 正确地；恰当地；彻底地\nvi. 复正；恢复平稳\n",
+    "释义(英文)": "n. an abstract idea of that which is due to a person or governmental body by law or tradition or nature; it is something that nobody can take away\"\nn. location near or direction toward the right side; i.e. the side to the south when a person or object faces east\nn. those who support political or social or economic conservatism; those who believe that things are better left unchanged\nn. the hand that is on the right side of the body"
+  },
+  {
+    "单词": "twelfth",
+    "英音": "[twelfθ]",
+    "美音": "[twelfθ]",
+    "释义(中文)": "n. 第十二；月的第十二日\nadj. 第十二的，第十二个的；十二分之一的",
+    "释义(英文)": "n. position 12 in a countable series of things\ns. coming next after the eleventh and just before the thirteenth in position"
+  },
+  {
+    "单词": "December",
+    "英音": "[dɪˈsembə(r)]",
+    "美音": "[dɪˈsembər]",
+    "释义(中文)": "n. 十二月",
+    "释义(英文)": "n. the last (12th) month of the year"
+  },
+  {
+    "单词": "date",
+    "英音": "[deɪt]",
+    "美音": "[deɪt]",
+    "释义(中文)": "n. 日期；约会；年代；枣椰子\nvt. 确定…年代；和…约会\nvi. 过时；注明日期；始于（某一历史时期）\n",
+    "释义(英文)": "n. the specified day of the month\nn. a participant in a date\nn. a meeting arranged in advance\nn. a particular but unspecified point in time"
+  },
+  {
+    "单词": "today",
+    "英音": "[təˈdeɪ]",
+    "美音": "[təˈdeɪ]",
+    "释义(中文)": "n. 今天；现今\nadv. 今天；现今\n",
+    "释义(英文)": "n. the present time or age\nn. the day that includes the present moment (as opposed to yesterday or tomorrow)\nr. on this day as distinct from yesterday or tomorrow"
+  },
+  {
+    "单词": "thirteenth",
+    "英音": "[ˌθɜːˈtiːnθ]",
+    "美音": "[ˌθɜːrˈtiːnθ]",
+    "释义(中文)": "n. 第十三；十三分之一\nadj. 第十三的；十三分之一的",
+    "释义(英文)": "n. position 13 in a countable series of things\ns. coming next after the twelfth in position"
+  },
+  {
+    "单词": "football",
+    "英音": "[ˈfʊtbɔːl]",
+    "美音": "[ˈfʊtbɔːl]",
+    "释义(中文)": "n. 足球，橄榄球\nvi. 踢足球；打橄榄球",
+    "释义(英文)": "n. any of various games played with a ball (round or oval) in which two teams try to kick or carry or propel the ball into each other's goal\nn. the inflated oblong ball used in playing American football"
+  },
+  {
+    "单词": "seventeenth",
+    "英音": "[ˌsev(ə)nˈtiːnθ]",
+    "美音": "[ˌsevnˈtiːnθ]",
+    "释义(中文)": "n. 第十七日；十七分之一\nnum. 第十七\nadj. 第十七的，第十七个的；十七分之一的",
+    "释义(英文)": "n. position 17 in a countable series of things\ns. coming next after the sixteenth in position"
+  },
+  {
+    "单词": "eighteenth",
+    "英音": "[ˌeɪˈtiːnθ]",
+    "美音": "[ˌeɪˈtiːnθ]",
+    "释义(中文)": "num. 第十八；十八分之一\nadj. 第十八的，第十八个的；十八分之一的",
+    "释义(英文)": "n. position 18 in a countable series of things\ns. coming next after the seventeenth in position"
+  },
+  {
+    "单词": "nineteenth",
+    "英音": "[ˌnaɪnˈtiːnθ]",
+    "美音": "[ˌnaɪnˈtiːnθ]",
+    "释义(中文)": "num. 第十九；十九分之一",
+    "释义(英文)": "n. position 19 in a countable series of things\ns. coming next after the eighteenth in position"
+  },
+  {
+    "单词": "sport",
+    "英音": "[spɔːt]",
+    "美音": "[spɔːrt]",
+    "释义(中文)": "n. 运动；游戏；娱乐；运动会；玩笑\nadj. 运动的\nvt. 游戏；参加体育运动；夸耀\nvi. 游戏",
+    "释义(英文)": "n. an active diversion requiring physical exertion and competition\nn. the occupation of athletes who compete for pay\nn. (Maine colloquial) a temporary summer resident of Maine\nn. a person known for the way she (or he) behaves when teased or defeated or subjected to trying circumstances"
+  },
+  {
+    "单词": "run",
+    "英音": "[rʌn]",
+    "美音": "[rʌn]",
+    "释义(中文)": "n. 奔跑；赛跑；趋向；奔跑的路程\nvt. 管理，经营；运行；参赛\nvi. 经营；奔跑；运转\n",
+    "释义(英文)": "n. a score in baseball made by a runner touching all four bases safely\nn. (American football) a play in which a player attempts to carry the ball through or past the opposing team\nn. a regular trip\nn. the act of running; traveling on foot at a fast pace"
+  },
+  {
+    "单词": "race",
+    "英音": "[reɪs]",
+    "美音": "[reɪs]",
+    "释义(中文)": "n. 属，种；种族，人种；家庭，门第\nvt. 使参加比赛；和…竞赛；使急走，使全速行进\nvi. 比速度，参加竞赛；全速行进\n",
+    "释义(英文)": "n. any competition\nn. a contest of speed\nn. people who are believed to belong to the same genetic stock\nv. compete in a race"
+  },
+  {
+    "单词": "high",
+    "英音": "[haɪ]",
+    "美音": "[haɪ]",
+    "释义(中文)": "n. 高水平；天空；由麻醉品引起的快感；高压地带\nadj. 高的；高级的；崇高的；高音调的\nadv. 高；奢侈地\n",
+    "释义(英文)": "n. a lofty level or position or degree\nn. an air mass of higher than normal pressure\nn. a state of sustained elation\nn. a state of altered consciousness induced by alcohol or narcotics"
+  },
+  {
+    "单词": "jump",
+    "英音": "[dʒʌmp]",
+    "美音": "[dʒʌmp]",
+    "释义(中文)": "n. 跳跃；暴涨；惊跳\nvt. 跳跃；使跳跃；跳过；突升\nvi. 跳跃；暴涨；猛增\n",
+    "释义(英文)": "n. a sudden and decisive increase\nn. (film) an abrupt transition from one scene to another\nn. descent with a parachute\nn. the act of jumping; propelling yourself off the ground"
+  },
+  {
+    "单词": "January",
+    "英音": "[ˈdʒænjuəri]",
+    "美音": "[ˈdʒænjueri]",
+    "释义(中文)": "n. 一月",
+    "释义(英文)": "n. the first month of the year; begins 10 days after the winter solstice"
+  },
+  {
+    "单词": "March",
+    "英音": "[mɑːtʃ]",
+    "美音": "[mɑːrtʃ]",
+    "释义(中文)": "n. 三月",
+    "释义(英文)": "n. the month following February and preceding April\nn. the act of marching; walking with regular steps (especially in a procession of some kind)\nn. a steady advance\nn. a procession of people walking together"
+  },
+  {
+    "单词": "February",
+    "英音": "[ˈfebruəri]",
+    "美音": "[ˈfebrueri]",
+    "释义(中文)": "n. 二月",
+    "释义(英文)": "n. the month following January and preceding March"
+  },
+  {
+    "单词": "every",
+    "英音": "[ˈevri]",
+    "美音": "[ˈevri]",
+    "释义(中文)": "adj. 每一的，每个的；每隔…的\n",
+    "释义(英文)": "s. (used of count nouns) each and all of the members of a group considered singly and without exception\ns. each and all of a series of entities or intervals as specified"
+  },
+  {
+    "单词": "April",
+    "英音": "[ˈeɪprəl]",
+    "美音": "[ˈeɪprəl]",
+    "释义(中文)": "n. 四月",
+    "释义(英文)": "n. the month following March and preceding May"
+  },
+  {
+    "单词": "August",
+    "英音": "[ˈɔːɡəst]",
+    "美音": "[ˈɔːɡəst]",
+    "释义(中文)": "n. 八月（简写为Aug）\nadj. 威严的；令人敬畏的",
+    "释义(英文)": "n. the month following July and preceding September\ns. of or befitting a lord\ns. profoundly honored"
+  },
+  {
+    "单词": "born",
+    "英音": "[bɔːn]",
+    "美音": "[bɔːrn]",
+    "释义(中文)": "v. 出世（bear的过去分词）\nadj. 天生的\n",
+    "释义(英文)": "n. British nuclear physicist (born in Germany) honored for his contributions to quantum mechanics (1882-1970)\na. brought into existence"
+  },
+  {
+    "单词": "May",
+    "英音": "[meɪ]",
+    "美音": "[meɪ]",
+    "释义(中文)": "aux. 可以，能够；可能，也许；祝，愿；会，能",
+    "释义(英文)": "n. the month following April and preceding June"
+  },
+  {
+    "单词": "June",
+    "英音": "[dʒuːn]",
+    "美音": "[dʒuːn]",
+    "释义(中文)": "n. 六月；琼（人名，来源于拉丁语，含义是“年轻气盛的六月”）",
+    "释义(英文)": "n. the month following May and preceding July"
+  },
+  {
+    "单词": "fifteenth",
+    "英音": "[ˌfɪfˈtiːnθ]",
+    "美音": "[ˌfɪfˈtiːnθ]",
+    "释义(中文)": "adj. 第十五的；十五分之一的\nnum. 第十五",
+    "释义(英文)": "n. position 15 in a countable series of things\ns. coming next after the fourteenth and just before the sixteenth in position"
+  },
+  {
+    "单词": "fourteenth",
+    "英音": "[ˌfɔːˈtiːnθ]",
+    "美音": "[ˌfɔːrˈtiːnθ]",
+    "释义(中文)": "num. 第十四\nn. 第十四；月的第十四日；十四分之一\nadj. 第十四的；第十四个的",
+    "释义(英文)": "n. position 14 in a countable series of things\ns. coming next after the thirteenth in position"
+  },
+  {
+    "单词": "How old ...?",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "conj. 多少岁\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "July",
+    "英音": "[dʒʊˈlaɪ]",
+    "美音": "[dʒʊˈlaɪ]",
+    "释义(中文)": "n. 七月",
+    "释义(英文)": "n. the month following June and preceding August"
+  },
+  {
+    "单词": "weather",
+    "英音": "[ˈweðə(r)]",
+    "美音": "[ˈweðər]",
+    "释义(中文)": "n. 天气；气象；气候；处境\nvt. 经受住；使风化；侵蚀；使受风吹雨打\nadj. 露天的；迎风的\nvi. 风化；受侵蚀；经受风雨\n",
+    "释义(英文)": "n. the atmospheric conditions that comprise the state of the atmosphere in terms of temperature and wind and clouds and precipitation\nv. face and withstand with courage\nv. cause to slope\nv. sail to the windward of"
+  },
+  {
+    "单词": "like",
+    "英音": "[laɪk]",
+    "美音": "[laɪk]",
+    "释义(中文)": "vt. 喜欢；想；愿意\nvi. 喜欢；希望\nprep. 像；如同\nadj. 同样的；相似的\nn. 爱好；同样的人或物\nadv. 可能\nconj. 好像",
+    "释义(英文)": "n. a similar kind\nn. a kind of person\nv. find enjoyable or agreeable\nv. be fond of"
+  },
+  {
+    "单词": "sunny",
+    "英音": "[ˈsʌni]",
+    "美音": "[ˈsʌni]",
+    "释义(中文)": "adj. 阳光充足的，和煦的；快活的；性情开朗的",
+    "释义(英文)": "s bright and pleasant; promoting a feeling of cheer"
+  },
+  {
+    "单词": "warm",
+    "英音": "[wɔːm]",
+    "美音": "[wɔːrm]",
+    "释义(中文)": "n. 取暖；加热\nadj. 温暖的；热情的\nvt. 使…兴奋；使…温暖；使…感兴趣\nvi. 同情；激动；变温暖\n",
+    "释义(英文)": "v. get warm or warmer\nv. make warm or warmer\na. having or producing a comfortable and agreeable degree of heat or imparting or maintaining heat\na. psychologically warm; friendly and responsive"
+  },
+  {
+    "单词": "hot",
+    "英音": "[hɒt]",
+    "美音": "[hɑːt]",
+    "释义(中文)": "adj. 热的；辣的；热情的；激动的；紧迫的\nvt. 增加；给…加温\nadv. 热；紧迫地\nvi. 变热\n",
+    "释义(英文)": "a. used of physical heat; having a high or higher than desirable temperature or giving off heat or feeling or causing a sensation of heat or burning\ns. characterized by violent and forceful activity or movement; very intense\na. extended meanings; especially of psychological heat; marked by intensity or vehemence especially of passion or enthusiasm\ns. (color) bold and intense"
+  },
+  {
+    "单词": "cool",
+    "英音": "[kuːl]",
+    "美音": "[kuːl]",
+    "释义(中文)": "n. 凉爽；凉爽的空气\nadj. 凉爽的；冷静的；出色的\nvt. 使…冷却；使…平静下来\nvi. 变凉；平息\nadv. 冷静地\n",
+    "释义(英文)": "n. the quality of being at a refreshingly low temperature\nv. make cool or cooler\nv. loose heat\nv. lose intensity"
+  },
+  {
+    "单词": "rainy",
+    "英音": "[ˈreɪni]",
+    "美音": "[ˈreɪni]",
+    "释义(中文)": "adj. 下雨的；多雨的\n",
+    "释义(英文)": "s (of weather) wet by periods of rain"
+  },
+  {
+    "单词": "can",
+    "英音": "[kən; kæn]",
+    "美音": "[kən; kæn]",
+    "释义(中文)": "aux. 能； 能够； 可以； 可能\nn. 罐头； （用金属或塑料制作的）容器； （马口铁或其他金属制作的）食品罐头\nvt. 将…装入密封罐中保存",
+    "释义(英文)": "n. airtight sealed metal container for food or drink or paint etc.\nn. the quantity contained in a can\nn. a buoy with a round bottom and conical top\nv. preserve in a can or tin"
+  },
+  {
+    "单词": "windy",
+    "英音": "[ˈwɪndi]",
+    "美音": "[ˈwɪndi]",
+    "释义(中文)": "adj. 多风的，有风的；腹胀的；吹牛的",
+    "释义(英文)": "s. resembling the wind in speed, force, or variability"
+  },
+  {
+    "单词": "cloudy",
+    "英音": "[ˈklaʊdi]",
+    "美音": "[ˈklaʊdi]",
+    "释义(中文)": "adj. 多云的；阴天的；愁容满面的",
+    "释义(英文)": "s. lacking definite form or limits\na. full of or covered with clouds\ns. (of liquids) clouded as with sediment"
+  },
+  {
+    "单词": "over",
+    "英音": "[ˈəʊvə(r)]",
+    "美音": "[ˈoʊvər]",
+    "释义(中文)": "adv. 结束；越过；从头到尾\nprep. 越过；在…之上；遍于…之上\nadj. 结束的；上面的\nvt. 越过\n",
+    "释义(英文)": "n. (cricket) the division of play during which six balls are bowled at the batsman by one player from the other team from the same end of the pitch\nr. at or to a point across intervening space etc.\nr. throughout an area\nr. throughout a period of time"
+  },
+  {
+    "单词": "snowy",
+    "英音": "[ˈsnəʊi]",
+    "美音": "[ˈsnoʊi]",
+    "释义(中文)": "adj. 下雪的，多雪的；被雪覆盖的；洁白无瑕的",
+    "释义(英文)": "s marked by the presence of snow\ns covered with snow\ns of the white color of snow"
+  },
+  {
+    "单词": "rain",
+    "英音": "[reɪn]",
+    "美音": "[reɪn]",
+    "释义(中文)": "n. 雨；下雨；雨天；雨季\nvt. 大量地给；使大量落下\nvi. 下雨；降雨\n",
+    "释义(英文)": "n. water falling in drops from vapor condensed in the atmosphere\nn. drops of fresh water that fall as precipitation from clouds\nn. anything happening rapidly or in quick successive\nv. precipitate as rain"
+  },
+  {
+    "单词": "borrow",
+    "英音": "[ˈbɒrəʊ]",
+    "美音": "[ˈbɔːroʊ]",
+    "释义(中文)": "vt. 借；借用\nvi. 借；借用；从其他语言中引入\n",
+    "释义(英文)": "v. get temporarily"
+  },
+  {
+    "单词": "marker",
+    "英音": "[ˈmɑːkə(r)]",
+    "美音": "[ˈmɑːrkər]",
+    "释义(中文)": "n. 记分员；书签；标识物；作记号的人\n",
+    "释义(英文)": "n. some conspicuous object used to distinguish or mark something\nn. a distinguishing symbol\nn. a writing implement for making a mark"
+  },
+  {
+    "单词": "pencil",
+    "英音": "[ˈpens(ə)l]",
+    "美音": "[ˈpensl]",
+    "释义(中文)": "n. 铅笔；笔状物\nvt. 用铅笔写；用眉笔涂\nvi. 成铅笔状",
+    "释义(英文)": "n. a thin cylindrical pointed writing implement; a rod of marking substance encased in wood\nn. graphite (or a similar substance) used in such a way as to be a medium of communication\nn. a figure formed by a set of straight lines or light rays meeting at a point\nn. a cosmetic in a long thin stick; designed to be applied to a particular part of the face"
+  },
+  {
+    "单词": "eraser",
+    "英音": "[ɪˈreɪzə(r)]",
+    "美音": "[ɪˈreɪsər]",
+    "释义(中文)": "n. 橡皮；擦除器；[计] 清除器",
+    "释义(英文)": "n. an implement used to erase something"
+  },
+  {
+    "单词": "sixty",
+    "英音": "[ˈsɪksti]",
+    "美音": "[ˈsɪksti]",
+    "释义(中文)": "num. 六十；六十个",
+    "释义(英文)": "n. the cardinal number that is the product of ten and six\ns. being ten more than fifty"
+  },
+  {
+    "单词": "ruler",
+    "英音": "[ˈruːlə(r)]",
+    "美音": "[ˈruːlər]",
+    "释义(中文)": "n. 尺；统治者；[测] 划线板，划线的人",
+    "释义(英文)": "n. a person who rules or commands"
+  },
+  {
+    "单词": "forty",
+    "英音": "[ˈfɔːti]",
+    "美音": "[ˈfɔːrti]",
+    "释义(中文)": "n. 四十\nadj. 四十的；四十个的",
+    "释义(英文)": "n. the cardinal number that is the product of ten and four\ns. being ten more than thirty"
+  },
+  {
+    "单词": "blackboard",
+    "英音": "[ˈblækbɔːd]",
+    "美音": "[ˈblækbɔːrd]",
+    "释义(中文)": "n. 黑板",
+    "释义(英文)": "n. sheet of slate; for writing with chalk"
+  },
+  {
+    "单词": "seventy",
+    "英音": "[ˈsev(ə)nti]",
+    "美音": "[ˈsev(ə)nti]",
+    "释义(中文)": "n. 七十；七十个；七十岁；七十年代\nnum. 七十\nadj. 七十的；七十个的；七十岁的",
+    "释义(英文)": "n. the cardinal number that is the product of ten and seven\ns. being ten more than sixty"
+  },
+  {
+    "单词": "eighty",
+    "英音": "[ˈeɪti]",
+    "美音": "[ˈeɪti]",
+    "释义(中文)": "num. 八十\nn. 八十；八十岁；八十年代\nadj. 八十的，八十个的；八十岁的",
+    "释义(英文)": "n. the cardinal number that is the product of ten and eight\ns. being ten more than seventy"
+  },
+  {
+    "单词": "ninety",
+    "英音": "[ˈnaɪnti]",
+    "美音": "[ˈnaɪnti]",
+    "释义(中文)": "n. 九十\nadj. 九十的；九十岁的\nnum. 九十",
+    "释义(英文)": "n. the cardinal number that is the product of ten and nine\ns. being ten more than eighty"
+  },
+  {
+    "单词": "hundred",
+    "英音": "[ˈhʌndrəd]",
+    "美音": "[ˈhʌndrəd]",
+    "释义(中文)": "num. 百；百个\nn. 一百；许多\nadj. 一百的；许多的",
+    "释义(英文)": "n. ten 10s\ns. being ten more than ninety"
+  },
+  {
+    "单词": "holiday",
+    "英音": "[ˈhɒlədeɪ]",
+    "美音": "[ˈhɑːlədeɪ]",
+    "释义(中文)": "n. 假日；节日；休息日\nvi. 外出度假\n",
+    "释义(英文)": "n. a day on which work is suspended by law or custom"
+  },
+  {
+    "单词": "Christmas",
+    "英音": "[ˈkrɪsməs]",
+    "美音": "[ˈkrɪsməs]",
+    "释义(中文)": "n. 圣诞节；圣诞节期间",
+    "释义(英文)": "n. period extending from Dec. 24 to Jan. 6\nn. a Christian holiday celebrating the birth of Christ; a quarter day in England, Wales, and Ireland"
+  },
+  {
+    "单词": "know",
+    "英音": "[nəʊ]",
+    "美音": "[noʊ]",
+    "释义(中文)": "vt. 知道；认识；懂得\nvi. 了解；熟悉；确信",
+    "释义(英文)": "n. the fact of being aware of information that is known to few people\nv. be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about\nv. know how to do or perform something\nv. be aware of the truth of something; have a belief or faith in something; regard as true beyond any doubt"
+  },
+  {
+    "单词": "Chinese",
+    "英音": "[ˌtʃaɪˈniːz]",
+    "美音": "[ˌtʃaɪˈniːz]",
+    "释义(中文)": "n. 中文，汉语；中国人\nadj. 中国的，中国人的；中国话的",
+    "释义(英文)": "n. any of the Sino-Tibetan languages spoken in China; regarded as dialects of a single language (even though they are mutually unintelligible) because they share an ideographic writing system\nn. a native or inhabitant of Communist China or of Nationalist China\na. of or pertaining to China or its peoples or cultures"
+  },
+  {
+    "单词": "ball",
+    "英音": "[bɔːl]",
+    "美音": "[bɔːl]",
+    "释义(中文)": "n. 球；舞会\nvt. 捏成球形\nvi. 成团块\n",
+    "释义(英文)": "n. round object that is hit or thrown or kicked in games\nn. an object with a spherical shape\nn. the people assembled at a lavish formal dance\nn. a spherical object used as a plaything"
+  },
+  {
+    "单词": "gold",
+    "英音": "[ɡəʊld]",
+    "美音": "[ɡoʊld]",
+    "释义(中文)": "n. 金，黄金；金色；金币\nadj. 金的，金制的；金色的\n",
+    "释义(英文)": "n. coins made of gold\nn. a soft yellow malleable ductile (trivalent and univalent) metallic element; occurs mainly as nuggets in rocks and alluvial deposits; does not react with most chemicals but is attacked by chlorine and aqua regia\nn. great wealth\nn. something likened to the metal in brightness or preciousness or superiority etc."
+  },
+  {
+    "单词": "gift",
+    "英音": "[ɡɪft]",
+    "美音": "[ɡɪft]",
+    "释义(中文)": "n. 礼物；天赋；赠品\nvt. 赋予；向…赠送\n",
+    "释义(英文)": "n. something acquired without compensation"
+  },
+  {
+    "单词": "pink",
+    "英音": "[pɪŋk]",
+    "美音": "[pɪŋk]",
+    "释义(中文)": "n. 粉红色；化身，典范；石竹花；头面人物\nadj. 粉红的；比较激进的；石竹科的；脸色发红的\nvt. 扎，刺，戳；使…变粉红色；使…面红耳赤\nvi. 变粉红色\n",
+    "释义(英文)": "n. a light shade of red\nn. any of various flowers of plants of the genus Dianthus cultivated for their fragrant flowers\nv. sound like a car engine that is firing too early\nv. cut in a zigzag pattern with pinking shears, in sewing"
+  },
+  {
+    "单词": "star",
+    "英音": "[stɑː(r)]",
+    "美音": "[stɑːr]",
+    "释义(中文)": "n. 星，恒星；明星；星形物\nadj. 明星的，主角的；星形的\nvt. 用星号标于；由…主演，由…担任主角\nvi. 担任主角\n",
+    "释义(英文)": "n. (astronomy) a celestial body of hot gases that radiates energy derived from thermonuclear reactions in the interior\nn. any celestial body visible (as a point of light) from the Earth at night\nn. an actor who plays a principal role\nn. a plane figure with 5 or more points; often used as an emblem"
+  },
+  {
+    "单词": "bell",
+    "英音": "[bel]",
+    "美音": "[bel]",
+    "释义(中文)": "n. 铃，钟；钟声，铃声；钟状物\nvt. 装钟于，系铃于\nvi. 鸣钟；成钟状鼓起",
+    "释义(英文)": "n. a hollow device made of metal that makes a ringing sound when struck\nn. the sound of a bell being struck\nn. (nautical) each of the eight half-hour units of nautical time signaled by strokes of a ship's bell; eight bells signals 4:00, 8:00, or 12:00 o'clock, either a.m. or p.m.\nn. the shape of a bell"
+  },
+  {
+    "单词": "together",
+    "英音": "[təˈɡeðə(r)]",
+    "美音": "[təˈɡeðər]",
+    "释义(中文)": "adj. 新潮的；情绪稳定的，做事有效率的\nadv. 一起；同时；相互；连续地；总共",
+    "释义(英文)": "s. mentally and emotionally stable\nr. in contact with each other or in proximity\nr. assembled in one place\nr. in each other's company"
+  },
+  {
+    "单词": "bright",
+    "英音": "[braɪt]",
+    "美音": "[braɪt]",
+    "释义(中文)": "n. 车头灯光\nadj. 明亮的，鲜明的；聪明的；愉快的\nadv. 明亮地；光明地；欢快地\n",
+    "释义(英文)": "a. emitting or reflecting light readily or in large amounts\ns. having striking color\ns. characterized by quickness and ease in learning\ns. having lots of light either natural or artificial"
+  },
+  {
+    "单词": "house",
+    "英音": "[haʊs]",
+    "美音": "[haʊs]",
+    "释义(中文)": "n. 住宅；家庭；机构；议会；某种用途的建筑物\nvt. 覆盖；给…房子住；把…储藏在房内\nvi. 住\n",
+    "释义(英文)": "n. a dwelling that serves as living quarters for one or more families\nn. the members of a religious community living together\nn. the audience gathered together in a theatre or cinema\nn. an official assembly having legislative powers"
+  },
+  {
+    "单词": "same",
+    "英音": "[seɪm]",
+    "美音": "[seɪm]",
+    "释义(中文)": "adj. 相同的；同一的；上述的（通常与the连用）；无变化的\nadv. 同样地（通常与the连用）\npron. 同样的事物或人（通常与the连用）\n",
+    "释义(英文)": "a. same in identity\na. closely similar or comparable in kind or quality or quantity or degree\ns. unchanged in character or nature"
+  }
+]

@@ -1,0 +1,387 @@
+[
+  {
+    "单词": "white",
+    "英音": "[waɪt]",
+    "美音": "[waɪt]",
+    "释义(中文)": "n. 白色；洁白；白种人\nadj. 白色的；白种的；纯洁的",
+    "释义(英文)": "n. a member of the Caucasoid race\nn. the quality or state of the achromatic color of greatest lightness (bearing the least resemblance to black)\nn. United States jurist appointed chief justice of the United States Supreme Court in 1910 by President Taft; noted for his work on antitrust legislation (1845-1921)\nn. Australian writer (1912-1990)"
+  },
+  {
+    "单词": "purple",
+    "英音": "[ˈpɜːp(ə)l]",
+    "美音": "[ˈpɜːrpl]",
+    "释义(中文)": "n. 紫色；紫袍\nadj. 紫色的；帝王的；华而不实的\nvt. 使成紫色\nvi. 变成紫色",
+    "释义(英文)": "n. a purple color or pigment\nn. of imperial status\nv. become purple\nv. color purple"
+  },
+  {
+    "单词": "pink",
+    "英音": "[pɪŋk]",
+    "美音": "[pɪŋk]",
+    "释义(中文)": "n. 粉红色；化身，典范；石竹花；头面人物\nadj. 粉红的；比较激进的；石竹科的；脸色发红的\nvt. 扎，刺，戳；使…变粉红色；使…面红耳赤\nvi. 变粉红色\n",
+    "释义(英文)": "n. a light shade of red\nn. any of various flowers of plants of the genus Dianthus cultivated for their fragrant flowers\nv. sound like a car engine that is firing too early\nv. cut in a zigzag pattern with pinking shears, in sewing"
+  },
+  {
+    "单词": "orange",
+    "英音": "[ˈɒrɪndʒ]",
+    "美音": "[ˈɔrɪndʒ]",
+    "释义(中文)": "adj. 橙色的；橘色的\nn. 橙；橙色；桔子\n",
+    "释义(英文)": "n. round yellow to orange fruit of any of several citrus trees\nn. orange color or pigment; any of a range of colors between red and yellow\nn. any citrus tree bearing oranges\nn. any pigment producing the orange color"
+  },
+  {
+    "单词": "brown",
+    "英音": "[braʊn]",
+    "美音": "[braʊn]",
+    "释义(中文)": "n. 褐色，棕色\nadj. 棕色的，褐色的；太阳晒黑的\nvt. 使变成褐色\nvi. 变成褐色\n",
+    "释义(英文)": "n. an orange of low brightness and saturation\nn. Scottish botanist who first observed the movement of small particles in fluids now known a Brownian motion (1773-1858)\nn. abolitionist who was hanged after leading an unsuccessful raid at Harper's Ferry, Virginia (1800-1859)\nv. fry in a pan until it changes color"
+  },
+  {
+    "单词": "black",
+    "英音": "[blæk]",
+    "美音": "[blæk]",
+    "释义(中文)": "n. 黑色；黑人；黑颜料\nadj. 黑色的；黑人的；邪恶的\nvt. 使变黑；把鞋油等涂在…上；把（眼眶）打成青肿\nvi. 变黑\n",
+    "释义(英文)": "n. the quality or state of the achromatic color of least lightness (bearing the least resemblance to white)\nn. British chemist who identified carbon dioxide and who formulated the concepts of specific heat and latent heat (1728-1799)\nn. popular child actress of the 1930's (born in 1928)\nn. a person with dark skin who comes from Africa (or whose ancestors came from Africa)"
+  },
+  {
+    "单词": "watch",
+    "英音": "[wɒtʃ]",
+    "美音": "[wɑːtʃ]",
+    "释义(中文)": "n. 手表；监视；守护；值班人\nvt. 观察；注视；看守；警戒\nvi. 观看，注视；守侯，看守",
+    "释义(英文)": "n. a small portable timepiece\nn. a period of time (4 or 2 hours) during which some of a ship's crew are on duty\nn. a purposeful surveillance to guard or observe\nn. the period during which someone (especially a guard) is on duty"
+  },
+  {
+    "单词": "bag",
+    "英音": "[bæɡ]",
+    "美音": "[bæɡ]",
+    "释义(中文)": "n. 袋；猎获物；（俚）一瓶啤酒\nvt. 猎获；把…装入袋中；占据，私吞；使膨大\nvi. 松垂",
+    "释义(英文)": "n. a flexible container with a single opening\nn. the quantity of game taken in a particular period (usually by one person)\nn. a container used for carrying money and small personal items or accessories (especially by women)\nn. the quantity that a bag will hold"
+  },
+  {
+    "单词": "soft",
+    "英音": "[sɒft]",
+    "美音": "[sɔːft]",
+    "释义(中文)": "n. 柔性；柔软的东西；柔软部分\nadj. 软的，柔软的；温柔的，温和的；软弱的；笨的\nadv. 柔软地；温和地",
+    "释义(英文)": "a. yielding readily to pressure or weight\na. compassionate and kind; conciliatory\na. (of sound) relatively low in volume\na. not protected against attack (especially by nuclear weapons)"
+  },
+  {
+    "单词": "hard",
+    "英音": "[hɑːd]",
+    "美音": "[hɑːrd]",
+    "释义(中文)": "adj. 努力的；硬的；困难的；辛苦的；确实的；严厉的；猛烈的；冷酷无情的\nadv. 努力地；困难地；辛苦地；接近地；猛烈地；牢固地\n",
+    "释义(英文)": "a. dispassionate; \na. resisting weight or pressure\ns. very strong or vigorous\na. (of light) transmitted directly from a pointed light source"
+  },
+  {
+    "单词": "rough",
+    "英音": "[rʌf]",
+    "美音": "[rʌf]",
+    "释义(中文)": "n. 艰苦；高低不平的地面；未经加工的材料；粗糙的部分\nadj. 粗糙的；粗略的；粗野的；艰苦的；未经加工的\nvt. 使粗糙；粗暴对待；草拟\nadv. 粗糙地；粗略地；粗暴地\nvi. 举止粗野\n",
+    "释义(英文)": "n. the part of a golf course bordering the fairway where the grass is not cut short\na. having or caused by an irregular surface\ns. (of persons or behavior) lacking refinement or finesse\na. of the margin of a leaf shape; having the edge cut or fringed or scalloped"
+  },
+  {
+    "单词": "smooth",
+    "英音": "[smuːð]",
+    "美音": "[smuːð]",
+    "释义(中文)": "n. 平滑部分；一块平地\nadj. 顺利的；光滑的；平稳的\nvt. 使光滑；消除（障碍等）；使优雅；缓和\nadv. 光滑地；平稳地；流畅地\nvi. 变平静；变平滑",
+    "释义(英文)": "n. the act of smoothing\nv. make smooth or smoother, as if by rubbing\nv. free from obstructions\na. having a surface free from roughness or bumps or ridges or irregularities"
+  },
+  {
+    "单词": "train",
+    "英音": "[treɪn]",
+    "美音": "[treɪn]",
+    "释义(中文)": "n. 火车；行列；长队；裙裾\nv. 培养；训练；瞄准\n",
+    "释义(英文)": "n. public transport provided by a line of railway cars coupled together and drawn by a locomotive\nn. a series of consequences wrought by an event\nn. piece of cloth forming the long back section of a gown that is drawn along the floor\nv. create by training and teaching"
+  },
+  {
+    "单词": "bus",
+    "英音": "[bʌs]",
+    "美音": "[bʌs]",
+    "释义(中文)": "n. 公共汽车\n乘公共汽车",
+    "释义(英文)": "n. a vehicle carrying many passengers; used for public transport\nn. a car that is old and unreliable\nv. send or move around by bus\nv. ride in a bus"
+  },
+  {
+    "单词": "car",
+    "英音": "[kɑː(r)]",
+    "美音": "[kɑːr]",
+    "释义(中文)": "n. 汽车；车厢\n",
+    "释义(英文)": "n. a motor vehicle with four wheels; usually propelled by an internal combustion engine\nn. a wheeled vehicle adapted to the rails of railroad\nn. the compartment that is suspended from an airship and that carries personnel and the cargo and the power plant\nn. where passengers ride up and down"
+  },
+  {
+    "单词": "van",
+    "英音": "[væn]",
+    "美音": "[væn]",
+    "释义(中文)": "n. 先锋；厢式货车；增值网\nvt. 用车搬运\n",
+    "释义(英文)": "n. (Great Britain) a closed railroad car that carries baggage or freight\nn. a camper equipped with living quarters\nn. a truck with an enclosed cargo space"
+  },
+  {
+    "单词": "bicycle",
+    "英音": "[ˈbaɪsɪk(ə)l]",
+    "美音": "[ˈbaɪsɪkl]",
+    "释义(中文)": "n. 自行车\nvt. 骑自行车运送\nvi. 骑脚踏车",
+    "释义(英文)": "n. a wheeled vehicle that has two wheels and is moved by foot pedals\nv. ride a bicycle"
+  },
+  {
+    "单词": "ship",
+    "英音": "[ʃɪp]",
+    "美音": "[ʃɪp]",
+    "释义(中文)": "n. 船；舰；太空船\nvt. 运送，乘船；以船运送\nvi. 上船；乘船旅行；当船员\n",
+    "释义(英文)": "n. a vessel that carries passengers or freight\nv. hire for work on a ship\nv. travel by ship\nv. place on board a ship"
+  },
+  {
+    "单词": "run",
+    "英音": "[rʌn]",
+    "美音": "[rʌn]",
+    "释义(中文)": "n. 奔跑；赛跑；趋向；奔跑的路程\nvt. 管理，经营；运行；参赛\nvi. 经营；奔跑；运转\n",
+    "释义(英文)": "n. a score in baseball made by a runner touching all four bases safely\nn. (American football) a play in which a player attempts to carry the ball through or past the opposing team\nn. a regular trip\nn. the act of running; traveling on foot at a fast pace"
+  },
+  {
+    "单词": "skate",
+    "英音": "[skeɪt]",
+    "美音": "[skeɪt]",
+    "释义(中文)": "n. 溜冰；冰鞋\nvi. 滑冰；滑过\n",
+    "释义(英文)": "n. sports equipment that is worn on the feet to enable the wearer to glide along and to be propelled by the alternate actions of the legs\nn. large edible rays having a long snout and thick tail with pectoral fins continuous with the head; swim by undulating the edges of the pectoral fins\nv. move along on skates"
+  },
+  {
+    "单词": "hop",
+    "英音": "[hɒp]",
+    "美音": "[hɑːp]",
+    "释义(中文)": "vt. 搭乘\nv. 单足跳跃〔跳行〕\nvi. 双足或齐足跳行\nn. 蹦跳,跳跃；跳舞；一次飞行的距离\n",
+    "释义(英文)": "n. the act of hopping; jumping upward or forward (especially on one foot)\nn. twining perennials having cordate leaves and flowers arranged in conelike spikes; the dried flowers of this plant are used in brewing to add the characteristic bitter taste to beer\nn. an informal dance where popular music is played\nv. jump lightly"
+  },
+  {
+    "单词": "skip",
+    "英音": "[skɪp]",
+    "美音": "[skɪp]",
+    "释义(中文)": "n. 跳跃；跳读\nvt. 跳过；遗漏\nvi. 跳跃；跳绳；遗漏；跳读\n",
+    "释义(英文)": "n. a gait in which steps and hops alternate\nv. bound off one point after another"
+  },
+  {
+    "单词": "ride a bicycle",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 骑自行车\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "salad",
+    "英音": "[ˈsæləd]",
+    "美音": "[ˈsæləd]",
+    "释义(中文)": "n. 色拉；尤指莴苣\n",
+    "释义(英文)": "n. food mixtures either arranged on a plate or tossed and served with a moist dressing; usually consisting of or including greens"
+  },
+  {
+    "单词": "carrot",
+    "英音": "[ˈkærət]",
+    "美音": "[ˈkærət]",
+    "释义(中文)": "n. 胡萝卜\n诱饵",
+    "释义(英文)": "n. deep orange edible root of the cultivated carrot plant\nn. perennial plant widely cultivated as an annual in many varieties for its long conical orange edible roots; temperate and tropical regions\nn. orange root; important source of carotene\nn. promise of reward as in \"carrot and stick\";"
+  },
+  {
+    "单词": "fish",
+    "英音": "[fɪʃ]",
+    "美音": "[fɪʃ]",
+    "释义(中文)": "n. 鱼，鱼类\nvt. 钓鱼，捕鱼；搜寻\nvi. 捕鱼，钓鱼；用钩捞取\n",
+    "释义(英文)": "n. any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills\nn. the flesh of fish used as food\nv. seek indirectly\nv. catch or try to catch fish or shellfish"
+  },
+  {
+    "单词": "chicken",
+    "英音": "[ˈtʃɪkɪn]",
+    "美音": "[ˈtʃɪkɪn]",
+    "释义(中文)": "n. 鸡肉；小鸡；胆小鬼，懦夫\nadj. 鸡肉的；胆怯的；幼小的",
+    "释义(英文)": "n. the flesh of a chicken used for food\nn. a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl\nn. a foolhardy competition; a dangerous activity that is continued until one competitor becomes afraid and stops\ns. easily frightened"
+  },
+  {
+    "单词": "banana",
+    "英音": "[bəˈnɑːnə]",
+    "美音": "[bəˈnænə]",
+    "释义(中文)": "n. 香蕉；喜剧演员；大鹰钩鼻\n",
+    "释义(英文)": "n. any of several tropical and subtropical treelike herbs of the genus Musa having a terminal crown of large entire leaves and usually bearing hanging clusters of elongated fruits\nn. elongated crescent-shaped yellow fruit with soft sweet flesh"
+  },
+  {
+    "单词": "giraffe",
+    "英音": "[dʒəˈrɑːf]",
+    "美音": "[dʒəˈræf]",
+    "释义(中文)": "n. 长颈鹿",
+    "释义(英文)": "n. tallest living quadruped; having a spotted coat and small horns and very long neck and legs; of savannahs of tropical Africa"
+  },
+  {
+    "单词": "snake",
+    "英音": "[sneɪk]",
+    "美音": "[sneɪk]",
+    "释义(中文)": "n. 蛇；阴险的人\nvt. 拉（木材等）；迂回前进\nvi. 迂回前进",
+    "释义(英文)": "n. limbless scaly elongate reptile; some are venomous\nn. a deceitful or treacherous person\nn. a tributary of the Columbia River that rises in Wyoming and flows westward; discovered in 1805 by the Lewis and Clark Expedition\nn. something long, thin, and flexible that resembles a snake"
+  },
+  {
+    "单词": "elephant",
+    "英音": "[ˈelɪfənt]",
+    "美音": "[ˈelɪfənt]",
+    "释义(中文)": "n. 象；大号图画纸",
+    "释义(英文)": "n. five-toed pachyderm\nn. the symbol of the Republican Party; introduced in cartoons by Thomas Nast in 1874"
+  },
+  {
+    "单词": "zebra",
+    "英音": "[ˈzebrə]",
+    "美音": "[ˈziːbrə]",
+    "释义(中文)": "n. [脊椎] 斑马\nadj. 有斑纹的",
+    "释义(英文)": "n. any of several fleet black-and-white striped African equines"
+  },
+  {
+    "单词": "autumn",
+    "英音": "[ˈɔːtəm]",
+    "美音": "[ˈɔːtəm; ˈɑːtəm]",
+    "释义(中文)": "n. 秋天；成熟期；渐衰期，凋落期\nadj. 秋天的，秋季的\n",
+    "释义(英文)": "n the season when the leaves fall from the trees"
+  },
+  {
+    "单词": "winter",
+    "英音": "[ˈwɪntə(r)]",
+    "美音": "[ˈwɪntər]",
+    "释义(中文)": "n. 冬季；年岁；萧条期\nadj. 冬天的；越冬的\nvi. 过冬\n",
+    "释义(英文)": "n. the coldest season of the year; in the northern hemisphere it extends from the winter solstice to the vernal equinox\nv. spend the winter"
+  },
+  {
+    "单词": "cool",
+    "英音": "[kuːl]",
+    "美音": "[kuːl]",
+    "释义(中文)": "n. 凉爽；凉爽的空气\nadj. 凉爽的；冷静的；出色的\nvt. 使…冷却；使…平静下来\nvi. 变凉；平息\nadv. 冷静地\n",
+    "释义(英文)": "n. the quality of being at a refreshingly low temperature\nv. make cool or cooler\nv. loose heat\nv. lose intensity"
+  },
+  {
+    "单词": "cold",
+    "英音": "[kəʊld]",
+    "美音": "[kəʊld]",
+    "释义(中文)": "n. 寒冷；感冒\nadj. 寒冷的；冷淡的，不热情的；失去知觉的\nadv. 完全地",
+    "释义(英文)": "n. a mild viral infection involving the nose and respiratory passages (but not the lungs)\nn. the sensation produced by low temperatures\na. having a low or inadequate temperature or feeling a sensation of coldness or having been made cold by e.g. ice or refrigeration\na. extended meanings; especially of psychological coldness; without human warmth or emotion"
+  },
+  {
+    "单词": "stop",
+    "英音": "[stɒp]",
+    "美音": "[stɑːp]",
+    "释义(中文)": "n. 停止；车站；障碍；逗留\nvi. 停止；中止；逗留；被塞住\nvt. 停止；堵塞；断绝",
+    "释义(英文)": "n. the event of something ending\nn. the act of stopping something\nn. a brief stay in the course of a journey\nn. a spot where something halts or pauses"
+  },
+  {
+    "单词": "go",
+    "英音": "[ɡəʊ]",
+    "美音": "[ɡoʊ]",
+    "释义(中文)": "n. 去；进行；尝试\nvi. 走；达到；运转；趋于\nvt. 忍受；出产；以…打赌\n[复数 goes 第三人称单数 goes 过去式 went 过去分词 gone 现在分词 going]",
+    "释义(英文)": "n. a time for working (after which you will be relieved by someone else)\nn. a board game for two players who place counters on a grid; the object is to surround and so capture the opponent's counters\nv. follow a procedure or take a course\nv. move away from a place into another direction"
+  },
+  {
+    "单词": "wait",
+    "英音": "[weɪt]",
+    "美音": "[weɪt]",
+    "释义(中文)": "n. 等待；等候\nvi. 等待；耽搁；伺候用餐\nvt. 等候；推迟；延缓\n",
+    "释义(英文)": "n. the act of waiting (remaining inactive in one place while expecting something)\nv. stay in one place and anticipate or expect something\nv. wait before acting\nv. serve as a waiter or waitress in a restaurant"
+  },
+  {
+    "单词": "light",
+    "英音": "[laɪt]",
+    "美音": "[laɪt]",
+    "释义(中文)": "n. 光；光线；灯；打火机；领悟；浅色；天窗\nadj. 轻的；浅色的；明亮的；轻松的；容易的；清淡的\nvi. 点着；变亮；着火\nvt. 照亮；点燃；着火\nadv. 轻地；清楚地；轻便地\n",
+    "释义(英文)": "n. (physics) electromagnetic radiation that can produce a visual sensation\nn. any device serving as a source of illumination\nn. a particular perspective or aspect of a situation\nn. an illuminated area"
+  },
+  {
+    "单词": "trousers",
+    "英音": "[ˈtraʊzəz]",
+    "美音": "[ˈtraʊzərz]",
+    "释义(中文)": "n. 裤子，长裤",
+    "释义(英文)": "n (usually in the plural) a garment extending from the waist to the knee or ankle, covering each leg separately\nn a garment (or part of a garment) designed for or relating to trousers"
+  },
+  {
+    "单词": "sweater",
+    "英音": "[ˈswetə(r)]",
+    "美音": "[ˈswetər]",
+    "释义(中文)": "n. 毛线衣，运动衫；大量出汗的人，发汗剂",
+    "释义(英文)": "n. a crocheted or knitted garment covering the upper part of the body"
+  },
+  {
+    "单词": "shirt",
+    "英音": "[ʃɜːt]",
+    "美音": "[ʃɜːrt]",
+    "释义(中文)": "n. 衬衫；汗衫，内衣",
+    "释义(英文)": "n. a garment worn on the upper half of the body\nv. put a shirt on"
+  },
+  {
+    "单词": "coat",
+    "英音": "[kəʊt]",
+    "美音": "[koʊt]",
+    "释义(中文)": "n. 外套\nvt. 覆盖…的表面\n",
+    "释义(英文)": "n. an outer garment that has sleeves and covers the body from shoulder down; worn outdoors\nn. growth of hair or wool or fur covering the body of an animal\nv. put a coat on; cover the surface of; furnish with a surface\nv. cover or provide with a coat"
+  },
+  {
+    "单词": "play football",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 踢足球；对难办的事采取踢皮球的态度\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "play basketball",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 打篮球；玩篮球；篮球锻炼知多少",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "play ping-pong",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 打乒乓球",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "play cards",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 打纸牌\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "letter",
+    "英音": "[ˈletə(r)]",
+    "美音": "[ˈletər]",
+    "释义(中文)": "n. 信；字母，文字；证书；文学，学问；字面意义\nvt. 写字母于\nvi. 写印刷体字母\n",
+    "释义(英文)": "n. a written message addressed to a person or organization\nn. the conventional characters of the alphabet used to represent speech\nn. owner who lets another person use something (housing usually) for hire\nn. a strictly literal interpretation (as distinct from the intention)"
+  },
+  {
+    "单词": "balloon",
+    "英音": "[bəˈluːn]",
+    "美音": "[bəˈluːn]",
+    "释义(中文)": "n. 气球\nadj. 像气球般鼓起的\nvt. 使像气球般鼓起；使激增\nvi. 激增；膨胀如气球\n",
+    "释义(英文)": "n. large tough nonrigid bag filled with gas or heated air\nn. small thin inflatable rubber bag with narrow neck\nv. ride in a hot-air balloon\nv. become inflated"
+  },
+  {
+    "单词": "carnation",
+    "英音": "[kɑːˈneɪʃn]",
+    "美音": "[kɑːrˈneɪʃn]",
+    "释义(中文)": "n. [园艺] 康乃馨；肉色；粉红色\nadj. 肉红色的",
+    "释义(英文)": "n. Eurasian plant with pink to purple-red spice-scented usually double flowers; widely cultivated in many varieties and many colors\nn. a pink or reddish-pink color\ns. pink or pinkish"
+  },
+  {
+    "单词": "hungry",
+    "英音": "[ˈhʌŋɡri]",
+    "美音": "[ˈhʌŋɡri]",
+    "释义(中文)": "adj. 饥饿的；渴望的；荒年的；不毛的",
+    "释义(英文)": "a. feeling hunger; feeling a need or desire to eat food"
+  },
+  {
+    "单词": "thirsty",
+    "英音": "[ˈθɜːsti]",
+    "美音": "[ˈθɜːrsti]",
+    "释义(中文)": "adj. 口渴的，口干的；渴望的，热望的",
+    "释义(英文)": "s. needing moisture\na. feeling a need or desire to drink\ns. able to take in large quantities of moisture"
+  },
+  {
+    "单词": "bread",
+    "英音": "[bred]",
+    "美音": "[bred]",
+    "释义(中文)": "n. 面包；生计\nvt. 在…上洒面包屑",
+    "释义(英文)": "n. food made from dough of flour or meal and usually raised with yeast or baking powder and then baked\nv. cover with bread crumbs"
+  },
+  {
+    "单词": "milk",
+    "英音": "[mɪlk]",
+    "美音": "[mɪlk]",
+    "释义(中文)": "n. 牛奶；乳状物\nvt. 榨取；挤…的奶\nvi. 挤奶\n",
+    "释义(英文)": "n. a white nutritious liquid secreted by mammals and used as food by human beings\nn. produced by mammary glands of female mammals for feeding their young\nn. a river that rises in the Rockies in northwestern Montana and flows eastward to become a tributary of the Missouri River\nn. any of several nutritive milklike liquids"
+  }
+]

@@ -1,0 +1,464 @@
+[
+  {
+    "单词": "music",
+    "英音": "[ˈmjuːzɪk]",
+    "美音": "[ˈmjuːzɪk]",
+    "释义(中文)": "n. 音乐，乐曲",
+    "释义(英文)": "n. an artistic form of auditory communication incorporating instrumental or vocal tones in a structured and continuous manner\nn. any agreeable (pleasing and harmonious) sounds\nn. musical activity (singing or whistling etc.)\nn. (music) the sounds produced by singers or musical instruments (or reproductions of such sounds)"
+  },
+  {
+    "单词": "pop",
+    "英音": "[pɒp]",
+    "美音": "[pɑːp]",
+    "释义(中文)": "abbr. 卖点广告（Point of Purchase）",
+    "释义(英文)": "n. a sweet drink containing carbonated water and flavoring\nn. a sharp explosive sound as from a gunshot or drawing a cork\nv. hit a pop-fly\nv. make a sharp explosive noise"
+  },
+  {
+    "单词": "keep",
+    "英音": "[kiːp]",
+    "美音": "[kiːp]",
+    "释义(中文)": "vt. 保持；经营；遵守；饲养\nvi. 保持；继续不断\nn. 保持；生计；生活费\n",
+    "释义(英文)": "n. the main tower within the walls of a medieval castle or fortress\nv. keep in a certain state, position, or activity; e.g., \"keep clean\"\nv. retain possession of\nv. look after; be the keeper of; have charge of"
+  },
+  {
+    "单词": "quiet",
+    "英音": "[ˈkwaɪət]",
+    "美音": "[ˈkwaɪət]",
+    "释义(中文)": "n. 安静；和平\nadj. 安静的；安定的；不动的；温顺的\nvt. 使平息；安慰\nvi. 平静下来",
+    "释义(英文)": "a. characterized by an absence or near absence of agitation or activity\na. free of noise or uproar; or making little if any sound\ns. not showy or obtrusive\na. of the sun characterized by a low level of surface phenomena like sunspots e.g."
+  },
+  {
+    "单词": "noisy",
+    "英音": "[ˈnɔɪzi]",
+    "美音": "[ˈnɔɪzi]",
+    "释义(中文)": "adj. .嘈杂的；喧闹的；聒噪的",
+    "释义(英文)": "a. full of or characterized by loud and nonmusical sounds\ns. attracting attention by showiness or bright colors"
+  },
+  {
+    "单词": "sometimes",
+    "英音": "[ˈsʌmtaɪmz]",
+    "美音": "[ˈsʌmtaɪmz]",
+    "释义(中文)": "adv. 有时，间或",
+    "释义(英文)": "r. on certain occasions or in certain cases but not always; at other times for six months\""
+  },
+  {
+    "单词": "model",
+    "英音": "[ˈmɒd(ə)l]",
+    "美音": "[ˈmɑːdl]",
+    "释义(中文)": "n. 模型；典型；模范；模特儿；样式\nvt. 模拟；塑造；模仿\nvi. 做模型；做模特儿\nadj. 模范的；作模型用的\n",
+    "释义(英文)": "n. a hypothetical description of a complex entity or process\nn. a type of product\nn. a person who poses for a photographer or painter or sculptor\nn. representation of something (sometimes on a smaller scale)"
+  },
+  {
+    "单词": "plane",
+    "英音": "[pleɪn]",
+    "美音": "[pleɪn]",
+    "释义(中文)": "n. 飞机；平面；程度，水平\nadj. 平的；平面的\nvt. 刨平；用刨子刨；掠过水面\nvi. 刨；乘飞机旅行；翱翔\n",
+    "释义(英文)": "n. (mathematics) an unbounded two-dimensional shape\nn. a level of existence or development\nn. a power tool for smoothing or shaping wood\nn. a carpenter's hand tool with an adjustable blade for smoothing or shaping wood"
+  },
+  {
+    "单词": "wrong",
+    "英音": "[rɒŋ]",
+    "美音": "[rɔːŋ]",
+    "释义(中文)": "n. 坏事；不公正\nadj. 错误的；失常的；不适当的\nvt. 委屈；无理地对待；诽谤\nadv. 错误地；邪恶地，不正当地\n",
+    "释义(英文)": "n. that which is contrary to the principles of justice or law\nn. any harm or injury resulting from a violation of a legal right\nv. treat unjustly; do wrong to\na. contrary to conscience or morality or law"
+  },
+  {
+    "单词": "headache",
+    "英音": "[ˈhedeɪk]",
+    "美音": "[ˈhedeɪk]",
+    "释义(中文)": "n. 头痛；麻烦；令人头痛之事",
+    "释义(英文)": "n. pain in the head caused by dilation of cerebral arteries or muscle contractions or a reaction to drugs"
+  },
+  {
+    "单词": "fever",
+    "英音": "[ˈfiːvə(r)]",
+    "美音": "[ˈfiːvər]",
+    "释义(中文)": "n. 发烧，发热；狂热\nvt. 使发烧；使狂热；使患热病\nvi. 发烧；狂热；患热病",
+    "释义(英文)": "n. a rise in the temperature of the body; frequently a symptom of infection\nn. intense nervous anticipation"
+  },
+  {
+    "单词": "has",
+    "英音": "[həz]",
+    "美音": "[həz; əz; hæz]",
+    "释义(中文)": "v. 有，吃，得到，从事，允许，雇用，享有（have的第三人称单数）；（亲属关系中）接受；拿；买到",
+    "释义(英文)": "n (astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day\nv have or possess, either in a concrete or an abstract sense\nv have as a feature\nv go through (mental or physical states or experiences)\nv have ownership or possession of\nv cause to move; cause to be in a certain position or condition\nv serve oneself to, or consume regularly\nv have a personal or business relationship with someone\nv organize or be responsible for\nv have left\nv be confronted with\nv undergo\nv suffer from; be ill with\nv cause to do; cause to act in a specified manner\nv receive willingly something given or offered\nv get something; come into possession of\nv undergo (as of injuries and illnesses)\nv achieve a point or goal\nv cause to be born\nv have sex with; archaic use"
+  },
+  {
+    "单词": "mouth",
+    "英音": "[maʊθ]",
+    "美音": "[maʊθ]",
+    "释义(中文)": "n. 口，嘴；河口\nvt. 做作地说，装腔作势地说；喃喃地说出\nvi. 装腔作势说话",
+    "释义(英文)": "n. the opening through which food is taken in and vocalizations emerge\nn. the externally visible part of the oral cavity on the face and the system of organs surrounding the opening\nn. an opening that resembles a mouth (as of a cave or a gorge)\nn. the point where a stream issues into a larger body of water"
+  },
+  {
+    "单词": "flu",
+    "英音": "[fluː]",
+    "美音": "[fluː]",
+    "释义(中文)": "n. 流感\n",
+    "释义(英文)": "n an acute febrile highly contagious viral disease"
+  },
+  {
+    "单词": "pill",
+    "英音": "[pɪl]",
+    "美音": "[pɪl]",
+    "释义(中文)": "n. 药丸；弹丸，子弹；口服避孕药\nvt. 把…制成丸剂；使服用药丸；抢劫，掠夺（古语）\nvi. 做成药丸；服药丸\n",
+    "释义(英文)": "n. something that resembles a tablet of medicine in shape or size\nn. a dose of medicine in the form of a small pellet\nn. a unpleasant or tiresome person\nn. something unpleasant or offensive that must be tolerated or endured"
+  },
+  {
+    "单词": "soon",
+    "英音": "[suːn]",
+    "美音": "[suːn]",
+    "释义(中文)": "adv. 快；不久，一会儿；立刻；",
+    "释义(英文)": "r. in the near future"
+  },
+  {
+    "单词": "man",
+    "英音": "[mæn]",
+    "美音": "[mæn]",
+    "释义(中文)": "n. 人；男人；人类；丈夫；雇工\nvt. 操纵；给…配置人员；使增强勇气；在…就位\n",
+    "释义(英文)": "n. an adult person who is male (as opposed to a woman)\nn. the generic use of the word to refer to any human being\nn. a male subordinate\nn. an adult male person who has a manly character (virile and courageous competent)"
+  },
+  {
+    "单词": "men",
+    "英音": "[men]",
+    "美音": "[men]",
+    "释义(中文)": "n. 男人，人类（man的复数）\n",
+    "释义(英文)": "n the force of workers available\nn an adult person who is male (as opposed to a woman)\nn someone who serves in the armed forces; a member of a military force\nn the generic use of the word to refer to any human being\nn any living or extinct member of the family Hominidae characterized by superior intelligence, articulate speech, and erect carriage\nn a male subordinate\nn an adult male person who has a manly character (virile and courageous competent)\nn a manservant who acts as a personal attendant to his employer\nn a male person who plays a significant role (husband or lover or boyfriend) in the life of a particular woman\nn one of the British Isles in the Irish Sea\nn game equipment consisting of an object used in playing certain board games\nn all of the living human inhabitants of the earth"
+  },
+  {
+    "单词": "right",
+    "英音": "[raɪt]",
+    "美音": "[raɪt]",
+    "释义(中文)": "n. 正确；右边；正义\nadj. 正确的；直接的；右方的\nvt. 纠正\nadv. 正确地；恰当地；彻底地\nvi. 复正；恢复平稳\n",
+    "释义(英文)": "n. an abstract idea of that which is due to a person or governmental body by law or tradition or nature; it is something that nobody can take away\"\nn. location near or direction toward the right side; i.e. the side to the south when a person or object faces east\nn. those who support political or social or economic conservatism; those who believe that things are better left unchanged\nn. the hand that is on the right side of the body"
+  },
+  {
+    "单词": "hurt",
+    "英音": "[hɜːt]",
+    "美音": "[hɜːrt]",
+    "释义(中文)": "n. 痛苦；危害；痛苦的原因\nvt. 使受伤；损害；使疼痛；使痛心\nadj. 受伤的；痛苦的；受损的\nvi. 感到疼痛；有坏处；带来痛苦\n",
+    "释义(英文)": "v. give trouble or pain to\nv. cause damage or affect negatively\nv. hurt the feelings of\nv. feel physical pain"
+  },
+  {
+    "单词": "near",
+    "英音": "[nɪə(r)]",
+    "美音": "[nɪr]",
+    "释义(中文)": "adj. 近的；亲近的；近似的\nadv. 近；接近\nprep. 靠近；近似于",
+    "释义(英文)": "a. not far distant in time or space or degree or circumstances\ns. being on the left side\ns. closely resembling the genuine article\nr. near in time or place or relationship"
+  },
+  {
+    "单词": "excuse",
+    "英音": "[ɪkˈskjuːs]",
+    "美音": "[ɪkˈskjuːs]",
+    "释义(中文)": "n. 借口；理由\nvt. 原谅；为…申辩；给…免去\nvi. 作为借口；请求宽恕；表示宽恕",
+    "释义(英文)": "n. a defense of some offensive behavior or some failure to keep a promise etc.\nn. a note explaining an absence\nv. accept an excuse for\nv. grant exemption or release to"
+  },
+  {
+    "单词": "library",
+    "英音": "[ˈlaɪbrəri; ˈlaɪbri]",
+    "美音": "[ˈlaɪbreri]",
+    "释义(中文)": "n. 图书馆，藏书室；文库",
+    "释义(英文)": "n. a room where books are kept\nn. a collection of literary documents or records kept for reference or borrowing\nn. a depository built to contain books and other materials for reading and study\nn. (computing) a collection of standard programs and subroutines that are stored and available for immediate use"
+  },
+  {
+    "单词": "floor",
+    "英音": "[flɔː(r)]",
+    "美音": "[flɔːr]",
+    "释义(中文)": "n. 地板，地面；楼层；基底；议员席\nvt. 铺地板；打倒，击倒；（被困难）难倒",
+    "释义(英文)": "n. the inside lower horizontal surface (as of a room, hallway, tent, or other structure)\nn. a structure consisting of a room or set of rooms at a single position along a vertical scale\nn. a lower limit\nn. the ground on which people and animals move about"
+  },
+  {
+    "单词": "building",
+    "英音": "[ˈbɪldɪŋ]",
+    "美音": "[ˈbɪldɪŋ]",
+    "释义(中文)": "n. 建筑；建筑物\nv. 建筑；建立；增加（build的ing形式）",
+    "释义(英文)": "n. a structure that has a roof and walls and stands more or less permanently in one place\nn. the occupants of a building"
+  },
+  {
+    "单词": "nearby",
+    "英音": "[ˌnɪəˈbaɪ]",
+    "美音": "[ˌnɪrˈbaɪ]",
+    "释义(中文)": "adj. 附近的，邻近的\nadv. 在附近\nprep. 在…附近",
+    "释义(英文)": "s. close at hand\nr. not far away in relative terms"
+  },
+  {
+    "单词": "grey",
+    "英音": "[ɡreɪ]",
+    "美音": "[ɡreɪ]",
+    "释义(中文)": "n. 灰色\nadj. 灰色的；灰白的\nvt. 使变成灰色；使变老\nvi. 变成灰色；老化\n",
+    "释义(英文)": "n. United States writer of western adventure novels (1875-1939)\nn. Queen of England for nine days in 1553; she was quickly replaced by Mary Tudor and beheaded for treason (1537-1554)\nn. Englishman who as Prime Minister implemented social reforms including the abolition of slavery throughout the British Empire (1764-1845)\nn. any organization or party whose uniforms or badges are grey"
+  },
+  {
+    "单词": "beside",
+    "英音": "[bɪˈsaɪd]",
+    "美音": "[bɪˈsaɪd]",
+    "释义(中文)": "prep. 在旁边；与…相比；和…无关",
+    "释义(英文)": "n. At the side of; on one side of.\nn. Aside from; out of the regular course or order of; in a\n   state of deviation from; out of.\nn. Over and above; distinct from; in addition to.\nadv. On one side.\nadv. More than that; over and above; not included in the\n   number, or in what has been mentioned; moreover; in addition."
+  },
+  {
+    "单词": "station",
+    "英音": "[ˈsteɪʃ(ə)n]",
+    "美音": "[ˈsteɪʃn]",
+    "释义(中文)": "n. 车站；驻地；地位；身份\nvt. 配置；安置；驻扎",
+    "释义(英文)": "n. a facility equipped with special equipment and personnel for a particular purpose\nn. (nautical) the location to which a ship or fleet is assigned for duty\nn. the frequency assigned to a broadcasting station\nv. assign to a station"
+  },
+  {
+    "单词": "far",
+    "英音": "[fɑː(r)]",
+    "美音": "[fɑːr]",
+    "释义(中文)": "n. 远方\nadj. 远的；久远的\nadv. 很；遥远地；久远地；到很远的距离；到很深的程度\n",
+    "释义(英文)": "a. located at a great distance in time or space or degree\ns. being of a considerable distance or length\ns. being the animal or vehicle on the right or being on the right side of an animal or vehicle\ns. beyond a norm in opinion or actions"
+  },
+  {
+    "单词": "way",
+    "英音": "[weɪ]",
+    "美音": "[weɪ]",
+    "释义(中文)": "n. 方法；道路；方向；行业；习惯\nadj. 途中的\nadv. 大大地；远远地\n",
+    "释义(英文)": "n. the condition of things generally\nn. a course of conduct\nn. any artifact consisting of a road or path affording passage from one place to another\nn. a journey or passage"
+  },
+  {
+    "单词": "then",
+    "英音": "[ðen]",
+    "美音": "[ðen]",
+    "释义(中文)": "conj. 然后，当时\nn. 那时\nadv. 然后；那么；于是；当时；此外\n",
+    "释义(英文)": "n. that time; that moment\ns. at a specific prior time\nr. subsequently or soon afterward (often used as sentence connectors)\nr. in that case or as a consequence"
+  },
+  {
+    "单词": "left",
+    "英音": "[left]",
+    "美音": "[left]",
+    "释义(中文)": "adj. 左边的；左派的；剩下的\nadv. 在左面\nn. 左边；左派；激进分子\nv. 离开（leave的过去式）",
+    "释义(英文)": "n. location near or direction toward the left side; i.e. the side to the north when a person or object faces east\nn. those who support varying degrees of social or political or economic change designed to promote the public welfare\nn. the hand that is on the left side of the body\nn. a turn toward the side of the body that is on the north when the person is facing east"
+  },
+  {
+    "单词": "miss",
+    "英音": "[mɪs]",
+    "美音": "[mɪs]",
+    "释义(中文)": "n. 女士，小姐，年轻未婚女子\nvt. 错过，想念，缺（勤）",
+    "释义(英文)": "n. a failure to hit (or meet or find etc)\nn. a form of address for an unmarried woman\nv. fail to perceive or to catch with the senses or the mind\nv. feel or suffer from the lack of"
+  },
+  {
+    "单词": "China",
+    "英音": "[ˈtʃaɪnə]",
+    "美音": "[ˈtʃaɪnə]",
+    "释义(中文)": "n. 中国\nn. china，瓷器\nadj. 中国的；中国制造的\nadj. china，瓷制的",
+    "释义(英文)": "n. a communist nation that covers a vast territory in eastern Asia; the most populous country in the world\nn. high quality porcelain originally made only in China"
+  },
+  {
+    "单词": "labour",
+    "英音": "[ˈleɪbə(r)]",
+    "美音": "[ˈleɪbər]",
+    "释义(中文)": "n. （英国）工党",
+    "释义(英文)": "n a social class comprising those who do manual labor or work for wages\nn concluding state of pregnancy; from the onset of contractions to the birth of a child\nn a political party formed in Great Britain in 1900; characterized by the promotion of labor's interests and formerly the socialization of key industries\nn productive work (especially physical work done for wages)\nv work hard\nv strive and make an effort to reach a goal\nv undergo the efforts of childbirth"
+  },
+  {
+    "单词": "wall",
+    "英音": "[wɔːl]",
+    "美音": "[wɔːl]",
+    "释义(中文)": "n. 墙壁，围墙；似墙之物\nadj. 墙壁的\nvt. 用墙围住，围以墙\n",
+    "释义(英文)": "n. an architectural partition with a height and length greater than its thickness; used to divide or enclose an area or to support another structure\nn. anything that suggests a wall in structure or function or effect\nn. (anatomy) a layer (a lining or membrane) that encloses a structure\nn. a difficult or awkward situation"
+  },
+  {
+    "单词": "cinema",
+    "英音": "[ˈsɪnəmə]",
+    "美音": "[ˈsɪnəmə]",
+    "释义(中文)": "n. 电影；电影院；电影业，电影制作术\n",
+    "释义(英文)": "n. a theater where films are shown"
+  },
+  {
+    "单词": "museum",
+    "英音": "[mjuˈziːəm]",
+    "美音": "[mjuˈziːəm]",
+    "释义(中文)": "n. 博物馆",
+    "释义(英文)": "n. a depository for collecting and displaying objects having scientific or historical or artistic value"
+  },
+  {
+    "单词": "country",
+    "英音": "[ˈkʌntri]",
+    "美音": "[ˈkʌntri]",
+    "释义(中文)": "n. 国家，国土；国民；乡下，农村；乡村；故乡\nadj. 祖国的，故乡的；地方的，乡村的；国家的；粗鲁的；乡村音乐的",
+    "释义(英文)": "n. the territory occupied by a nation\nn. an area outside of cities and towns"
+  },
+  {
+    "单词": "about",
+    "英音": "[əˈbaʊt]",
+    "美音": "[əˈbaʊt]",
+    "释义(中文)": "prep. 关于；大约\nn. 大致；粗枝大叶；不拘小节的人\nadj. 在附近的；四处走动的；在起作用的\nadv. 大约；周围；到处\n",
+    "释义(英文)": "s. on the move\nr. all around or on all sides\nr. in the area or vicinity\nr. used of movement to or among many different places or in no particular direction"
+  },
+  {
+    "单词": "boat",
+    "英音": "[bəʊt]",
+    "美音": "[boʊt]",
+    "释义(中文)": "n. 小船；轮船\nvi. 划船",
+    "释义(英文)": "n. a small vessel for travel on water\nv. ride in a boat on water"
+  },
+  {
+    "单词": "sound",
+    "英音": "[saʊnd]",
+    "美音": "[saʊnd]",
+    "释义(中文)": "n. 声音，语音；噪音；海峡；吵闹；听力范围；[医] 探条\nadj. 健全的，健康的；合理的；可靠的；有效彻底的\nvt. 听（诊）；测量，测…深；使发声；试探；宣告\nvi. 听起来；发出声音；回响；测深\nadv. 彻底地，充分地",
+    "释义(英文)": "n. the particular auditory effect produced by a given cause\nn. the subjective sensation of hearing something\nn. mechanical vibrations transmitted by an elastic medium\nn. the sudden occurrence of an audible event"
+  },
+  {
+    "单词": "safe",
+    "英音": "[seɪf]",
+    "美音": "[seɪf]",
+    "释义(中文)": "n. 保险箱；冷藏室；纱橱\nadj. 安全的；可靠的；平安的\n",
+    "释义(英文)": "n. strongbox where valuables can be safely kept\nn. a ventilated or refrigerated cupboard for securing provisions from pests\na. free from danger or the risk of harm\ns. (of an undertaking) secure from risk"
+  },
+  {
+    "单词": "dangerous",
+    "英音": "[ˈdeɪndʒərəs]",
+    "美音": "[ˈdeɪndʒərəs]",
+    "释义(中文)": "adj. 危险的\n危险地",
+    "释义(英文)": "a. involving or causing danger or risk; liable to hurt or harm\ns. causing fear or anxiety by threatening great harm"
+  },
+  {
+    "单词": "front",
+    "英音": "[frʌnt]",
+    "美音": "[frʌnt]",
+    "释义(中文)": "n. 前面；正面；前线\nadj. 前面的；正面的\nvt. 面对；朝向；对付\nvi. 朝向\nadv. 在前面；向前\n",
+    "释义(英文)": "n. the side that is forward or prominent\nn. the outward appearance of a person\nn. the side that is seen or that goes first\nn. a sphere of activity involving effort"
+  },
+  {
+    "单词": "thick",
+    "英音": "[θɪk]",
+    "美音": "[θɪk]",
+    "释义(中文)": "n. 最拥挤部分；活动最多部分；事物的粗大浓密部分\nadj. 厚的；浓的；粗大的\nadv. 密集地；浓浓地，厚厚地\n",
+    "释义(英文)": "a. not thin; of a specific thickness or of relatively great extent from one surface to the opposite usually in the smallest of the three solid dimensions\ns. having component parts closely crowded together\na. relatively dense in consistency\ns. (of darkness) very intense"
+  },
+  {
+    "单词": "enough",
+    "英音": "[ɪˈnʌf]",
+    "美音": "[ɪˈnʌf]",
+    "释义(中文)": "n. 很多；充足\nadj. 充足的\nadv. 足够地，充足地\nint. 够了！",
+    "释义(英文)": "n. an adequate quantity; a quantity that is large enough to achieve a purpose\nr. as much as necessary; (`plenty' is nonstandard) \"I've had plenty, thanks\""
+  },
+  {
+    "单词": "safety",
+    "英音": "[ˈseɪfti]",
+    "美音": "[ˈseɪfti]",
+    "释义(中文)": "n. 安全；保险；安全设备；保险装置；安打",
+    "释义(英文)": "n. the state of being certain that adverse effects will not be caused by some agent under defined conditions\nn. a safe place\nn. a score in American football; a player is tackled behind his own goal line"
+  },
+  {
+    "单词": "crowd",
+    "英音": "[kraʊd]",
+    "美音": "[kraʊd]",
+    "释义(中文)": "n. 群众,一伙;一堆,许多,大众\nv. 拥挤,挤满,挤进\nvt. 挤满,将...塞进;催促,催逼\nvi. 挤,拥挤,聚集",
+    "释义(英文)": "n. a large number of things or people considered together\nn. an informal body of friends\nv. fill or occupy to the point of overflowing\nv. to gather together in large numbers"
+  },
+  {
+    "单词": "push",
+    "英音": "[pʊʃ]",
+    "美音": "[pʊʃ]",
+    "释义(中文)": "n. 推，决心；大规模攻势；矢志的追求\nvi. 推进；增加；努力争取\nvt. 推动，增加；对…施加压力，逼迫；按；说服",
+    "释义(英文)": "n. the act of applying force in order to move something away\nn. the force used in pushing\nn. an effort to advance\nv. move with force, \"He pushed the table into a corner\""
+  },
+  {
+    "单词": "slowly",
+    "英音": "[ˈsləʊli]",
+    "美音": "[ˈsloʊli]",
+    "释义(中文)": "adv. 缓慢地，慢慢地",
+    "释义(英文)": "r. without speed (`slow' is sometimes used informally for `slowly')"
+  },
+  {
+    "单词": "break",
+    "英音": "[breɪk]",
+    "美音": "[breɪk]",
+    "释义(中文)": "vi. 打破；折断；弄坏；削弱\nvt. （使）破；打破（纪录）；（常指好天气）突变；开始\nvi. （嗓音）突变；突破；破晓；（价格）突然下跌\nn. 破裂；间断；（持续一段时间的状况的）改变；间歇",
+    "释义(英文)": "n. an unexpected piece of good luck\nn. the occurrence of breaking\nn. an abrupt change in the tone or register of the voice (as at puberty or due to emotion)\nn. the opening shot that scatters the balls in billiards or pool"
+  },
+  {
+    "单词": "broke",
+    "英音": "[brəʊk]",
+    "美音": "[broʊk]",
+    "释义(中文)": "v. 打破，断掉（break的过去式）\nadj. 一文不名的，破产的\n",
+    "释义(英文)": "s. lacking funds"
+  },
+  {
+    "单词": "drop",
+    "英音": "[drɒp]",
+    "美音": "[drɑːp]",
+    "释义(中文)": "n. 滴；落下；空投；微量；滴剂\nvt. 滴；使降低；使终止；随口漏出\nvi. 下降；终止",
+    "释义(英文)": "n. a shape that is spherical and small\nn. a small indefinite quantity (especially of a liquid)\nn. a sudden sharp decrease in some quantity\nn. a predetermined hiding place for the deposit and distribution of illicit goods (such as drugs or stolen property)"
+  },
+  {
+    "单词": "dropped",
+    "英音": "[drɒpt]",
+    "美音": "[drɑːpt]",
+    "释义(中文)": "v. 下降，减少；掉下，滴下（drop的过去式和过去分词形式）\nadj. 抛踢球得分的",
+    "释义(英文)": "v let fall to the ground\nv to fall vertically\nv go down in value\nv fall or descend to a lower place or level\nv terminate an association with\nv utter with seeming casualness; drop names\"\nv stop pursuing or acting\nv leave or unload\nv cause to fall by or as if by delivering a blow\nv lose (a game)\nv pay out\nv lower the pitch of (musical notes)\nv hang freely\nv stop associating with\nv let or cause to fall in drops\nv get rid of\nv take (a drug, especially LSD), by mouth\nv omit (a letter or syllable) in speaking or writing\nv leave undone or leave out\nv change from one level to another\nv fall or sink into a state of exhaustion or death\nv grow worse\nv give birth; used for animals"
+  },
+  {
+    "单词": "fix",
+    "英音": "[fɪks]",
+    "美音": "[fɪks]",
+    "释义(中文)": "n. 困境；方位；贿赂\nvt. 使固定；修理；安装；准备\nvi. 固定；注视\n",
+    "释义(英文)": "n. informal terms for a difficult situation\nn. something craved, especially an intravenous injection of a narcotic drug\nn. an exemption granted after influence (e.g., money) is brought to bear\nv. set or place definitely"
+  },
+  {
+    "单词": "never",
+    "英音": "[ˈnevə(r)]",
+    "美音": "[ˈnevər]",
+    "释义(中文)": "adv. 从未；决不",
+    "释义(英文)": "r. not ever; at no time in the past or future\nr. not at all; certainly not; not in any circumstances"
+  },
+  {
+    "单词": "lose",
+    "英音": "[luːz]",
+    "美音": "[luːz]",
+    "释义(中文)": "vt. 浪费；使沉溺于；使迷路；遗失；错过\nvi. 失败；受损失\n",
+    "释义(英文)": "v. fail to keep or to maintain; cease to have, either physically or in an abstract sense\nv. fail to win\nv. suffer the loss of a person through death or removal\nv. miss from one's possessions; lose sight of"
+  },
+  {
+    "单词": "lost",
+    "英音": "[lɒst]",
+    "美音": "[lɔːst]",
+    "释义(中文)": "adj. 失去的；丧失的；迷惑的\nv. 遗失（lose的过去分词）；失败",
+    "释义(英文)": "a. no longer in your possession or control; unable to be found or recovered\na. spiritually or physically doomed or destroyed\na. not gained or won\ns. incapable of being recovered or regained"
+  },
+  {
+    "单词": "key",
+    "英音": "[kiː]",
+    "美音": "[kiː]",
+    "释义(中文)": "n. （打字机等的）键；关键；钥匙\nvt. 键入；锁上；调节…的音调；提供线索\nvi. 使用钥匙\nadj. 关键的\n",
+    "释义(英文)": "n. metal device shaped in such a way that when it is inserted into the appropriate lock the lock's mechanism can be rotated\nn. something crucial for explaining\nn. pitch of the voice\nn. any of 24 major or minor diatonic scales that provide the tonal framework for a piece of music"
+  },
+  {
+    "单词": "playground",
+    "英音": "[ˈpleɪɡraʊnd]",
+    "美音": "[ˈpleɪɡraʊnd]",
+    "释义(中文)": "n. 运动场，操场；游乐场",
+    "释义(英文)": "n. yard consisting of an outdoor area for children's play"
+  },
+  {
+    "单词": "next",
+    "英音": "[nekst]",
+    "美音": "[nekst]",
+    "释义(中文)": "adv. 然后；下次；其次\nadj. 下一个的；其次的；贴近的\nn. 下一个\nprep. 靠近；居于…之后",
+    "释义(英文)": "r. at the time or occasion immediately following"
+  },
+  {
+    "单词": "happen",
+    "英音": "[ˈhæpən]",
+    "美音": "[ˈhæpən]",
+    "释义(中文)": "vi. 发生；碰巧；偶然遇到",
+    "释义(英文)": "v. come to pass\nv. happen, occur, or be the case in the course of events or by chance\nv. chance to be or do something, without intention or causation\nv. come into being; become reality"
+  },
+  {
+    "单词": "happened",
+    "英音": "['hæpənd]",
+    "美音": "[ˈhæpənd]",
+    "释义(中文)": "v. 发生（happen的过去式，过去分词）",
+    "释义(英文)": "v come to pass\nv happen, occur, or be the case in the course of events or by chance\nv chance to be or do something, without intention or causation\nv come into being; become reality\nv come upon, as if by accident; meet with"
+  },
+  {
+    "单词": "vase",
+    "英音": "[vɑːz]",
+    "美音": "[veɪs; veɪz]",
+    "释义(中文)": "n. 瓶；花瓶\n",
+    "释义(英文)": "n. an open jar of glass or porcelain used as an ornament or to hold flowers"
+  }
+]

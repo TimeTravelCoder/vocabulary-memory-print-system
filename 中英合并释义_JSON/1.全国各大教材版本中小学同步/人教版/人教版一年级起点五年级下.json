@@ -1,0 +1,709 @@
+[
+  {
+    "单词": "too much",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 太过份\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "candy",
+    "英音": "[ˈkændi]",
+    "美音": "[ˈkændi]",
+    "释义(中文)": "n. 糖果（等于sweets）；冰糖（等于sugar candy，rock candy）；毒品\nadj. 新潮的（服饰）；甜言蜜语的\nvt. 用糖煮；使结晶为砂糖；美化\nvi. 糖煮；成为结晶",
+    "释义(英文)": "n. a rich sweet made of flavored sugar and often combined with fruit or nuts"
+  },
+  {
+    "单词": "go to bed",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 睡；同床；【印】付印\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "early",
+    "英音": "[ˈɜːli]",
+    "美音": "[ˈɜːrli]",
+    "释义(中文)": "adj. 早期的；早熟的\nadv. 提早；在初期\n",
+    "释义(英文)": "a. at or near the beginning of a period of time or course of events or before the usual or expected time\na. being or occurring at an early stage of development\ns. belonging to the distant past\ns. very young"
+  },
+  {
+    "单词": "exercise",
+    "英音": "[ˈeksəsaɪz]",
+    "美音": "[ˈeksərsaɪz]",
+    "释义(中文)": "n. 运动；练习；运用；操练；礼拜；典礼\nvt. 锻炼；练习；使用；使忙碌；使惊恐\nvi. 运动；练习",
+    "释义(英文)": "n. the activity of exerting your muscles in various ways to keep fit\nn. systematic training by multiple repetitions\nn. a task performed or problem solved in order to develop skill or understanding\nn. (usually plural) a ceremony that involves processions and speeches"
+  },
+  {
+    "单词": "tired",
+    "英音": "[ˈtaɪəd]",
+    "美音": "[ˈtaɪərd]",
+    "释义(中文)": "v. 疲倦；对…腻烦（tire的过去分词形式）\nadj. 疲倦的；厌倦的，厌烦的",
+    "释义(英文)": "a. depleted of strength or energy"
+  },
+  {
+    "单词": "drink",
+    "英音": "[drɪŋk]",
+    "美音": "[drɪŋk]",
+    "释义(中文)": "n. 酒，饮料；喝酒\nvt. 喝，饮；吸收；举杯庆贺\nvi. 喝酒；饮水；干杯",
+    "释义(英文)": "n. a single serving of a beverage\nn. the act of drinking alcoholic beverages to excess\nn. any large deep body of water\nv. take in liquids"
+  },
+  {
+    "单词": "before",
+    "英音": "[bɪˈfɔː(r)]",
+    "美音": "[bɪˈfɔːr]",
+    "释义(中文)": "prep. 在…之前，先于\nconj. 在…以前；在…之前\nadv. 以前；在前",
+    "释义(英文)": "r earlier in time; previously\nr at or in the front"
+  },
+  {
+    "单词": "dirty",
+    "英音": "[ˈdɜːti]",
+    "美音": "[ˈdɜːrti]",
+    "释义(中文)": "adj. 下流的，卑鄙的；肮脏的；恶劣的；暗淡的\nvt. 弄脏\nvi. 变脏",
+    "释义(英文)": "v. make soiled, filthy, or dirty\na. soiled or likely to soil with dirt or grime\na. (of behavior or especially language) characterized by obscenity or indecency\ns. vile; despicable"
+  },
+  {
+    "单词": "always",
+    "英音": "[ˈɔːlweɪz]",
+    "美音": "[ˈɔːlweɪz]",
+    "释义(中文)": "adv. 永远，一直；总是；常常",
+    "释义(英文)": "r. at all times; all the time and on every occasion\nr. at any time or in any event\nr. forever; throughout all time"
+  },
+  {
+    "单词": "stomachache",
+    "英音": "[ˈstʌməkeɪk]",
+    "美音": "[ˈstʌməkˌeɪk]",
+    "释义(中文)": "n. 腹痛，肚子痛；胃痛",
+    "释义(英文)": "n. an ache localized in the stomach or abdominal region"
+  },
+  {
+    "单词": "headache",
+    "英音": "[ˈhedeɪk]",
+    "美音": "[ˈhedeɪk]",
+    "释义(中文)": "n. 头痛；麻烦；令人头痛之事",
+    "释义(英文)": "n. pain in the head caused by dilation of cerebral arteries or muscle contractions or a reaction to drugs"
+  },
+  {
+    "单词": "toothache",
+    "英音": "[ˈtuːθeɪk]",
+    "美音": "[ˈtuːθeɪk]",
+    "释义(中文)": "n. [口腔] 牙痛",
+    "释义(英文)": "n. an ache localized in or around a tooth"
+  },
+  {
+    "单词": "a lot of",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "det. 许多\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "sleepy",
+    "英音": "[ˈsliːpi]",
+    "美音": "[ˈsliːpi]",
+    "释义(中文)": "adj. 欲睡的；困乏的；不活跃的",
+    "释义(英文)": "s. ready to fall asleep"
+  },
+  {
+    "单词": "subject",
+    "英音": "[ˈsʌbdʒɪkt; ˈsʌbdʒekt]",
+    "美音": "[ˈsʌbdʒɪkt; ˈsʌbdʒekt]",
+    "释义(中文)": "n. 主题；科目；[语] 主语；国民\nadj. 服从的；易患…的；受制于…的\nvt. 使…隶属；使屈从于…",
+    "释义(英文)": "n. the subject matter of a conversation or discussion\nn. something (a person or object or scene) selected by an artist or photographer for graphic representation\nn. (grammar) one of the two main constituents of a sentence; the grammatical constituent about which something is predicated\nn. a person who is subjected to experimental or other observational procedures; someone who is an object of investigation"
+  },
+  {
+    "单词": "mark",
+    "英音": "[mɑːk]",
+    "美音": "[mɑːrk]",
+    "释义(中文)": "n. 标志；马克；符号；痕迹；分数\nvi. 作记号\nvt. .标志；做标记于；打分数\nn. . 标志；做标记于；打分数",
+    "释义(英文)": "n. a number or letter indicating quality (especially of a student's performance)\nn. a visible indication made on a surface\nn. the impression created by doing something unusual or extraordinary that people notice and remember\nn. a symbol of disgrace or infamy"
+  },
+  {
+    "单词": "advice",
+    "英音": "[ədˈvaɪs]",
+    "美音": "[ədˈvaɪs]",
+    "释义(中文)": "n. 建议；忠告；劝告；通知",
+    "释义(英文)": "n. a proposal for an appropriate course of action"
+  },
+  {
+    "单词": "more",
+    "英音": "[mɔː(r)]",
+    "美音": "[mɔːr]",
+    "释义(中文)": "adv. 更多；此外；更大程度地\nadj. 更多的；附加的\npron. 更多的数量\nn. 更多\n",
+    "释义(英文)": "n. English statesman who opposed Henry VIII's divorce from Catherine of Aragon and was imprisoned and beheaded; recalled for his concept of Utopia, the ideal state\na. (comparative of `much' used with mass nouns) a quantifier meaning greater in size or amount or extent or degree\na. (comparative of `many' used with count nouns) quantifier meaning greater in number\nr. used to form the comparative of some adjectives and adverbs"
+  },
+  {
+    "单词": "New Year's Day",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 元旦\n",
+    "释义(英文)": " the first day of a calendar year; the first day of\n   January. Often colloquially abbreviated to New year's or new year."
+  },
+  {
+    "单词": "Tree Planting Day",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "Mother's Day",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. (美国和加拿大的)母亲节\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "Children's Day",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 儿童节\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "Father's Day",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 〈美〉父亲节(每年六月的第三个星期日)\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "Teachers' Day",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 教师节\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "National Day",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 国庆日\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "Christmas Day",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 【宗,基督】圣诞节；圣诞节时期\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "birthday",
+    "英音": "[ˈbɜːθdeɪ]",
+    "美音": "[ˈbɜːrθdeɪ]",
+    "释义(中文)": "n. 生日，诞辰；诞生的日子",
+    "释义(英文)": "n. an anniversary of the day on which a person was born (or the celebration of it)\nn. the date on which a person was born"
+  },
+  {
+    "单词": "fifth",
+    "英音": "[fɪfθ]",
+    "美音": "[fɪfθ]",
+    "释义(中文)": "num. 第五\nn. 第五；五分之一\nadj. 第五的；五分之一的",
+    "释义(英文)": "n. a quantity of liquor equal to one fifth of a United States gallon\nn. position five in a countable series of things\nn. the musical interval between one note and another five notes away from it\ns. coming next after the fourth and just before the sixth in position"
+  },
+  {
+    "单词": "5th",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 第五（fifth）",
+    "释义(英文)": "s coming next after the fourth and just before the sixth in position"
+  },
+  {
+    "单词": "tenth",
+    "英音": "[tenθ]",
+    "美音": "[tenθ]",
+    "释义(中文)": "num. 第十；十分之一\nadj. 十分之一的；第十个的",
+    "释义(英文)": "n. position ten in a countable series of things\ns. coming next after the ninth and just before the eleventh in position"
+  },
+  {
+    "单词": "10th",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "twelfth",
+    "英音": "[twelfθ]",
+    "美音": "[twelfθ]",
+    "释义(中文)": "n. 第十二；月的第十二日\nadj. 第十二的，第十二个",
+    "释义(英文)": "n. position 12 in a countable series of things\ns. coming next after the eleventh and just before the thirteenth in position"
+  },
+  {
+    "单词": "12th",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "twenty-fifth",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "第二十五",
+    "释义(英文)": "s coming next after the twenty-fourth in position"
+  },
+  {
+    "单词": "25th",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "plant",
+    "英音": "[plɑːnt]",
+    "美音": "[plænt]",
+    "释义(中文)": "n. 工厂，车间；植物；设备；庄稼\nvt. 种植；培养；栽培；安置\nvi. 种植\n",
+    "释义(英文)": "n. buildings for carrying on industrial labor\nn. (botany) a living organism lacking the power of locomotion\nn. an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience\nn. something planted secretly for discovery by another"
+  },
+  {
+    "单词": "make a poster",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 制作海报；做海报；作一个海报",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "celebrate",
+    "英音": "[ˈselɪbreɪt]",
+    "美音": "[ˈselɪbreɪt]",
+    "释义(中文)": "vt. 庆祝；举行；赞美；祝贺；宣告\nvi. 庆祝；过节；举行宗教仪式",
+    "释义(英文)": "v. have a celebration"
+  },
+  {
+    "单词": "have a picnic",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 举行野餐；去野餐；吃野餐",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "office",
+    "英音": "[ˈɒfɪs]",
+    "美音": "[ˈɑːfɪs]",
+    "释义(中文)": "n. 办公室；政府机关；官职；营业处",
+    "释义(英文)": "n. place of business where professional or clerical duties are performed\nn. (of a government or government official) holding an office means being in power\nn. professional or clerical workers in an office\nn. a religious rite or service prescribed by ecclesiastical authorities"
+  },
+  {
+    "单词": "together",
+    "英音": "[təˈɡeðə(r)]",
+    "美音": "[təˈɡeðər]",
+    "释义(中文)": "adj. 新潮的；情绪稳定的，做事有效率的\nadv. 一起；同时；相互；连续地；总共",
+    "释义(英文)": "s. mentally and emotionally stable\nr. in contact with each other or in proximity\nr. assembled in one place\nr. in each other's company"
+  },
+  {
+    "单词": "special",
+    "英音": "[ˈspeʃ(ə)l]",
+    "美音": "[ˈspeʃl]",
+    "释义(中文)": "n. 特使，特派人员；特刊；特色菜；专车；特价商品\nadj. 特别的；专门的，专用的",
+    "释义(英文)": "n. a special offering (usually temporary and at a reduced price) that is featured in advertising\nn. a dish or meal given prominence in e.g. a restaurant\nn. a television production that features a particular person or work or topic\ns. for a special service or occasion"
+  },
+  {
+    "单词": "send an email",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "write a letter",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 写信\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "make a phone call",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 打电话；打个电话；打电话号码",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "send a short message",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "mail a present",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "make a video call",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "say",
+    "英音": "[seɪ]",
+    "美音": "[seɪ]",
+    "释义(中文)": "vt. 讲；说明；例如；声称；假设；指明\nvi. 讲；表示；念；假定；背诵\n\n",
+    "释义(英文)": "n. the chance to speak\nv. communicate or express nonverbally\nv. utter aloud\nv. state as one's opinion or judgement; declare"
+  },
+  {
+    "单词": "make a card",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. (牌戏)打成一墩\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "everywhere",
+    "英音": "[ˈevriweə(r)]",
+    "美音": "[ˈevriwer]",
+    "释义(中文)": "n. 每个地方\nadv. 到处",
+    "释义(英文)": "r. to or in any or all places; (`everyplace' is used informally for `everywhere')"
+  },
+  {
+    "单词": "flower show",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 花卉展览\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "cleaned the window",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "watched TV",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "climbed a hill",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "visited grandparents",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "danced",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "v. 跳舞( dance的过去式和过去分词 ); 手舞足蹈; 摇晃; 跳跃",
+    "释义(英文)": "imp. & p. p. of Dance"
+  },
+  {
+    "单词": "jumped rope",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "跳绳游戏；跨越横线",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "listened to music",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "rowed a boat",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "played computer games",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "stayed at home",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "played the piano",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "played chess",
+    "英音": "[pleɪ tʃes]",
+    "美音": "[pleɪ tʃes]",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "washed clothes",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "boring",
+    "英音": "[ˈbɔːrɪŋ]",
+    "美音": "[ˈbɔːrɪŋ]",
+    "释义(中文)": "n. 钻孔\nadj. 无聊的；令人厌烦的\nv. 钻孔；使厌烦；挖空（bore的ing形式）\n",
+    "释义(英文)": "n. the act of drilling a hole in the earth in the hope of producing petroleum\ns. so lacking in interest as to cause mental weariness"
+  },
+  {
+    "单词": "badminton",
+    "英音": "[ˈbædmɪntən]",
+    "美音": "[ˈbædmɪntən]",
+    "释义(中文)": "n. 羽毛球",
+    "释义(英文)": "n. a game played on a court with light long-handled rackets used to volley a shuttlecock over a net"
+  },
+  {
+    "单词": "won",
+    "英音": "[wʌn]",
+    "美音": "[wʌn]",
+    "释义(中文)": "vt. 赢得（win的过去式和过去分词）",
+    "释义(英文)": "a. not subject to defeat"
+  },
+  {
+    "单词": "went to the beach",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "drank cold drinks",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "swam",
+    "英音": "[swæm]",
+    "美音": "[swæm]",
+    "释义(中文)": "v. 游泳（swim的过去式）",
+    "释义(英文)": "v travel through water\nv be afloat either on or below a liquid surface and not sink to the bottom\nv be dizzy or giddy\nv be covered with or submerged in a liquid\nv move as if gliding through water"
+  },
+  {
+    "单词": "ate ice-cream",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "the Stone Forest",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "bought some gifts",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "took photos",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "saw flowers",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "slept",
+    "英音": "[slept]",
+    "美音": "[slept]",
+    "释义(中文)": "v. 睡觉（sleep的过去式和过去分词）",
+    "释义(英文)": "v be asleep\nv be able to accommodate for sleeping"
+  },
+  {
+    "单词": "delicious",
+    "英音": "[dɪˈlɪʃəs]",
+    "美音": "[dɪˈlɪʃəs]",
+    "释义(中文)": "adj. 美味的；可口的",
+    "释义(英文)": "n. variety of sweet eating apples"
+  },
+  {
+    "单词": "felt happy",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "sad",
+    "英音": "[sæd]",
+    "美音": "[sæd]",
+    "释义(中文)": "adj. 难过的；悲哀的，令人悲痛的；凄惨的，阴郁的（形容颜色）",
+    "释义(英文)": "a. experiencing or showing sorrow or unhappiness\ns. of things that make you feel sad"
+  },
+  {
+    "单词": "left",
+    "英音": "[left]",
+    "美音": "[left]",
+    "释义(中文)": "adj. 左边的；左派的；剩下的\nadv. 在左面\nn. 左边；左派；激进分子\nv. 离开（leave的过去式）",
+    "释义(英文)": "n. location near or direction toward the left side; i.e. the side to the north when a person or object faces east\nn. those who support varying degrees of social or political or economic change designed to promote the public welfare\nn. the hand that is on the left side of the body\nn. a turn toward the side of the body that is on the north when the person is facing east"
+  },
+  {
+    "单词": "French fries",
+    "英音": "[ˈfrentʃ fraɪz]",
+    "美音": "[frentʃ fraɪz]",
+    "释义(中文)": "n. 【食】炸薯条\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "were",
+    "英音": "[wə(r); wɜː(r)]",
+    "美音": "[wər; wɜːr]",
+    "释义(中文)": "v. 是，在（are的过去式）\n",
+    "释义(英文)": "v have the quality of being; (copula, used with an adjective or a predicate noun)\nv be identical to; be someone or something\nv occupy a certain position or area; be somewhere\nv have an existence, be extant\nv happen, occur, take place; this was during the visit to my parents' house\"\nv be identical or equivalent to\nv form or compose\nv work in a specific place, with a specific subject, or in a specific function\nv represent, as of a character on stage\nv spend or use time\nv have life, be alive\nv to remain unmolested, undisturbed, or uninterrupted -- used only in infinitive form\nv be priced at"
+  },
+  {
+    "单词": "was born",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 出生；出生於；出生于",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "started to speak",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "learned to walk",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "learned to ride a bike",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "went to kindergarten",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "went to school",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "vbl.到校上课,开始求学",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "learned to swim",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "fifteenth",
+    "英音": "[ˌfɪfˈtiːnθ]",
+    "美音": "[ˌfɪfˈtiːnθ]",
+    "释义(中文)": "adj. 第十五的；十五分之一的\nnum. 第十五",
+    "释义(英文)": "n. position 15 in a countable series of things\ns. coming next after the fourteenth and just before the sixteenth in position"
+  },
+  {
+    "单词": "15th",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "started to buy things",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "started to study English",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "started to use a computer",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "all over",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "adj. 满\nn. 全花织物\n",
+    "释义(英文)": "s covering the entire surface"
+  },
+  {
+    "单词": "out of",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "prep. 来自；离开\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "into",
+    "英音": "[ˈɪntə]",
+    "美音": "[ˈɪntə; ˈɪntu; ˈɪntuː]",
+    "释义(中文)": "prep. 到…里；深入…之中；成为…状况；进入到…之内\n",
+    "释义(英文)": "prep. To the inside of; within. It is used in a variety of\n   applications.\nprep. Expressing entrance, or a passing from the outside of a\n   thing to its interior parts; -- following verbs expressing motion; as,\n   come into the house; go into the church; one stream falls or runs into\n   another; water enters into the fine vessels of plants.\nprep. Expressing penetration beyond the outside or surface, or\n   access to the inside, or contents; as, to look into a letter or book;\n   to look into an apartment.\nprep. Indicating insertion; as, to infuse more spirit or\n   animation into a composition.\nprep. Denoting inclusion; as, put these ideas into other words.\nprep. Indicating the passing of a thing from one form,\n   condition, or state to another; as, compound substances may be resolved\n   into others which are more simple; ice is convertible into water, and\n   water into vapor; men are more easily drawn than forced into\n   compliance; we may reduce many distinct substances into one mass; men\n   are led by evidence into belief of truth, and are often enticed into\n   the commission of crimes'into; she burst into tears; children are\n   sometimes frightened into fits; all persons are liable to be seduced\n   into error and folly."
+  },
+  {
+    "单词": "chopsticks",
+    "英音": "[ˈtʃɒpstɪks]",
+    "美音": "[ˈtʃɑːpstɪks]",
+    "释义(中文)": "n. 筷子",
+    "释义(英文)": "n one of a pair of slender sticks used as oriental tableware to eat food with"
+  },
+  {
+    "单词": "wet",
+    "英音": "[wet]",
+    "美音": "[wet]",
+    "释义(中文)": "n. 雨天；湿气\nadj. [气象][物] 潮湿的；有雨的\nvt. 弄湿\nvi. 变湿\n",
+    "释义(英文)": "v. cause to become wet\nv. make one's bed or clothes wet by urinating\na. covered or soaked with a liquid such as water\na. containing moisture or volatile components"
+  }
+]

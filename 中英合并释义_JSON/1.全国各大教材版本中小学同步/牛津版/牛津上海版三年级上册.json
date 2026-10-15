@@ -1,0 +1,576 @@
+[
+  {
+    "单词": "Miss",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 女士，小姐，年轻未婚女子\nvt. 错过，想念，缺（勤）",
+    "释义(英文)": "n. a failure to hit (or meet or find etc)\nn. a form of address for an unmarried woman\nv. fail to perceive or to catch with the senses or the mind\nv. feel or suffer from the lack of"
+  },
+  {
+    "单词": "Mr",
+    "英音": "[ˈmɪstə(r)]",
+    "美音": "[ˈmɪstər]",
+    "释义(中文)": "abbr. 先生（Mister）",
+    "释义(英文)": "n a form of address for a man"
+  },
+  {
+    "单词": "Mrs",
+    "英音": "[ˈmɪsɪz]",
+    "美音": "[ˈmɪsɪz]",
+    "释义(中文)": "n. 太太；夫人（用于已婚妇女姓名前的尊称）",
+    "释义(英文)": "n. a form of address for a married woman"
+  },
+  {
+    "单词": "stand up",
+    "英音": "[ˈstænd ʌp]",
+    "美音": "[ˈstænd ʌp]",
+    "释义(中文)": "na. 站起来；持久；露头角；〔美俚〕背约\n",
+    "释义(英文)": "s. requiring a standing position"
+  },
+  {
+    "单词": "sit down",
+    "英音": "[ˈsɪt daʊn]",
+    "美音": "[ˈsɪt daʊn]",
+    "释义(中文)": "na. 坐下；住定；占有；(坐下来)开始工作(谈判等)\n",
+    "释义(英文)": "n. a strike in which workers refuse to leave the workplace until a settlement is reached"
+  },
+  {
+    "单词": "open",
+    "英音": "[ˈəʊpən]",
+    "美音": "[ˈoʊpən]",
+    "释义(中文)": "adj. 公开的；敞开的；空旷的；坦率的；营业着的\nvi. 开始；展现\nvt. 公开；打开\nn. 公开；空旷；户外",
+    "释义(英文)": "n. a clear or unobstructed space or expanse of land or water\nn. a tournament in which both professionals and amateurs may play\nn. information that has become public\nv. cause to open or to become open"
+  },
+  {
+    "单词": "close",
+    "英音": "[kləʊz]",
+    "美音": "[kloʊz; kloʊs]",
+    "释义(中文)": "n. 结束\nadj. 紧密的；亲密的；亲近的\nvt. 关；结束；使靠近\nvi. 关；结束；关闭\nadv. 紧密地\n",
+    "释义(英文)": "v. move so that an opening or passage is obstructed; make shut\nv. become closed\nv. finish or terminate (meetings, speeches, etc.)\nv. complete a business deal, negotiation, or an agreement"
+  },
+  {
+    "单词": "door",
+    "英音": "[dɔː(r)]",
+    "美音": "[dɔːr]",
+    "释义(中文)": "n. 门；家，户；门口；通道\n",
+    "释义(英文)": "n. a swinging or sliding barrier that will close the entrance to a room or building or vehicle\nn. anything providing a means of access (or escape)\nn. a structure where people live or work (usually ordered along a street or road)\nn. a room that is entered via a door"
+  },
+  {
+    "单词": "name",
+    "英音": "[neɪm]",
+    "美音": "[neɪm]",
+    "释义(中文)": "n. 名称，名字；姓名；名誉\nvt. 命名，任命；指定；称呼；提名；叫出\nadj. 姓名的；据以取名的\n",
+    "释义(英文)": "n. a language unit by which a person or thing is known\nn. a person's reputation\nn. family based on male descent\nn. a well-known or notable person"
+  },
+  {
+    "单词": "book",
+    "英音": "[bʊk]",
+    "美音": "[bʊk]",
+    "释义(中文)": "n. 书籍；卷；帐簿；名册；工作簿\nvt. 预订；登记\n",
+    "释义(英文)": "n. a written work or composition that has been published (printed on pages bound together)\nn. physical objects consisting of a number of pages bound together\nn. a collection of playing cards satisfying the rules of a card game\nn. a collection of rules or prescribed standards on the basis of which decisions are made"
+  },
+  {
+    "单词": "write",
+    "英音": "[raɪt]",
+    "美音": "[raɪt]",
+    "释义(中文)": "vi. 写，写字；写作，作曲；写信\nvt. 写，书写；写信给；著述",
+    "释义(英文)": "v. produce a literary work\nv. communicate or express by writing\nv. communicate (with) in writing\nv. communicate by letter"
+  },
+  {
+    "单词": "one",
+    "英音": "[wʌn]",
+    "美音": "[wʌn]",
+    "释义(中文)": "pron. 一个人；任何人\nadj. 一的；唯一的\nn. 一\nnum. 一；一个\n",
+    "释义(英文)": "n. the smallest whole number or a numeral representing this number\nn. a single person or thing\ns. used of a single unit or thing; not two or more\ns. having the indivisible character of a unit"
+  },
+  {
+    "单词": "two",
+    "英音": "[tuː]",
+    "美音": "[tuː]",
+    "释义(中文)": "num. 二\nn. 两个\nadj. 两个的",
+    "释义(英文)": "n. the cardinal number that is the sum of one and one or a numeral representing this number\ns. being one more than one"
+  },
+  {
+    "单词": "three",
+    "英音": "[θriː]",
+    "美音": "[θriː]",
+    "释义(中文)": "num. 三\nn. 三，三个\nadj. 三的，三个的",
+    "释义(英文)": "n. the cardinal number that is the sum of one and one and one\ns. being one more than two"
+  },
+  {
+    "单词": "four",
+    "英音": "[fɔː(r)]",
+    "美音": "[fɔːr]",
+    "释义(中文)": "num. 四；四个\nadj. 四的；四个的\n",
+    "释义(英文)": "n. the cardinal number that is the sum of three and one\ns. being one more than three"
+  },
+  {
+    "单词": "five",
+    "英音": "[faɪv]",
+    "美音": "[faɪv]",
+    "释义(中文)": "num. 五，五个\nn. 五，五个；五美元钞票\nadj. 五的；五个的\n",
+    "释义(英文)": "n. the cardinal number that is the sum of four and one\ns. being one more than four"
+  },
+  {
+    "单词": "six",
+    "英音": "[sɪks]",
+    "美音": "[sɪks]",
+    "释义(中文)": "num. 六，六个\nn. 六，六个\n",
+    "释义(英文)": "n. the cardinal number that is the sum of five and one\ns. denoting a quantity consisting of six items or units"
+  },
+  {
+    "单词": "seven",
+    "英音": "[ˈsev(ə)n]",
+    "美音": "[ˈsev(ə)n]",
+    "释义(中文)": "num. 七个，七\nn. 七个，七\nadj. 七的；七个的\n",
+    "释义(英文)": "n. the cardinal number that is the sum of six and one\ns. being one more than six"
+  },
+  {
+    "单词": "eight",
+    "英音": "[eɪt]",
+    "美音": "[eɪt]",
+    "释义(中文)": "num. 八；八个；第八\nn. 八字形\nadj. 八的",
+    "释义(英文)": "n. the cardinal number that is the sum of seven and one\ns. being one more than seven"
+  },
+  {
+    "单词": "nine",
+    "英音": "[naɪn]",
+    "美音": "[naɪn]",
+    "释义(中文)": "n. 九，九个\nnum. 九；九个\nadj. 九的，九个的\n",
+    "释义(英文)": "n. the cardinal number that is the sum of eight and one\ns. denoting a quantity consisting of one more than eight and one less than ten"
+  },
+  {
+    "单词": "ten",
+    "英音": "[ten]",
+    "美音": "[ten]",
+    "释义(中文)": "num. 十个，十\n",
+    "释义(英文)": "n. the cardinal number that is the sum of nine and one; the base of the decimal system\ns. being one more than nine"
+  },
+  {
+    "单词": "today",
+    "英音": "[təˈdeɪ]",
+    "美音": "[təˈdeɪ]",
+    "释义(中文)": "n. 今天；现今\nadv. 今天；现今\n",
+    "释义(英文)": "n. the present time or age\nn. the day that includes the present moment (as opposed to yesterday or tomorrow)\nr. on this day as distinct from yesterday or tomorrow"
+  },
+  {
+    "单词": "fat",
+    "英音": "[fæt]",
+    "美音": "[fæt]",
+    "释义(中文)": "n. 脂肪，肥肉\nadj. 肥的，胖的；油腻的；丰满的\nvt. 养肥；在…中加入脂肪\nvi. 长肥\n",
+    "释义(英文)": "n. a soft greasy substance occurring in organic tissue and consisting of a mixture of lipids (mostly triglycerides)\na. having an (over)abundance of flesh\ns. having a relatively large diameter\ns. lucrative"
+  },
+  {
+    "单词": "thin",
+    "英音": "[θɪn]",
+    "美音": "[θɪn]",
+    "释义(中文)": "n. 细小部分\nadj. 薄的；瘦的；稀薄的；微弱的\nvt. 使瘦；使淡；使稀疏\nvi. 变薄；变瘦；变淡\nadv. 稀疏地；微弱地\n",
+    "释义(英文)": "v. lose thickness; become thin or thinner\nv. make thin or thinner\na. of relatively small extent from one surface to the opposite or in cross section\na. lacking excess flesh"
+  },
+  {
+    "单词": "tall",
+    "英音": "[tɔːl]",
+    "美音": "[tɔːl]",
+    "释义(中文)": "adj. 高的；长的；过分的；夸大的\nadv. 夸大地\n",
+    "释义(英文)": "n. a garment size for a tall person\na. great in vertical dimension; high in stature\ns. impressively difficult"
+  },
+  {
+    "单词": "short",
+    "英音": "[ʃɔːt]",
+    "美音": "[ʃɔːrt]",
+    "释义(中文)": "n. 短；缺乏；短路；短裤\nadj. 短的；不足的；矮的，低的\nadv. 不足；突然；唐突地\n",
+    "释义(英文)": "n. the location on a baseball field where the shortstop is stationed\na. primarily temporal sense; indicating or being or seeming to be limited in duration\na. (primarily spatial sense) having little length or lacking in length\na. low in stature; not tall"
+  },
+  {
+    "单词": "boy",
+    "英音": "[bɔɪ]",
+    "美音": "[bɔɪ]",
+    "释义(中文)": "n. 男孩；男人\n",
+    "释义(英文)": "n. a friendly informal reference to a grown man\nn. (ethnic slur) offensive and disparaging term for Black man"
+  },
+  {
+    "单词": "girl",
+    "英音": "[ɡɜːl]",
+    "美音": "[ɡɜːrl]",
+    "释义(中文)": "n. 女孩；姑娘，未婚女子；女职员，女演员；（男人的）女朋友\nn. （捷）吉尔",
+    "释义(英文)": "n. a young woman\nn. a friendly informal reference to a grown woman"
+  },
+  {
+    "单词": "friend",
+    "英音": "[frend]",
+    "美音": "[frend]",
+    "释义(中文)": "n. 朋友；助手；赞助者\n",
+    "释义(英文)": "n. a person you know well and regard with affection and trust\nn. a member of the Religious Society of Friends founded by George Fox (the Friends have never called themselves Quakers)"
+  },
+  {
+    "单词": "grandfather",
+    "英音": "[ˈɡrænfɑːðə(r)]",
+    "美音": "[ˈɡrænfɑːðər]",
+    "释义(中文)": "n. 祖父；始祖\nvt. 不受新规定限制",
+    "释义(英文)": "n. the father of your father or mother"
+  },
+  {
+    "单词": "grandmother",
+    "英音": "[ˈɡrænmʌðə(r)]",
+    "美音": "[ˈɡrænmʌðər]",
+    "释义(中文)": "n. 祖母；女祖先\nvt. 当…的祖母\nvi. 当祖母",
+    "释义(英文)": "n the mother of your father or mother"
+  },
+  {
+    "单词": "father",
+    "英音": "[ˈfɑːðə(r)]",
+    "美音": "[ˈfɑːðər]",
+    "释义(中文)": "n. 父亲，爸爸；神父；祖先；前辈\nvt. 发明，创立；当…的父亲",
+    "释义(英文)": "n. a male parent (also used as a term of address to your father)\nn. `Father' is a term of address for priests in some churches (especially the Roman Catholic Church or the Orthodox Catholic Church); `Padre' is frequently used in the military\nn. a person who holds an important or distinguished position in some organization\nn. God when considered as the first person in the Trinity"
+  },
+  {
+    "单词": "mother",
+    "英音": "[ˈmʌðə(r)]",
+    "美音": "[ˈmʌðər]",
+    "释义(中文)": "n. 母亲；大娘；女修道院院长\nvt. 生下；养育；像母亲般关怀或照管\nadj. 母亲的；出生地的",
+    "释义(英文)": "n. a woman who has given birth to a child (also used as a term of address to your mother)\nn. a stringy slimy substance consisting of yeast cells and bacteria; forms during fermentation and is added to cider or wine to produce vinegar\nn. a term of address for an elderly woman\nn. a term of address for a mother superior"
+  },
+  {
+    "单词": "brother",
+    "英音": "[ˈbrʌðə(r)]",
+    "美音": "[ˈbrʌðər]",
+    "释义(中文)": "n. 兄弟；同事；战友\nint. 我的老兄！\n",
+    "释义(英文)": "n. a male with the same parents as someone else\nn. a male person who is a fellow member (of a fraternity or religion or other group)\nn. used as a term of address for those male persons engaged in the same movement\nn. (Roman Catholic Church) a title given to a monk and used as form of address"
+  },
+  {
+    "单词": "sister",
+    "英音": "[ˈsɪstə(r)]",
+    "美音": "[ˈsɪstər]",
+    "释义(中文)": "n. 姐妹；（称志同道合者）姐妹；修女；护士\nadj. 姐妹般的；同类型的",
+    "释义(英文)": "n. a female person who has the same parents as another person\nn. (Roman Catholic Church) a title given to a nun (and used as a form of address)\nn. a female person who is a fellow member of a sorority or labor union or other group"
+  },
+  {
+    "单词": "me",
+    "英音": "[mi; miː]",
+    "美音": "[mi; miː]",
+    "释义(中文)": "pron. 我（宾格）\nn. 自我；极端自私的人；自我的一部分\n",
+    "释义(英文)": "n a state in New England"
+  },
+  {
+    "单词": "eye",
+    "英音": "[aɪ]",
+    "美音": "[aɪ]",
+    "释义(中文)": "n. 眼睛；视力；眼光；见解，观点\nvt. 注视，看\n",
+    "释义(英文)": "n. the organ of sight\nn. good discernment (either visually or as if visually)\nn. attention to what is seen\nn. a small hole or loop (as in a needle)"
+  },
+  {
+    "单词": "nose",
+    "英音": "[nəʊz]",
+    "美音": "[noʊz]",
+    "释义(中文)": "n. 鼻子；嗅觉；突出的部分；探问\nvt. 嗅；用鼻子触\nvi. 小心探索着前进；探问",
+    "释义(英文)": "n. the organ of smell and entrance to the respiratory tract; the prominent part of the face of man or other mammals\nn. a front that resembles a human nose (especially the front of an aircraft)\nn. the front or forward projection of a tool or weapon\nn. a small distance"
+  },
+  {
+    "单词": "hair",
+    "英音": "[heə(r)]",
+    "美音": "[her]",
+    "释义(中文)": "n. 头发；毛发；些微\nadj. 毛发的；护理毛发的；用毛发制成的\nvt. 除去…的毛发\nvi. 生长毛发；形成毛状纤维",
+    "释义(英文)": "n. a covering for the body (or parts of it) consisting of a dense growth of threadlike structures (as on the human head); helps to prevent heat loss\nn. filamentous hairlike growth on a plant\nn. any of the cylindrical filaments characteristically growing from the epidermis of a mammal\nn. a filamentous projection or process on an organism"
+  },
+  {
+    "单词": "ear",
+    "英音": "[ɪə(r)]",
+    "美音": "[ɪr]",
+    "释义(中文)": "n. 耳朵；穗；听觉；倾听\nvi. （美俚）听见；抽穗\n",
+    "释义(英文)": "n. the sense organ for hearing and equilibrium\nn. good hearing\nn. attention to what is said\nn. fruiting spike of a cereal plant especially corn"
+  },
+  {
+    "单词": "mouth",
+    "英音": "[maʊθ]",
+    "美音": "[maʊθ]",
+    "释义(中文)": "n. 口，嘴；河口\nvt. 做作地说，装腔作势地说；喃喃地说出\nvi. 装腔作势说话",
+    "释义(英文)": "n. the opening through which food is taken in and vocalizations emerge\nn. the externally visible part of the oral cavity on the face and the system of organs surrounding the opening\nn. an opening that resembles a mouth (as of a cave or a gorge)\nn. the point where a stream issues into a larger body of water"
+  },
+  {
+    "单词": "small",
+    "英音": "[smɔːl]",
+    "美音": "[smɔːl]",
+    "释义(中文)": "n. 小件物品；矮小的人\nadj. 少的，小的；微弱的；几乎没有的；不重要的；幼小的\nadv. 小小地；卑鄙地\n",
+    "释义(英文)": "n. the slender part of the back\nn. a garment size for a small person\na. limited or below average in number or quantity or magnitude or extent\ns. slight or limited; especially in degree or intensity or scope"
+  },
+  {
+    "单词": "long",
+    "英音": "[lɒŋ]",
+    "美音": "[lɔːŋ]",
+    "释义(中文)": "n. 长时间；[语] 长音节；（服装的）长尺寸；长裤\nadj. 长的；过长的；做多头的；长时间的；冗长的，长音\nvi. 渴望；热望\nadv. 长期地；始终\n",
+    "释义(英文)": "a. primarily temporal sense; being or indicating a relatively great or greater than average duration or passage of time or a duration as specified\na. primarily spatial sense; of relatively great or greater than average spatial extension or extension as specified\ns. of relatively great height\na. holding securities or commodities in expectation of a rise in prices"
+  },
+  {
+    "单词": "big",
+    "英音": "[bɪɡ]",
+    "美音": "[bɪɡ]",
+    "释义(中文)": "adj. 大的；重要的；量大的\nadv. 大量地；顺利；夸大地\n",
+    "释义(英文)": "s. significant\ns. loud and firm\ns. conspicuous in position or importance\ns. prodigious"
+  },
+  {
+    "单词": "school",
+    "英音": "[skuːl]",
+    "美音": "[skuːl]",
+    "释义(中文)": "n. 学校；学院；学派；鱼群\nvt. 教育",
+    "释义(英文)": "n. an educational institution\nn. a building where young people receive education\nn. the process of being formally educated at a school\nn. a body of creative artists or writers or thinkers linked by a similar style or by similar teachers"
+  },
+  {
+    "单词": "library",
+    "英音": "[ˈlaɪbrəri; ˈlaɪbri]",
+    "美音": "[ˈlaɪbreri]",
+    "释义(中文)": "n. 图书馆，藏书室；文库",
+    "释义(英文)": "n. a room where books are kept\nn. a collection of literary documents or records kept for reference or borrowing\nn. a depository built to contain books and other materials for reading and study\nn. (computing) a collection of standard programs and subroutines that are stored and available for immediate use"
+  },
+  {
+    "单词": "toilet",
+    "英音": "[ˈtɔɪlət]",
+    "美音": "[ˈtɔɪlət]",
+    "释义(中文)": "n. 厕所，盥洗室；梳妆，打扮\nvt. 给…梳妆打扮\nvi. 梳妆，打扮",
+    "释义(英文)": "n. a room or building equipped with one or more toilets\nn. a plumbing fixture for defecation and urination\nn. the act of dressing and preparing yourself"
+  },
+  {
+    "单词": "hall",
+    "英音": "[hɔːl]",
+    "美音": "[hɔːl]",
+    "释义(中文)": "n. 过道，门厅，走廊；会堂；食堂；学生宿舍；大厅，前厅；娱乐中心，会所\n",
+    "释义(英文)": "n. a large room for gatherings or entertainment\nn. English writer whose novel about a lesbian relationship was banned in Britain for many years (1883-1943)\nn. United States child psychologist whose theories of child psychology strongly influenced educational psychology (1844-1924)\nn. United States chemist who developed an economical method of producing aluminum from bauxite (1863-1914)"
+  },
+  {
+    "单词": "playground",
+    "英音": "[ˈpleɪɡraʊnd]",
+    "美音": "[ˈpleɪɡraʊnd]",
+    "释义(中文)": "n. 运动场，操场；游乐场",
+    "释义(英文)": "n. yard consisting of an outdoor area for children's play"
+  },
+  {
+    "单词": "classroom",
+    "英音": "[ˈklɑːsruːm]",
+    "美音": "[ˈklæsruːm; ˈklæsrʊm]",
+    "释义(中文)": "n. 教室",
+    "释义(英文)": "n. a room in a school where lessons take place"
+  },
+  {
+    "单词": "apple",
+    "英音": "[ˈæp(ə)l]",
+    "美音": "[ˈæpl]",
+    "释义(中文)": "n. 苹果，苹果树，苹果似的东西；[美俚]炸弹，手榴弹，（棒球的）球；[美俚]人，家伙。",
+    "释义(英文)": "n. fruit with red or yellow or green skin and sweet to tart crisp whitish flesh\nn. native Eurasian tree widely cultivated in many varieties for its firm rounded edible fruits"
+  },
+  {
+    "单词": "orange",
+    "英音": "[ˈɒrɪndʒ]",
+    "美音": "[ˈɔrɪndʒ]",
+    "释义(中文)": "adj. 橙色的；橘色的\nn. 橙；橙色；桔子\n",
+    "释义(英文)": "n. round yellow to orange fruit of any of several citrus trees\nn. orange color or pigment; any of a range of colors between red and yellow\nn. any citrus tree bearing oranges\nn. any pigment producing the orange color"
+  },
+  {
+    "单词": "banana",
+    "英音": "[bəˈnɑːnə]",
+    "美音": "[bəˈnænə]",
+    "释义(中文)": "n. 香蕉；喜剧演员；大鹰钩鼻\n",
+    "释义(英文)": "n. any of several tropical and subtropical treelike herbs of the genus Musa having a terminal crown of large entire leaves and usually bearing hanging clusters of elongated fruits\nn. elongated crescent-shaped yellow fruit with soft sweet flesh"
+  },
+  {
+    "单词": "peach",
+    "英音": "[piːtʃ]",
+    "美音": "[piːtʃ]",
+    "释义(中文)": "n. 桃子；桃树；桃红色；受人喜欢的人（或物）\nadj. 桃色的；用桃子制成的\nvt. 告发\nvi. 告密\n",
+    "释义(英文)": "n. cultivated in temperate regions\nn. downy juicy fruit with sweet yellowish or whitish flesh"
+  },
+  {
+    "单词": "boat",
+    "英音": "[bəʊt]",
+    "美音": "[boʊt]",
+    "释义(中文)": "n. 小船；轮船\nvi. 划船",
+    "释义(英文)": "n. a small vessel for travel on water\nv. ride in a boat on water"
+  },
+  {
+    "单词": "balloon",
+    "英音": "[bəˈluːn]",
+    "美音": "[bəˈluːn]",
+    "释义(中文)": "n. 气球\nadj. 像气球般鼓起的\nvt. 使像气球般鼓起；使激增\nvi. 激增；膨胀如气球\n",
+    "释义(英文)": "n. large tough nonrigid bag filled with gas or heated air\nn. small thin inflatable rubber bag with narrow neck\nv. ride in a hot-air balloon\nv. become inflated"
+  },
+  {
+    "单词": "flower",
+    "英音": "[ˈflaʊə(r)]",
+    "美音": "[ˈflaʊər]",
+    "释义(中文)": "n. 花；精华；开花植物\nvt. 使开花；用花装饰\nvi. 成熟，发育；开花；繁荣；旺盛\n",
+    "释义(英文)": "n. a plant cultivated for its blooms or blossoms\nn. reproductive organ of angiosperm plants especially one having showy or colorful parts\nn. the period of greatest prosperity or productivity"
+  },
+  {
+    "单词": "kite",
+    "英音": "[kaɪt]",
+    "美音": "[kaɪt]",
+    "释义(中文)": "n. 风筝\nvi. 使用空头支票；像风筝一样飞；轻快地移动\nvt. 骗钱；涂改（支票）\n",
+    "释义(英文)": "n. a bank check that has been fraudulently altered to increase its face value\nn. a bank check drawn on insufficient funds at another bank in order to take advantage of the float\nn. plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string\nn. any of several small graceful hawks of the family Accipitridae having long pointed wings and feeding on insects and small animals"
+  },
+  {
+    "单词": "red",
+    "英音": "[red]",
+    "美音": "[red]",
+    "释义(中文)": "n. 红色，红颜料；赤字\nadj. 红色的；红肿的，充血的",
+    "释义(英文)": "n. red color or pigment; the chromatic color resembling the hue of blood\nn. a tributary of the Mississippi River that flows eastward from Texas along the southern boundary of Oklahoma and through Louisiana\ns. of a color at the end of the color spectrum (next to orange); resembling the color of blood or cherries or tomatoes or rubies"
+  },
+  {
+    "单词": "orange",
+    "英音": "[ˈɒrɪndʒ]",
+    "美音": "[ˈɔrɪndʒ]",
+    "释义(中文)": "adj. 橙色的；橘色的\nn. 橙；橙色；桔子\n",
+    "释义(英文)": "n. round yellow to orange fruit of any of several citrus trees\nn. orange color or pigment; any of a range of colors between red and yellow\nn. any citrus tree bearing oranges\nn. any pigment producing the orange color"
+  },
+  {
+    "单词": "yellow",
+    "英音": "[ˈjeləʊ]",
+    "美音": "[ˈjeloʊ]",
+    "释义(中文)": "n. 黄色；黄种人；黄色颜料\nadj. 黄色的；黄皮肤的\nvt. 使变黄或发黄\nvi. 变黄或发黄",
+    "释义(英文)": "n. yellow color or pigment; the chromatic color resembling the hue of sunflowers or ripe lemons\nv. turn yellow\ns. of the color intermediate between green and orange in the color spectrum; of something resembling the color of an egg yolk\ns. changed to a yellowish color by age"
+  },
+  {
+    "单词": "ladybird",
+    "英音": "[ˈleɪdibɜːd]",
+    "美音": "[ˈleɪdibɜːrd]",
+    "释义(中文)": "n. 瓢虫",
+    "释义(英文)": "n small round bright-colored and spotted beetle that usually feeds on aphids and other insect pests"
+  },
+  {
+    "单词": "bee",
+    "英音": "[biː]",
+    "美音": "[biː]",
+    "释义(中文)": "n. 蜜蜂，蜂；勤劳的人\n",
+    "释义(英文)": "n. any of numerous hairy-bodied insects including social and solitary species\nn. a social gathering to carry out some communal task or to hold competitions"
+  },
+  {
+    "单词": "butterfly",
+    "英音": "[ˈbʌtəflaɪ]",
+    "美音": "[ˈbʌtərflaɪ]",
+    "释义(中文)": "n. 蝴蝶；蝶泳；举止轻浮的人；追求享乐的人",
+    "释义(英文)": "n. diurnal insect typically having a slender body with knobbed antennae and broad colorful wings\nn. a swimming stroke in which the arms are thrown forward together out of the water while the feet kick up and down\nv. flutter like a butterfly\nv. cut and spread open, as in preparation for cooking"
+  },
+  {
+    "单词": "ant",
+    "英音": "[ænt]",
+    "美音": "[ænt]",
+    "释义(中文)": "n. 蚂蚁\n",
+    "释义(英文)": "n. social insect living in organized colonies; characteristically the males and fertile queen have wings during breeding season; wingless sterile females are the workers"
+  },
+  {
+    "单词": "fly",
+    "英音": "[flaɪ]",
+    "美音": "[flaɪ]",
+    "释义(中文)": "n. 飞行；苍蝇；两翼昆虫\nadj. 敏捷的\nvi. 飞；驾驶飞机；飘扬\nvt. 飞行；飞越；使飘扬\n",
+    "释义(英文)": "n. two-winged insects characterized by active flight\nn. an opening in a garment that is closed by a zipper or by buttons concealed under a fold of cloth\nn. (baseball) a hit that flies up in the air\nn. fisherman's lure consisting of a fishhook decorated to look like an insect"
+  },
+  {
+    "单词": "black",
+    "英音": "[blæk]",
+    "美音": "[blæk]",
+    "释义(中文)": "n. 黑色；黑人；黑颜料\nadj. 黑色的；黑人的；邪恶的\nvt. 使变黑；把鞋油等涂在…上；把（眼眶）打成青肿\nvi. 变黑\n",
+    "释义(英文)": "n. the quality or state of the achromatic color of least lightness (bearing the least resemblance to white)\nn. British chemist who identified carbon dioxide and who formulated the concepts of specific heat and latent heat (1728-1799)\nn. popular child actress of the 1930's (born in 1928)\nn. a person with dark skin who comes from Africa (or whose ancestors came from Africa)"
+  },
+  {
+    "单词": "chick",
+    "英音": "[tʃɪk]",
+    "美音": "[tʃɪk]",
+    "释义(中文)": "n. 小鸡；小鸟；少妇\nadj. 胆小的；懦弱的",
+    "释义(英文)": "n. young bird especially of domestic fowl"
+  },
+  {
+    "单词": "hen",
+    "英音": "[hen]",
+    "美音": "[hen]",
+    "释义(中文)": "n. 母鸡；女人；雌禽\n",
+    "释义(英文)": "n. adult female chicken\nn. adult female bird\nn. flesh of an older chicken suitable for stewing\nn. female of certain aquatic animals e.g. octopus or lobster"
+  },
+  {
+    "单词": "duck",
+    "英音": "[dʌk]",
+    "美音": "[dʌk]",
+    "释义(中文)": "n. 鸭子；鸭肉；（英）宝贝儿；零分\nvt. 躲避；猛按…入水\nvi. 闪避；没入水中\n",
+    "释义(英文)": "n. small wild or domesticated web-footed broad-billed swimming bird usually having a depressed body and short legs\nn. (cricket) a score of nothing by a batsman\nn. flesh of a duck (domestic or wild)\nn. a heavy cotton fabric of plain weave; used for clothing and tents"
+  },
+  {
+    "单词": "pig",
+    "英音": "[pɪɡ]",
+    "美音": "[pɪɡ]",
+    "释义(中文)": "n. 猪；猪肉\nvi. 生小猪；像猪一样过活\nn. 警察（俚语，带有攻击性）",
+    "释义(英文)": "n. a crude block of metal (lead or iron) poured from a smelting furnace\nv. live like a pig, in squalor"
+  },
+  {
+    "单词": "dog",
+    "英音": "[dɒɡ]",
+    "美音": "[dɔːɡ]",
+    "释义(中文)": "n. 狗；丑女人；卑鄙的人；(俚)朋友\nvt. 跟踪；尾随",
+    "释义(英文)": "n. a member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds\nn. informal term for a man"
+  },
+  {
+    "单词": "cat",
+    "英音": "[kæt]",
+    "美音": "[kæt]",
+    "释义(中文)": "n. 猫，猫科动物",
+    "释义(英文)": "n. feline mammal usually having thick soft fur and no ability to roar: domestic cats; wildcats\nn. a spiteful woman gossip\nv. beat with a cat-o'-nine-tails"
+  },
+  {
+    "单词": "leaf",
+    "英音": "[liːf]",
+    "美音": "[liːf]",
+    "释义(中文)": "n. 叶子；（书籍等的）一张；扇页\nvi. 生叶；翻书页\nvt. 翻…的页，匆匆翻阅\n",
+    "释义(英文)": "n. the main organ of photosynthesis and transpiration in higher plants\nn. a sheet of any written or printed material (especially in a manuscript or book)\nn. hinged or detachable flat section (as of a table or door)\nv. turn over pages"
+  },
+  {
+    "单词": "leaves",
+    "英音": "[liːvz]",
+    "美音": "[liːvz]",
+    "释义(中文)": "n. 树叶；花瓣（leaf的复数）\nv. 离开（leave的第三人称单数）",
+    "释义(英文)": "n the main organ of photosynthesis and transpiration in higher plants\nn a sheet of any written or printed material (especially in a manuscript or book)\nn hinged or detachable flat section (as of a table or door)\nn the period of time during which you are absent from work or duty\nn permission to do something\nn the act of departing politely\nv go away from a place\nv go and leave behind, either intentionally or by neglect or forgetfulness\nv act or be so as to become in a specified state\nv leave unchanged or undisturbed or refrain from taking\nv move out of or depart from\nv make a possibility or provide opportunity for; permit to be attainable or cause to remain\nv have as a result or residue\nv remove oneself from an association with or participation in\nv put into the care or protection of someone\nv leave or give by will after one's death\nv have left or have as a remainder\nv be survived by after one's death\nv transmit (knowledge or skills)\nv leave behind unintentionally"
+  },
+  {
+    "单词": "branch",
+    "英音": "[brɑːntʃ]",
+    "美音": "[bræntʃ]",
+    "释义(中文)": "n. 树枝，分枝；分部；支流\nvt. 分支；出现分歧\nvi. 分支；出现分歧\n",
+    "释义(英文)": "n. a division of some larger or more complex organization\nn. a division of a stem, or secondary stem arising from the main stem of a plant\nn. a part of a forked or branching shape\nn. a stream or river connected to a larger one"
+  },
+  {
+    "单词": "trunk",
+    "英音": "[trʌŋk]",
+    "美音": "[trʌŋk]",
+    "释义(中文)": "n. 树干；躯干；象鼻；汽车车尾的行李箱\nadj. 干线的；躯干的；箱子的\nvt. 把…放入旅行箱内\n",
+    "释义(英文)": "n. the main stem of a tree; usually covered with bark; the bole is usually the part that is commercially useful for lumber\nn. luggage consisting of a large strong case used when traveling or for storage"
+  },
+  {
+    "单词": "root",
+    "英音": "[ruːt]",
+    "美音": "[ruːt]",
+    "释义(中文)": "n. 根；根源；词根；祖先\nvt. 生根，固定；根源在于\nvi. 生根；根除\n",
+    "释义(英文)": "n. (botany) the usually underground organ that lacks buds or leaves or nodes; absorbs water and mineral salts; usually it anchors the plant to the ground\nn. (linguistics) the form of a word after all affixes are removed\nn. a number that, when multiplied by itself some number of times, equals a given number\nn. the part of a tooth that is embedded in the jaw and serves as support"
+  },
+  {
+    "单词": "plant",
+    "英音": "[plɑːnt]",
+    "美音": "[plænt]",
+    "释义(中文)": "n. 工厂，车间；植物；设备；庄稼\nvt. 种植；培养；栽培；安置\nvi. 种植\n",
+    "释义(英文)": "n. buildings for carrying on industrial labor\nn. (botany) a living organism lacking the power of locomotion\nn. an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience\nn. something planted secretly for discovery by another"
+  },
+  {
+    "单词": "green",
+    "英音": "[ɡriːn]",
+    "美音": "[ɡriːn]",
+    "释义(中文)": "n. 绿色；青春\nadj. 绿色的；青春的\nvt. 使…变绿色\nvi. 变绿色",
+    "释义(英文)": "n. green color or pigment; resembling the color of growing grass\nn. United States labor leader who was president of the American Federation of Labor from 1924 to 1952 and who led the struggle with the Congress of Industrial Organizations (1873-1952)\nn. an environmentalist who belongs to the Green Party\nn. a river that rises in western Wyoming and flows southward through Utah to become a tributary of the Colorado River"
+  },
+  {
+    "单词": "pink",
+    "英音": "[pɪŋk]",
+    "美音": "[pɪŋk]",
+    "释义(中文)": "n. 粉红色；化身，典范；石竹花；头面人物\nadj. 粉红的；比较激进的；石竹科的；脸色发红的\nvt. 扎，刺，戳；使…变粉红色；使…面红耳赤\nvi. 变粉红色\n",
+    "释义(英文)": "n. a light shade of red\nn. any of various flowers of plants of the genus Dianthus cultivated for their fragrant flowers\nv. sound like a car engine that is firing too early\nv. cut in a zigzag pattern with pinking shears, in sewing"
+  },
+  {
+    "单词": "beautiful",
+    "英音": "[ˈbjuːtɪf(ə)l]",
+    "美音": "[ˈbjuːtɪf(ə)l]",
+    "释义(中文)": "adj. 美丽的\n出色地\n出色的\n迷人的\n迷人地",
+    "释义(英文)": "a. delighting the senses or exciting intellectual or emotional admiration\ns. (of weather) highly enjoyable"
+  }
+]

@@ -1,0 +1,618 @@
+[
+  {
+    "单词": "backpack",
+    "英音": "[ˈbækpæk]",
+    "美音": "[ˈbækpæk]",
+    "释义(中文)": "n. 双肩背包，背包；远足用的背包\nvt. 挑运；把…放入背包\nvi. 背负简便行李旅行；挑运",
+    "释义(英文)": "n. a bag carried by a strap on your back or shoulder\nv. hike with a backpack"
+  },
+  {
+    "单词": "either",
+    "英音": "[ˈaɪðə(r)]",
+    "美音": "[ˈiːðər]",
+    "释义(中文)": "conj. 也（用于否定句或否定词组后）；根本\nprep. 任何一个\nadj. 两者之中任一的；两者之中每一的\npron. 任一，两方，随便哪一个；两者中的一个或另一个",
+    "释义(英文)": "r. after a negative statement used as an intensive meaning something like `likewise' or `also'"
+  },
+  {
+    "单词": "finally",
+    "英音": "[ˈfaɪnəli]",
+    "美音": "[ˈfaɪnəli]",
+    "释义(中文)": "adv. 最后；终于；决定性地",
+    "释义(英文)": "r. after an unspecified period of time or an especially long delay"
+  },
+  {
+    "单词": "find",
+    "英音": "[faɪnd]",
+    "美音": "[faɪnd]",
+    "释义(中文)": "n. 发现\nvi. 裁决\nvt. 查找，找到；发现；认为；感到；获得\n",
+    "释义(英文)": "v. come upon, as if by accident; meet with\nv. come upon after searching; find the location of something that was missed or lost\nv. come to believe on the basis of emotion, intuitions, or indefinite grounds\nv. obtain through effort or management"
+  },
+  {
+    "单词": "Germany",
+    "英音": "[ˈdʒɜːməni]",
+    "美音": "[ˈdʒɜːrməni]",
+    "释义(中文)": "n. 德国",
+    "释义(英文)": "n. a republic in central Europe; split into East Germany and West Germany after World War II and reunited in 1990"
+  },
+  {
+    "单词": "get",
+    "英音": "[ɡet]",
+    "美音": "[ɡet]",
+    "释义(中文)": "n. 生殖；幼兽\nvi. 成为；变得；到达\nvt. 使得；获得；受到；变成",
+    "释义(英文)": "n. a return on a shot that seemed impossible to reach and would normally have resulted in a point for the opponent\nv. come into the possession of something concrete or abstract\nv. cause to move; cause to be in a certain position or condition\nv. succeed in catching or seizing, especially after a chase"
+  },
+  {
+    "单词": "give",
+    "英音": "[ɡɪv]",
+    "美音": "[ɡɪv]",
+    "释义(中文)": "n. 弹性；弯曲；伸展性\nvi. 捐赠；面向；有弹性；气候转暖\nvt. 给；产生；让步；举办；授予\n",
+    "释义(英文)": "n. the elasticity of something that can be stretched and returns to its original length\nv. cause to have, in the abstract sense or physical sense\nv. transfer possession of something concrete or abstract to somebody\nv. convey or reveal information"
+  },
+  {
+    "单词": "go away",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 离开；带走\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "go home",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 回家；〈口〉死；(忠告等)刻骨铭心；击中\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "hers",
+    "英音": "[hɜːz]",
+    "美音": "[hɜːrz; ɜːrz]",
+    "释义(中文)": "pron. 她的（所有格）\n",
+    "释义(英文)": "pron. See the Note under Her, pron."
+  },
+  {
+    "单词": "his",
+    "英音": "[hɪz]",
+    "美音": "[hɪz; ɪz]",
+    "释义(中文)": "pron. 他的\n",
+    "释义(英文)": "pron. Belonging or pertaining to him; -- used as a pronominal\n   adjective or adjective pronoun; as, tell John his papers are ready;\n   formerly used also for its, but this use is now obsolete.\npron. The possessive of he; as, the book is his."
+  },
+  {
+    "单词": "meet",
+    "英音": "[miːt]",
+    "美音": "[miːt]",
+    "释义(中文)": "vt. 满足；遇见；对付\nvi. 相遇；接触\nn. 集会\nadj. 合适的；适宜的\n",
+    "释义(英文)": "n. a meeting at which a number of athletic contests are held\nv. come together\nv. get together socially or for a specific purpose\nv. fill or meet a want or need"
+  },
+  {
+    "单词": "mine",
+    "英音": "[maɪn]",
+    "美音": "[maɪn]",
+    "释义(中文)": "n. 矿，矿藏；矿山，矿井；地雷，水雷\nvt. 开采，采掘；在…布雷\nvi. 开矿，采矿；埋设地雷\npron. 我的\n",
+    "释义(英文)": "n. excavation in the earth from which ores and minerals are extracted\nn. explosive device that explodes on contact; designed to destroy vehicles or ships or to kill or maim personnel\nv. get from the earth by excavation\nv. lay mines"
+  },
+  {
+    "单词": "ours",
+    "英音": "[ˈaʊəz]",
+    "美音": "[ˈaʊərz]",
+    "释义(中文)": "pron. 我们的\n",
+    "释义(英文)": "pl.  of I\npossessive pron. See Note under Our."
+  },
+  {
+    "单词": "quickly",
+    "英音": "[ˈkwɪkli]",
+    "美音": "[ˈkwɪkli]",
+    "释义(中文)": "adv. 迅速地；很快地",
+    "释义(英文)": "r. with rapid movements"
+  },
+  {
+    "单词": "suitcase",
+    "英音": "[ˈsuːtkeɪs]",
+    "美音": "[ˈsuːtkeɪs]",
+    "释义(中文)": "n. [轻] 手提箱；衣箱",
+    "释义(英文)": "n a portable rectangular container for carrying clothes"
+  },
+  {
+    "单词": "theirs",
+    "英音": "[ðeəz]",
+    "美音": "[ðerz]",
+    "释义(中文)": "pron. 他们的；她们的；它们的",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "trip",
+    "英音": "[trɪp]",
+    "美音": "[trɪp]",
+    "释义(中文)": "n. 旅行；绊倒；差错\nvt. 绊倒；使犯错\nvi. 绊倒；远足；犯错误；轻快地走\n",
+    "释义(英文)": "n. a journey for some purpose (usually including the return)\nn. a hallucinatory experience induced by drugs\nn. an exciting or stimulating experience\nn. a light or nimble tread"
+  },
+  {
+    "单词": "yours",
+    "英音": "[jɔːz]",
+    "美音": "[jərz; jɔːrz; jʊrz]",
+    "释义(中文)": "pron. 你（们）的东西；你的责任[义务]；你的家属；来信，尊函\nadj. 你（们）的（东西）；信末署名前用语",
+    "释义(英文)": "pron. See the Note under Your."
+  },
+  {
+    "单词": "believe",
+    "英音": "[bɪˈliːv]",
+    "美音": "[bɪˈliːv]",
+    "释义(中文)": "vi. 信任；料想；笃信宗教\nvt. 相信；认为；信任",
+    "释义(英文)": "v. accept as true; take to be true\nv. be confident about something\nv. follow a credo; have a faith; be a believer\nv. credit with veracity"
+  },
+  {
+    "单词": "Children's Day",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 儿童节\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "concert",
+    "英音": "[ˈkɒnsət]",
+    "美音": "[ˈkɑːnsərt]",
+    "释义(中文)": "n. 音乐会；一致；和谐\nadj. 音乐会用的；在音乐会上演出的\nvt. 使协调；协同安排\nvi. 协调；协力",
+    "释义(英文)": "n. a performance of music by players or singers not involving theatrical staging\nv. contrive (a plan) by mutual agreement\nv. settle by agreement"
+  },
+  {
+    "单词": "drum",
+    "英音": "[drʌm]",
+    "美音": "[drʌm]",
+    "释义(中文)": "n. 鼓；鼓声\nvi. 击鼓；大力争取\nvt. 击鼓；大力争取\n",
+    "释义(英文)": "n. a musical percussion instrument; usually consists of a hollow cylinder with a membrane stretched across each end\nn. the sound of a drum\nn. a cylindrical metal container used for shipping or storage of liquids\nn. small to medium-sized bottom-dwelling food and game fishes of shallow coastal and fresh waters that make a drumming noise"
+  },
+  {
+    "单词": "flute",
+    "英音": "[fluːt]",
+    "美音": "[fluːt]",
+    "释义(中文)": "n. 长笛；【工程设计】(刀具的)出屑槽\nvt. 用长笛吹奏\nvi. 吹长笛",
+    "释义(英文)": "n. a high-pitched woodwind instrument; a slender tube closed at one end with finger holes on one end and an opening near the closed end across which the breath is blown\nn. a tall narrow wineglass\nn. a groove or furrow in cloth etc (particularly a shallow concave groove on the shaft of a column)\nv. form flutes in"
+  },
+  {
+    "单词": "guitar",
+    "英音": "[ɡɪˈtɑː(r)]",
+    "美音": "[ɡɪˈtɑːr]",
+    "释义(中文)": "n. 吉他，六弦琴\nvi. 弹吉他",
+    "释义(英文)": "n. a stringed instrument usually having six strings; played by strumming or plucking"
+  },
+  {
+    "单词": "kid",
+    "英音": "[kɪd]",
+    "美音": "[kɪd]",
+    "释义(中文)": "n. 小孩；小山羊\nvt. 欺骗；取笑；戏弄\nvi. 欺骗；取笑；戏弄\nadj. 小山羊皮制的；较年幼的\n",
+    "释义(英文)": "n. soft smooth leather from the hide of a young goat\nn. young goat\nv. be silly or tease one another"
+  },
+  {
+    "单词": "music",
+    "英音": "[ˈmjuːzɪk]",
+    "美音": "[ˈmjuːzɪk]",
+    "释义(中文)": "n. 音乐，乐曲",
+    "释义(英文)": "n. an artistic form of auditory communication incorporating instrumental or vocal tones in a structured and continuous manner\nn. any agreeable (pleasing and harmonious) sounds\nn. musical activity (singing or whistling etc.)\nn. (music) the sounds produced by singers or musical instruments (or reproductions of such sounds)"
+  },
+  {
+    "单词": "piano",
+    "英音": "[piˈænəʊ]",
+    "美音": "[piˈænoʊ]",
+    "释义(中文)": "n. 钢琴\n",
+    "释义(英文)": "n. a keyboard instrument that is played by depressing keys that cause hammers to strike tuned strings and produce sounds\nn. (music) low loudness\na. used chiefly as a direction or description in music\nr. used as a direction in music; to be played relatively softly"
+  },
+  {
+    "单词": "play the piano",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 弹钢琴\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "program",
+    "英音": "[ˈprəʊɡræm]",
+    "美音": "[ˈproʊɡræm]",
+    "释义(中文)": "n. 程序；计划；大纲\nvt. 用程序指令；为…制订计划；为…安排节目\nvi. 编程序；安排节目；设计电脑程式",
+    "释义(英文)": "n. a system of projects or services intended to meet a public need\nn. an announcement of the events that will occur as part of a theatrical or sporting event\nn. (computer science) a sequence of instructions that a computer can interpret and execute\nn. a performance (or series of performances) at a public presentation"
+  },
+  {
+    "单词": "really",
+    "英音": "[ˈriːəli]",
+    "美音": "[ˈriːəli]",
+    "释义(中文)": "adv. 实际上，事实上；真正地，真实地；真的吗？（表语气）",
+    "释义(英文)": "r in accordance with truth or fact or reality\nr in actual fact\nr in fact (used as intensifiers or sentence modifiers)\nr used as intensifiers; `real' is sometimes used informally for `really'; `rattling' is informal"
+  },
+  {
+    "单词": "start",
+    "英音": "[stɑːt]",
+    "美音": "[stɑːrt]",
+    "释义(中文)": "n. 开始；起点\nvt. 开始；启动\nvi. 出发",
+    "释义(英文)": "n. the beginning of anything\nn. a turn to be a starter (in a game at the beginning)\nn. a line indicating the location of the start of a race or a game\nn. the advantage gained by beginning early (as in a race)"
+  },
+  {
+    "单词": "tonight",
+    "英音": "[təˈnaɪt]",
+    "美音": "[təˈnaɪt]",
+    "释义(中文)": "n. 今晚\nadv. 在今晚",
+    "释义(英文)": "n. the present or immediately coming night\nr. during the night of the present day"
+  },
+  {
+    "单词": "violin",
+    "英音": "[ˌvaɪəˈlɪn]",
+    "美音": "[ˌvaɪəˈlɪn]",
+    "释义(中文)": "n. 小提琴；小提琴手\n",
+    "释义(英文)": "n. bowed stringed instrument that is the highest member of the violin family; this instrument has four strings and a hollow body and an unfretted fingerboard and is played with a bow"
+  },
+  {
+    "单词": "row",
+    "英音": "[rəʊ; raʊ]",
+    "美音": "[roʊ; raʊ]",
+    "释义(中文)": "n. 行，排；划船；街道；吵闹\nvt. 划船；使……成排\nvi. 划船；争吵\n",
+    "释义(英文)": "n. an arrangement of objects or people side by side in a line\nn. a long continuous strip (usually running horizontally)\nn. a linear array of numbers, letters, or symbols side by side\nn. a continuous chronological succession without an interruption"
+  },
+  {
+    "单词": "team",
+    "英音": "[tiːm]",
+    "美音": "[tiːm]",
+    "释义(中文)": "n. 队；组\nvt. 使合作\nvi. 合作\n",
+    "释义(英文)": "n. a cooperative unit (especially in sports)\nn. two or more draft animals that work together to pull something\nv. form a team"
+  },
+  {
+    "单词": "basketball",
+    "英音": "[ˈbɑːskɪtbɔːl]",
+    "美音": "[ˈbæskɪtbɔːl]",
+    "释义(中文)": "n. 篮球；篮球运动",
+    "释义(英文)": "n. a game played on a court by two opposing teams of 5 players; points are scored by throwing the ball through an elevated horizontal hoop\nn. an inflated ball used in playing basketball"
+  },
+  {
+    "单词": "badminton",
+    "英音": "[ˈbædmɪntən]",
+    "美音": "[ˈbædmɪntən]",
+    "释义(中文)": "n. 羽毛球",
+    "释义(英文)": "n. a game played on a court with light long-handled rackets used to volley a shuttlecock over a net"
+  },
+  {
+    "单词": "table tennis",
+    "英音": "['teɪb(ə)l'tenɪs]",
+    "美音": "[ˈteɪbl tenɪs]",
+    "释义(中文)": "n. 乒乓球运动\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "tennis",
+    "英音": "[ˈtenɪs]",
+    "美音": "[ˈtenɪs]",
+    "释义(中文)": "n. 网球（运动）\n",
+    "释义(英文)": "n. a game played with rackets by two or four players who hit a ball back and forth over a net that divides the court"
+  },
+  {
+    "单词": "volleyball",
+    "英音": "[ˈvɒlibɔːl]",
+    "美音": "[ˈvɑːlibɔːl]",
+    "释义(中文)": "n. 排球",
+    "释义(英文)": "n. a game in which two teams hit an inflated ball over a high net using their hands\nn. an inflated ball used in playing volleyball"
+  },
+  {
+    "单词": "goalkeeper",
+    "英音": "[ˈɡəʊlkiːpə(r)]",
+    "美音": "[ˈɡoʊlkiːpər]",
+    "释义(中文)": "n. 守门员",
+    "释义(英文)": "n. the soccer or hockey player assigned to protect the goal\nn. the defensive position on an ice hockey or soccer or lacrosse team who stands in front of the goal and tries to prevent opposing players from scoring"
+  },
+  {
+    "单词": "goal",
+    "英音": "[ɡəʊl]",
+    "美音": "[ɡoʊl]",
+    "释义(中文)": "n. 目标；球门，得分数；终点\nvi. 攻门，射门得分",
+    "释义(英文)": "n. the state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it\nn. game equipment consisting of the place toward which players of a game try to advance a ball or puck in order to score points\nn. a successful attempt at scoring"
+  },
+  {
+    "单词": "sports star",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 体育明星；运动明星；运动员",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "score",
+    "英音": "[skɔː(r)]",
+    "美音": "[skɔːr]",
+    "释义(中文)": "n. 分数；二十；配乐；刻痕\nvt. 获得；评价；划线，刻划；把…记下\nvi. 得分；记分；刻痕\n",
+    "释义(英文)": "n. a written form of a musical composition; parts for different instruments appear on separate staves on large pages\nn. a number that expresses the accomplishment of a team or an individual in a game or contest\nn. a set of twenty members\nn. grounds"
+  },
+  {
+    "单词": "at the same time",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 同时；另一方面；与此同时\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "at last",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 终于\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "corner kick",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 【足】角球\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "field",
+    "英音": "[fiːld]",
+    "美音": "[fiːld]",
+    "释义(中文)": "n. 领域；牧场；旷野；战场；运动场\nadj. 扫描场；田赛的；野生的\nvt. 把暴晒于场上；使上场\nvi. 担任场外队员\n",
+    "释义(英文)": "n. a piece of land cleared of trees and usually enclosed\nn. somewhere (away from a studio or office or library or laboratory) where practical work is done or data is collected\nn. the space around a radiating body within which its electromagnetic oscillations can exert force on another similar body not in contact with it\nn. a particular kind of commercial enterprise"
+  },
+  {
+    "单词": "cheer for",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "un. 给加油\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "fall",
+    "英音": "[fɔːl]",
+    "美音": "[fɔːl]",
+    "释义(中文)": "n. 下降；秋天；瀑布\nadj. 秋天的\nvi. 落下；变成；来临；减弱\nvt. 砍倒；击倒\n",
+    "释义(英文)": "n. the season when the leaves fall from the trees\nn. the lapse of mankind into sinfulness because of the sin of Adam and Eve\nn. a lapse into sin; a loss of innocence or of chastity\nn. a sudden decline in strength or number or importance"
+  },
+  {
+    "单词": "up and down",
+    "英音": "[ʌp ən daʊn]",
+    "美音": "[ʌp ənd daʊn]",
+    "释义(中文)": "na. 忽上忽下；各处；来来去去；升降浮沉\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "boring",
+    "英音": "[ˈbɔːrɪŋ]",
+    "美音": "[ˈbɔːrɪŋ]",
+    "释义(中文)": "n. 钻孔\nadj. 无聊的；令人厌烦的\nv. 钻孔；使厌烦；挖空（bore的ing形式）\n",
+    "释义(英文)": "n. the act of drilling a hole in the earth in the hope of producing petroleum\ns. so lacking in interest as to cause mental weariness"
+  },
+  {
+    "单词": "buy",
+    "英音": "[baɪ]",
+    "美音": "[baɪ]",
+    "释义(中文)": "n. 购买，买卖；所购的物品\nvi. 买，采购\nvt. 购买；获得；贿赂\n",
+    "释义(英文)": "v. obtain by purchase; acquire by means of a financial transaction\nv. be worth or be capable of buying\nv. acquire by trade or sacrifice or exchange\nv. accept as true"
+  },
+  {
+    "单词": "colorful",
+    "英音": "[ˈkʌləf(ə)l]",
+    "美音": "[ˈkʌlərfl]",
+    "释义(中文)": "adj. 华美的；有趣的；富有色彩的",
+    "释义(英文)": "a. having striking color\na. striking in variety and interest"
+  },
+  {
+    "单词": "dictionary",
+    "英音": "[ˈdɪkʃən(ə)ri]",
+    "美音": "[ˈdɪkʃəneri]",
+    "释义(中文)": "n. 字典；词典",
+    "释义(英文)": "n. a reference book containing an alphabetical list of words with information about them"
+  },
+  {
+    "单词": "difficult",
+    "英音": "[ˈdɪfɪkəlt]",
+    "美音": "[ˈdɪfɪkəlt]",
+    "释义(中文)": "adj. 困难的；不随和的；执拗的",
+    "释义(英文)": "a. not easy; requiring great physical or mental effort to accomplish or comprehend or endure"
+  },
+  {
+    "单词": "exciting",
+    "英音": "[ɪkˈsaɪtɪŋ]",
+    "美音": "[ɪkˈsaɪtɪŋ]",
+    "释义(中文)": "adj. 令人兴奋的；使人激动的\nv. 激动；刺激（excite的ing形式）；唤起",
+    "释义(英文)": "a. creating or arousing excitement\ns. stimulating interest and discussion"
+  },
+  {
+    "单词": "expensive",
+    "英音": "[ɪkˈspensɪv]",
+    "美音": "[ɪkˈspensɪv]",
+    "释义(中文)": "adj. 昂贵的；花钱的",
+    "释义(英文)": "a. high in price or charging high prices"
+  },
+  {
+    "单词": "interesting",
+    "英音": "[ˈɪntrəstɪŋ]",
+    "美音": "[ˈɪntrəstɪŋ; ˈɪntrestɪŋ]",
+    "释义(中文)": "adj. 有趣的；引起兴趣的，令人关注的",
+    "释义(英文)": "a. arousing or holding the attention"
+  },
+  {
+    "单词": "picture",
+    "英音": "[ˈpɪktʃə(r)]",
+    "美音": "[ˈpɪktʃər]",
+    "释义(中文)": "n. 照片，图画；影片；景色；化身\nvt. 画；想像；描写",
+    "释义(英文)": "n. a visual representation (of an object or scene or person or abstraction) produced on a surface\nn. a situation treated as an observable object\nn. illustrations used to decorate or explain a text\nn. a typical example of some state or quality"
+  },
+  {
+    "单词": "story",
+    "英音": "[ˈstɔːri]",
+    "美音": "[ˈstɔːri]",
+    "释义(中文)": "n. 故事；小说；新闻报道；来历；假话\nvt. 用历史故事画装饰\nvi. 说谎\n",
+    "释义(英文)": "n. a piece of fiction that narrates a chain of related events"
+  },
+  {
+    "单词": "a liter of milk",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "ask",
+    "英音": "[ɑːsk]",
+    "美音": "[æsk]",
+    "释义(中文)": "vt. 问，询问；要求；需要；邀请；讨价\nvi. 问，询问；要求\n",
+    "释义(英文)": "v. inquire about\nv. make a request or demand for something to somebody\nv. direct or put; seek an answer to\nv. consider obligatory; request and expect"
+  },
+  {
+    "单词": "add",
+    "英音": "[æd]",
+    "美音": "[æd]",
+    "释义(中文)": "n. 加法，加法运算\nvi. 加；增加；加起来；做加法\nvt. 增加，添加；补充说；计算…总和",
+    "释义(英文)": "v. make an addition (to); join or combine or unite with others; increase the quality, quantity, size or scope of\nv. state or say further\nv. make an addition by combining numbers\nv. constitute an addition"
+  },
+  {
+    "单词": "bake",
+    "英音": "[beɪk]",
+    "美音": "[beɪk]",
+    "释义(中文)": "n. 烤；烘烤食品\nvi. 烘面包；被烤干；受热\nvt. 烤，烘焙\n",
+    "释义(英文)": "v. cook and make edible by putting in a hot oven\nv. prepare with dry heat in an oven\nv. be very hot, due to hot weather or exposure to the sun"
+  },
+  {
+    "单词": "break",
+    "英音": "[breɪk]",
+    "美音": "[breɪk]",
+    "释义(中文)": "vi. 打破；折断；弄坏；削弱\nvt. （使）破；打破（纪录）；（常指好天气）突变；开始\nvi. （嗓音）突变；突破；破晓；（价格）突然下跌\nn. 破裂；间断；（持续一段时间的状况的）改变；间歇",
+    "释义(英文)": "n. an unexpected piece of good luck\nn. the occurrence of breaking\nn. an abrupt change in the tone or register of the voice (as at puberty or due to emotion)\nn. the opening shot that scatters the balls in billiards or pool"
+  },
+  {
+    "单词": "butter",
+    "英音": "[ˈbʌtə(r)]",
+    "美音": "[ˈbʌtər]",
+    "释义(中文)": "n. 黄油；奶油；奉承话\nvt. 涂黄油于；讨好\n",
+    "释义(英文)": "n. an edible emulsion of fat globules made by churning milk or cream; for cooking and table use\nn. a fighter who strikes the opponent with his head\nv. spread butter on"
+  },
+  {
+    "单词": "change",
+    "英音": "[tʃeɪndʒ]",
+    "美音": "[tʃeɪndʒ]",
+    "释义(中文)": "n. 变化；找回的零钱\nvt. 改变；交换\nvi. 改变；兑换",
+    "释义(英文)": "n. an event that occurs when something passes from one state or phase to another\nn. a relational difference between states; especially between states before and after some event\nn. the action of changing something\nn. the result of alteration or modification"
+  },
+  {
+    "单词": "cookbook",
+    "英音": "[ˈkʊkbʊk]",
+    "美音": "[ˈkʊkbʊk]",
+    "释义(中文)": "n. 食谱",
+    "释义(英文)": "n. a book of recipes and cooking directions"
+  },
+  {
+    "单词": "flour",
+    "英音": "[ˈflaʊə(r)]",
+    "美音": "[ˈflaʊər]",
+    "释义(中文)": "n. 面粉；粉状物质\nvt. 撒粉于；把…磨成粉\n",
+    "释义(英文)": "n. fine powdery foodstuff obtained by grinding and sifting the meal of a cereal grain\nv. cover with flour\nv. convert grain into flour"
+  },
+  {
+    "单词": "guess",
+    "英音": "[ɡes]",
+    "美音": "[ɡes]",
+    "释义(中文)": "n. 猜测；推测\nvi. 猜；推测；猜中\nvt. 猜测；认为；推测；猜中\nn. 盖尔斯（美国服装品牌）",
+    "释义(英文)": "n. a message expressing an opinion based on incomplete evidence\nn. an estimate based on little or no information\nv. put forward, of a guess, in spite of possible refutation\nv. guess correctly; solve by guessing"
+  },
+  {
+    "单词": "knife",
+    "英音": "[naɪf]",
+    "美音": "[naɪf]",
+    "释义(中文)": "n. 刀；匕首\nvt. 用刀切；（口）伤害\nvi. 劈开；划过",
+    "释义(英文)": "n. edge tool used as a cutting instrument; has a pointed blade with a sharp edge and a handle\nn. a weapon with a handle and blade with a sharp point\nv. use a knife on"
+  },
+  {
+    "单词": "mix",
+    "英音": "[mɪks]",
+    "美音": "[mɪks]",
+    "释义(中文)": "vt. 配制；混淆；使混和；使结交\nvi. 参与；相混合；交往\nn. 混合；混合物；混乱\n",
+    "释义(英文)": "n. a commercially prepared mixture of dry ingredients\nn. an event that combines things in a mixture\nn. the act of mixing together\nv. combine (electronic signals)"
+  },
+  {
+    "单词": "need",
+    "英音": "[niːd]",
+    "美音": "[niːd]",
+    "释义(中文)": "n. 需要，要求；缺乏；必要之物\nvt. 需要\nvi. 需要",
+    "释义(英文)": "n. a condition requiring relief\nn. anything that is necessary but lacking\nv. have or feel a need for"
+  },
+  {
+    "单词": "plate",
+    "英音": "[pleɪt]",
+    "美音": "[pleɪt]",
+    "释义(中文)": "n. 碟；金属板；金属牌；感光底片\nvt. 电镀；给…装甲\n",
+    "释义(英文)": "n. a sheet of metal or wood or glass or plastic\nn. a full-page illustration (usually on slick paper)\nn. dish on which food is served or from which food is eaten\nn. the quantity contained in a plate"
+  },
+  {
+    "单词": "pour",
+    "英音": "[pɔː(r)]",
+    "美音": "[pɔːr]",
+    "释义(中文)": "n. 倾泻；流出；骤雨\nvt. 灌，注；倒；倾泻；倾吐\nvi. 倾泻；涌流；斟茶\n",
+    "释义(英文)": "v. cause to run\nv. move in large numbers\nv. flow in a spurt\nv. supply in large amounts or quantities"
+  },
+  {
+    "单词": "puzzled",
+    "英音": "[ˈpʌz(ə)ld]",
+    "美音": "[ˈpʌzld]",
+    "释义(中文)": "adj. 困惑的；茫然的；搞糊涂的",
+    "释义(英文)": "v be a mystery or bewildering to\nv be uncertain about; think about without fully understanding or being able to decide\ns filled with bewilderment"
+  },
+  {
+    "单词": "recipe",
+    "英音": "[ˈresəpi]",
+    "美音": "[ˈresəpi]",
+    "释义(中文)": "n. 食谱；[临床] 处方；秘诀；烹饪法",
+    "释义(英文)": "n. directions for making something"
+  },
+  {
+    "单词": "salt",
+    "英音": "[sɔːlt]",
+    "美音": "[sɔːlt]",
+    "释义(中文)": "n. 盐；风趣，刺激性\nadj. 咸水的；含盐的，咸味的；盐腌的；猥亵的\nvt. 用盐腌；给…加盐；将盐撒在道路上使冰或雪融化",
+    "释义(英文)": "n. a compound formed by replacing hydrogen in an acid by a metal (or a radical that acts like a metal)\nn. white crystalline form of especially sodium chloride used to season and preserve food\nn. the taste experience when common salt is taken into the mouth\nv. add salt to"
+  },
+  {
+    "单词": "shout",
+    "英音": "[ʃaʊt]",
+    "美音": "[ʃaʊt]",
+    "释义(中文)": "n. 呼喊；呼叫\nvi. 呼喊；喊叫；大声说\nvt. 呼喊；大声说",
+    "释义(英文)": "v. utter in a loud voice; talk in a loud voice (usually denoting characteristic manner of speaking)\nv. utter a sudden loud cry"
+  },
+  {
+    "单词": "step",
+    "英音": "[step]",
+    "美音": "[step]",
+    "释义(中文)": "n. 步，脚步；步骤；步伐；梯级\nvt. 走，迈步\nvi. 踏，踩；走",
+    "释义(英文)": "n. the act of changing location by raising the foot and setting it down\nn. support consisting of a place to rest the foot while ascending or descending a stairway\nn. a short distance\nn. a solid block joined to the beams in which the heel of a ship's mast or capstan is fixed"
+  },
+  {
+    "单词": "sugar",
+    "英音": "[ˈʃʊɡə(r)]",
+    "美音": "[ˈʃʊɡər]",
+    "释义(中文)": "n. 糖；食糖；甜言蜜语\nvt. 加糖于；粉饰\nvi. 形成糖\n",
+    "释义(英文)": "n. a white crystalline carbohydrate used as a sweetener and preservative\nv. sweeten with sugar"
+  },
+  {
+    "单词": "tell",
+    "英音": "[tel]",
+    "美音": "[tel]",
+    "释义(中文)": "vt. 告诉，说；辨别；吩咐；断定\nvi. 讲述；告发，泄密；识别\n",
+    "释义(英文)": "n. a Swiss patriot who lived in the early 14th century and who was renowned for his skill as an archer; according to legend an Austrian governor compelled him to shoot an apple from his son's head with his crossbow (which he did successfully without mishap)\nv. let something be known\nv. narrate or give a detailed account of\nv. discern or comprehend"
+  },
+  {
+    "单词": "eat out",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "v. 出去吃；在外面吃饭\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "hate",
+    "英音": "[heɪt]",
+    "美音": "[heɪt]",
+    "释义(中文)": "n. 憎恨；反感\nvt. 憎恨；厌恶；遗憾\nvi. 仇恨\n",
+    "释义(英文)": "n. the emotion of intense dislike; a feeling of dislike so strong that it demands action\nv. dislike intensely; feel antipathy or aversion towards"
+  },
+  {
+    "单词": "try out",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. (采用前)严密试验；筛矿；量(金属的)纯度\n",
+    "释义(英文)": "n trying something to find out about it\nn a test of the suitability of a performer"
+  },
+  {
+    "单词": "walk through",
+    "英音": "[ˈwɔːk θruː]",
+    "美音": "[ˈwɔːk θruː]",
+    "释义(中文)": "na. (= to rehearse)排练\n",
+    "释义(英文)": "n. a thorough explanation (usually accompanied by a demonstration) of each step in a procedure or process\nn. a pedestrian passageway through the ground floor of a building\nn. a first perfunctory rehearsal of a theatrical production in which actors read their lines from the script and move as directed"
+  }
+]

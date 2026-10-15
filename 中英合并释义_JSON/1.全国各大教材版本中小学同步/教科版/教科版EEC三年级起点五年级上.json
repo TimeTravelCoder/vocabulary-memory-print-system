@@ -1,0 +1,772 @@
+[
+  {
+    "单词": "given name",
+    "英音": "[ˈɡɪv(ə)n neɪm]",
+    "美音": "[ˈɡɪvn neɪm]",
+    "释义(中文)": "na. 名字\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "twins",
+    "英音": "[twɪnz]",
+    "美音": "[twɪnz]",
+    "释义(中文)": "n. 双生子，双胞胎（twin的复数）",
+    "释义(英文)": "n. (mineralogy) two interwoven crystals that are mirror images on each other"
+  },
+  {
+    "单词": "China",
+    "英音": "[ˈtʃaɪnə]",
+    "美音": "[ˈtʃaɪnə]",
+    "释义(中文)": "n. 中国\nn. china，瓷器\nadj. 中国的；中国制造的\nadj. china，瓷制的",
+    "释义(英文)": "n. a communist nation that covers a vast territory in eastern Asia; the most populous country in the world\nn. high quality porcelain originally made only in China"
+  },
+  {
+    "单词": "American",
+    "英音": "[əˈmerɪkən]",
+    "美音": "[əˈmerɪkən]",
+    "释义(中文)": "n. 美国人，美洲人；美国英语\nadj. 美国的，美洲的；地道美国式的",
+    "释义(英文)": "n. a native or inhabitant of the United States\nn. a native or inhabitant of a North American or Central American or South American country\na. of or relating to the United States of America or its people or language or culture"
+  },
+  {
+    "单词": "U.S.A.",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "美国",
+    "释义(英文)": "n North American republic containing 50 states - 48 conterminous states in North America plus Alaska in northwest North America and the Hawaiian Islands in the Pacific Ocean; achieved independence in 1776"
+  },
+  {
+    "单词": "Australia",
+    "英音": "[ɒˈstreɪliə]",
+    "美音": "[ɔːˈstreɪliə]",
+    "释义(中文)": "n. 澳大利亚，澳洲",
+    "释义(英文)": "n. a nation occupying the whole of the Australian continent; Aboriginal tribes are thought to have migrated from southeastern Asia 20,000 years ago; first Europeans were British convicts sent there as a penal colony\nn. the smallest continent; between the South Pacific and the Indian Ocean"
+  },
+  {
+    "单词": "family name",
+    "英音": "[ˈfæməli neɪm]",
+    "美音": "[ˈfæməli neɪm]",
+    "释义(中文)": "n. 姓\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "Canada",
+    "英音": "[ˈkænədə]",
+    "美音": "[ˈkænədə]",
+    "释义(中文)": "n. 加拿大（北美洲国家）",
+    "释义(英文)": "n. a nation in northern North America; the French were the first Europeans to settle in mainland Canada"
+  },
+  {
+    "单词": "Japan",
+    "英音": "[dʒəˈpæn]",
+    "美音": "[dʒəˈpæn]",
+    "释义(中文)": "n. 日本（东亚国家名）",
+    "释义(英文)": "n. a string of more than 3,000 islands to the east of Asia extending 1,300 miles between the Sea of Japan and the western Pacific Ocean\nn. a constitutional monarchy occupying the Japanese Archipelago; a world leader in electronics and automobile manufacture and ship building\nn. lacquerware decorated and varnished in the Japanese manner with a glossy durable black lacquer"
+  },
+  {
+    "单词": "Russia",
+    "英音": "[ˈrʌʃə]",
+    "美音": "[ˈrʌʃə]",
+    "释义(中文)": "n. 俄罗斯",
+    "释义(英文)": "n. a former empire in eastern Europe and northern Asia created in the 14th century with Moscow as the capital; powerful in the 17th and 18th centuries under Peter the Great and Catherine the Great when Saint Petersburg was the capital; overthrown by revolution in 1917\nn. a federation in northeastern Europe and northern Asia; formerly Soviet Russia; since 1991 an independent state"
+  },
+  {
+    "单词": "near",
+    "英音": "[nɪə(r)]",
+    "美音": "[nɪr]",
+    "释义(中文)": "adj. 近的；亲近的；近似的\nadv. 近；接近\nprep. 靠近；近似于",
+    "释义(英文)": "a. not far distant in time or space or degree or circumstances\ns. being on the left side\ns. closely resembling the genuine article\nr. near in time or place or relationship"
+  },
+  {
+    "单词": "live",
+    "英音": "[lɪv; laɪv]",
+    "美音": "[lɪv; laɪv]",
+    "释义(中文)": "adj. 活的；生动的；实况转播的；精力充沛的\nvt. 经历；度过\nvi. 活；居住；生存\n",
+    "释义(英文)": "v. lead a certain kind of life; live in a certain style\nv. pursue a positive and satisfying existence\na. actually being performed at the time of hearing or viewing\na. exerting force or containing energy"
+  },
+  {
+    "单词": "a little",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 一点\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "far",
+    "英音": "[fɑː(r)]",
+    "美音": "[fɑːr]",
+    "释义(中文)": "n. 远方\nadj. 远的；久远的\nadv. 很；遥远地；久远地；到很远的距离；到很深的程度\n",
+    "释义(英文)": "a. located at a great distance in time or space or degree\ns. being of a considerable distance or length\ns. being the animal or vehicle on the right or being on the right side of an animal or vehicle\ns. beyond a norm in opinion or actions"
+  },
+  {
+    "单词": "by",
+    "英音": "[baɪ]",
+    "美音": "[baɪ]",
+    "释义(中文)": "prep. 通过；被；依据；经由；在附近；在……之前\nadv. 通过；经过；附近；[互联网] 白俄罗斯的国家代码顶级域名",
+    "释义(英文)": "r. so as to pass a given point"
+  },
+  {
+    "单词": "sometimes",
+    "英音": "[ˈsʌmtaɪmz]",
+    "美音": "[ˈsʌmtaɪmz]",
+    "释义(中文)": "adv. 有时，间或",
+    "释义(英文)": "r. on certain occasions or in certain cases but not always; at other times for six months\""
+  },
+  {
+    "单词": "take",
+    "英音": "[teɪk]",
+    "美音": "[teɪk]",
+    "释义(中文)": "vi. 拿；获得\nvt. 拿，取；采取；接受（礼物等）；买，花费；耗费（时间等）\nn. 捕获量；看法；利益，盈益；（入场券的）售得金额",
+    "释义(英文)": "n. the act of photographing a scene or part of a scene without interruption\nv. carry out\nv. require (time or space)\nv. get into one's hands, take physically"
+  },
+  {
+    "单词": "subway",
+    "英音": "[ˈsʌbweɪ]",
+    "美音": "[ˈsʌbweɪ]",
+    "释义(中文)": "n. 地铁；地道\nvi. 乘地铁",
+    "释义(英文)": "n an electric railway operating below the surface of the ground (usually in a city)\nn an underground tunnel or passage enabling pedestrians to cross a road or railway"
+  },
+  {
+    "单词": "minute",
+    "英音": "[ˈmɪnɪt]",
+    "美音": "[ˈmɪnɪt]",
+    "释义(中文)": "n. 分，分钟；片刻，一会儿；备忘录，笔记；会议记录\nvt. 将…记录下来\nadj. 微小的，详细的 [maɪˈnjuːt; US -ˈnuːt; maɪˋnut]",
+    "释义(英文)": "n. a unit of time equal to 60 seconds or 1/60th of an hour\nn. a unit of angular distance equal to a 60th of a degree\nn. a short note\ns. characterized by painstaking care and detailed examination"
+  },
+  {
+    "单词": "bus",
+    "英音": "[bʌs]",
+    "美音": "[bʌs]",
+    "释义(中文)": "n. 公共汽车\n乘公共汽车",
+    "释义(英文)": "n. a vehicle carrying many passengers; used for public transport\nn. a car that is old and unreliable\nv. send or move around by bus\nv. ride in a bus"
+  },
+  {
+    "单词": "dressed",
+    "英音": "[drest]",
+    "美音": "[drest]",
+    "释义(中文)": "v. 装饰；给…穿衣；布置（dress的过去分词）\nadj. 穿好衣服的；打扮好的；去内脏及分割加工好的（特指动物，如鱼，禽类等）",
+    "释义(英文)": "s. treated with medications and protective covering\ns. (of lumber or stone) to trim and smooth\ns. dressed in fancy or formal clothing"
+  },
+  {
+    "单词": "get dressed",
+    "英音": "[ɡet drest]",
+    "美音": "[ɡet drest]",
+    "释义(中文)": "v. 穿衣服\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "already",
+    "英音": "[ɔːlˈredi]",
+    "美音": "[ɔːlˈredi]",
+    "释义(中文)": "adv. 已经，早已；先前",
+    "释义(英文)": "r. prior to a specified or implied time"
+  },
+  {
+    "单词": "brush",
+    "英音": "[brʌʃ]",
+    "美音": "[brʌʃ]",
+    "释义(中文)": "n. 刷子；画笔；毛笔；争吵；与某人有效冲突；灌木丛地带；矮树丛；狐狸尾巴\nvi. 刷；擦过；掠过；（经过时）轻触\nvt. 刷；画；",
+    "释义(英文)": "n. a dense growth of bushes\nn. an implement that has hairs or bristles firmly set into a handle\nn. momentary contact\nn. conducts current between rotating and stationary parts of a generator or motor"
+  },
+  {
+    "单词": "teeth",
+    "英音": "[tiːθ]",
+    "美音": "[tiːθ]",
+    "释义(中文)": "n. 牙齿",
+    "释义(英文)": "n the kind and number and arrangement of teeth (collectively) in a person or animal\nn hard bonelike structures in the jaws of vertebrates; used for biting and chewing or for attack and defense\nn something resembling the tooth of an animal\nn toothlike structure in invertebrates found in the mouth or alimentary canal or on a shell\nn a means of enforcement\nn one of a number of uniform projections on a gear"
+  },
+  {
+    "单词": "finish",
+    "英音": "[ˈfɪnɪʃ]",
+    "美音": "[ˈfɪnɪʃ]",
+    "释义(中文)": "n. 结束；完美；回味（葡萄酒）\nvt. 完成；结束；用完\nvi. 结束，终止；终结",
+    "释义(英文)": "n. the place designated as the end (as of a race or journey)\nn. designated event that concludes a contest (especially a race)\nn. the downfall of someone (as of persons on one side of a conflict)\nn. (wine tasting) the taste of a wine on the back of the tongue (as it is swallowed)"
+  },
+  {
+    "单词": "I'm finished.",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "wait",
+    "英音": "[weɪt]",
+    "美音": "[weɪt]",
+    "释义(中文)": "n. 等待；等候\nvi. 等待；耽搁；伺候用餐\nvt. 等候；推迟；延缓\n",
+    "释义(英文)": "n. the act of waiting (remaining inactive in one place while expecting something)\nv. stay in one place and anticipate or expect something\nv. wait before acting\nv. serve as a waiter or waitress in a restaurant"
+  },
+  {
+    "单词": "downstairs",
+    "英音": "[ˌdaʊnˈsteəz]",
+    "美音": "[ˌdaʊnˈsterz]",
+    "释义(中文)": "n. 楼下\nadj. 楼下的\nadv. 在楼下",
+    "释义(英文)": "a. on or of lower floors of a building\nr. on a floor below"
+  },
+  {
+    "单词": "make the bed",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 铺床；整理床铺；整理被物",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "hurry",
+    "英音": "[ˈhʌri]",
+    "美音": "[ˈhɜːri]",
+    "释义(中文)": "n. 匆忙，急忙\nv. 仓促（做某事）；催促；（朝某方向）迅速移动；迅速处理\n",
+    "释义(英文)": "n. a condition of urgency making it necessary to hurry"
+  },
+  {
+    "单词": "hurry up",
+    "英音": "['hʌrɪ ʌp]",
+    "美音": "['hɜːrɪ ʌp]",
+    "释义(中文)": "na. 催促；赶快\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "newspaper",
+    "英音": "[ˈnjuːzpeɪpə(r)]",
+    "美音": "[ˈnuːzpeɪpər]",
+    "释义(中文)": "n. 报纸\n报社\n旧报纸",
+    "释义(英文)": "n. a daily or weekly publication on folded sheets; contains news and articles and advertisements\nn. a business firm that publishes newspapers\nn. the physical object that is the product of a newspaper publisher\nn. cheap paper made from wood pulp and used for printing newspapers"
+  },
+  {
+    "单词": "study",
+    "英音": "[ˈstʌdi]",
+    "美音": "[ˈstʌdi]",
+    "释义(中文)": "n. 学习，研究；课题；书房；学问\nvt. 学习；考虑；攻读；细察\nvi. 研究；用功\n",
+    "释义(英文)": "n. applying the mind to learning and understanding a subject (especially by reading)\nn. a state of deep mental absorption\nn. a room used for reading and writing and studying\nn. someone who memorizes quickly and easily (as the lines for a part in a play)"
+  },
+  {
+    "单词": "did",
+    "英音": "[dɪd]",
+    "美音": "[dɪd]",
+    "释义(中文)": "v. 做（do的过去式）",
+    "释义(英文)": "v engage in\nv carry out or perform an action\nv get (something) done\nv proceed or get along\nv give rise to; cause to happen or occur, not always intentionally\nv carry out or practice; as of jobs and professions\nv be sufficient; be adequate, either in quality or quantity\nv create or design, often in a certain way\nv behave in a certain manner; show a certain behavior; conduct or comport oneself\nv spend time in prison or in a labor camp\nv carry on or function\nv arrange attractively\nv travel or traverse (a distance)"
+  },
+  {
+    "单词": "was",
+    "英音": "[wəz; wɒz]",
+    "美音": "[wəz; wʌz]",
+    "释义(中文)": "be的第一和第三人称单数过去式",
+    "释义(英文)": "n a state in northwestern United States on the Pacific\nv have the quality of being; (copula, used with an adjective or a predicate noun)\nv be identical to; be someone or something\nv occupy a certain position or area; be somewhere\nv have an existence, be extant\nv happen, occur, take place; this was during the visit to my parents' house\"\nv be identical or equivalent to\nv form or compose\nv work in a specific place, with a specific subject, or in a specific function\nv represent, as of a character on stage\nv spend or use time\nv have life, be alive\nv to remain unmolested, undisturbed, or uninterrupted -- used only in infinitive form\nv be priced at"
+  },
+  {
+    "单词": "win",
+    "英音": "[wɪn]",
+    "美音": "[wɪn]",
+    "释义(中文)": "n. 赢；胜利\nvt. 赢得；在…中获胜；劝诱\nvi. 赢；获胜；成功\n",
+    "释义(英文)": "n. a victory (as in a race or other competition)\nv. be the winner in a contest or competition; be victorious"
+  },
+  {
+    "单词": "homework",
+    "英音": "[ˈhəʊmwɜːk]",
+    "美音": "[ˈhoʊmwɜːrk]",
+    "释义(中文)": "n. 家庭作业，课外作业",
+    "释义(英文)": "n. preparatory school work done outside school (especially at home)"
+  },
+  {
+    "单词": "do one's homework",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 做功课\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "before",
+    "英音": "[bɪˈfɔː(r)]",
+    "美音": "[bɪˈfɔːr]",
+    "释义(中文)": "prep. 在…之前，先于\nconj. 在…以前；在…之前\nadv. 以前；在前",
+    "释义(英文)": "r earlier in time; previously\nr at or in the front"
+  },
+  {
+    "单词": "dinner",
+    "英音": "[ˈdɪnə(r)]",
+    "美音": "[ˈdɪnər]",
+    "释义(中文)": "n. 晚餐，晚宴；宴会；正餐\n",
+    "释义(英文)": "n. the main meal of the day served in the evening or at midday\nn. a party of people assembled to have dinner together"
+  },
+  {
+    "单词": "wash",
+    "英音": "[wɒʃ]",
+    "美音": "[wɑːʃ]",
+    "释义(中文)": "n. 洗涤；洗的衣服；化妆水；冲积物\nvt. 洗涤；洗刷；冲走；拍打\nvi. 洗澡；被冲蚀\n",
+    "释义(英文)": "n. a thin coat of water-base paint\nn. the work of cleansing (usually with soap and water)\nn. the dry bed of an intermittent stream (as at the bottom of a canyon)\nn. a watercolor made by applying a series of monochrome washes one over the other"
+  },
+  {
+    "单词": "aw",
+    "英音": "[ɔː]",
+    "美音": "[ɔː]",
+    "释义(中文)": "int. 哦！噢！（表示抗议， 厌恶， 讨厌等）\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "arrive",
+    "英音": "[əˈraɪv]",
+    "美音": "[əˈraɪv]",
+    "释义(中文)": "vi. 到达；成功；达成；出生\n",
+    "释义(英文)": "v. reach a destination; arrive by movement or progress\nv. succeed in a big way; get to the top"
+  },
+  {
+    "单词": "went",
+    "英音": "[went]",
+    "美音": "[went]",
+    "释义(中文)": "v. 去，过去（go的过去式）\n",
+    "释义(英文)": "v change location; move, travel, or proceed, also metaphorically\nv follow a procedure or take a course\nv move away from a place into another direction\nv enter or assume a certain state or condition\nv be awarded; be allotted\nv have a particular form\nv stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point\nv follow a certain course\nv be abolished or discarded\nv be or continue to be in a certain condition\nv make a certain noise or sound\nv perform as expected when applied\nv to be spent or finished\nv progress by being changed\nv continue to live through hardship or adversity\nv pass, fare, or elapse; of a certain state of affairs or action\nv pass from physical life and lose all bodily attributes and functions necessary to sustain life\nv be in the right place or situation\nv be ranked or compare\nv begin or set in motion\nv have a turn; make one's move in a game\nv be contained in\nv be sounded, played, or expressed\nv blend or harmonize\nv lead, extend, or afford access\nv be the right size or shape; fit correctly or as desired\nv go through in search of something; search through someone's belongings in an unauthorized way\nv be spent\nv give support (to) or make a choice (of) one out of a group or number\nv stop operating or functioning"
+  },
+  {
+    "单词": "borrow",
+    "英音": "[ˈbɒrəʊ]",
+    "美音": "[ˈbɔːroʊ]",
+    "释义(中文)": "vt. 借；借用\nvi. 借；借用；从其他语言中引入\n",
+    "释义(英文)": "v. get temporarily"
+  },
+  {
+    "单词": "tennis",
+    "英音": "[ˈtenɪs]",
+    "美音": "[ˈtenɪs]",
+    "释义(中文)": "n. 网球（运动）\n",
+    "释义(英文)": "n. a game played with rackets by two or four players who hit a ball back and forth over a net that divides the court"
+  },
+  {
+    "单词": "saw",
+    "英音": "[sɔː]",
+    "美音": "[sɔː]",
+    "释义(中文)": "n. 锯子；谚语\nv. see的过去式\nvi. 锯；用锯；将某物锯成小块\nvt. 看见；明白，了解；锯；锯成；锯开",
+    "释义(英文)": "n. hand tool having a toothed blade for cutting\nv. cut with a saw"
+  },
+  {
+    "单词": "movie",
+    "英音": "[ˈmuːvi]",
+    "美音": "[ˈmuːvi]",
+    "释义(中文)": "n. 电影；电影院；电影业\nadj. 电影的",
+    "释义(英文)": "n. a form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement"
+  },
+  {
+    "单词": "museum",
+    "英音": "[mjuˈziːəm]",
+    "美音": "[mjuˈziːəm]",
+    "释义(中文)": "n. 博物馆",
+    "释义(英文)": "n. a depository for collecting and displaying objects having scientific or historical or artistic value"
+  },
+  {
+    "单词": "basketball",
+    "英音": "[ˈbɑːskɪtbɔːl]",
+    "美音": "[ˈbæskɪtbɔːl]",
+    "释义(中文)": "n. 篮球；篮球运动",
+    "释义(英文)": "n. a game played on a court by two opposing teams of 5 players; points are scored by throwing the ball through an elevated horizontal hoop\nn. an inflated ball used in playing basketball"
+  },
+  {
+    "单词": "date",
+    "英音": "[deɪt]",
+    "美音": "[deɪt]",
+    "释义(中文)": "n. 日期；约会；年代；枣椰子\nvt. 确定…年代；和…约会\nvi. 过时；注明日期；始于（某一历史时期）\n",
+    "释义(英文)": "n. the specified day of the month\nn. a participant in a date\nn. a meeting arranged in advance\nn. a particular but unspecified point in time"
+  },
+  {
+    "单词": "father",
+    "英音": "[ˈfɑːðə(r)]",
+    "美音": "[ˈfɑːðər]",
+    "释义(中文)": "n. 父亲，爸爸；神父；祖先；前辈\nvt. 发明，创立；当…的父亲",
+    "释义(英文)": "n. a male parent (also used as a term of address to your father)\nn. `Father' is a term of address for priests in some churches (especially the Roman Catholic Church or the Orthodox Catholic Church); `Padre' is frequently used in the military\nn. a person who holds an important or distinguished position in some organization\nn. God when considered as the first person in the Trinity"
+  },
+  {
+    "单词": "November",
+    "英音": "[nəʊˈvembə(r)]",
+    "美音": "[noʊˈvembər]",
+    "释义(中文)": "n. 十一月",
+    "释义(英文)": "n. the month following October and preceding December"
+  },
+  {
+    "单词": "fifteenth",
+    "英音": "[ˌfɪfˈtiːnθ]",
+    "美音": "[ˌfɪfˈtiːnθ]",
+    "释义(中文)": "adj. 第十五的；十五分之一的\nnum. 第十五",
+    "释义(英文)": "n. position 15 in a countable series of things\ns. coming next after the fourteenth and just before the sixteenth in position"
+  },
+  {
+    "单词": "sixth",
+    "英音": "[sɪksθ]",
+    "美音": "[sɪksθ]",
+    "释义(中文)": "n. 月的第六日，（与the连用的）第六个；六分之一\nadj. （与 the 连用）第六的，第六个的；六分之一的",
+    "释义(英文)": "n. position six in a countable series of things\nn. the musical interval between one note and another six notes away from it\ns. coming next after the fifth and just before the seventh in position"
+  },
+  {
+    "单词": "when",
+    "英音": "[wen]",
+    "美音": "[wen]",
+    "释义(中文)": "conj. 考虑到；既然；当…时；在…时；如果\nn. 时间，时候；日期；场合\nadv. 什么时候，何时；（用于时间的表达方式之后）在那时；其时；当时\npron. 那时；什么时侯",
+    "释义(英文)": "adv. At what time; -- used interrogatively.\nadv. At what time; at, during, or after the time that; at or\n   just after, the moment that; -- used relatively.\nadv. While; whereas; although; -- used in the manner of a\n   conjunction to introduce a dependent adverbial sentence or clause,\n   having a causal, conditional, or adversative relation to the principal\n   proposition; as, he chose to turn highwayman when he might have\n   continued an honest man; he removed the tree when it was the best in\n   the grounds.\nadv. Which time; then; -- used elliptically as a noun."
+  },
+  {
+    "单词": "September",
+    "英音": "[sepˈtembə(r)]",
+    "美音": "[sepˈtembər]",
+    "释义(中文)": "n. 九月",
+    "释义(英文)": "n. the month following August and preceding October"
+  },
+  {
+    "单词": "join",
+    "英音": "[dʒɔɪn]",
+    "美音": "[dʒɔɪn]",
+    "释义(中文)": "vt. 参加；结合；连接\nvi. 加入；参加；结合\nn. 结合；连接；接合点\n",
+    "释义(英文)": "v. become part of; become a member of a group or organization\nv. cause to become joined or linked\nv. come into the company of\nv. make contact or come together"
+  },
+  {
+    "单词": "eighth",
+    "英音": "[eɪtθ]",
+    "美音": "[eɪtθ]",
+    "释义(中文)": "num. 第八；八分之一\nadj. 第八的；八分之一的",
+    "释义(英文)": "n. position eight in a countable series of things\ns. coming next after the seventh and just before the ninth in position"
+  },
+  {
+    "单词": "teddy bear",
+    "英音": "[ˈtedi beə(r)]",
+    "美音": "[ˈtedi ber]",
+    "释义(中文)": "n. 泰迪熊（一种柔软的毛绒玩具熊）\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "anyway",
+    "英音": "[ˈeniweɪ]",
+    "美音": "[ˈeniweɪ]",
+    "释义(中文)": "adv. 无论如何，不管怎样；总之",
+    "释义(英文)": "r used to indicate that a statement explains or supports a previous statement; anyhow, they're quiet\"; anyway, it's gone\"; in any case, there was a brief scuffle\"\nr in any way whatsoever"
+  },
+  {
+    "单词": "gift shop",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 礼品店\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "January",
+    "英音": "[ˈdʒænjuəri]",
+    "美音": "[ˈdʒænjueri]",
+    "释义(中文)": "n. 一月",
+    "释义(英文)": "n. the first month of the year; begins 10 days after the winter solstice"
+  },
+  {
+    "单词": "twenty-second",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "num. 第二十二",
+    "释义(英文)": "s coming next after the twenty-first in position"
+  },
+  {
+    "单词": "March",
+    "英音": "[mɑːtʃ]",
+    "美音": "[mɑːrtʃ]",
+    "释义(中文)": "n. 三月",
+    "释义(英文)": "n. the month following February and preceding April\nn. the act of marching; walking with regular steps (especially in a procession of some kind)\nn. a steady advance\nn. a procession of people walking together"
+  },
+  {
+    "单词": "fourteenth",
+    "英音": "[ˌfɔːˈtiːnθ]",
+    "美音": "[ˌfɔːrˈtiːnθ]",
+    "释义(中文)": "num. 第十四\nn. 第十四；月的第十四日；十四分之一\nadj. 第十四的；第十四个的",
+    "释义(英文)": "n. position 14 in a countable series of things\ns. coming next after the thirteenth in position"
+  },
+  {
+    "单词": "June",
+    "英音": "[dʒuːn]",
+    "美音": "[dʒuːn]",
+    "释义(中文)": "n. 六月；琼（人名，来源于拉丁语，含义是“年轻气盛的六月”）",
+    "释义(英文)": "n. the month following May and preceding July"
+  },
+  {
+    "单词": "thirteenth",
+    "英音": "[ˌθɜːˈtiːnθ]",
+    "美音": "[ˌθɜːrˈtiːnθ]",
+    "释义(中文)": "n. 第十三；十三分之一\nadj. 第十三的；十三分之一的",
+    "释义(英文)": "n. position 13 in a countable series of things\ns. coming next after the twelfth in position"
+  },
+  {
+    "单词": "thirtieth",
+    "英音": "[ˈθɜːtiəθ]",
+    "美音": "[ˈθɜːrtiəθ]",
+    "释义(中文)": "n. 第三十；三十分之一\nadj. 第三十个的；三十分之一的\nnum. 第三十；三十分之一",
+    "释义(英文)": "n. position 30 in a countable series of things\ns. coming next after the twenty-ninth in position"
+  },
+  {
+    "单词": "August",
+    "英音": "[ˈɔːɡəst]",
+    "美音": "[ˈɔːɡəst]",
+    "释义(中文)": "n. 八月（简写为Aug）\nadj. 威严的；令人敬畏的",
+    "释义(英文)": "n. the month following July and preceding September\ns. of or befitting a lord\ns. profoundly honored"
+  },
+  {
+    "单词": "nineteenth",
+    "英音": "[ˌnaɪnˈtiːnθ]",
+    "美音": "[ˌnaɪnˈtiːnθ]",
+    "释义(中文)": "num. 第十九；十九分之一",
+    "释义(英文)": "n. position 19 in a countable series of things\ns. coming next after the eighteenth in position"
+  },
+  {
+    "单词": "twenty-third",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "num. 第二十三",
+    "释义(英文)": "s coming next after the twenty-second in position"
+  },
+  {
+    "单词": "tie",
+    "英音": "[taɪ]",
+    "美音": "[taɪ]",
+    "释义(中文)": "n. 领带；平局；鞋带；领结；不分胜负\nvi. 打结；不分胜负；被用带（或绳子等）系住\nvt. 系；约束；打结；与…成平局\n",
+    "释义(英文)": "n. equality of score in a contest\nn. a horizontal beam used to prevent two other structural members from spreading apart or separating\nn. (music) a slur over two notes of the same pitch; indicates that the note is to be sustained for their combined time value\nn. one of the cross braces that support the rails on a railway track"
+  },
+  {
+    "单词": "July",
+    "英音": "[dʒʊˈlaɪ]",
+    "美音": "[dʒʊˈlaɪ]",
+    "释义(中文)": "n. 七月",
+    "释义(英文)": "n. the month following June and preceding August"
+  },
+  {
+    "单词": "October",
+    "英音": "[ɒkˈtəʊbə(r)]",
+    "美音": "[ɑːkˈtoʊbər]",
+    "释义(中文)": "n. [天] 十月",
+    "释义(英文)": "n. the month following September and preceding November"
+  },
+  {
+    "单词": "December",
+    "英音": "[dɪˈsembə(r)]",
+    "美音": "[dɪˈsembər]",
+    "释义(中文)": "n. 十二月",
+    "释义(英文)": "n. the last (12th) month of the year"
+  },
+  {
+    "单词": "April",
+    "英音": "[ˈeɪprəl]",
+    "美音": "[ˈeɪprəl]",
+    "释义(中文)": "n. 四月",
+    "释义(英文)": "n. the month following March and preceding May"
+  },
+  {
+    "单词": "May",
+    "英音": "[meɪ]",
+    "美音": "[meɪ]",
+    "释义(中文)": "aux. 可以，能够；可能，也许；祝，愿；会，能",
+    "释义(英文)": "n. the month following April and preceding June"
+  },
+  {
+    "单词": "mother",
+    "英音": "[ˈmʌðə(r)]",
+    "美音": "[ˈmʌðər]",
+    "释义(中文)": "n. 母亲；大娘；女修道院院长\nvt. 生下；养育；像母亲般关怀或照管\nadj. 母亲的；出生地的",
+    "释义(英文)": "n. a woman who has given birth to a child (also used as a term of address to your mother)\nn. a stringy slimy substance consisting of yeast cells and bacteria; forms during fermentation and is added to cider or wine to produce vinegar\nn. a term of address for an elderly woman\nn. a term of address for a mother superior"
+  },
+  {
+    "单词": "February",
+    "英音": "[ˈfebruəri]",
+    "美音": "[ˈfebrueri]",
+    "释义(中文)": "n. 二月",
+    "释义(英文)": "n. the month following January and preceding March"
+  },
+  {
+    "单词": "twelfth",
+    "英音": "[twelfθ]",
+    "美音": "[twelfθ]",
+    "释义(中文)": "n. 第十二；月的第十二日\nadj. 第十二的，第十二个的；十二分之一的",
+    "释义(英文)": "n. position 12 in a countable series of things\ns. coming next after the eleventh and just before the thirteenth in position"
+  },
+  {
+    "单词": "size",
+    "英音": "[saɪz]",
+    "美音": "[saɪz]",
+    "释义(中文)": "n. 大小；尺寸\nadj. 一定尺寸的\nvt. 依大小排列\nvi. 可比拟",
+    "释义(英文)": "n. the physical magnitude of something (how big it is)\nn. the property resulting from being one of a series of graduated measurements (as of clothing)\nn. any glutinous material used to fill pores in surfaces or to stiffen fabrics\nn. the actual state of affairs"
+  },
+  {
+    "单词": "without",
+    "英音": "[wɪˈðaʊt]",
+    "美音": "[wɪˈðaʊt]",
+    "释义(中文)": "prep. 没有；超过；在…外面\nn. 外部；外面\nadv. 户外；在外面；没有或不显示某事物",
+    "释义(英文)": "prep. On or at the outside of; out of; not within; as,\n   without doors.\nprep. Out of the limits of; out of reach of; beyond.\nprep. Not with; otherwise than with; in absence of,\n   separation from, or destitution of; not with use or employment of;\n   independently of; exclusively of; with omission; as, without labor;\n   without damage.\nconj. Unless; except; -- introducing a clause.\nadv. On or art the outside; not on the inside; not within;\n   outwardly; externally.\nadv. Outside of the house; out of doors."
+  },
+  {
+    "单词": "button",
+    "英音": "[ˈbʌt(ə)n]",
+    "美音": "[ˈbʌt(ə)n]",
+    "释义(中文)": "n. 按钮；纽扣\nvt. 扣住；扣紧；在…上装纽扣\nvi. 扣住；装有纽扣；扣上纽扣\n",
+    "释义(英文)": "n. a round fastener sewn to shirts and coats etc to fit through buttonholes\nn. any of various plant parts that resemble buttons\nn. a round flat badge displaying information and suitable for pinning onto a garment\nn. any artifact that resembles a button"
+  },
+  {
+    "单词": "collar",
+    "英音": "[ˈkɒlə(r)]",
+    "美音": "[ˈkɑːlər]",
+    "释义(中文)": "n. 衣领；颈圈\nvt. 抓住；给…上领子；给…套上颈圈\n",
+    "释义(英文)": "n. a band that fits around the neck and is usually folded over\nn. (zoology) an encircling band or marking around the neck of any animal\nn. anything worn or placed about the neck\nn. a short ring fastened over a rod or shaft to limit, guide, or secure a machine part"
+  },
+  {
+    "单词": "a lot",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 许多\nadv. 常\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "expensive",
+    "英音": "[ɪkˈspensɪv]",
+    "美音": "[ɪkˈspensɪv]",
+    "释义(中文)": "adj. 昂贵的；花钱的",
+    "释义(英文)": "a. high in price or charging high prices"
+  },
+  {
+    "单词": "only",
+    "英音": "[ˈəʊnli]",
+    "美音": "[ˈoʊnli]",
+    "释义(中文)": "adv. 只，仅仅；不料\nadj. 唯一的，仅有的；最合适的\nconj. 但是；不过；可是",
+    "释义(英文)": "r. with nevertheless the final result\nr. in the final outcome\nr. except that; only this time she came out better\"\nr. never except when"
+  },
+  {
+    "单词": "cheaper",
+    "英音": "[tʃiːpə]",
+    "美音": "[ˈtʃiːpər]",
+    "释义(中文)": "adj. 成本更低，比较便宜的",
+    "释义(英文)": "a relatively low in price or charging low prices\ns tastelessly showy\ns of very poor quality; flimsy\ns embarrassingly stingy"
+  },
+  {
+    "单词": "jacket",
+    "英音": "[ˈdʒækɪt]",
+    "美音": "[ˈdʒækɪt]",
+    "释义(中文)": "n. 羽绒滑雪衫；西装短外套；短上衣，夹克；土豆皮；书籍的护封；文件套，公文夹\nvt. 给…穿夹克；给…装护套；给…包上护封；〈口〉打",
+    "释义(英文)": "n. a short coat\nn. an outer wrapping or casing\nn. the outer skin of a potato\nn. the tough metal shell casing for certain kinds of ammunition"
+  },
+  {
+    "单词": "pocket",
+    "英音": "[ˈpɒkɪt]",
+    "美音": "[ˈpɑːkɪt]",
+    "释义(中文)": "n. 口袋；钱；容器\nadj. 小型的，袖珍的；金钱上的\nvt. 隐藏；忍受；将…放入衣袋\nvi. 形成袋或囊",
+    "释义(英文)": "n. a small pouch inside a garment for carrying small articles\nn. a supply of money\nn. (bowling) the space between the headpin and the pins behind it on the right or left\nn. a small isolated group of people"
+  },
+  {
+    "单词": "purple",
+    "英音": "[ˈpɜːp(ə)l]",
+    "美音": "[ˈpɜːrpl]",
+    "释义(中文)": "n. 紫色；紫袍\nadj. 紫色的；帝王的；华而不实的\nvt. 使成紫色\nvi. 变成紫色",
+    "释义(英文)": "n. a purple color or pigment\nn. of imperial status\nv. become purple\nv. color purple"
+  },
+  {
+    "单词": "zipper",
+    "英音": "[ˈzɪpə(r)]",
+    "美音": "[ˈzɪpər]",
+    "释义(中文)": " [人名] 齐珀",
+    "释义(英文)": "n a fastener for locking together two toothed edges by means of a sliding tab\nv close with a zipper"
+  },
+  {
+    "单词": "sweater",
+    "英音": "[ˈswetə(r)]",
+    "美音": "[ˈswetər]",
+    "释义(中文)": "n. 毛线衣，运动衫；大量出汗的人，发汗剂",
+    "释义(英文)": "n. a crocheted or knitted garment covering the upper part of the body"
+  },
+  {
+    "单词": "smaller",
+    "英音": "[smɔ:lə(r)]",
+    "美音": "[ˈsmɔːlər]",
+    "释义(中文)": "adj. 较小，更小的",
+    "释义(英文)": "s. small or little relative to something else"
+  },
+  {
+    "单词": "bigger",
+    "英音": "[bɪgə(r)]",
+    "美音": "[bɪgə(r)]",
+    "释义(中文)": "adj. 更大的（big的比较级）\n",
+    "释义(英文)": "s. large or big relative to something else"
+  },
+  {
+    "单词": "wear",
+    "英音": "[weə(r)]",
+    "美音": "[wer]",
+    "释义(中文)": "n. 衣物；磨损；耐久性\nv. 穿着；用旧；耗损；面露",
+    "释义(英文)": "n. impairment resulting from long use\nn. the act of having on your person as a covering or adornment\nv. be dressed in\nv. have on one's person"
+  },
+  {
+    "单词": "police",
+    "英音": "[pəˈliːs]",
+    "美音": "[pəˈliːs]",
+    "释义(中文)": "n. 警察，警方；治安\nadj. 警察的；有关警察的\nvt. 监督；管辖；维持治安；为…配备警察",
+    "释义(英文)": "n. the force of policemen and officers"
+  },
+  {
+    "单词": "Take it easy.",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. “take things easy”的变体\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "boots",
+    "英音": "[buːts]",
+    "美音": "[buːts]",
+    "释义(中文)": "n. 靴子（boot的复数）；（英）擦靴的仆役",
+    "释义(英文)": "n footwear that covers the whole foot and lower leg\nn British term for the luggage compartment in a car\nn the swift release of a store of affective force\nn protective casing for something that resembles a leg\nn an instrument of torture that is used to heat or crush the foot and leg\nn a form of foot torture in which the feet are encased in iron and slowly crushed\nn the act of delivering a blow with the foot\nv kick; give a boot to\nv cause to load (an operating system) and start the initial processes"
+  },
+  {
+    "单词": "glasses",
+    "英音": "[ˈɡlɑːsɪz]",
+    "美音": "[ˈɡlæsɪz]",
+    "释义(中文)": "n. [轻] 眼镜；玻璃（glass的复数形式）；双筒望远镜\nv. 把…装入玻璃容器内；给…装上玻璃（glass的第三人称单数形式）",
+    "释义(英文)": "n optical instrument consisting of a frame that holds a pair of lenses for correcting defective vision\nn a brittle transparent solid with irregular atomic structure\nn a container for holding liquids while drinking\nn the quantity a glass will hold\nn a small refracting telescope\nn an amphetamine derivative (trade name Methedrine) used in the form of a crystalline hydrochloride; used as a stimulant to the nervous system and as an appetite suppressant\nn a mirror; usually a ladies' dressing mirror\nn glassware collectively\nv furnish with glass\nv scan (game in the forest) with binoculars\nv enclose with glass\nv put in a glass container\nv become glassy or take on a glass-like appearance"
+  },
+  {
+    "单词": "bought",
+    "英音": "[bɔːt]",
+    "美音": "[bɔːt]",
+    "释义(中文)": "v. 买（buy的过去式和过去分词）",
+    "释义(英文)": "v obtain by purchase; acquire by means of a financial transaction\nv make illegal payments to in exchange for favors or influence\nv be worth or be capable of buying\nv acquire by trade or sacrifice or exchange\nv accept as true"
+  },
+  {
+    "单词": "fountain pen",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 自来水笔\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "hairpin",
+    "英音": "[ˈheəpɪn]",
+    "美音": "[ˈherpɪn]",
+    "释义(中文)": "n. 簪；束发夹；夹发针",
+    "释义(英文)": "n. a double pronged pin used to hold women's hair in place"
+  },
+  {
+    "单词": "anything",
+    "英音": "[ˈeniθɪŋ]",
+    "美音": "[ˈeniθɪŋ]",
+    "释义(中文)": "pron. 任何事",
+    "释义(英文)": "n. Any object, act, state, event, or fact whatever; thing of\n   any kind; something or other; aught; as, I would not do it for\n   anything.\nn. Expressing an indefinite comparison; -- with as or like.\nadv. In any measure; anywise; at all."
+  },
+  {
+    "单词": "jeans",
+    "英音": "[dʒiːnz]",
+    "美音": "[dʒiːnz]",
+    "释义(中文)": "n. 牛仔裤；工装裤\n",
+    "释义(英文)": "n (usually plural) close-fitting trousers of heavy denim for manual work or casual wear\nn a coarse durable twill-weave cotton fabric"
+  },
+  {
+    "单词": "shorts",
+    "英音": "[ʃɔːts]",
+    "美音": "[ʃɔːrts]",
+    "释义(中文)": "n. 短裤\n",
+    "释义(英文)": "n trousers that end at or above the knee\nn underpants worn by men\nn the location on a baseball field where the shortstop is stationed\nn accidental contact between two points in an electric circuit that have a potential difference\nn the fielding position of the player on a baseball team who is stationed between second and third base\nv cheat someone by not returning him enough money\nv create a short circuit in"
+  },
+  {
+    "单词": "old",
+    "英音": "[əʊld]",
+    "美音": "[oʊld]",
+    "释义(中文)": "adj. 陈旧的，古老的；年老的\nn. 古时\n",
+    "释义(英文)": "n. past times (especially in the phrase `in days of old')\na. (used especially of persons) having lived for a relatively long time or attained a specific age\na. of long duration; not new\ns. (used for emphasis) very familiar"
+  },
+  {
+    "单词": "take a walk",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 散步\n",
+    "释义(英文)": "none"
+  }
+]

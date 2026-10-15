@@ -1,0 +1,548 @@
+[
+  {
+    "单词": "machine",
+    "英音": "[məˈʃiːn]",
+    "美音": "[məˈʃiːn]",
+    "释义(中文)": "n. 机械，机器；机构；机械般工作的人\nvt. 用机器制造\n",
+    "释义(英文)": "n. any mechanical or electrical device that transmits or modifies energy to perform or assist in the performance of human tasks\nn. an efficient person\nn. an intricate organization that accomplishes its goals efficiently\nn. a device for overcoming resistance at one point by applying force at some other point"
+  },
+  {
+    "单词": "welcome",
+    "英音": "[ˈwelkəm]",
+    "美音": "[ˈwelkəm]",
+    "释义(中文)": "n. 欢迎\nvt. 欢迎\nadj. 受欢迎的\nint. 欢迎\n",
+    "释义(英文)": "n. the state of being welcome\nn. a greeting or reception\nv. accept gladly\nv. bid welcome to; greet upon arrival"
+  },
+  {
+    "单词": "crisp",
+    "英音": "[krɪsp]",
+    "美音": "[krɪsp]",
+    "释义(中文)": "adj. 脆的；新鲜的；易碎的\nvt. 使卷曲；使发脆\nvi. 卷曲；发脆\nn. 松脆物；油炸马铃薯片\n",
+    "释义(英文)": "s. (of something seen or heard) clearly defined\ns. tender and brittle\ns. pleasantly cold and invigorating\ns. pleasingly firm and fresh"
+  },
+  {
+    "单词": "sir",
+    "英音": "[sɜː(r)]",
+    "美音": "[sɜːr; sər]",
+    "释义(中文)": "n. 先生；（用于姓名前）爵士；阁下；（中小学生对男教师的称呼）先生；老师\n",
+    "释义(英文)": "n. term of address for a man\nn. a title used before the name of knight or baronet"
+  },
+  {
+    "单词": "potato",
+    "英音": "[pəˈteɪtəʊ]",
+    "美音": "[pəˈteɪtoʊ]",
+    "释义(中文)": "n. [作物] 土豆，[作物] 马铃薯",
+    "释义(英文)": "n. an edible tuber native to South America; a staple food of Ireland\nn. annual native to South America having underground stolons bearing edible starchy tubers; widely cultivated as a garden vegetable; vines are poisonous"
+  },
+  {
+    "单词": "dangerous",
+    "英音": "[ˈdeɪndʒərəs]",
+    "美音": "[ˈdeɪndʒərəs]",
+    "释义(中文)": "adj. 危险的\n危险地",
+    "释义(英文)": "a. involving or causing danger or risk; liable to hurt or harm\ns. causing fear or anxiety by threatening great harm"
+  },
+  {
+    "单词": "put",
+    "英音": "[pʊt]",
+    "美音": "[pʊt]",
+    "释义(中文)": "n. 掷；笨蛋；投击；怪人\nadj. 固定不动的\nvi. 出发；击；航行；发芽\nvt. 放；表达；移动；安置；赋予\n",
+    "释义(英文)": "v. put into a certain place or abstract location\nv. cause to be in a certain state; cause to be in a certain relation\nv. attribute or give\nv. cause (someone) to undergo something"
+  },
+  {
+    "单词": "wait",
+    "英音": "[weɪt]",
+    "美音": "[weɪt]",
+    "释义(中文)": "n. 等待；等候\nvi. 等待；耽搁；伺候用餐\nvt. 等候；推迟；延缓\n",
+    "释义(英文)": "n. the act of waiting (remaining inactive in one place while expecting something)\nv. stay in one place and anticipate or expect something\nv. wait before acting\nv. serve as a waiter or waitress in a restaurant"
+  },
+  {
+    "单词": "each",
+    "英音": "[iːtʃ]",
+    "美音": "[iːtʃ]",
+    "释义(中文)": "adj. 每；各自的\npron. 每个；各自\nadv. 每个；各自",
+    "释义(英文)": "s. (used of count nouns) every one considered individually\nr. to or from every one of two or more (considered individually)"
+  },
+  {
+    "单词": "cheap",
+    "英音": "[tʃiːp]",
+    "美音": "[tʃiːp]",
+    "释义(中文)": "adj. 便宜的；小气的；不值钱的\nadv. 便宜地",
+    "释义(英文)": "a. relatively low in price or charging low prices\ns. embarrassingly stingy"
+  },
+  {
+    "单词": "expensive",
+    "英音": "[ɪkˈspensɪv]",
+    "美音": "[ɪkˈspensɪv]",
+    "释义(中文)": "adj. 昂贵的；花钱的",
+    "释义(英文)": "a. high in price or charging high prices"
+  },
+  {
+    "单词": "send",
+    "英音": "[send]",
+    "美音": "[send]",
+    "释义(中文)": "n. 上升运动\nvi. 派人；寄信\nvt. 发送，寄；派遣；使进入；发射\n",
+    "释义(英文)": "v. cause to go somewhere\nv. to cause or order to be taken, directed, or transmitted to another place\nv. transfer"
+  },
+  {
+    "单词": "email",
+    "英音": "[ˈiːmeɪl]",
+    "美音": "[ˈiːmeɪl]",
+    "释义(中文)": "n. 电子信函\nvt. 给…发电子邮件\n",
+    "释义(英文)": "n (computer science) a system of world-wide electronic communication in which a computer user can compose a message at one terminal that can be regenerated at the recipient's terminal when the recipient logs in\nv communicate electronically on the computer"
+  },
+  {
+    "单词": "cost",
+    "英音": "[kɒst]",
+    "美音": "[kɔːst]",
+    "释义(中文)": "n. 费用，代价，成本；损失\nvt. 花费；使付出；使花许多钱\nvi. 花费\n",
+    "释义(英文)": "n. the total spent for goods or services including money and time and labor\nv. be priced at\nv. require to lose, suffer, or sacrifice"
+  },
+  {
+    "单词": "hundred",
+    "英音": "[ˈhʌndrəd]",
+    "美音": "[ˈhʌndrəd]",
+    "释义(中文)": "num. 百；百个\nn. 一百；许多\nadj. 一百的；许多的",
+    "释义(英文)": "n. ten 10s\ns. being ten more than ninety"
+  },
+  {
+    "单词": "shout",
+    "英音": "[ʃaʊt]",
+    "美音": "[ʃaʊt]",
+    "释义(中文)": "n. 呼喊；呼叫\nvi. 呼喊；喊叫；大声说\nvt. 呼喊；大声说",
+    "释义(英文)": "v. utter in a loud voice; talk in a loud voice (usually denoting characteristic manner of speaking)\nv. utter a sudden loud cry"
+  },
+  {
+    "单词": "wolf",
+    "英音": "[wʊlf]",
+    "美音": "[wʊlf]",
+    "释义(中文)": "n. 狼；色狼；残忍贪婪之人\nvt. 大吃；狼吞虎咽地吃\n",
+    "释义(英文)": "n. any of various predatory carnivorous canine mammals of North America and Eurasia that usually hunt in packs\nn. Austrian composer (1860-1903)\nn. German classical scholar who claimed that the Iliad and Odyssey were composed by several authors (1759-1824)\nn. a man who is aggressive in making amorous advances to women"
+  },
+  {
+    "单词": "sheep",
+    "英音": "[ʃiːp]",
+    "美音": "[ʃiːp]",
+    "释义(中文)": "n. 羊，绵羊；胆小鬼\n",
+    "释义(英文)": "n. woolly usually horned ruminant mammal related to the goat\nn. a timid defenseless simpleton who is readily preyed upon\nn. a docile and vulnerable person who would rather follow than make an independent decision"
+  },
+  {
+    "单词": "ran",
+    "英音": "[ræn]",
+    "美音": "[ræn]",
+    "释义(中文)": "v. 跑（run的过去式）\n",
+    "释义(英文)": "v move fast by using one's feet, with one foot off the ground at any given time\nv flee; take to one's heels; cut and run\nv stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point\nv direct or control; projects, businesses, etc.\nv have a particular form\nv move along, of liquids\nv perform as expected when applied\nv change or be different within limits\nv run, stand, or compete for an office or a position\nv cause to emit recorded audio or video\nv move about freely and without restraint, or act as if running around in an uncontrolled way\nv have a tendency or disposition to do or be something; be inclined\nv be operating, running or functioning\nv change from one state to another\nv cause to perform\nv be affected by; be subjected to\nv continue to exist\nv occur persistently\nv carry out a process or program, as on a computer or a machine\nv include as the content; broadcast or publicize\nv carry out\nv pass over, across, or through\nv cause something to pass or lead somewhere\nv make without a miss\nv deal in illegally, such as arms or liquor\nv cause an animal to move fast\nv be diffused\nv sail before the wind\nv cover by running; run a certain distance\nv extend or continue for a certain period of time\nv set animals loose to graze\nv keep company\nv run with the ball; in such sports as football\nv travel rapidly, by any (unspecified) means\nv travel a route regularly\nv pursue for food or sport (as of wild animals)\nv compete in a race\nv progress by being changed\nv reduce or cause to be reduced from a solid to a liquid state, usually by heating\nv come unraveled or undone as if by snagging\nv become undone"
+  },
+  {
+    "单词": "once upon a time",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 从前；很久很久以前；古时候\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "look after",
+    "英音": "[lʊk ˈɑːftə(r)]",
+    "美音": "[lʊk ˈæftər]",
+    "释义(中文)": "na. 照看；照顾；看管；对…负责\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "bored",
+    "英音": "[bɔːd]",
+    "美音": "[bɔːrd]",
+    "释义(中文)": "v. 使厌烦（bore的过去式）；烦扰\nadj. 无聊的；无趣的；烦人的",
+    "释义(英文)": "s. tired of the world"
+  },
+  {
+    "单词": "village",
+    "英音": "[ˈvɪlɪdʒ]",
+    "美音": "[ˈvɪlɪdʒ]",
+    "释义(中文)": "n. 村庄；村民；（动物的）群落",
+    "释义(英文)": "n. a community of people smaller than a town\nn. a settlement smaller than a town"
+  },
+  {
+    "单词": "everyone",
+    "英音": "[ˈevriwʌn]",
+    "美音": "[ˈevriwʌn]",
+    "释义(中文)": "n. 每个人\npron. 每个人；人人",
+    "释义(英文)": "n. Everybody; -- commonly separated, every one."
+  },
+  {
+    "单词": "laugh",
+    "英音": "[lɑːf]",
+    "美音": "[læf]",
+    "释义(中文)": "n. 笑；引人发笑的事或人\nvi. 笑\nvt. 以笑表示；使…笑得",
+    "释义(英文)": "n. the sound of laughing\nn. a facial expression characteristic of a person laughing\nv. produce laughter"
+  },
+  {
+    "单词": "lie",
+    "英音": "[laɪ]",
+    "美音": "[laɪ]",
+    "释义(中文)": "vi. 躺；说谎；位于；展现\nvt. 谎骗\nn. 谎言；位置\n",
+    "释义(英文)": "n. a statement that deviates from or perverts the truth\nn. Norwegian diplomat who was the first Secretary General of the United Nations (1896-1968)\nn. position or manner in which something is situated\nv. be located or situated somewhere; occupy a certain position"
+  },
+  {
+    "单词": "learnt",
+    "英音": "[lɜːnt]",
+    "美音": "[lɜːrnt]",
+    "释义(中文)": "v. 学习（learn的过去式和过去分词）",
+    "释义(英文)": "v gain knowledge or skills\nv get to know or become aware of, usually accidentally\nv commit to memory; learn by heart\nv be a student of a certain subject\nv impart skills or knowledge to\nv find out, learn, or determine with certainty, usually by making an inquiry or other effort"
+  },
+  {
+    "单词": "lesson",
+    "英音": "[ˈlesn]",
+    "美音": "[ˈlesn]",
+    "释义(中文)": "n. 教训；课\nvt. 教训；上课",
+    "释义(英文)": "n. a unit of instruction\nn. a task assigned for individual study"
+  },
+  {
+    "单词": "wouldn't",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "（等于would not）",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "into",
+    "英音": "[ˈɪntə]",
+    "美音": "[ˈɪntə; ˈɪntu; ˈɪntuː]",
+    "释义(中文)": "prep. 到…里；深入…之中；成为…状况；进入到…之内\n",
+    "释义(英文)": "prep. To the inside of; within. It is used in a variety of\n   applications.\nprep. Expressing entrance, or a passing from the outside of a\n   thing to its interior parts; -- following verbs expressing motion; as,\n   come into the house; go into the church; one stream falls or runs into\n   another; water enters into the fine vessels of plants.\nprep. Expressing penetration beyond the outside or surface, or\n   access to the inside, or contents; as, to look into a letter or book;\n   to look into an apartment.\nprep. Indicating insertion; as, to infuse more spirit or\n   animation into a composition.\nprep. Denoting inclusion; as, put these ideas into other words.\nprep. Indicating the passing of a thing from one form,\n   condition, or state to another; as, compound substances may be resolved\n   into others which are more simple; ice is convertible into water, and\n   water into vapor; men are more easily drawn than forced into\n   compliance; we may reduce many distinct substances into one mass; men\n   are led by evidence into belief of truth, and are often enticed into\n   the commission of crimes'into; she burst into tears; children are\n   sometimes frightened into fits; all persons are liable to be seduced\n   into error and folly."
+  },
+  {
+    "单词": "month",
+    "英音": "[mʌnθ]",
+    "美音": "[mʌnθ]",
+    "释义(中文)": "n. 月，一个月的时间",
+    "释义(英文)": "n. a time unit of approximately 30 days"
+  },
+  {
+    "单词": "cheese",
+    "英音": "[tʃiːz]",
+    "美音": "[tʃiːz]",
+    "释义(中文)": "n. [食品] 奶酪；干酪；要人\nadj. 叛变的；胆小的\nvt. 停止",
+    "释义(英文)": "n. a solid food prepared from the pressed curd of milk\nv. used in the imperative (get away, or stop it)\nv. wind onto a cheese"
+  },
+  {
+    "单词": "scared",
+    "英音": "[skeəd]",
+    "美音": "[skerd]",
+    "释义(中文)": "v. 使害怕（scare的过去分词）\nadj. 害怕的",
+    "释义(英文)": "v cause fear in\nv cause to lose courage\nv mark with a scar\ns made afraid"
+  },
+  {
+    "单词": "run away",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 私奔；逃；弄不好\n",
+    "释义(英文)": "n. an easy victory\ns. completely out of control"
+  },
+  {
+    "单词": "concert",
+    "英音": "[ˈkɒnsət]",
+    "美音": "[ˈkɑːnsərt]",
+    "释义(中文)": "n. 音乐会；一致；和谐\nadj. 音乐会用的；在音乐会上演出的\nvt. 使协调；协同安排\nvi. 协调；协力",
+    "释义(英文)": "n. a performance of music by players or singers not involving theatrical staging\nv. contrive (a plan) by mutual agreement\nv. settle by agreement"
+  },
+  {
+    "单词": "violin",
+    "英音": "[ˌvaɪəˈlɪn]",
+    "美音": "[ˌvaɪəˈlɪn]",
+    "释义(中文)": "n. 小提琴；小提琴手\n",
+    "释义(英文)": "n. bowed stringed instrument that is the highest member of the violin family; this instrument has four strings and a hollow body and an unfretted fingerboard and is played with a bow"
+  },
+  {
+    "单词": "guitar",
+    "英音": "[ɡɪˈtɑː(r)]",
+    "美音": "[ɡɪˈtɑːr]",
+    "释义(中文)": "n. 吉他，六弦琴\nvi. 弹吉他",
+    "释义(英文)": "n. a stringed instrument usually having six strings; played by strumming or plucking"
+  },
+  {
+    "单词": "nervous",
+    "英音": "[ˈnɜːvəs]",
+    "美音": "[ˈnɜːrvəs]",
+    "释义(中文)": "adj. 神经的；紧张不安的；强健有力的",
+    "释义(英文)": "s. easily agitated\na. of or relating to the nervous system"
+  },
+  {
+    "单词": "end",
+    "英音": "[end]",
+    "美音": "[end]",
+    "释义(中文)": "n. 结束；目标；尽头；末端；死亡\nvi. 结束，终止；终结\nvt. 结束，终止；终结\n",
+    "释义(英文)": "n. either extremity of something that has length\nn. the point in time at which something ends\nn. the concluding parts of an event or occurrence\nn. a final part or section"
+  },
+  {
+    "单词": "proud",
+    "英音": "[praʊd]",
+    "美音": "[praʊd]",
+    "释义(中文)": "adj. 自豪的；得意的；自负的\n",
+    "释义(英文)": "a. feeling self-respect or pleasure in something by which you measure your self-worth; or being a reason for pride"
+  },
+  {
+    "单词": "surprise",
+    "英音": "[səˈpraɪz]",
+    "美音": "[sərˈpraɪz]",
+    "释义(中文)": "n. 惊奇，诧异；突然袭击\nadj. 令人惊讶的\nvt. 使惊奇；奇袭",
+    "释义(英文)": "n. the astonishment you feel when something totally unexpected happens to you\nn. a sudden unexpected event\nn. the act of surprising someone\nv. cause to be surprised"
+  },
+  {
+    "单词": "hear",
+    "英音": "[hɪə(r)]",
+    "美音": "[hɪr]",
+    "释义(中文)": "vi. 听；听见\nvt. 听到，听；听说；审理",
+    "释义(英文)": "v. perceive (sound) via the auditory sense\nv. examine or hear (evidence or a case) by judicial process\nv. receive a communication from someone"
+  },
+  {
+    "单词": "special",
+    "英音": "[ˈspeʃ(ə)l]",
+    "美音": "[ˈspeʃl]",
+    "释义(中文)": "n. 特使，特派人员；特刊；特色菜；专车；特价商品\nadj. 特别的；专门的，专用的",
+    "释义(英文)": "n. a special offering (usually temporary and at a reduced price) that is featured in advertising\nn. a dish or meal given prominence in e.g. a restaurant\nn. a television production that features a particular person or work or topic\ns. for a special service or occasion"
+  },
+  {
+    "单词": "Father's Day",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 〈美〉父亲节(每年六月的第三个星期日)\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "message",
+    "英音": "[ˈmesɪdʒ]",
+    "美音": "[ˈmesɪdʒ]",
+    "释义(中文)": "n. 消息；差使；启示；预言；广告词\nvi. 报信，报告；[通信] 报文\nvt. 通知",
+    "释义(英文)": "n. a communication (usually brief) that is written or spoken or signaled\nn. what a communication that is about something is about\nv. send a message to\nv. send as a message"
+  },
+  {
+    "单词": "great",
+    "英音": "[ɡreɪt]",
+    "美音": "[ɡreɪt]",
+    "释义(中文)": "n. 大师；大人物；伟人们\nadj. 伟大的，重大的；极好的，好的；主要的",
+    "释义(英文)": "n. a person who has achieved distinction and honor in some field\ns. relatively large in size or number or extent; larger than others of its kind\ns. of major significance or importance\ns. remarkable or out of the ordinary in degree or magnitude or effect"
+  },
+  {
+    "单词": "report",
+    "英音": "[rɪˈpɔːt]",
+    "美音": "[rɪˈpɔːrt]",
+    "释义(中文)": "n. 报告；报道；成绩单\nvt. 报告；报导；使报到\nvi. 报告；报到；写报导\n",
+    "释义(英文)": "n. a written document describing the findings of some individual or group\nn. the act of informing by verbal report\nn. a short account of the news\nn. a sharp explosive sound (especially the sound of a gun firing)"
+  },
+  {
+    "单词": "stick",
+    "英音": "[stɪk]",
+    "美音": "[stɪk]",
+    "释义(中文)": "n. 棍；手杖；呆头呆脑的人\nvi. 坚持；伸出；粘住\nvt. 刺，戳；伸出；粘贴\n",
+    "释义(英文)": "n. an implement consisting of a length of wood\nn. a small thin branch of a tree\nn. a lever used by a pilot to control the ailerons and elevators of an airplane\nn. a rectangular quarter pound block of butter or margarine"
+  },
+  {
+    "单词": "fantastic",
+    "英音": "[fænˈtæstɪk]",
+    "美音": "[fænˈtæstɪk]",
+    "释义(中文)": "n. 古怪的人\nadj. 奇异的；空想的；异想天开的；古怪的；极好的，极出色的；不可思议的；不切实际的",
+    "释义(英文)": "s. extraordinarily good or great; used especially as intensifiers\ns. fanciful and unrealistic; foolish\ns. existing in fancy only\ns. extravagantly fanciful in design, construction, appearance"
+  },
+  {
+    "单词": "fun",
+    "英音": "[fʌn]",
+    "美音": "[fʌn]",
+    "释义(中文)": "n. 乐趣；玩笑；有趣的人或事\nadj. 供娱乐用的\nvi. 开玩笑",
+    "释义(英文)": "n. activities that are enjoyable or amusing\nn. verbal wit or mockery (often at another's expense but not to be taken seriously)\nn. violent and excited activity"
+  },
+  {
+    "单词": "meet",
+    "英音": "[miːt]",
+    "美音": "[miːt]",
+    "释义(中文)": "vt. 满足；遇见；对付\nvi. 相遇；接触\nn. 集会\nadj. 合适的；适宜的\n",
+    "释义(英文)": "n. a meeting at which a number of athletic contests are held\nv. come together\nv. get together socially or for a specific purpose\nv. fill or meet a want or need"
+  },
+  {
+    "单词": "east",
+    "英音": "[iːst]",
+    "美音": "[iːst]",
+    "释义(中文)": "n. 东方；东风；东方国家\nadj. 东方的；向东的；从东方来的\nadv. 向东方，在东方\n",
+    "释义(英文)": "n. the cardinal compass point that is at 90 degrees\nn. the countries of Asia\nn. the region of the United States lying to the north of the Ohio River and to the east of the Mississippi River\nn. the direction corresponding to the eastward cardinal compass point"
+  },
+  {
+    "单词": "west",
+    "英音": "[west]",
+    "美音": "[west]",
+    "释义(中文)": "n. 西；西方；西部\nadj. 西方的；朝西的\nadv. 在西方；向西方；自西方\n",
+    "释义(英文)": "n. the countries of (originally) Europe and (now including) North America and South America\nn. the cardinal compass point that is a 270 degrees\nn. the region of the United States lying to the west of the Mississippi River\nn. the direction corresponding to the westward cardinal compass point"
+  },
+  {
+    "单词": "o'clock",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "abbr. …点钟（等于of the clock）",
+    "释义(英文)": "r. according to the clock"
+  },
+  {
+    "单词": "time",
+    "英音": "[taɪm]",
+    "美音": "[taɪm]",
+    "释义(中文)": "n. 时间；时代；次数；节拍；倍数\nadj. 定时的；定期的；分期的\nvt. 计时；测定…的时间；安排…的速度\n",
+    "释义(英文)": "n. an instance or single occasion for some event\nn. a period of time considered as a resource under your control and sufficient to accomplish something\nn. an indefinite period (usually marked by specific attributes or activities)\nn. a suitable moment"
+  },
+  {
+    "单词": "cartoon",
+    "英音": "[kɑːˈtuːn]",
+    "美音": "[kɑːrˈtuːn]",
+    "释义(中文)": "n. 卡通片，[电影] 动画片；连环漫画\nvt. 为…画漫画\nvi. 画漫画",
+    "释义(英文)": "n. a humorous or satirical drawing published in a newspaper or magazine\nn. a film made by photographing a series of cartoon drawings to give the illusion of movement when projected in rapid sequence\nv. draw cartoons of"
+  },
+  {
+    "单词": "much",
+    "英音": "[mʌtʃ]",
+    "美音": "[mʌtʃ]",
+    "释义(中文)": "adv. 非常，很\nadj. 大量的\nn. 许多，大量\npron. 许多，大量\n",
+    "释义(英文)": "n. a great amount or extent\na. (quantifier used with mass nouns) great in quantity or degree or extent\nr. to a great degree or extent\nr. very"
+  },
+  {
+    "单词": "am",
+    "英音": "[əm; æm]",
+    "美音": "[əm; æm]",
+    "释义(中文)": "abbr. 调幅\nv. 是\n",
+    "释义(英文)": "n a radioactive transuranic metallic element; discovered by bombarding uranium with helium atoms\nn a master's degree in arts and sciences\nn modulation of the amplitude of the (radio) carrier wave\nv have the quality of being; (copula, used with an adjective or a predicate noun)\nv be identical to; be someone or something\nv occupy a certain position or area; be somewhere\nv have an existence, be extant\nv happen, occur, take place; this was during the visit to my parents' house\"\nv be identical or equivalent to\nv form or compose\nv work in a specific place, with a specific subject, or in a specific function\nv represent, as of a character on stage\nv spend or use time\nv have life, be alive\nv to remain unmolested, undisturbed, or uninterrupted -- used only in infinitive form\nv be priced at"
+  },
+  {
+    "单词": "pm",
+    "英音": "[ˌpiː ˈem]",
+    "美音": "[ˌpiː ˈem]",
+    "释义(中文)": "abbr. （拉）下午（Post Meridiem，等于afternoon）；调相（Phase Modulation）\nabbr. 产品经理（Product Manager）",
+    "释义(英文)": "n an examination and dissection of a dead body to determine cause of death or the changes produced by disease\nn a soft silvery metallic element of the rare earth group having no stable isotope; was discovered in radioactive form as a fission product of uranium\nn the person who holds the position of head of the government in the United Kingdom\nn modulation of the phase of the carrier wave"
+  },
+  {
+    "单词": "best",
+    "英音": "[best]",
+    "美音": "[best]",
+    "释义(中文)": "n. 最好的人，最好的事物；最佳状态\nadj. 最好的\nvt. 打败，胜过\nadv. 最好地\n",
+    "释义(英文)": "n. the supreme effort one can make\nn. the person who is most outstanding or excellent; someone who tops all others\nn. Canadian physiologist (born in the United States) who assisted F. G. Banting in research leading to the discovery of insulin (1899-1978)"
+  },
+  {
+    "单词": "north",
+    "英音": "[nɔːθ]",
+    "美音": "[nɔːrθ]",
+    "释义(中文)": "n. 北，北方\nadj. 北方的；朝北的\nadv. 在北方，向北方",
+    "释义(英文)": "n. the region of the United States lying to the north of the Mason-Dixon line\nn. the cardinal compass point that is at 0 or 360 degrees\nn. a location in the northern part of a country, region, or city\nn. the direction corresponding to the northward cardinal compass point"
+  },
+  {
+    "单词": "south",
+    "英音": "[saʊθ]",
+    "美音": "[saʊθ]",
+    "释义(中文)": "n. 南方，南边；南部\nadj. 南的，南方的\nadv. 在南方，向南方\n",
+    "释义(英文)": "n. the region of the United States lying to the south of the Mason-Dixon line\nn. the cardinal compass point that is at 180 degrees\nn. a location in the southern part of a country, region, or city\nn. the direction corresponding to the southward cardinal compass point"
+  },
+  {
+    "单词": "rest",
+    "英音": "[rest]",
+    "美音": "[rest]",
+    "释义(中文)": "n. 休息，静止；休息时间；剩余部分；支架\nvt. 使休息，使轻松；把…寄托于\nvi. 休息；静止；依赖；安置\n",
+    "释义(英文)": "n. freedom from activity (work or strain or responsibility)\nn. a state of inaction\nn. euphemisms for death (based on an analogy between lying in a bed and in a tomb)\nn. a support on which things can be put"
+  },
+  {
+    "单词": "have a rest",
+    "英音": "[hæv ə rest]",
+    "美音": "[hæv ərest]",
+    "释义(中文)": "v. 休息一下\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "country",
+    "英音": "[ˈkʌntri]",
+    "美音": "[ˈkʌntri]",
+    "释义(中文)": "n. 国家，国土；国民；乡下，农村；乡村；故乡\nadj. 祖国的，故乡的；地方的，乡村的；国家的；粗鲁的；乡村音乐的",
+    "释义(英文)": "n. the territory occupied by a nation\nn. an area outside of cities and towns"
+  },
+  {
+    "单词": "speak",
+    "英音": "[spiːk]",
+    "美音": "[spiːk]",
+    "释义(中文)": "vi. 说话；演讲；表明；陈述\nvt. 讲话；发言；讲演",
+    "释义(英文)": "v. use language\nv. make a characteristic or natural sound"
+  },
+  {
+    "单词": "capital",
+    "英音": "[ˈkæpɪt(ə)l]",
+    "美音": "[ˈkæpɪt(ə)l]",
+    "释义(中文)": "n. 首都，省会；资金；大写字母；资本家\nadj. 首都的；重要的；大写的\n",
+    "释义(英文)": "n. assets available for use in the production of further assets\nn. wealth in the form of money or property owned by a person or business and human resources of economic value\nn. a seat of government\nn. one of the large alphabetic characters used as the first letter in writing or printing proper names and sometimes for emphasis; capitals were kept in the upper half of the type case and so became known as upper-case letters\""
+  },
+  {
+    "单词": "maybe",
+    "英音": "[ˈmeɪbi]",
+    "美音": "[ˈmeɪbi]",
+    "释义(中文)": "adv. 也许；可能；大概\nn. 可能性；不确定性",
+    "释义(英文)": "r by chance"
+  },
+  {
+    "单词": "map",
+    "英音": "[mæp]",
+    "美音": "[mæp]",
+    "释义(中文)": "vt. 映射；计划；绘制地图；确定基因在染色体中的位置\nn. 地图；示意图；染色体图\nvi. 基因被安置\n",
+    "释义(英文)": "n. a diagrammatic representation of the earth's surface (or part of it)\nv. make a map of; show or establish the features of details of\nv. explore or survey for the purpose of making a map\nv. locate within a specific region of a chromosome in relation to known DNA or gene sequences"
+  },
+  {
+    "单词": "because",
+    "英音": "[bɪˈkəz, bɪˈkɒz]",
+    "美音": "[bɪˈkəz, bɪˈkɔːz]",
+    "释义(中文)": "conj. 因为",
+    "释义(英文)": "conj. By or for the cause that; on this account that; for the\n   reason that.\nconj. In order that; that."
+  },
+  {
+    "单词": "language",
+    "英音": "[ˈlæŋɡwɪdʒ]",
+    "美音": "[ˈlæŋɡwɪdʒ]",
+    "释义(中文)": "n. 语言；语言文字；表达能力",
+    "释义(英文)": "n. a systematic means of communicating by the use of sounds or conventional symbols\nn. the mental faculty or power of vocal communication"
+  },
+  {
+    "单词": "Australian",
+    "英音": "[ɒˈstreɪliən]",
+    "美音": "[ɔːˈstreɪliən]",
+    "释义(中文)": "adj. 澳大利亚的，澳大利亚人的\nn. 澳大利亚人",
+    "释义(英文)": "n. a native or inhabitant of Australia\nn. the Austronesian languages spoken by Australian aborigines\na. of or relating to or characteristic of Australia or its inhabitants or its languages"
+  },
+  {
+    "单词": "kangaroo",
+    "英音": "[ˌkæŋɡəˈruː]",
+    "美音": "[ˌkæŋɡəˈruː]",
+    "释义(中文)": "n. 袋鼠",
+    "释义(英文)": "n. any of several herbivorous leaping marsupials of Australia and New Guinea having large powerful hind legs and a long thick tail"
+  },
+  {
+    "单词": "back",
+    "英音": "[bæk]",
+    "美音": "[bæk]",
+    "释义(中文)": "n. 后面；背部；靠背；足球等的后卫；书报等的末尾\nadj. 后面的；过去的；拖欠的\nvt. 支持；后退；背书；下赌注\nadv. 以前；向后地；来回地；上溯；回来；回原处\nvi. 后退；背靠；倒退\n",
+    "释义(英文)": "n. the posterior part of a human (or animal) body from the neck to the end of the spine\nn. the part of something that is furthest from the normal viewer\nn. (football) a person who plays in the backfield\nn. the part of a garment that covers the back of your body"
+  },
+  {
+    "单词": "postcard",
+    "英音": "[ˈpəʊstkɑːd]",
+    "美音": "[ˈpoʊstkɑːrd]",
+    "释义(中文)": "n. 明信片",
+    "释义(英文)": "n. a card for sending messages by post without an envelope"
+  },
+  {
+    "单词": "plan",
+    "英音": "[plæn]",
+    "美音": "[plæn]",
+    "释义(中文)": "n. 计划；平面图\nvt. 计划；设计；打算\nvi. 计划；打算\n",
+    "释义(英文)": "n. a series of steps to be carried out or goals to be accomplished\nn. scale drawing of a structure\nv. have the will and intention to carry out some action\nv. make plans for something"
+  },
+  {
+    "单词": "museum",
+    "英音": "[mjuˈziːəm]",
+    "美音": "[mjuˈziːəm]",
+    "释义(中文)": "n. 博物馆",
+    "释义(英文)": "n. a depository for collecting and displaying objects having scientific or historical or artistic value"
+  },
+  {
+    "单词": "restaurant",
+    "英音": "[ˈrestrɒnt]",
+    "美音": "[ˈrestrɑːnt; ˈrestərɑːnt]",
+    "释义(中文)": "n. 餐馆；[经] 饭店",
+    "释义(英文)": "n. a building where people go to eat"
+  }
+]
