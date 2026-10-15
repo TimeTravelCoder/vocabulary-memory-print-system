@@ -1,0 +1,940 @@
+[
+  {
+    "单词": "grandfather",
+    "英音": "[ˈɡrænfɑːðə(r)]",
+    "美音": "[ˈɡrænfɑːðər]",
+    "释义(中文)": "n. 祖父；始祖\nvt. 不受新规定限制",
+    "释义(英文)": "n. the father of your father or mother"
+  },
+  {
+    "单词": "grandmother",
+    "英音": "[ˈɡrænmʌðə(r)]",
+    "美音": "[ˈɡrænmʌðər]",
+    "释义(中文)": "n. 祖母；女祖先\nvt. 当…的祖母\nvi. 当祖母",
+    "释义(英文)": "n the mother of your father or mother"
+  },
+  {
+    "单词": "father",
+    "英音": "[ˈfɑːðə(r)]",
+    "美音": "[ˈfɑːðər]",
+    "释义(中文)": "n. 父亲，爸爸；神父；祖先；前辈\nvt. 发明，创立；当…的父亲",
+    "释义(英文)": "n. a male parent (also used as a term of address to your father)\nn. `Father' is a term of address for priests in some churches (especially the Roman Catholic Church or the Orthodox Catholic Church); `Padre' is frequently used in the military\nn. a person who holds an important or distinguished position in some organization\nn. God when considered as the first person in the Trinity"
+  },
+  {
+    "单词": "mother",
+    "英音": "[ˈmʌðə(r)]",
+    "美音": "[ˈmʌðər]",
+    "释义(中文)": "n. 母亲；大娘；女修道院院长\nvt. 生下；养育；像母亲般关怀或照管\nadj. 母亲的；出生地的",
+    "释义(英文)": "n. a woman who has given birth to a child (also used as a term of address to your mother)\nn. a stringy slimy substance consisting of yeast cells and bacteria; forms during fermentation and is added to cider or wine to produce vinegar\nn. a term of address for an elderly woman\nn. a term of address for a mother superior"
+  },
+  {
+    "单词": "uncle",
+    "英音": "[ˈʌŋk(ə)l]",
+    "美音": "[ˈʌŋkl]",
+    "释义(中文)": "n. 叔叔；伯父；伯伯；舅父；姨丈；姑父",
+    "释义(英文)": "n. the brother of your father or mother; the husband of your aunt\nn. a source of help and advice and encouragement"
+  },
+  {
+    "单词": "aunt",
+    "英音": "[ɑːnt]",
+    "美音": "[ænt]",
+    "释义(中文)": "n. 阿姨；姑妈；伯母；舅妈",
+    "释义(英文)": "n. the sister of your father or mother; the wife of your uncle"
+  },
+  {
+    "单词": "cousin",
+    "英音": "[ˈkʌzn]",
+    "美音": "[ˈkʌzn]",
+    "释义(中文)": "n. 堂兄弟姊妹；表兄弟姊妹",
+    "释义(英文)": "n. the child of your aunt or uncle"
+  },
+  {
+    "单词": "man",
+    "英音": "[mæn]",
+    "美音": "[mæn]",
+    "释义(中文)": "n. 人；男人；人类；丈夫；雇工\nvt. 操纵；给…配置人员；使增强勇气；在…就位\n",
+    "释义(英文)": "n. an adult person who is male (as opposed to a woman)\nn. the generic use of the word to refer to any human being\nn. a male subordinate\nn. an adult male person who has a manly character (virile and courageous competent)"
+  },
+  {
+    "单词": "woman",
+    "英音": "[ˈwʊmən]",
+    "美音": "[ˈwʊmən]",
+    "释义(中文)": "n. 妇女；女性；成年女子",
+    "释义(英文)": "n. an adult female person (as opposed to a man)\nn. a female person who plays a significant role (wife or mistress or girlfriend) in the life of a particular man"
+  },
+  {
+    "单词": "bedroom",
+    "英音": "[ˈbedruːm]",
+    "美音": "[ˈbedruːm; ˈbedrʊm]",
+    "释义(中文)": "n. 卧室\nadj. 两性关系的；城郊住宅区的",
+    "释义(英文)": "n. a room used primarily for sleeping"
+  },
+  {
+    "单词": "house",
+    "英音": "[haʊs]",
+    "美音": "[haʊs]",
+    "释义(中文)": "n. 住宅；家庭；机构；议会；某种用途的建筑物\nvt. 覆盖；给…房子住；把…储藏在房内\nvi. 住\n",
+    "释义(英文)": "n. a dwelling that serves as living quarters for one or more families\nn. the members of a religious community living together\nn. the audience gathered together in a theatre or cinema\nn. an official assembly having legislative powers"
+  },
+  {
+    "单词": "kitchen",
+    "英音": "[ˈkɪtʃɪn]",
+    "美音": "[ˈkɪtʃɪn]",
+    "释义(中文)": "n. 厨房；炊具；炊事人员\n",
+    "释义(英文)": "n. a room equipped for preparing meals"
+  },
+  {
+    "单词": "sitting room",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 起居室\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "bathroom",
+    "英音": "[ˈbɑːθruːm; ˈbɑːθrʊm]",
+    "美音": "[ˈbæθruːm]",
+    "释义(中文)": "n. 浴室；厕所；盥洗室",
+    "释义(英文)": "n. a room (as in a residence) containing a bathtub or shower and usually a washbasin and toilet"
+  },
+  {
+    "单词": "between",
+    "英音": "[bɪˈtwiːn]",
+    "美音": "[bɪˈtwiːn]",
+    "释义(中文)": "prep. 在…之间\nadv. 在中间",
+    "释义(英文)": "r. in the interval\nr. in between"
+  },
+  {
+    "单词": "dining room",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 饭厅；餐厅\n",
+    "释义(英文)": "n a room used for dining"
+  },
+  {
+    "单词": "next to",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "prep. 紧邻；在…近旁；仅次于；紧接\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "bed",
+    "英音": "[bed]",
+    "美音": "[bed]",
+    "释义(中文)": "n. 床；基础；河底， 海底\nvt. 使睡觉；安置，嵌入；栽种\nvi. 上床；分层",
+    "释义(英文)": "n. a piece of furniture that provides a place to sleep\nn. a plot of ground in which plants are growing\nn. a depression forming the ground under a body of water\nn. (geology) a stratum of rock (especially sedimentary rock)"
+  },
+  {
+    "单词": "chair",
+    "英音": "[tʃeə(r)]",
+    "美音": "[tʃer]",
+    "释义(中文)": "n. 椅子；讲座；（会议的）主席位；大学教授的职位\nvt. 担任（会议的）主席；使…入座；使就任要职\n",
+    "释义(英文)": "n. a seat for one person, with a support for the back\nn. a particular seat in an orchestra\nv. act or preside as chair, as of an academic department in a university"
+  },
+  {
+    "单词": "computer",
+    "英音": "[kəmˈpjuːtə(r)]",
+    "美音": "[kəmˈpjuːtər]",
+    "释义(中文)": "n. 计算机；电脑；电子计算机",
+    "释义(英文)": "n. a machine for performing calculations automatically"
+  },
+  {
+    "单词": "desk",
+    "英音": "[desk]",
+    "美音": "[desk]",
+    "释义(中文)": "n. 办公桌；服务台；编辑部；（美）讲道台；乐谱架\nadj. 书桌的；桌上用的；伏案做的",
+    "释义(英文)": "n. a piece of furniture with a writing surface and usually drawers or other compartments"
+  },
+  {
+    "单词": "lamp",
+    "英音": "[læmp]",
+    "美音": "[læmp]",
+    "释义(中文)": "n. 灯；照射器\nvt. 照亮\nvi. 发亮\n",
+    "释义(英文)": "n. an artificial source of visible illumination\nn. a piece of furniture holding one or more electric light bulbs"
+  },
+  {
+    "单词": "poster",
+    "英音": "[ˈpəʊstə(r)]",
+    "美音": "[ˈpoʊstər]",
+    "释义(中文)": "n. 海报，广告；招贴\n",
+    "释义(英文)": "n. a sign posted in a public place as an advertisement"
+  },
+  {
+    "单词": "shelf",
+    "英音": "[ʃelf]",
+    "美音": "[ʃelf]",
+    "释义(中文)": "n. 架子；搁板；搁板状物；暗礁",
+    "释义(英文)": "n. a support that consists of a horizontal surface for holding objects"
+  },
+  {
+    "单词": "door",
+    "英音": "[dɔː(r)]",
+    "美音": "[dɔːr]",
+    "释义(中文)": "n. 门；家，户；门口；通道\n",
+    "释义(英文)": "n. a swinging or sliding barrier that will close the entrance to a room or building or vehicle\nn. anything providing a means of access (or escape)\nn. a structure where people live or work (usually ordered along a street or road)\nn. a room that is entered via a door"
+  },
+  {
+    "单词": "wall",
+    "英音": "[wɔːl]",
+    "美音": "[wɔːl]",
+    "释义(中文)": "n. 墙壁，围墙；似墙之物\nadj. 墙壁的\nvt. 用墙围住，围以墙\n",
+    "释义(英文)": "n. an architectural partition with a height and length greater than its thickness; used to divide or enclose an area or to support another structure\nn. anything that suggests a wall in structure or function or effect\nn. (anatomy) a layer (a lining or membrane) that encloses a structure\nn. a difficult or awkward situation"
+  },
+  {
+    "单词": "morning",
+    "英音": "[ˈmɔːnɪŋ]",
+    "美音": "[ˈmɔːrnɪŋ]",
+    "释义(中文)": "n. 早晨；黎明；初期",
+    "释义(英文)": "n. the time period between dawn and noon"
+  },
+  {
+    "单词": "afternoon",
+    "英音": "[ˌɑːftəˈnuːn]",
+    "美音": "[ˌæftərˈnuːn]",
+    "释义(中文)": "n. 午后，下午",
+    "释义(英文)": "n. the part of the day between noon and evening"
+  },
+  {
+    "单词": "evening",
+    "英音": "[ˈiːvnɪŋ]",
+    "美音": "[ˈiːvnɪŋ]",
+    "释义(中文)": "n. 晚上；傍晚；（联欢性的）晚会；后期\nadj. 在晚上的；为晚上的；晚上用的\nint. 晚上好（等于good evening）",
+    "释义(英文)": "n. the latter part of the day (the period of decreasing daylight from late afternoon until nightfall)\nn. a later concluding time period\nn. the early part of night (from dinner until bedtime) spent in a special way"
+  },
+  {
+    "单词": "night",
+    "英音": "[naɪt]",
+    "美音": "[naɪt]",
+    "释义(中文)": "n. 夜晚，晚上；黑暗，黑夜\nadj. 夜晚的，夜间的",
+    "释义(英文)": "n. the time after sunset and before sunrise while it is dark outside\nn. a period of ignorance or backwardness or gloom\nn. the period spent sleeping\nn. the dark part of the diurnal cycle considered a time unit"
+  },
+  {
+    "单词": "breakfast",
+    "英音": "[ˈbrekfəst]",
+    "美音": "[ˈbrekfəst]",
+    "释义(中文)": "n. 早餐；早饭\nvt. 为…供应早餐\nvi. 吃早餐",
+    "释义(英文)": "n. the first meal of the day (usually in the morning)\nv. eat an early morning meal\nv. provide breakfast for"
+  },
+  {
+    "单词": "lunch",
+    "英音": "[lʌntʃ]",
+    "美音": "[lʌntʃ]",
+    "释义(中文)": "n. 午餐\nvt. 吃午餐；供给午餐\nvi. 吃午餐；供给午餐",
+    "释义(英文)": "n. a midday meal\nv. take the midday meal\nv. provide a midday meal for"
+  },
+  {
+    "单词": "supper",
+    "英音": "[ˈsʌpə(r)]",
+    "美音": "[ˈsʌpər]",
+    "释义(中文)": "n. 晚餐，晚饭；夜宵",
+    "释义(英文)": "n. a light evening meal; served in early evening if dinner is at midday or served late in the evening at bedtime\nn. a social gathering where a light evening meal is served"
+  },
+  {
+    "单词": "eleven",
+    "英音": "[ɪˈlev(ə)n]",
+    "美音": "[ɪˈlevn]",
+    "释义(中文)": "num. 十一；十一个\nn. 十一；十一个\nadj. 十一的；十一个的",
+    "释义(英文)": "n. the cardinal number that is the sum of ten and one\ns. being one more than ten"
+  },
+  {
+    "单词": "twelve",
+    "英音": "[twelv]",
+    "美音": "[twelv]",
+    "释义(中文)": "num. 十二；十二个\nn. 十二；十二个\nadj. 十二的；十二个的",
+    "释义(英文)": "n. the cardinal number that is the sum of eleven and one\ns. denoting a quantity consisting of 12 items or units"
+  },
+  {
+    "单词": "boat",
+    "英音": "[bəʊt]",
+    "美音": "[boʊt]",
+    "释义(中文)": "n. 小船；轮船\nvi. 划船",
+    "释义(英文)": "n. a small vessel for travel on water\nv. ride in a boat on water"
+  },
+  {
+    "单词": "game",
+    "英音": "[ɡeɪm]",
+    "美音": "[ɡeɪm]",
+    "释义(中文)": "n. 游戏；比赛\nadj. 勇敢的\nvi. 赌博\n",
+    "释义(英文)": "n. a contest with rules to determine a winner\nn. a single play of a sport or other contest\nn. an amusement or pastime\nn. animal hunted for food or sport"
+  },
+  {
+    "单词": "puppet",
+    "英音": "[ˈpʌpɪt]",
+    "美音": "[ˈpʌpɪt]",
+    "释义(中文)": "n. 木偶；傀儡；受他人操纵的人",
+    "释义(英文)": "n. a small figure of a person operated from above with strings by a puppeteer\nn. a doll with a hollow head of a person or animal and a cloth body; intended to fit over the hand and be manipulated with the fingers"
+  },
+  {
+    "单词": "puzzle",
+    "英音": "[ˈpʌzl]",
+    "美音": "[ˈpʌzl]",
+    "释义(中文)": "n. 谜；难题；迷惑\nvt. 使…困惑；使…为难；苦思而得出\nvi. 迷惑；冥思苦想",
+    "释义(英文)": "n. a particularly baffling problem that is said to have a correct solution\nn. a game that tests your ingenuity\nv. be uncertain about; think about without fully understanding or being able to decide"
+  },
+  {
+    "单词": "skateboard",
+    "英音": "[ˈskeɪtbɔːd]",
+    "美音": "[ˈskeɪtbɔːrd]",
+    "释义(中文)": "n. 溜冰板\nvi. 用滑板滑行",
+    "释义(英文)": "n. a board with wheels that is ridden in a standing or crouching position and propelled by foot\nv. ride on a flat board with rollers attached to the bottom"
+  },
+  {
+    "单词": "skipping rope",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 跳绳\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "spaceship",
+    "英音": "[ˈspeɪsʃɪp]",
+    "美音": "[ˈspeɪsʃɪp]",
+    "释义(中文)": "n. [航] 宇宙飞船",
+    "释义(英文)": "n a spacecraft designed to carry a crew into interstellar space (especially in science fiction)"
+  },
+  {
+    "单词": "football",
+    "英音": "[ˈfʊtbɔːl]",
+    "美音": "[ˈfʊtbɔːl]",
+    "释义(中文)": "n. 足球，橄榄球\nvi. 踢足球；打橄榄球",
+    "释义(英文)": "n. any of various games played with a ball (round or oval) in which two teams try to kick or carry or propel the ball into each other's goal\nn. the inflated oblong ball used in playing American football"
+  },
+  {
+    "单词": "Frisbee",
+    "英音": "[ˈfrɪzbi]",
+    "美音": "[ˈfrɪzbi]",
+    "释义(中文)": "n. （投掷游戏用的）飞盘\n",
+    "释义(英文)": "n. a light, plastic disk about 10 inches in diameter; propelled with a flip of the wrist for recreation or competition"
+  },
+  {
+    "单词": "bird",
+    "英音": "[bɜːd]",
+    "美音": "[bɜːrd]",
+    "释义(中文)": "n. 鸟；家伙；羽毛球\nvt. 向…喝倒彩；起哄\nvi. 猎鸟；观察研究野鸟\n",
+    "释义(英文)": "n. warm-blooded egg-laying vertebrates characterized by feathers and forelimbs modified as wings\nn. the flesh of a bird or fowl (wild or domestic) used as food\nv. watch and study birds in their natural habitat"
+  },
+  {
+    "单词": "chicken",
+    "英音": "[ˈtʃɪkɪn]",
+    "美音": "[ˈtʃɪkɪn]",
+    "释义(中文)": "n. 鸡肉；小鸡；胆小鬼，懦夫\nadj. 鸡肉的；胆怯的；幼小的",
+    "释义(英文)": "n. the flesh of a chicken used for food\nn. a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl\nn. a foolhardy competition; a dangerous activity that is continued until one competitor becomes afraid and stops\ns. easily frightened"
+  },
+  {
+    "单词": "donkey",
+    "英音": "[ˈdɒŋki]",
+    "美音": "[ˈdɑːŋki]",
+    "释义(中文)": "n. 驴子；傻瓜；顽固的人",
+    "释义(英文)": "n. the symbol of the Democratic Party; introduced in cartoons by Thomas Nast in 1874"
+  },
+  {
+    "单词": "duck",
+    "英音": "[dʌk]",
+    "美音": "[dʌk]",
+    "释义(中文)": "n. 鸭子；鸭肉；（英）宝贝儿；零分\nvt. 躲避；猛按…入水\nvi. 闪避；没入水中\n",
+    "释义(英文)": "n. small wild or domesticated web-footed broad-billed swimming bird usually having a depressed body and short legs\nn. (cricket) a score of nothing by a batsman\nn. flesh of a duck (domestic or wild)\nn. a heavy cotton fabric of plain weave; used for clothing and tents"
+  },
+  {
+    "单词": "farm",
+    "英音": "[fɑːm]",
+    "美音": "[fɑːrm]",
+    "释义(中文)": "n. 农场；农家；畜牧场\nvt. 养殖；耕种；佃出（土地）\nvi. 种田，务农；经营农场",
+    "释义(英文)": "n. workplace consisting of farm buildings and cultivated land as a unit\nv. be a farmer; work as a farmer\nv. collect fees or profits"
+  },
+  {
+    "单词": "goat",
+    "英音": "[ɡəʊt]",
+    "美音": "[goʊt]",
+    "释义(中文)": "n. 山羊；替罪羊（美俚）；色鬼（美俚）",
+    "释义(英文)": "n. any of numerous agile ruminants related to sheep but having a beard and straight horns"
+  },
+  {
+    "单词": "horse",
+    "英音": "[hɔːs]",
+    "美音": "[hɔːrs]",
+    "释义(中文)": "n. 马；骑兵；脚架；海洛因\nvt. 使骑马；系马于；捉弄\nvi. 骑马；作弄人\n",
+    "释义(英文)": "n. solid-hoofed herbivorous quadruped domesticated since prehistoric times\nn. a padded gymnastic apparatus on legs\nv. provide with a horse or horses"
+  },
+  {
+    "单词": "lamb",
+    "英音": "[læm]",
+    "美音": "[læm]",
+    "释义(中文)": "n. 羔羊，小羊；羔羊肉\nvt. 生小羊，产羔羊\nvi. 生小羊，产羔羊\n",
+    "释义(英文)": "n. young sheep\nn. English essayist (1775-1834)\nn. a person easily deceived or cheated (especially in financial matters)\nn. a sweet innocent mild-mannered person (especially a child)"
+  },
+  {
+    "单词": "sheep",
+    "英音": "[ʃiːp]",
+    "美音": "[ʃiːp]",
+    "释义(中文)": "n. 羊，绵羊；胆小鬼\n",
+    "释义(英文)": "n. woolly usually horned ruminant mammal related to the goat\nn. a timid defenseless simpleton who is readily preyed upon\nn. a docile and vulnerable person who would rather follow than make an independent decision"
+  },
+  {
+    "单词": "bull",
+    "英音": "[bʊl]",
+    "美音": "[bʊl]",
+    "释义(中文)": "n. 公牛；看好股市者；粗壮如牛的人；胡说八道；印玺\nadj. 大型的；公牛似的；雄性的\nvt. 企图抬高证券价格；吓唬；强力实现\nvi. 价格上涨；走运；猛推；吹牛\n",
+    "释义(英文)": "n. uncastrated adult male of domestic cattle\nn. a large and strong and heavyset man\nn. a serious and ludicrous blunder\nn. uncomplimentary terms for a policeman"
+  },
+  {
+    "单词": "cow",
+    "英音": "[kaʊ]",
+    "美音": "[kaʊ]",
+    "释义(中文)": "n. 奶牛，母牛；母兽\nvt. 威胁，恐吓",
+    "释义(英文)": "n. female of domestic cattle: \"`moo-cow' is a child's term\"\nn. mature female of mammals of which the male is called `bull'\nn. a large unpleasant woman"
+  },
+  {
+    "单词": "box",
+    "英音": "[bɒks]",
+    "美音": "[bɑːks]",
+    "释义(中文)": "n. 箱，盒子；包厢；一拳\nvt. 拳击；装…入盒中；打耳光\nvi. 拳击\n",
+    "释义(英文)": "n. a (usually rectangular) container; may have a lid\nn. private area in a theater or grandstand where a small group can watch the performance\nn. the quantity contained in a box\nn. a rectangular drawing"
+  },
+  {
+    "单词": "cherry",
+    "英音": "[ˈtʃeri]",
+    "美音": "[ˈtʃeri]",
+    "释义(中文)": "n. 樱桃；樱桃树；如樱桃的鲜红色；处女膜，处女\n",
+    "释义(英文)": "n. wood of any of various cherry trees especially the black cherry\nn. any of numerous trees and shrubs producing a small fleshy round fruit with a single hard stone; many also produce a valuable hardwood\nn. a red fruit with a single hard stone"
+  },
+  {
+    "单词": "dish",
+    "英音": "[dɪʃ]",
+    "美音": "[dɪʃ]",
+    "释义(中文)": "n. 盘；餐具；一盘食物；外貌有吸引力的人\nvt. 盛于碟盘中；分发；使某人的希望破灭；说（某人）的闲话\nvi. 成碟状；闲谈",
+    "释义(英文)": "n. a piece of dishware normally used as a container for holding or serving food\nn. a particular item of prepared food\nn. the quantity that a dish will hold\nn. directional antenna consisting of a parabolic reflector for microwave or radio frequency radiation"
+  },
+  {
+    "单词": "food",
+    "英音": "[fuːd]",
+    "美音": "[fuːd]",
+    "释义(中文)": "n. 食物；养料",
+    "释义(英文)": "n. any substance that can be metabolized by an animal to give energy and build tissue\nn. any solid substance (as opposed to liquid) that is used as a source of nourishment\nn. anything that provides mental stimulus for thinking"
+  },
+  {
+    "单词": "fork",
+    "英音": "[fɔːk]",
+    "美音": "[fɔːrk]",
+    "释义(中文)": "n. 叉；餐叉；耙\nvt. 叉起；使成叉状\nvi. 分叉；分歧\n",
+    "释义(英文)": "n. cutlery used for serving and eating food\nn. the region of the angle formed by the junction of two branches\nn. an agricultural tool used for lifting or digging; has a handle and metal prongs\nv. place under attack with one's own pieces, of two enemy pieces"
+  },
+  {
+    "单词": "glass",
+    "英音": "[ɡlɑːs]",
+    "美音": "[ɡlæs]",
+    "释义(中文)": "n. 玻璃；玻璃制品；镜子\nvt. 反映；给某物加玻璃\nvi. 成玻璃状\n",
+    "释义(英文)": "n. a brittle transparent solid with irregular atomic structure\nn. a container for holding liquids while drinking\nn. the quantity a glass will hold\nn. glassware collectively"
+  },
+  {
+    "单词": "knife",
+    "英音": "[naɪf]",
+    "美音": "[naɪf]",
+    "释义(中文)": "n. 刀；匕首\nvt. 用刀切；（口）伤害\nvi. 劈开；划过",
+    "释义(英文)": "n. edge tool used as a cutting instrument; has a pointed blade with a sharp edge and a handle\nn. a weapon with a handle and blade with a sharp point\nv. use a knife on"
+  },
+  {
+    "单词": "sandwich",
+    "英音": "[ˈsænwɪtʃ; ˈsænwɪdʒ]",
+    "美音": "[ˈsænwɪtʃ]",
+    "释义(中文)": "n. 三明治；夹心面包\nvt. 夹入；挤进；把...做成三明治",
+    "释义(英文)": "n. two (or more) slices of bread with a filling between them\nv. make into a sandwich\nv. insert or squeeze tightly between two people or objects"
+  },
+  {
+    "单词": "strawberry",
+    "英音": "[ˈstrɔːbəri]",
+    "美音": "[ˈstrɔːberi]",
+    "释义(中文)": "n. 草莓；草莓色",
+    "释义(英文)": "n. sweet fleshy red fruit\nn. any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry\nn. a soft red birthmark"
+  },
+  {
+    "单词": "bamboo",
+    "英音": "[ˌbæmˈbuː]",
+    "美音": "[ˌbæmˈbuː]",
+    "释义(中文)": "n. 竹，竹子\nadj. 竹制的；土著居民的\nvt. 为…装上篾条",
+    "释义(英文)": "n. the hard woody stems of bamboo plants; used in construction and crafts and fishing poles\nn. woody tropical grass having hollow woody stems; mature canes used for construction and furniture"
+  },
+  {
+    "单词": "peach",
+    "英音": "[piːtʃ]",
+    "美音": "[piːtʃ]",
+    "释义(中文)": "n. 桃子；桃树；桃红色；受人喜欢的人（或物）\nadj. 桃色的；用桃子制成的\nvt. 告发\nvi. 告密\n",
+    "释义(英文)": "n. cultivated in temperate regions\nn. downy juicy fruit with sweet yellowish or whitish flesh"
+  },
+  {
+    "单词": "potato",
+    "英音": "[pəˈteɪtəʊ]",
+    "美音": "[pəˈteɪtoʊ]",
+    "释义(中文)": "n. [作物] 土豆，[作物] 马铃薯",
+    "释义(英文)": "n. an edible tuber native to South America; a staple food of Ireland\nn. annual native to South America having underground stolons bearing edible starchy tubers; widely cultivated as a garden vegetable; vines are poisonous"
+  },
+  {
+    "单词": "dress",
+    "英音": "[dres]",
+    "美音": "[dres]",
+    "释义(中文)": "n. 连衣裙；女装\nvt. 给…穿衣\nvi. 穿衣\n",
+    "释义(英文)": "n. a one-piece garment for a woman; has skirt and bodice\nv. put on clothes\nv. provide with clothes or put clothes on\nv. put a finish on"
+  },
+  {
+    "单词": "jacket",
+    "英音": "[ˈdʒækɪt]",
+    "美音": "[ˈdʒækɪt]",
+    "释义(中文)": "n. 羽绒滑雪衫；西装短外套；短上衣，夹克；土豆皮；书籍的护封；文件套，公文夹\nvt. 给…穿夹克；给…装护套；给…包上护封；〈口〉打",
+    "释义(英文)": "n. a short coat\nn. an outer wrapping or casing\nn. the outer skin of a potato\nn. the tough metal shell casing for certain kinds of ammunition"
+  },
+  {
+    "单词": "jeans",
+    "英音": "[dʒiːnz]",
+    "美音": "[dʒiːnz]",
+    "释义(中文)": "n. 牛仔裤；工装裤\n",
+    "释义(英文)": "n (usually plural) close-fitting trousers of heavy denim for manual work or casual wear\nn a coarse durable twill-weave cotton fabric"
+  },
+  {
+    "单词": "shoe",
+    "英音": "[ʃuː]",
+    "美音": "[ʃuː]",
+    "释义(中文)": "n. 鞋；蹄铁；外胎\nvt. 给……穿上鞋；穿……鞋\n",
+    "释义(英文)": "n. footwear shaped to fit the foot (below the ankle) with a flexible upper of leather or plastic and a sole and heel of heavier material\nn. (card games) a case from which playing cards are dealt one at a time\nv. furnish with shoes"
+  },
+  {
+    "单词": "skirt",
+    "英音": "[skɜːt]",
+    "美音": "[skɜːrt]",
+    "释义(中文)": "n. 裙子\nvt. 绕过，回避；位于…边缘\nvi. 沿边走，绕开；环绕",
+    "释义(英文)": "n. cloth covering that forms the part of a garment below the waist\nn. a garment hanging from the waist; worn mainly by girls and women\nv. pass around or about; move along the border\nv. form the edge of"
+  },
+  {
+    "单词": "sock",
+    "英音": "[sɒk]",
+    "美音": "[sɑːk]",
+    "释义(中文)": "vt. 重击；给……穿袜\nn. 短袜；一击\nadv. 正着地；不偏不倚地\nadj. 非常成功的\n",
+    "释义(英文)": "n. hosiery consisting of a cloth covering for the foot; worn inside the shoe; reaches to between the ankle and the knee\nv. hit hard"
+  },
+  {
+    "单词": "trousers",
+    "英音": "[ˈtraʊzəz]",
+    "美音": "[ˈtraʊzərz]",
+    "释义(中文)": "n. 裤子，长裤",
+    "释义(英文)": "n (usually in the plural) a garment extending from the waist to the knee or ankle, covering each leg separately\nn a garment (or part of a garment) designed for or relating to trousers"
+  },
+  {
+    "单词": "coat",
+    "英音": "[kəʊt]",
+    "美音": "[koʊt]",
+    "释义(中文)": "n. 外套\nvt. 覆盖…的表面\n",
+    "释义(英文)": "n. an outer garment that has sleeves and covers the body from shoulder down; worn outdoors\nn. growth of hair or wool or fur covering the body of an animal\nv. put a coat on; cover the surface of; furnish with a surface\nv. cover or provide with a coat"
+  },
+  {
+    "单词": "scarf",
+    "英音": "[skɑːf]",
+    "美音": "[skɑːrf]",
+    "释义(中文)": "n. 围巾；嵌接，嵌接处；头巾领巾\nvt. 披嵌接；用围巾围",
+    "释义(英文)": "n. a garment worn around the head or neck or shoulders for warmth or decoration\nv. masturbate while strangling oneself\nv. unite by a scarf joint\nv. wrap in or adorn with a scarf"
+  },
+  {
+    "单词": "clean",
+    "英音": "[kliːn]",
+    "美音": "[kliːn]",
+    "释义(中文)": "n. 打扫\nadj. 清洁的，干净的；清白的\nvt. 使干净\nvi. 打扫，清扫\nadv. 完全地\n",
+    "释义(英文)": "v. make clean by removing dirt, filth, or unwanted substances from\nv. remove unwanted substances from, such as feathers or pits\nv. be cleanable\nv. deprive wholly of money in a gambling game, robbery, etc."
+  },
+  {
+    "单词": "dirty",
+    "英音": "[ˈdɜːti]",
+    "美音": "[ˈdɜːrti]",
+    "释义(中文)": "adj. 下流的，卑鄙的；肮脏的；恶劣的；暗淡的\nvt. 弄脏\nvi. 变脏",
+    "释义(英文)": "v. make soiled, filthy, or dirty\na. soiled or likely to soil with dirt or grime\na. (of behavior or especially language) characterized by obscenity or indecency\ns. vile; despicable"
+  },
+  {
+    "单词": "dry",
+    "英音": "[draɪ]",
+    "美音": "[draɪ]",
+    "释义(中文)": "n. 干涸\nadj. 干的；口渴的；枯燥无味的；禁酒的\nvt. 把…弄干\nvi. 变干\n",
+    "释义(英文)": "n. a reformer who opposes the use of intoxicating beverages\nv. remove the moisture from and make dry\nv. become dry or drier\na. free from liquid or moisture; lacking natural or normal moisture or depleted of water; or no longer wet"
+  },
+  {
+    "单词": "wet",
+    "英音": "[wet]",
+    "美音": "[wet]",
+    "释义(中文)": "n. 雨天；湿气\nadj. [气象][物] 潮湿的；有雨的\nvt. 弄湿\nvi. 变湿\n",
+    "释义(英文)": "v. cause to become wet\nv. make one's bed or clothes wet by urinating\na. covered or soaked with a liquid such as water\na. containing moisture or volatile components"
+  },
+  {
+    "单词": "happy",
+    "英音": "[ˈhæpi]",
+    "美音": "[ˈhæpi]",
+    "释义(中文)": "adj. 幸福的；高兴的；巧妙的\n",
+    "释义(英文)": "a. enjoying or showing or marked by joy or pleasure\ns. well expressed and to the point"
+  },
+  {
+    "单词": "unhappy",
+    "英音": "[ʌnˈhæpi]",
+    "美音": "[ʌnˈhæpi]",
+    "释义(中文)": "adj. 不快乐的；不幸福的；不适当的",
+    "释义(英文)": "a. experiencing or marked by or causing sadness or sorrow or discontent\ns. causing discomfort"
+  },
+  {
+    "单词": "hungry",
+    "英音": "[ˈhʌŋɡri]",
+    "美音": "[ˈhʌŋɡri]",
+    "释义(中文)": "adj. 饥饿的；渴望的；荒年的；不毛的",
+    "释义(英文)": "a. feeling hunger; feeling a need or desire to eat food"
+  },
+  {
+    "单词": "thirsty",
+    "英音": "[ˈθɜːsti]",
+    "美音": "[ˈθɜːrsti]",
+    "释义(中文)": "adj. 口渴的，口干的；渴望的，热望的",
+    "释义(英文)": "s. needing moisture\na. feeling a need or desire to drink\ns. able to take in large quantities of moisture"
+  },
+  {
+    "单词": "cold",
+    "英音": "[kəʊld]",
+    "美音": "[kəʊld]",
+    "释义(中文)": "n. 寒冷；感冒\nadj. 寒冷的；冷淡的，不热情的；失去知觉的\nadv. 完全地",
+    "释义(英文)": "n. a mild viral infection involving the nose and respiratory passages (but not the lungs)\nn. the sensation produced by low temperatures\na. having a low or inadequate temperature or feeling a sensation of coldness or having been made cold by e.g. ice or refrigeration\na. extended meanings; especially of psychological coldness; without human warmth or emotion"
+  },
+  {
+    "单词": "hot",
+    "英音": "[hɒt]",
+    "美音": "[hɑːt]",
+    "释义(中文)": "adj. 热的；辣的；热情的；激动的；紧迫的\nvt. 增加；给…加温\nadv. 热；紧迫地\nvi. 变热\n",
+    "释义(英文)": "a. used of physical heat; having a high or higher than desirable temperature or giving off heat or feeling or causing a sensation of heat or burning\ns. characterized by violent and forceful activity or movement; very intense\na. extended meanings; especially of psychological heat; marked by intensity or vehemence especially of passion or enthusiasm\ns. (color) bold and intense"
+  },
+  {
+    "单词": "new",
+    "英音": "[njuː]",
+    "美音": "[nuː]",
+    "释义(中文)": "adj. 新的，新鲜的；更新的；初见的\nadv. 新近\n",
+    "释义(英文)": "a. not of long duration; having just (or relatively recently) come into being or been made or acquired or discovered\ns. having no previous example or precedent or parallel\ns. other than the former one(s); different\na. unaffected by use or exposure"
+  },
+  {
+    "单词": "old",
+    "英音": "[əʊld]",
+    "美音": "[oʊld]",
+    "释义(中文)": "adj. 陈旧的，古老的；年老的\nn. 古时\n",
+    "释义(英文)": "n. past times (especially in the phrase `in days of old')\na. (used especially of persons) having lived for a relatively long time or attained a specific age\na. of long duration; not new\ns. (used for emphasis) very familiar"
+  },
+  {
+    "单词": "countryside",
+    "英音": "[ˈkʌntrisaɪd]",
+    "美音": "[ˈkʌntrisaɪd]",
+    "释义(中文)": "n. 农村，乡下；乡下的全体居民",
+    "释义(英文)": "n. rural regions"
+  },
+  {
+    "单词": "field",
+    "英音": "[fiːld]",
+    "美音": "[fiːld]",
+    "释义(中文)": "n. 领域；牧场；旷野；战场；运动场\nadj. 扫描场；田赛的；野生的\nvt. 把暴晒于场上；使上场\nvi. 担任场外队员\n",
+    "释义(英文)": "n. a piece of land cleared of trees and usually enclosed\nn. somewhere (away from a studio or office or library or laboratory) where practical work is done or data is collected\nn. the space around a radiating body within which its electromagnetic oscillations can exert force on another similar body not in contact with it\nn. a particular kind of commercial enterprise"
+  },
+  {
+    "单词": "flower",
+    "英音": "[ˈflaʊə(r)]",
+    "美音": "[ˈflaʊər]",
+    "释义(中文)": "n. 花；精华；开花植物\nvt. 使开花；用花装饰\nvi. 成熟，发育；开花；繁荣；旺盛\n",
+    "释义(英文)": "n. a plant cultivated for its blooms or blossoms\nn. reproductive organ of angiosperm plants especially one having showy or colorful parts\nn. the period of greatest prosperity or productivity"
+  },
+  {
+    "单词": "hill",
+    "英音": "[hɪl]",
+    "美音": "[hɪl]",
+    "释义(中文)": "n. 小山；丘陵；斜坡；山冈\n",
+    "释义(英文)": "n. a local and well-defined elevation of the land\nn. United States railroad tycoon (1838-1916)\nn. risque English comedian (1925-1992)\nv. form into a hill"
+  },
+  {
+    "单词": "river",
+    "英音": "[ˈrɪvə(r)]",
+    "美音": "[ˈrɪvər]",
+    "释义(中文)": "n. 河，江\n",
+    "释义(英文)": "n. a large natural stream of water (larger than a creek)"
+  },
+  {
+    "单词": "town",
+    "英音": "[taʊn]",
+    "美音": "[taʊn]",
+    "释义(中文)": "n. 城镇，市镇；市内商业区\n",
+    "释义(英文)": "n. an urban area with a fixed boundary that is smaller than a city\nn. the people living in a municipality smaller than a city\nn. United States architect who was noted for his design and construction of truss bridges (1784-1844)"
+  },
+  {
+    "单词": "tree",
+    "英音": "[triː]",
+    "美音": "[triː]",
+    "释义(中文)": "n. 树；木料；树状物\nvt. 把...赶上树\nvi. 爬上树；逃上树\n",
+    "释义(英文)": "n. a tall perennial woody plant having a main trunk and branches forming a distinct elevated crown; includes both gymnosperms and angiosperms\nn. a figure that branches from a single root\nn. English actor and theatrical producer noted for his lavish productions of Shakespeare (1853-1917)\nv. plant with trees"
+  },
+  {
+    "单词": "bus",
+    "英音": "[bʌs]",
+    "美音": "[bʌs]",
+    "释义(中文)": "n. 公共汽车\n乘公共汽车",
+    "释义(英文)": "n. a vehicle carrying many passengers; used for public transport\nn. a car that is old and unreliable\nv. send or move around by bus\nv. ride in a bus"
+  },
+  {
+    "单词": "road",
+    "英音": "[rəʊd]",
+    "美音": "[roʊd]",
+    "释义(中文)": "n. 公路，马路；道路；手段\nadj. （美）巡回的\nvt. （狗）沿臭迹追逐（猎物）\n",
+    "释义(英文)": "n. an open way (generally public) for travel or transportation\nn. a way or means to achieve something"
+  },
+  {
+    "单词": "shop",
+    "英音": "[ʃɒp]",
+    "美音": "[ʃɑːp]",
+    "释义(中文)": "n. 商店；店铺\nvt. 购物\nvi. 购物；买东西",
+    "释义(英文)": "n. a mercantile establishment for the retail sale of goods or services\nv. do one's shopping\nv. shop around; not necessarily buying"
+  },
+  {
+    "单词": "thirteen",
+    "英音": "[ˌθɜːˈtiːn]",
+    "美音": "[ˌθɜːrˈtiːn]",
+    "释义(中文)": "n. 十三；十三岁；十三个\nnum. 十三\nadj. 十三的；十三个的",
+    "释义(英文)": "n. the cardinal number that is the sum of twelve and one\ns. being one more than twelve"
+  },
+  {
+    "单词": "fourteen",
+    "英音": "[ˌfɔːˈtiːn]",
+    "美音": "[ˌfɔːrˈtiːn]",
+    "释义(中文)": "num. 十四；十四个；第十四\nn. 十四的记号；十四岁；十四点钟；十五世纪",
+    "释义(英文)": "n. the cardinal number that is the sum of thirteen and one\ns. being one more than thirteen"
+  },
+  {
+    "单词": "fifteen",
+    "英音": "[ˌfɪfˈtiːn]",
+    "美音": "[ˌfɪfˈtiːn]",
+    "释义(中文)": "n. 十五；十五个；十五人组成的橄榄球队\nnum. 十五\nadj. 十五的",
+    "释义(英文)": "n. the cardinal number that is the sum of fourteen and one\ns. being one more than fourteen"
+  },
+  {
+    "单词": "sixteen",
+    "英音": "[ˌsɪksˈtiːn]",
+    "美音": "[ˌsɪksˈtiːn]",
+    "释义(中文)": "num. 十六\nadj. 十六的，十六个的",
+    "释义(英文)": "n. the cardinal number that is the sum of fifteen and one\ns. being one more than fifteen"
+  },
+  {
+    "单词": "seventeen",
+    "英音": "[ˌsev(ə)nˈtiːn]",
+    "美音": "[ˌsevnˈtiːn]",
+    "释义(中文)": "n. 十七，十七个\nnum. 十七\nadj. 十七岁的；十七的，十七个的\n",
+    "释义(英文)": "n. the cardinal number that is the sum of sixteen and one\ns. being one more than sixteen"
+  },
+  {
+    "单词": "eighteen",
+    "英音": "[ˌeɪˈtiːn]",
+    "美音": "[ˌeɪˈtiːn]",
+    "释义(中文)": "n. 十八，十八个\nnum. 十八\nadj. 十八个的，十八的",
+    "释义(英文)": "n. the cardinal number that is the sum of seventeen and one\ns. being one more than seventeen"
+  },
+  {
+    "单词": "nineteen",
+    "英音": "[ˌnaɪnˈtiːn]",
+    "美音": "[ˌnaɪnˈtiːn]",
+    "释义(中文)": "num. 十九",
+    "释义(英文)": "n. the cardinal number that is the sum of eighteen and one\ns. being one more than eighteen"
+  },
+  {
+    "单词": "twenty",
+    "英音": "[ˈtwenti]",
+    "美音": "[ˈtwenti]",
+    "释义(中文)": "num. 二十\nn. 二十；二十年代\nadj. 二十的",
+    "释义(英文)": "n. the cardinal number that is the sum of nineteen and one\ns. denoting a quantity consisting of 20 items or units"
+  },
+  {
+    "单词": "twenty-one",
+    "英音": "['twenti'wʌn]",
+    "美音": "[ˈtwenti wʌn]",
+    "释义(中文)": "n. 二十一点纸牌游戏\nnum. 二十一\nadj. 二十一的",
+    "释义(英文)": "n. the cardinal number that is the sum of twenty and one\ns. being one more than twenty"
+  },
+  {
+    "单词": "biscuit",
+    "英音": "[ˈbɪskɪt]",
+    "美音": "[ˈbɪskɪt]",
+    "释义(中文)": "n. 小点心，饼干",
+    "释义(英文)": "n. small round bread leavened with baking-powder or soda"
+  },
+  {
+    "单词": "bush",
+    "英音": "[bʊʃ]",
+    "美音": "[bʊʃ]",
+    "释义(中文)": "n. 灌木；矮树丛\nadj. 如灌木般长得低矮的；粗野的\nvt. 以灌木装饰；使…精疲力竭\nvi. 丛生；浓密地生长",
+    "释义(英文)": "n. a large wilderness area\nn. 43rd President of the United States; son of George Herbert Walker Bush (born in 1946)\nn. United States electrical engineer who designed an early analogue computer and who led the scientific program of the United States during World War II (1890-1974)\nn. vice president under Reagan and 41st President of the United States (born in 1924)"
+  },
+  {
+    "单词": "catch",
+    "英音": "[kætʃ]",
+    "美音": "[kætʃ]",
+    "释义(中文)": "n. 捕捉；捕获物；窗钩\nvt. 赶上；抓住；感染；了解\nvi. 赶上；抓住",
+    "释义(英文)": "n. a drawback or difficulty that is not readily evident\nn. the quantity that was caught\nn. a person regarded as a good matrimonial prospect\nn. anything that is caught (especially if it is worth catching)"
+  },
+  {
+    "单词": "drink",
+    "英音": "[drɪŋk]",
+    "美音": "[drɪŋk]",
+    "释义(中文)": "n. 酒，饮料；喝酒\nvt. 喝，饮；吸收；举杯庆贺\nvi. 喝酒；饮水；干杯",
+    "释义(英文)": "n. a single serving of a beverage\nn. the act of drinking alcoholic beverages to excess\nn. any large deep body of water\nv. take in liquids"
+  },
+  {
+    "单词": "eat",
+    "英音": "[iːt]",
+    "美音": "[iːt]",
+    "释义(中文)": "vt. 吃，喝；腐蚀；烦扰\nvi. 进食；腐蚀，侵蚀",
+    "释义(英文)": "v. take in solid food\nv. eat a meal; take a meal\nv. worry or cause anxiety in a persistent way"
+  },
+  {
+    "单词": "hide",
+    "英音": "[haɪd]",
+    "美音": "[haɪd]",
+    "释义(中文)": "n. 躲藏；兽皮；躲藏处\nvt. 隐藏；隐瞒；鞭打\nvi. 隐藏",
+    "释义(英文)": "n. the dressed skin of an animal (especially a large animal)\nn. body covering of a living animal\nv. prevent from being seen or discovered\nv. be or go into hiding; keep out of sight, as for protection and safety"
+  },
+  {
+    "单词": "jump",
+    "英音": "[dʒʌmp]",
+    "美音": "[dʒʌmp]",
+    "释义(中文)": "n. 跳跃；暴涨；惊跳\nvt. 跳跃；使跳跃；跳过；突升\nvi. 跳跃；暴涨；猛增\n",
+    "释义(英文)": "n. a sudden and decisive increase\nn. (film) an abrupt transition from one scene to another\nn. descent with a parachute\nn. the act of jumping; propelling yourself off the ground"
+  },
+  {
+    "单词": "run",
+    "英音": "[rʌn]",
+    "美音": "[rʌn]",
+    "释义(中文)": "n. 奔跑；赛跑；趋向；奔跑的路程\nvt. 管理，经营；运行；参赛\nvi. 经营；奔跑；运转\n",
+    "释义(英文)": "n. a score in baseball made by a runner touching all four bases safely\nn. (American football) a play in which a player attempts to carry the ball through or past the opposing team\nn. a regular trip\nn. the act of running; traveling on foot at a fast pace"
+  },
+  {
+    "单词": "sit down",
+    "英音": "[ˈsɪt daʊn]",
+    "美音": "[ˈsɪt daʊn]",
+    "释义(中文)": "na. 坐下；住定；占有；(坐下来)开始工作(谈判等)\n",
+    "释义(英文)": "n. a strike in which workers refuse to leave the workplace until a settlement is reached"
+  },
+  {
+    "单词": "stand up",
+    "英音": "[ˈstænd ʌp]",
+    "美音": "[ˈstænd ʌp]",
+    "释义(中文)": "na. 站起来；持久；露头角；〔美俚〕背约\n",
+    "释义(英文)": "s. requiring a standing position"
+  },
+  {
+    "单词": "water",
+    "英音": "[ˈwɔːtə(r)]",
+    "美音": "[ˈwɔːtər]",
+    "释义(中文)": "n. 水；海水；雨水；海域，大片的水\nvt. 使湿；供以水；给…浇水\nvi. 加水；流泪；流口水\n",
+    "释义(英文)": "n. binary compound that occurs at room temperature as a clear colorless odorless tasteless liquid; freezes into ice below 0 degrees centigrade and boils above 100 degrees centigrade; widely used as a solvent\nn. once thought to be one of four elements composing the universe (Empedocles)\nn. a liquid necessary for the life of most animals and plants\nv. supply with water, as with channels or ditches or streams"
+  },
+  {
+    "单词": "shout",
+    "英音": "[ʃaʊt]",
+    "美音": "[ʃaʊt]",
+    "释义(中文)": "n. 呼喊；呼叫\nvi. 呼喊；喊叫；大声说\nvt. 呼喊；大声说",
+    "释义(英文)": "v. utter in a loud voice; talk in a loud voice (usually denoting characteristic manner of speaking)\nv. utter a sudden loud cry"
+  },
+  {
+    "单词": "sing",
+    "英音": "[sɪŋ]",
+    "美音": "[sɪŋ]",
+    "释义(中文)": "n. 演唱；鸣声；呼啸声\nvt. 唱；用诗赞颂；唱着使\nvi. 唱歌；歌颂；鸣叫；呼号\n",
+    "释义(英文)": "v. deliver by singing\nv. produce tones with the voice\nv. to make melodious sounds"
+  },
+  {
+    "单词": "song",
+    "英音": "[sɒŋ]",
+    "美音": "[sɔŋ]",
+    "释义(中文)": "n. 歌曲；歌唱；诗歌；鸣声\n",
+    "释义(英文)": "n. a short musical composition with words\nn. a distinctive or characteristic sound\nn. the act of singing\nn. a very small sum"
+  },
+  {
+    "单词": "throw",
+    "英音": "[θrəʊ]",
+    "美音": "[θroʊ]",
+    "释义(中文)": "n. 投掷；冒险\nvt. 投；抛；掷\nvi. 抛；投掷",
+    "释义(英文)": "n. the act of throwing (propelling something with a rapid movement of the arm and wrist)\nn. a single chance or instance\nn. the maximum movement available to a pivoted or reciprocating piece by a cam\nn. bedclothes consisting of a lightweight cloth covering (an afghan or bedspread) that is casually thrown over something"
+  },
+  {
+    "单词": "draw",
+    "英音": "[drɔː]",
+    "美音": "[drɔː]",
+    "释义(中文)": "n. 平局；抽签\nvi. 拉；拖\nvt. 画；拉；吸引\n",
+    "释义(英文)": "n. a gully that is shallower than a ravine\nn. the finish of a contest in which the score is tied and the winner is undecided\nn. anything (straws or pebbles etc.) taken or chosen at random\nn. a playing card or cards dealt or taken from the pack"
+  },
+  {
+    "单词": "dance",
+    "英音": "[dɑːns]",
+    "美音": "[dæns]",
+    "释义(中文)": "n. 舞蹈；舞会；舞曲\nadj. 舞蹈的；用于跳舞的\nvt. 跳舞；使跳跃\nvi. 跳舞；跳跃；飘扬\n",
+    "释义(英文)": "n. an artistic form of nonverbal communication\nn. a party of people assembled for dancing\nn. a party for social dancing\nv. move in a graceful and rhythmical way"
+  },
+  {
+    "单词": "listen",
+    "英音": "[ˈlɪs(ə)n]",
+    "美音": "[ˈlɪsn]",
+    "释义(中文)": "vi. 听，倾听；听从，听信\nn. 听，倾听",
+    "释义(英文)": "v. hear with intention\nv. listen and pay attention"
+  },
+  {
+    "单词": "play football",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 踢足球；对难办的事采取踢皮球的态度\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "play the piano",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 弹钢琴\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "play tennis",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 打网球；玩网球；打球",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "play the violin",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 拉小提琴；弹小提琴；演奏小提琴",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "read",
+    "英音": "[riːd]",
+    "美音": "[riːd]",
+    "释义(中文)": "n. 阅读；读物\nadj. 有学问的\nvi. 读；读起来\nvt. 阅读；读懂，理解\n",
+    "释义(英文)": "n. something that is read\nv. interpret something that is written or printed\nv. have or contain a certain wording or form\nv. look at, interpret, and say out loud something that is written or printed"
+  },
+  {
+    "单词": "write",
+    "英音": "[raɪt]",
+    "美音": "[raɪt]",
+    "释义(中文)": "vi. 写，写字；写作，作曲；写信\nvt. 写，书写；写信给；著述",
+    "释义(英文)": "v. produce a literary work\nv. communicate or express by writing\nv. communicate (with) in writing\nv. communicate by letter"
+  },
+  {
+    "单词": "hand",
+    "英音": "[hænd]",
+    "美音": "[hænd]",
+    "释义(中文)": "n. 手，手艺；帮助；指针；插手\nvt. 传递，交给；支持；搀扶\n",
+    "释义(英文)": "n. the (prehensile) extremity of the superior limb\nn. ability\nn. a position given by its location to the side of an object\nn. the cards held in a card game by a given player at any given time"
+  },
+  {
+    "单词": "toe",
+    "英音": "[təʊ]",
+    "美音": "[toʊ]",
+    "释义(中文)": "n. 脚趾；足尖\nvt. 用脚尖走；以趾踏触\nvi. 动脚尖；用足尖跳舞\n",
+    "释义(英文)": "n. one of the digits of the foot\nn. the part of footwear that provides a covering for the toes\nn. forepart of a hoof\nn. (golf) the part of a clubhead farthest from the shaft"
+  },
+  {
+    "单词": "touch",
+    "英音": "[tʌtʃ]",
+    "美音": "[tʌtʃ]",
+    "释义(中文)": "n. 接触；触觉；格调；少许\nvt. 接触；触动；使轻度受害\nvi. 触摸；涉及；接近；提到\n",
+    "释义(英文)": "n. the event of something coming in contact with the body\nn. the faculty by which external objects or forces are perceived through contact with the body (especially the hands)\nn. a suggestion of some quality\nn. a distinguishing style"
+  }
+]
