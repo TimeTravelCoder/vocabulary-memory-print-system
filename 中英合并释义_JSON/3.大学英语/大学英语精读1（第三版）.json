@@ -1,0 +1,5224 @@
+[
+  {
+    "单词": "strategy",
+    "英音": "[ˈstrætədʒi]",
+    "美音": "[ˈstrætədʒi]",
+    "释义(中文)": "n. 战略，策略",
+    "释义(英文)": "n. the branch of military science dealing with military command and the planning and conduct of a war"
+  },
+  {
+    "单词": "means",
+    "英音": "[miːnz]",
+    "美音": "[miːnz]",
+    "释义(中文)": "n. 手段；方法；财产\nv. 意思是；打算（mean的第三人称单数） [ 复数means ]",
+    "释义(英文)": "n. how a result is obtained or an end is achieved\nn. an instrumentality for accomplishing some end\nn. considerable capital (wealth or income)"
+  },
+  {
+    "单词": "diligence",
+    "英音": "[ˈdɪlɪdʒəns]",
+    "美音": "[ˈdɪlɪdʒəns]",
+    "释义(中文)": "n. 勤奋，勤勉；注意的程度",
+    "释义(英文)": "n. conscientiousness in paying proper attention to a task; giving the degree of care required in a given situation\nn. persevering determination to perform a task"
+  },
+  {
+    "单词": "diligent",
+    "英音": "[ˈdɪlɪdʒənt]",
+    "美音": "[ˈdɪlɪdʒənt]",
+    "释义(中文)": "adj. 勤勉的；用功的，费尽心血的\n",
+    "释义(英文)": "s. quietly and steadily persevering especially in detail or exactness\na. characterized by care and perseverance in carrying out tasks"
+  },
+  {
+    "单词": "prolonged",
+    "英音": "[prəˈlɒŋd]",
+    "美音": "[prəˈlɔːŋd]",
+    "释义(中文)": "adj. 延长的；拖延的；持续很久的",
+    "释义(英文)": "v lengthen in time; cause to be or last longer\nv lengthen or extend in duration or space\ns relatively long in duration; tediously protracted\ns drawn out or made longer spatially"
+  },
+  {
+    "单词": "prolong",
+    "英音": "[prəˈlɒŋ]",
+    "美音": "[prəˈlɔːŋ]",
+    "释义(中文)": "vt. 延长；拖延",
+    "释义(英文)": "v. lengthen in time; cause to be or last longer\nv. lengthen or extend in duration or space"
+  },
+  {
+    "单词": "nevertheless",
+    "英音": "[ˌnevəðəˈles]",
+    "美音": "[ˌnevərðəˈles]",
+    "释义(中文)": "adv. 然而，不过；虽然如此\nconj. 然而，不过",
+    "释义(英文)": "r despite anything to the contrary (usually following a concession)"
+  },
+  {
+    "单词": "command",
+    "英音": "[kəˈmɑːnd]",
+    "美音": "[kəˈmænd]",
+    "释义(中文)": "n. 指挥，控制；命令；司令部\nvt. 命令，指挥；控制；远望\nvi. 命令，指挥；控制\n",
+    "释义(英文)": "n. an authoritative direction or instruction to do something\nn. a military unit or region under the control of a single officer\nn. the power or authority to command\nn. availability for use"
+  },
+  {
+    "单词": "sustained",
+    "英音": "[səˈsteɪnd]",
+    "美音": "[səˈsteɪnd]",
+    "释义(中文)": "v. 维持（sustain的过去式和过去分词）；承受\nadj. 持续的；持久的；持久不变的",
+    "释义(英文)": "s. maintained at length without interruption or weakening"
+  },
+  {
+    "单词": "sustain",
+    "英音": "[səˈsteɪn]",
+    "美音": "[səˈsteɪn]",
+    "释义(中文)": "vt. 维持；支撑，承担；忍受；供养；证实",
+    "释义(英文)": "v. supply with necessities and support\nv. admit as valid"
+  },
+  {
+    "单词": "helpful",
+    "英音": "[ˈhelpfl]",
+    "美音": "[ˈhelpfl]",
+    "释义(中文)": "adj. 有帮助的；有益的",
+    "释义(英文)": "a. providing assistance or serving a useful function"
+  },
+  {
+    "单词": "complain",
+    "英音": "[kəmˈpleɪn]",
+    "美音": "[kəmˈpleɪn]",
+    "释义(中文)": "vi. 投诉；发牢骚；诉说\nvt. 抱怨；控诉",
+    "释义(英文)": "v. express complaints, discontent, displeasure, or unhappiness\nv. make a formal accusation; bring a formal charge"
+  },
+  {
+    "单词": "complaint",
+    "英音": "[kəmˈpleɪnt]",
+    "美音": "[kəmˈpleɪnt]",
+    "释义(中文)": "n. 抱怨；诉苦；疾病；委屈",
+    "释义(英文)": "n. (formerly) a loud cry (or repeated cries) of pain or rage or sorrow\nn. an expression of grievance or resentment\nn. (civil law) the first pleading of the plaintiff setting out the facts on which the claim for relief is based"
+  },
+  {
+    "单词": "memorize",
+    "英音": "[ˈmeməraɪz]",
+    "美音": "[ˈmeməraɪz]",
+    "释义(中文)": "vt. 记住，背熟；记忆",
+    "释义(英文)": "v. commit to memory; learn by heart"
+  },
+  {
+    "单词": "cram",
+    "英音": "[kræm]",
+    "美音": "[kræm]",
+    "释义(中文)": "n. 死记硬背；极度拥挤\nadj. 填鸭式学的\nvi. 狼吞虎咽地吃东西；死记硬背功课\nvt. 填满，塞满；死记硬背；猛吃\n",
+    "释义(英文)": "v. put something somewhere so that the space is completely filled\nv. study intensively, as before an exam\nv. prepare (students) hastily for an impending exam"
+  },
+  {
+    "单词": "bound",
+    "英音": "[baʊnd]",
+    "美音": "[baʊnd]",
+    "释义(中文)": "n. 范围；跳跃\nadj. 有义务的；必定的；受约束的；装有封面的\nvt. 束缚；使跳跃\nvi. 限制；弹起",
+    "释义(英文)": "v. form the boundary of; be contiguous to\na. confined by bonds\na. held with another element, substance or material in chemical or physical union\na. secured with a cover or binding; often used as a combining form"
+  },
+  {
+    "单词": "constant",
+    "英音": "[ˈkɒnstənt]",
+    "美音": "[ˈkɑːnstənt]",
+    "释义(中文)": "n. [数] 常数；恒量\nadj. 不变的；恒定的；经常的\n",
+    "释义(英文)": "n. a quantity that does not vary\nn. a number representing a quantity assumed to have a fixed value in a specified mathematical context\na. steadfast in purpose or devotion or affection"
+  },
+  {
+    "单词": "commit",
+    "英音": "[kəˈmɪt]",
+    "美音": "[kəˈmɪt]",
+    "释义(中文)": "vt. 犯罪，做错事；把...交托给；指派…作战；使…承担义务",
+    "释义(英文)": "v. cause to be admitted; of persons to an institution\nv. engage in or perform"
+  },
+  {
+    "单词": "acquaintance",
+    "英音": "[əˈkweɪntəns]",
+    "美音": "[əˈkweɪntəns]",
+    "释义(中文)": "n. 熟人；相识；了解；知道",
+    "释义(英文)": "n. personal knowledge or information about someone or something\nn. a relationship less intimate than friendship\nn. a person with whom you are acquainted"
+  },
+  {
+    "单词": "concentrate",
+    "英音": "[ˈkɒns(ə)ntreɪt]",
+    "美音": "[ˈkɑːnsntreɪt]",
+    "释义(中文)": "n. 浓缩，精选；浓缩液\nvi. 集中；浓缩；全神贯注；聚集\nvt. 集中；浓缩",
+    "释义(英文)": "n. a concentrated form of a foodstuff; the bulk is reduced by removing water\nn. a concentrated example of something\nv. make denser, stronger, or purer\nv. direct one's attention on something"
+  },
+  {
+    "单词": "concentrate on",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 集中在；专心于\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "effective",
+    "英音": "[ɪˈfektɪv]",
+    "美音": "[ɪˈfektɪv]",
+    "释义(中文)": "adj. 有效的，起作用的；实际的，实在的；给人深刻印象",
+    "释义(英文)": "a. producing or capable of producing an intended result or having a striking effect\ns. able to accomplish a purpose; functioning effectively\ns. works well as a means or remedy\ns. exerting force or influence"
+  },
+  {
+    "单词": "route",
+    "英音": "[ruːt]",
+    "美音": "[ruːt; raʊt]",
+    "释义(中文)": "n. 路线；航线；通道\nvt. 按某路线发送",
+    "释义(英文)": "v. send documents or materials to appropriate destinations\nv. send via a specific route\nv. divert in a specified direction"
+  },
+  {
+    "单词": "enlarge",
+    "英音": "[ɪnˈlɑːdʒ]",
+    "美音": "[ɪnˈlɑːrdʒ]",
+    "释义(中文)": "vt. 扩大；使增大；扩展\nvi. 扩大；放大；详述",
+    "释义(英文)": "v. make larger\nv. become larger or bigger"
+  },
+  {
+    "单词": "vocabulary",
+    "英音": "[vəˈkæbjələri]",
+    "美音": "[vəˈkæbjəleri]",
+    "释义(中文)": "n. 词汇；词表；词汇量",
+    "释义(英文)": "n. a listing of the words used in some enterprise\nn. a language user's knowledge of words\nn. the system of techniques or symbols serving as a means of expression (as in arts or crafts)"
+  },
+  {
+    "单词": "idiomatic",
+    "英音": "[ˌɪdiəˈmætɪk]",
+    "美音": "[ˌɪdiəˈmætɪk]",
+    "释义(中文)": "adj. 惯用的；符合语言习惯的；通顺的",
+    "释义(英文)": "a. of or relating to or conforming to idiom"
+  },
+  {
+    "单词": "idiom",
+    "英音": "[ˈɪdiəm]",
+    "美音": "[ˈɪdiəm]",
+    "释义(中文)": "n. 成语，习语；土话",
+    "释义(英文)": "n. an expression whose meanings cannot be inferred from the meanings of the words that make it up"
+  },
+  {
+    "单词": "usage",
+    "英音": "[ˈjuːsɪdʒ]",
+    "美音": "[ˈjuːsɪdʒˌˈjuːzɪdʒ]",
+    "释义(中文)": "n. 使用；用法；惯例",
+    "释义(英文)": "n. the customary manner in which a language (or a form of a language) is spoken or written"
+  },
+  {
+    "单词": "basis",
+    "英音": "[ˈbeɪsɪs]",
+    "美音": "[ˈbeɪsɪs]",
+    "释义(中文)": "n. 基础；底部；主要成分；基本原则或原理",
+    "释义(英文)": "n. the fundamental assumptions from which something is begun or developed or calculated or explained\nn. the most important or necessary part of something"
+  },
+  {
+    "单词": "addition",
+    "英音": "[əˈdɪʃn]",
+    "美音": "[əˈdɪʃn]",
+    "释义(中文)": "n. 添加；[数] 加法；增加物",
+    "释义(英文)": "n. a component that is added to something to improve it\nn. the act of adding one thing to another\nn. a quantity that is added\nn. a suburban area laid out in streets and lots for a future residential area"
+  },
+  {
+    "单词": "movie",
+    "英音": "[ˈmuːvi]",
+    "美音": "[ˈmuːvi]",
+    "释义(中文)": "n. 电影；电影院；电影业\nadj. 电影的",
+    "释义(英文)": "n. a form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement"
+  },
+  {
+    "单词": "repetition",
+    "英音": "[ˌrepəˈtɪʃn]",
+    "美音": "[ˌrepəˈtɪʃn]",
+    "释义(中文)": "n. 重复；背诵；副本",
+    "释义(英文)": "n. the act of doing or performing again\nn. the repeated use of the same word or word pattern as a rhetorical device"
+  },
+  {
+    "单词": "opportunity",
+    "英音": "[ˌɒpəˈtjuːnəti]",
+    "美音": "[ˌɑːpərˈtuːnəti]",
+    "释义(中文)": "n. 时机，机会",
+    "释义(英文)": "n. a possibility due to a favorable combination of circumstances"
+  },
+  {
+    "单词": "communicate",
+    "英音": "[kəˈmjuːnɪkeɪt]",
+    "美音": "[kəˈmjuːnɪkeɪt]",
+    "释义(中文)": "vi. 通讯，传达；相通；交流；感染\nvt. 传达；感染；显露",
+    "释义(英文)": "v. transmit information\nv. transmit thoughts or feelings\nv. join or connect\nv. be in verbal contact; interchange information or ideas"
+  },
+  {
+    "单词": "enjoyable",
+    "英音": "[ɪnˈdʒɔɪəbl]",
+    "美音": "[ɪnˈdʒɔɪəbl]",
+    "释义(中文)": "adj. 快乐的；有乐趣的；令人愉快的",
+    "释义(英文)": "s. affording satisfaction or pleasure"
+  },
+  {
+    "单词": "campus",
+    "英音": "[ˈkæmpəs]",
+    "美音": "[ˈkæmpəs]",
+    "释义(中文)": "n. （大学）校园；大学，大学生活；校园内的草地\n",
+    "释义(英文)": "n. a field on which the buildings of a university are situated"
+  },
+  {
+    "单词": "rehearse",
+    "英音": "[rɪˈhɜːs]",
+    "美音": "[rɪˈhɜːrs]",
+    "释义(中文)": "vt. 排练；预演\nvi. 排练；演习",
+    "释义(英文)": "v. engage in a rehearsal (of)"
+  },
+  {
+    "单词": "rehearsal",
+    "英音": "[rɪˈhɜːsl]",
+    "美音": "[rɪˈhɜːrsl]",
+    "释义(中文)": "n. 排演；预演；练习；训练；叙述",
+    "释义(英文)": "n. a practice session in preparation for a public performance (as of a play or speech or concert)\nn. (psychology) a form of practice; repetition of information (silently or aloud) in order to keep it in short-term memory"
+  },
+  {
+    "单词": "partner",
+    "英音": "[ˈpɑːtnə(r)]",
+    "美音": "[ˈpɑːrtnər]",
+    "释义(中文)": "n. 伙伴；合伙人；配偶\nvt. 使合作；与…合伙\nvi. 合伙；合股；成为搭档\n",
+    "释义(英文)": "n. a person who is a member of a partnership\nv. provide with a partner\nv. act as a partner"
+  },
+  {
+    "单词": "instance",
+    "英音": "[ˈɪnstəns]",
+    "美音": "[ˈɪnstəns]",
+    "释义(中文)": "n. 实例；情况；建议\nvt. 举...为例",
+    "释义(英文)": "n an occurrence of something\nn an item of information that is typical of a class or group\nv clarify by giving an example of"
+  },
+  {
+    "单词": "detail",
+    "英音": "[ˈdiːteɪl]",
+    "美音": "[ˈdiːteɪlˌdɪˈteɪl]",
+    "释义(中文)": "n. 细节，详情\nvt. 详述；选派\nvi. 画详图",
+    "释义(英文)": "n. an isolated fact that is considered separately from the whole\nn. a small part that can be considered separately from the whole\nn. extended treatment of particulars\nn. a crew of workers selected for a particular task"
+  },
+  {
+    "单词": "purchase",
+    "英音": "[ˈpɜːtʃəs]",
+    "美音": "[ˈpɜːrtʃəs]",
+    "释义(中文)": "n. 购买；紧握；起重装置\nvt. 购买；赢得\nvi. 购买东西",
+    "释义(英文)": "n. the acquisition of something for payment\nn. something acquired by purchase\nn. a means of exerting influence or gaining advantage"
+  },
+  {
+    "单词": "environment",
+    "英音": "[ɪnˈvaɪrənmənt]",
+    "美音": "[ɪnˈvaɪrənmənt]",
+    "释义(中文)": "n. 环境，外界",
+    "释义(英文)": "n. the totality of surrounding conditions\nn. the area in which something exists or lives"
+  },
+  {
+    "单词": "reliable",
+    "英音": "[rɪˈlaɪəbl]",
+    "美音": "[rɪˈlaɪəbl]",
+    "释义(中文)": "n. 可靠的人\nadj. 可靠的；可信赖的",
+    "释义(英文)": "a. worthy of reliance or trust"
+  },
+  {
+    "单词": "source",
+    "英音": "[sɔːs]",
+    "美音": "[sɔːrs]",
+    "释义(中文)": "n. 来源；水源；原始资料\n",
+    "释义(英文)": "n. a document (or organization) from which information is obtained\nn. anything that provides inspiration for later work\nn. a facility where something is available\nn. (technology) a process by which energy or a substance enters a system"
+  },
+  {
+    "单词": "input",
+    "英音": "[ˈɪnpʊt]",
+    "美音": "[ˈɪnpʊt]",
+    "释义(中文)": "n. 投入；输入电路\nvt. [自][电子] 输入；将…输入电脑",
+    "释义(英文)": "n. a component of production; something that goes into the production of output\nv. enter (data or a program) into a computer"
+  },
+  {
+    "单词": "rely",
+    "英音": "[rɪˈlaɪ]",
+    "美音": "[rɪˈlaɪ]",
+    "释义(中文)": "vi. 依靠；信赖",
+    "释义(英文)": "v have confidence or faith in"
+  },
+  {
+    "单词": "rely on",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "v. 依靠；信赖\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "handle",
+    "英音": "[ˈhænd(ə)l]",
+    "美音": "[ˈhændl]",
+    "释义(中文)": "n. [建] 把手；柄；手感；口实\nvt. 处理；操作；运用；买卖；触摸\nvi. 搬运；易于操纵",
+    "释义(英文)": "n. the appendage to an object that is designed to be held in order to use or move it\nv. touch, lift, or hold with the hands\nv. show and train"
+  },
+  {
+    "单词": "apart",
+    "英音": "[əˈpɑːt]",
+    "美音": "[əˈpɑːrt]",
+    "释义(中文)": "adj. 分离的；与众不同的\nadv. 相距；与众不同地；分离着",
+    "释义(英文)": "s. remote and separate physically or socially\ns. having characteristics not shared by others\nr. separated or at a distance in place or position or time\nr. not taken into account or excluded from consideration"
+  },
+  {
+    "单词": "assign",
+    "英音": "[əˈsaɪn]",
+    "美音": "[əˈsaɪn]",
+    "释义(中文)": "vt. 分配；指派；[计][数] 赋值\nvi. 将财产过户（尤指过户给债权人）",
+    "释义(英文)": "v. give out\nv. select something or someone for a specific purpose\nv. transfer one's right to\nv. decide as to where something belongs in a scheme"
+  },
+  {
+    "单词": "assignment",
+    "英音": "[əˈsaɪnmənt]",
+    "美音": "[əˈsaɪnmənt]",
+    "释义(中文)": "n. 分配；任务；作业；功课",
+    "释义(英文)": "n. a duty that you are assigned to perform (especially in the armed forces)\nn. the instrument by which a claim or right or interest or property is transferred from one person to another\nn. the act of distributing something to designated places or persons\nn. an undertaking that you have been assigned to do (as by an instructor)"
+  },
+  {
+    "单词": "pal",
+    "英音": "[pæl]",
+    "美音": "[pæl]",
+    "释义(中文)": "n. 朋友，伙伴；同志\nvi. 结为朋友",
+    "释义(英文)": "v. become friends; act friendly towards"
+  },
+  {
+    "单词": "motivation",
+    "英音": "[ˌməʊtɪˈveɪʃn]",
+    "美音": "[ˌmoʊtɪˈveɪʃn]",
+    "释义(中文)": "n. 动机；积极性；推动",
+    "释义(英文)": "n. the psychological feature that arouses an organism to action toward a desired goal; the reason for the action; that which gives purpose and direction to behavior\nn. the condition of being motivated\nn. the act of motivating; providing incentive"
+  },
+  {
+    "单词": "motivate",
+    "英音": "[ˈməʊtɪveɪt]",
+    "美音": "[ˈmoʊtɪveɪt]",
+    "释义(中文)": "vt. 刺激；使有动机；激发…的积极性",
+    "释义(英文)": "v. give an incentive for action"
+  },
+  {
+    "单词": "culture",
+    "英音": "[ˈkʌltʃə(r)]",
+    "美音": "[ˈkʌltʃər]",
+    "释义(中文)": "n. 文化，文明；修养；栽培\nvt. [细胞][微] 培养（等于cultivate）",
+    "释义(英文)": "n. a particular society at a particular time and place\nn. the tastes in art and manners that are favored by a social group\nn. (biology) the growing of microorganisms in a nutrient medium (such as gelatin or agar)\nn. the attitudes and behavior that are characteristic of a particular social group or organization"
+  },
+  {
+    "单词": "summarize",
+    "英音": "[ˈsʌməraɪz]",
+    "美音": "[ˈsʌməraɪz]",
+    "释义(中文)": "vt. 总结；概述\nvi. 作总结；作概括",
+    "释义(英文)": "v. be a summary of"
+  },
+  {
+    "单词": "process",
+    "英音": "[prəˈses; ˈprəʊses]",
+    "美音": "[prəˈses；ˈprɑːses]",
+    "释义(中文)": "n. 过程，进行；方法，步骤；作用；程序；推移\nadj. 经过特殊加工（或处理）的\nvt. 处理；加工\nvi. 列队前进",
+    "释义(英文)": "n. (psychology) the performance of some composite cognitive activity; an operation that affects mental contents\nn. a mental process that you are not directly aware of\nn. a natural prolongation or projection from a part of an organism either animal or plant\nn. a sustained phenomenon or one marked by gradual changes through a series of states"
+  },
+  {
+    "单词": "accumulation",
+    "英音": "[əˌkjuːmjəˈleɪʃn]",
+    "美音": "[əˌkjuːmjəˈleɪʃn]",
+    "释义(中文)": "n. 积聚，累积；堆积物",
+    "释义(英文)": "n. the act of accumulating\nn. (finance) profits that are not paid out as dividends but are added to the capital base of the corporation"
+  },
+  {
+    "单词": "accumulate",
+    "英音": "[əˈkjuːmjəleɪt]",
+    "美音": "[əˈkjuːmjəleɪt]",
+    "释义(中文)": "vt. 积攒\nvi. 累积；积聚",
+    "释义(英文)": "v. collect or gather"
+  },
+  {
+    "单词": "absorb",
+    "英音": "[əbˈzɔːb]",
+    "美音": "[əbˈzɔːrb; əbˈsɔːrb]",
+    "释义(中文)": "vt. 吸收；吸引；承受；理解；使…全神贯注",
+    "释义(英文)": "v. become imbued\nv. take up mentally\nv. take up, as of debts or payments\nv. take in, also metaphorically"
+  },
+  {
+    "单词": "by no means",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 决不；并没有\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "at fault",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "adv. 困惑；不知所措\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "at a time",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 一次(多少)；同时；曾经；连续\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "be bound to",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "v. 一定要；决心\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "commit to memory",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 记住\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "watch out for",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "v. 期待；等待\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "learn of",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "v. 得知；获悉\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "learn about",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "v. 得知关于；学习关于\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "on a regular basis",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 定期地；经常；经常地",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "on a daily basis",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 每天；日常；每天都",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "on a weekly basis",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "in addition to",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 加之\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "over and over again",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 翻来覆去\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "seek out",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 找出；寻求；想获得\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "feel free",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 感到自由，无拘束; <非正>随自己之意（做某事）",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "for instance",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 例如\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "in detail",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 详细\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "act out",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "v. 演出\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "apart from",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "prep. 除了…外（都）；要不是；除了…外（还）；此外\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "put ... into practice",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 实行\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "intelligence",
+    "英音": "[ɪnˈtelɪdʒəns]",
+    "美音": "[ɪnˈtelɪdʒəns]",
+    "释义(中文)": "n. 智力；情报工作；情报机关；理解力；才智，智慧；天分",
+    "释义(英文)": "n. the ability to comprehend; to understand and profit from experience\nn. a unit responsible for gathering and interpreting information about an enemy\nn. secret information about an enemy (or potential enemy)\nn. the operation of gathering information about an enemy"
+  },
+  {
+    "单词": "necessarily",
+    "英音": "[ˌnesəˈserəli; ˈnesəsərəli]",
+    "美音": "[ˌnesəˈserəli]",
+    "释义(中文)": "adv. 必要地；必定地，必然地",
+    "释义(英文)": "r. in an essential manner\nr. as a highly likely consequence"
+  },
+  {
+    "单词": "weekly",
+    "英音": "[ˈwiːkli]",
+    "美音": "[ˈwiːkli]",
+    "释义(中文)": "n. 周刊\nadj. 每周的；周刊的；一周一次的\nadv. 每周一次；逐周",
+    "释义(英文)": "n. a periodical that is published every week (or 52 issues per year)\ns. of or occurring every seven days"
+  },
+  {
+    "单词": "schedule",
+    "英音": "[ˈʃedjuːl]",
+    "美音": "[ˈskedʒuːl]",
+    "释义(中文)": "n. 时间表；计划表；一览表\nvt. 安排，计划；编制目录；将……列入计划表",
+    "释义(英文)": "n. an ordered list of times at which things are planned to occur\nv. plan for an activity or event\nv. make a schedule; plan the time and place for events"
+  },
+  {
+    "单词": "chart",
+    "英音": "[tʃɑːt]",
+    "美音": "[tʃɑːrt]",
+    "释义(中文)": "n. 图表；海图；图纸；排行榜\nvt. 绘制…的图表；在海图上标出；详细计划；记录；记述；跟踪（进展或发展\n",
+    "释义(英文)": "n. a visual display of information\nn. a map designed to assist navigation by air or sea\nv. make a chart of\nv. plan in detail"
+  },
+  {
+    "单词": "fill in",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 填充；填写；同“fill”\n",
+    "释义(英文)": "n someone who takes the place of another (as when things get dangerous or difficult)"
+  },
+  {
+    "单词": "decide on",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 决心\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "aside",
+    "英音": "[əˈsaɪd]",
+    "美音": "[əˈsaɪd]",
+    "释义(中文)": "prep. 在…旁边\nn. 旁白；私语，悄悄话；离题的话\nadv. 离开，撇开；在旁边",
+    "释义(英文)": "n. a line spoken by an actor to the audience but not intended for others on the stage\nr. on or to one side\nr. out of the way (especially away from one's thoughts)\nr. placed or kept separate and distinct as for a purpose"
+  },
+  {
+    "单词": "set aside",
+    "英音": "[ˈset əsaɪd]",
+    "美音": "[set əˈsaɪd]",
+    "释义(中文)": "na. 搁置；拨出；驳回\n",
+    "释义(英文)": "s reserved in advance"
+  },
+  {
+    "单词": "occupy",
+    "英音": "[ˈɒkjupaɪ]",
+    "美音": "[ˈɑːkjupaɪ]",
+    "释义(中文)": "vt. 占据，占领；居住；使忙碌",
+    "释义(英文)": "v. live (in a certain place)\nv. occupy the whole of"
+  },
+  {
+    "单词": "relaxation",
+    "英音": "[ˌriːlækˈseɪʃn]",
+    "美音": "[ˌriːlækˈseɪʃn]",
+    "释义(中文)": "n. 放松；缓和；消遣",
+    "释义(英文)": "n. (physiology) the gradual lengthening of inactive muscle or muscle fibers\nn. (physics) the exponential return of a system to equilibrium after a disturbance\nn. an occurrence of control or strength weakening"
+  },
+  {
+    "单词": "entertainment",
+    "英音": "[ˌentəˈteɪnmənt]",
+    "美音": "[ˌentərˈteɪnmənt]",
+    "释义(中文)": "n. 娱乐；消遣；款待",
+    "释义(英文)": "n. an activity that is diverting and that holds the attention"
+  },
+  {
+    "单词": "as well",
+    "英音": "[æz wel]",
+    "美音": "[æz wel]",
+    "释义(中文)": "na. 也；同样\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "solve",
+    "英音": "[sɒlv]",
+    "美音": "[sɑːlv]",
+    "释义(中文)": "vt. 解决；解答；溶解\nvi. 作解答",
+    "释义(英文)": "v. find the solution to (a problem or question) or understand the meaning of"
+  },
+  {
+    "单词": "aware",
+    "英音": "[əˈweə(r)]",
+    "美音": "[əˈwer]",
+    "释义(中文)": "adj. 意识到的；知道的；有…方面知识的；懂世故的\n",
+    "释义(英文)": "a. (sometimes followed by `of') having or showing knowledge or understanding or realization or perception"
+  },
+  {
+    "单词": "furthermore",
+    "英音": "[ˌfɜːðəˈmɔː(r)]",
+    "美音": "[ˌfɜːrðərˈmɔːr]",
+    "释义(中文)": "adv. 此外；而且",
+    "释义(英文)": "r. in addition; furthermore, their quality is improving\"; moreover, mice nested there\""
+  },
+  {
+    "单词": "enable",
+    "英音": "[ɪˈneɪbl]",
+    "美音": "[ɪˈneɪbl]",
+    "释义(中文)": "vt. 使能够，使成为可能；授予权利或方法",
+    "释义(英文)": "v. render capable or able for some task"
+  },
+  {
+    "单词": "activity",
+    "英音": "[ækˈtɪvəti]",
+    "美音": "[ækˈtɪvəti]",
+    "释义(中文)": "n. 活动；行动；活跃",
+    "释义(英文)": "n. any specific behavior\nn. (chemistry) the capacity of a substance to take part in a chemical reaction"
+  },
+  {
+    "单词": "adequate",
+    "英音": "[ˈædɪkwət]",
+    "美音": "[ˈædɪkwət]",
+    "释义(中文)": "adj. 充足的；适当的；胜任的",
+    "释义(英文)": "a. having the requisite qualities or resources to meet a task\ns. sufficient for the purpose\ns. about average; acceptable"
+  },
+  {
+    "单词": "skim",
+    "英音": "[skɪm]",
+    "美音": "[skɪm]",
+    "释义(中文)": "n. 撇；撇去的东西；表层物；瞒报所得的收入\nadj. 脱脂的；撇去浮沫的；表层的\nvt. 略读；撇去…的浮物；从…表面飞掠而过；去除；（为逃税而）隐瞒（部分收入）\nvi. 浏览；掠过",
+    "释义(英文)": "n. a thin layer covering the surface of a liquid\nn. reading or glancing through quickly\nv. cause to skip over a surface\nv. coat (a liquid) with a layer"
+  },
+  {
+    "单词": "look over",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 浏览；检查；察看\n",
+    "释义(英文)": "n a swift cursory examination or inspection"
+  },
+  {
+    "单词": "organize",
+    "英音": "[ˈɔːɡənaɪz]",
+    "美音": "[ˈɔːrɡənaɪz]",
+    "释义(中文)": "vt. 组织；使有系统化；给予生机；组织成立工会等\nvi. 组织起来；成立组织",
+    "释义(英文)": "v. cause to be structured or ordered or operating according to some principle or idea\nv. bring order and organization to\nv. arrange by systematic planning and united effort"
+  },
+  {
+    "单词": "portion",
+    "英音": "[ˈpɔːʃ(ə)n]",
+    "美音": "[ˈpɔːrʃn]",
+    "释义(中文)": "n. 部分；一份；命运\nvt. 分配；给…嫁妆",
+    "释义(英文)": "n something determined in relation to something that includes it\nn something less than the whole of a human artifact\nn the allotment of some amount by dividing something\nn assets belonging to or due to or contributed by an individual person or group\nn your overall circumstances or condition in life (including everything that happens to you)\nn money or property brought by a woman to her husband at marriage\nn an individual quantity of food or drink taken as part of a meal\nv give out"
+  },
+  {
+    "单词": "comprehension",
+    "英音": "[ˌkɒmprɪˈhenʃn]",
+    "美音": "[ˌkɑːmprɪˈhenʃn]",
+    "释义(中文)": "n. 理解；包含",
+    "释义(英文)": "n. an ability to understand the meaning or importance of something (or the knowledge acquired as a result)"
+  },
+  {
+    "单词": "go over",
+    "英音": "[ɡəʊ ˈəʊvə(r)]",
+    "美音": "[ɡoʊ ˈoʊvər]",
+    "释义(中文)": "na. 仔细查看；仔细搜查；排练；重温\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "confuse",
+    "英音": "[kənˈfjuːz]",
+    "美音": "[kənˈfjuːz]",
+    "释义(中文)": "vt. 使混乱；使困惑",
+    "释义(英文)": "v. mistake one thing for another\nv. be confusing or perplexing to; cause to be unable to think clearly\nv. cause to feel embarrassment\nv. make unclear, indistinct, or blurred"
+  },
+  {
+    "单词": "textbook",
+    "英音": "[ˈtekstbʊk]",
+    "美音": "[ˈtekstbʊk]",
+    "释义(中文)": "n. 教科书，课本",
+    "释义(英文)": "n. a book prepared for use in schools or colleges"
+  },
+  {
+    "单词": "performance",
+    "英音": "[pəˈfɔːməns]",
+    "美音": "[pərˈfɔːrməns]",
+    "释义(中文)": "n. 性能；绩效；表演；执行；表现",
+    "释义(英文)": "n. a dramatic or musical entertainment\nn. the act of presenting a play or a piece of music or other entertainment\nn. the act of performing; of doing something successfully; using knowledge as distinguished from merely possessing it\nn. any recognized accomplishment"
+  },
+  {
+    "单词": "attitude",
+    "英音": "[ˈætɪtjuːd]",
+    "美音": "[ˈætɪtuːd]",
+    "释义(中文)": "n. 态度；看法；意见；姿势",
+    "释义(英文)": "n. a complex mental state involving beliefs and feelings and values and dispositions to act in certain ways\nn. a theatrical pose created for effect\nn. position of aircraft or spacecraft relative to a frame of reference (the horizon or direction of motion)"
+  },
+  {
+    "单词": "permanent",
+    "英音": "[ˈpɜːmənənt]",
+    "美音": "[ˈpɜːrmənənt]",
+    "释义(中文)": "n. 烫发（等于permanent wave）\nadj. 永久的，永恒的；不变的",
+    "释义(英文)": "a. continuing or enduring without marked change in status or condition or place\ns. not capable of being reversed or returned to the original condition"
+  },
+  {
+    "单词": "single-handed",
+    "英音": "[ˌsɪŋɡl ˈhændɪd]",
+    "美音": "[ˌsɪŋɡl ˈhændɪd]",
+    "释义(中文)": "adj. 单手的；单独一人的；无助的\nadv. 单独地；独力地；无助地",
+    "释义(英文)": "s. unsupported by other people\ns. without help from others\nr. without assistance"
+  },
+  {
+    "单词": "solo",
+    "英音": "[ˈsəʊləʊ]",
+    "美音": "[ˈsoʊloʊ]",
+    "释义(中文)": "n. 独奏；独唱；独奏曲\nadj. 独奏的；独唱的；单独的\nvt. 单人攀登；单独驾\nvi. 单独表演；放单飞\nadv. 单独地",
+    "释义(英文)": "n. any activity that is performed alone without assistance\nn. a musical composition for one voice or instrument (with or without accompaniment)\nn. a flight in which the aircraft pilot is unaccompanied\nv. fly alone, without a co-pilot or passengers"
+  },
+  {
+    "单词": "transatlantic",
+    "英音": "[ˌtrænzətˈlæntɪk]",
+    "美音": "[ˌtrænzətˈlæntɪk]",
+    "释义(中文)": "adj. 大西洋彼岸的，横渡大西洋的；美国的",
+    "释义(英文)": "a. crossing the Atlantic Ocean"
+  },
+  {
+    "单词": "lung",
+    "英音": "[lʌŋ]",
+    "美音": "[lʌŋ]",
+    "释义(中文)": "n. 肺；呼吸器\n",
+    "释义(英文)": "n. either of two saclike respiratory organs in the chest of vertebrates; serves to remove carbon dioxide and provide oxygen to the blood"
+  },
+  {
+    "单词": "cancer",
+    "英音": "[ˈkænsə(r)]",
+    "美音": "[ˈkænsər]",
+    "释义(中文)": "[天] 巨蟹座",
+    "释义(英文)": "n. any malignant growth or tumor caused by abnormal and uncontrolled cell division; it may spread to other parts of the body through the lymphatic system or the blood stream\nn. (astrology) a person who is born while the sun is in Cancer\nn. a small zodiacal constellation in the northern hemisphere; between Leo and Gemini\nn. the fourth sign of the zodiac; the sun is in this sign from about June 21 to July 22"
+  },
+  {
+    "单词": "determined",
+    "英音": "[dɪˈtɜːmɪnd]",
+    "美音": "[dɪˈtɜːrmɪnd]",
+    "释义(中文)": "v. 决定；断定（determine的过去分词）\nadj. 决定了的；坚决的",
+    "释义(英文)": "s. characterized by great determination\na. having been learned or found or determined especially by investigation\ns. devoting full strength and concentrated attention to\ns. determined or decided upon as by an authority"
+  },
+  {
+    "单词": "determine",
+    "英音": "[dɪˈtɜːmɪn]",
+    "美音": "[dɪˈtɜːrmɪn]",
+    "释义(中文)": "v. （使）下决心，（使）做出决定\nvt. 决定，确定；判定，判决；限定\nvi. 确定；决定；判决，终止；[主用于法律]了结，终止，结束",
+    "释义(英文)": "v. establish after a calculation, investigation, experiment, survey, or study\nv. shape or influence; give direction to\nv. fix conclusively or authoritatively\nv. fix in scope; fix the boundaries of"
+  },
+  {
+    "单词": "determination",
+    "英音": "[dɪˌtɜːmɪˈneɪʃ(ə)n]",
+    "美音": "[dɪˌtɜːrmɪˈneɪʃn]",
+    "释义(中文)": "n. 决心；果断；测定",
+    "释义(英文)": "n. the act of determining the properties of something, usually by research or calculation\nn. the quality of being determined to do or achieve something; firmness of purpose\nn. deciding or controlling something's outcome or nature"
+  },
+  {
+    "单词": "retire",
+    "英音": "[rɪˈtaɪə(r)]",
+    "美音": "[rɪˈtaɪər]",
+    "释义(中文)": "n. 退休；退隐；退兵信号\nvi. 退休；撤退；退却\nvt. 退休；离开；收回",
+    "释义(英文)": "v. go into retirement; stop performing one's work or withdraw from one's position\nv. withdraw from active participation\nv. withdraw from circulation or from the market, as of bills, shares, and bonds\nv. make (someone) retire"
+  },
+  {
+    "单词": "voyage",
+    "英音": "[ˈvɔɪɪdʒ]",
+    "美音": "[ˈvɔɪɪdʒ]",
+    "释义(中文)": "n. 航行；航程；旅行记\nvt. 飞过；渡过\nvi. 航行；航海",
+    "释义(英文)": "n. a journey to some distant place\nv. travel on water propelled by wind or by other means"
+  },
+  {
+    "单词": "clipper",
+    "英音": "[ˈklɪpə(r)]",
+    "美音": "[ˈklɪpər]",
+    "释义(中文)": "n. 快速帆船；大剪刀；剪削者；理发剪",
+    "释义(英文)": "n. a fast sailing ship used in former times\nn. shears for cutting grass or shrubbery (often used in the plural)\nn. scissors for cutting hair or finger nails (often used in the plural)"
+  },
+  {
+    "单词": "crew",
+    "英音": "[kruː]",
+    "美音": "[kruː]",
+    "释义(中文)": "n. 队，组；全体人员，全体船员\nvt. 使当船员\nvi. 一起工作\n",
+    "释义(英文)": "n. the men and women who man a vehicle (ship, aircraft, etc.)\nn. the team of men manning a racing shell\nv. serve as a crew member on"
+  },
+  {
+    "单词": "steer",
+    "英音": "[stɪə(r)]",
+    "美音": "[stɪr]",
+    "释义(中文)": "vt. 控制，引导；驾驶\nvi. 驾驶，掌舵；行驶\nn. 阉牛\n",
+    "释义(英文)": "v. direct the course; determine the direction of travelling\nv. direct (oneself) somewhere"
+  },
+  {
+    "单词": "device",
+    "英音": "[dɪˈvaɪs]",
+    "美音": "[dɪˈvaɪs]",
+    "释义(中文)": "n. 装置；策略；图案",
+    "释义(英文)": "n. an instrumentality invented for a particular purpose\nn. something in an artistic work designed to achieve a particular effect\nn. any clever maneuver\nn. any ornamental pattern or design (as in embroidery)"
+  },
+  {
+    "单词": "steering device",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "un. 转向器；转向装置\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "gale",
+    "英音": "[ɡeɪl]",
+    "美音": "[ɡeɪl]",
+    "释义(中文)": "n. [气象] 大风，狂风；（突发的）一阵\n",
+    "释义(英文)": "n. a strong wind moving 45-90 knots; force 7 to 10 on Beaufort scale"
+  },
+  {
+    "单词": "cover",
+    "英音": "[ˈkʌvə(r)]",
+    "美音": "[ˈkʌvər]",
+    "释义(中文)": "n. 封面，封皮；盖子；掩蔽物;幌子，借口\nvt. 包括；采访，报导；涉及\nvi. 覆盖；代替\n",
+    "释义(英文)": "n. the act of concealing the existence of something by obstructing the view of it\nn. fire that makes it difficult for the enemy to fire on your own individuals or formations\nn. a recording of a song that was first recorded or made popular by somebody else\nn. a false identity and background (especially one created for an undercover agent)"
+  },
+  {
+    "单词": "previously",
+    "英音": "[ˈpriːviəsli]",
+    "美音": "[ˈpriːviəsli]",
+    "释义(中文)": "adv. 以前；预先；仓促地",
+    "释义(英文)": "r. at an earlier time or formerly"
+  },
+  {
+    "单词": "previous",
+    "英音": "[ˈpriːviəs]",
+    "美音": "[ˈpriːviəs]",
+    "释义(中文)": "adj. 以前的；早先的；过早的\nadv. 在先；在…以前",
+    "释义(英文)": "s. just preceding something else in time or order\ns. too soon or too hasty"
+  },
+  {
+    "单词": "Australian",
+    "英音": "[ɒˈstreɪliən]",
+    "美音": "[ɔːˈstreɪliən]",
+    "释义(中文)": "adj. 澳大利亚的，澳大利亚人的\nn. 澳大利亚人",
+    "释义(英文)": "n. a native or inhabitant of Australia\nn. the Austronesian languages spoken by Australian aborigines\na. of or relating to or characteristic of Australia or its inhabitants or its languages"
+  },
+  {
+    "单词": "dissuade",
+    "英音": "[dɪˈsweɪd]",
+    "美音": "[dɪˈsweɪd]",
+    "释义(中文)": "vt. 劝阻，劝止",
+    "释义(英文)": "v. turn away from by persuasion"
+  },
+  {
+    "单词": "treacherous",
+    "英音": "[ˈtretʃərəs]",
+    "美音": "[ˈtretʃərəs]",
+    "释义(中文)": "adj. 奸诈的，叛逆的，背叛的；危险的；不牢靠的",
+    "释义(英文)": "s. dangerously unstable and unpredictable"
+  },
+  {
+    "单词": "cape",
+    "英音": "[keɪp]",
+    "美音": "[keɪp]",
+    "释义(中文)": "n. [地理] 海角，岬；披肩\n",
+    "释义(英文)": "n. a strip of land projecting into a body of water\nn. a sleeveless garment like a cloak but shorter"
+  },
+  {
+    "单词": "fortunately",
+    "英音": "[ˈfɔːtʃənətli]",
+    "美音": "[ˈfɔːrtʃənətli]",
+    "释义(中文)": "adv. 幸运地",
+    "释义(英文)": "r. by good fortune"
+  },
+  {
+    "单词": "contact",
+    "英音": "[ˈkɒntækt]",
+    "美音": "[ˈkɑːntækt]",
+    "释义(中文)": "n. 接触，联系\nvt. 使接触，联系\nvi. 使接触，联系",
+    "释义(英文)": "n. close interaction\nn. the act of touching physically\nn. the state or condition of touching or of being in immediate proximity\nn. the physical coming together of two or more things"
+  },
+  {
+    "单词": "nearby",
+    "英音": "[ˌnɪəˈbaɪ]",
+    "美音": "[ˌnɪrˈbaɪ]",
+    "释义(中文)": "adj. 附近的，邻近的\nadv. 在附近\nprep. 在…附近",
+    "释义(英文)": "s. close at hand\nr. not far away in relative terms"
+  },
+  {
+    "单词": "following",
+    "英音": "[ˈfɒləʊɪŋ]",
+    "美音": "[ˈfɑːloʊɪŋ]",
+    "释义(中文)": "n. 下列事物；一批追随者\nv. 跟随；沿行（follow的ing形式）\nadj. 下面的；其次的，接着的",
+    "释义(英文)": "n. a group of followers or enthusiasts\ns. about to be mentioned or specified\ns. immediately following in time or order\na. going or proceeding or coming after in the same direction"
+  },
+  {
+    "单词": "waken",
+    "英音": "[ˈweɪkən]",
+    "美音": "[ˈweɪkən]",
+    "释义(中文)": "vt. 唤醒；使觉醒\nvi. 醒来；觉醒",
+    "释义(英文)": "v cause to become awake or conscious\nv stop sleeping"
+  },
+  {
+    "单词": "nightmare",
+    "英音": "[ˈnaɪtmeə(r)]",
+    "美音": "[ˈnaɪtmer]",
+    "释义(中文)": "n. 恶梦；梦魇般的经历\nadj. 可怕的；噩梦似的",
+    "释义(英文)": "n. a situation resembling a terrifying dream\nn. a terrifying or deeply upsetting dream"
+  },
+  {
+    "单词": "drag",
+    "英音": "[dræɡ]",
+    "美音": "[dræɡ]",
+    "释义(中文)": "n. 拖；拖累\nvi. 拖曳；缓慢而吃力地行进\nvt. 拖累；拖拉；缓慢而吃力地行进\n",
+    "释义(英文)": "n. the phenomenon of resistance to motion through a fluid\nn. something that slows or delays progress\nn. something tedious and boring\nn. clothing that is conventionally worn by the opposite sex (especially women's clothing when worn by a man)"
+  },
+  {
+    "单词": "sinister",
+    "英音": "[ˈsɪnɪstə(r)]",
+    "美音": "[ˈsɪnɪstər]",
+    "释义(中文)": "adj. 阴险的；凶兆的；灾难性的；左边的",
+    "释义(英文)": "s. on or starting from the wearer's left"
+  },
+  {
+    "单词": "knight",
+    "英音": "[naɪt]",
+    "美音": "[naɪt]",
+    "释义(中文)": "n. 骑士，武士；爵士\nvt. 授以爵位\n",
+    "释义(英文)": "n. originally a person of noble birth trained to arms and chivalry; today in Great Britain a person honored by the sovereign for personal merit\nn. a chessman shaped to resemble the head of a horse; can move two squares horizontally and one vertically (or vice versa)\nv. raise (someone) to knighthood"
+  },
+  {
+    "单词": "sword",
+    "英音": "[sɔːd]",
+    "美音": "[sɔːrd]",
+    "释义(中文)": "n. 刀，剑；武力，战争\n",
+    "释义(英文)": "n. a cutting or thrusting weapon that has a long metal blade and a hilt with a hand guard"
+  },
+  {
+    "单词": "accomplish",
+    "英音": "[əˈkʌmplɪʃ]",
+    "美音": "[əˈkɑːmplɪʃ]",
+    "释义(中文)": "vt. 完成；实现；达到",
+    "释义(英文)": "v put in effect\nv to gain with effort"
+  },
+  {
+    "单词": "adventurer",
+    "英音": "[ədˈventʃərə(r)]",
+    "美音": "[ədˈventʃərər]",
+    "释义(中文)": "n. 冒险家；投机商人",
+    "释义(英文)": "n. a person who enjoys taking risks"
+  },
+  {
+    "单词": "conquer",
+    "英音": "[ˈkɒŋkə(r)]",
+    "美音": "[ˈkɑːŋkər]",
+    "释义(中文)": "vt. 战胜，征服；攻克，攻取\nvi. 胜利；得胜",
+    "释义(英文)": "v. overcome by conquest"
+  },
+  {
+    "单词": "undoubtedly",
+    "英音": "[ʌnˈdaʊtɪdli]",
+    "美音": "[ʌnˈdaʊtɪdli]",
+    "释义(中文)": "adv. 确实地，毋庸置疑的",
+    "释义(英文)": "r. without doubt; certainly"
+  },
+  {
+    "单词": "moreover",
+    "英音": "[mɔːrˈəʊvə(r)]",
+    "美音": "[mɔːrˈoʊvər]",
+    "释义(中文)": "adv. 而且；此外",
+    "释义(英文)": "r in addition; furthermore, their quality is improving\"; moreover, mice nested there\""
+  },
+  {
+    "单词": "being",
+    "英音": "[ˈbiːɪŋ]",
+    "美音": "[ˈbiːɪŋ]",
+    "释义(中文)": "n. 存在；生命；本质；品格\nadj. 存在的；现有的",
+    "释义(英文)": "n. the state or fact of existing"
+  },
+  {
+    "单词": "set out",
+    "英音": "[set aʊt]",
+    "美音": "[set aʊt]",
+    "释义(中文)": "n. 开始；出发；动身；准备\n",
+    "释义(英文)": "n. A display, as of plate, equipage, etc.; that which is\n   displayed."
+  },
+  {
+    "单词": "give up",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 放弃；断绝；投降；自首\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "be determined",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 决意；决定的；立志",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "be determined to do sth.",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 决心做某事；下定决心做某事；下决心做某事",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "by oneself",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 单独；独自；独力\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "all by oneself",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 单独；全靠自己；独立",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "in spite of",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. spite of 不管；〔古语〕无视\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "by far",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. (修饰比较级,最高级,表示数量,程度等)…得多；尤其；更\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "turn over",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. ￡ 500 a week 每星期卖得五百镑\n",
+    "释义(英文)": "n. a dish made by folding a piece of pastry over a filling"
+  },
+  {
+    "单词": "can not help",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "v. 禁不住\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "channel",
+    "英音": "[ˈtʃæn(ə)l]",
+    "美音": "[ˈtʃænl]",
+    "释义(中文)": "n. 通道；频道；海峡\nvt. 引导，开导；形成河道",
+    "释义(英文)": "n. a path over which electrical signals can pass\nn. a passage for water (or other fluids) to flow through\nn. a deep and relatively narrow body of water (as in a river or a harbor or a strait linking two larger bodies) that allows the best passage for vessels\nn. (often plural) a means of communication or access"
+  },
+  {
+    "单词": "somewhat",
+    "英音": "[ˈsʌmwɒt]",
+    "美音": "[ˈsʌmwʌt]",
+    "释义(中文)": "n. 几分；某物\nadv. 有点；多少；几分；稍微",
+    "释义(英文)": "r to a small degree or extent\nr to a moderately sufficient extent or degree"
+  },
+  {
+    "单词": "reporter",
+    "英音": "[rɪˈpɔːtə(r)]",
+    "美音": "[rɪˈpɔːrtər]",
+    "释义(中文)": "n. 记者",
+    "释义(英文)": "n. a person who investigates and reports or edits news stories"
+  },
+  {
+    "单词": "recently",
+    "英音": "[ˈriːs(ə)ntli]",
+    "美音": "[ˈriːsntli]",
+    "释义(中文)": "adv. 最近；新近",
+    "释义(英文)": "r. in the recent past"
+  },
+  {
+    "单词": "supermarket",
+    "英音": "[ˈsuːpəmɑːkɪt]",
+    "美音": "[ˈsuːpərmɑːrkɪt]",
+    "释义(中文)": "n. 超级市场；自助售货商店",
+    "释义(英文)": "n. a large self-service grocery store selling groceries and dairy products and household goods"
+  },
+  {
+    "单词": "challenge",
+    "英音": "[ˈtʃælɪndʒ]",
+    "美音": "[ˈtʃælɪndʒ]",
+    "释义(中文)": "n. 挑战；怀疑\nvt. 向…挑战；对…质疑",
+    "释义(英文)": "n. a demanding or stimulating situation\nn. a call to engage in a contest or fight\nn. questioning a statement and demanding an explanation\nn. a formal objection to the selection of a particular person as a juror"
+  },
+  {
+    "单词": "satisfactory",
+    "英音": "[ˌsætɪsˈfæktəri]",
+    "美音": "[ˌsætɪsˈfæktəri]",
+    "释义(中文)": "adj. 满意的；符合要求的；赎罪的",
+    "释义(英文)": "a. giving satisfaction\ns. meeting requirements"
+  },
+  {
+    "单词": "ability",
+    "英音": "[əˈbɪləti]",
+    "美音": "[əˈbɪləti]",
+    "释义(中文)": "n. 能力，能耐；才能",
+    "释义(英文)": "n. the quality of being able to perform; a quality that permits or facilitates achievement or accomplishment\nn. possession of the qualities (especially mental qualities) required to do something or get something done"
+  },
+  {
+    "单词": "endurance",
+    "英音": "[ɪnˈdjʊərəns]",
+    "美音": "[ɪnˈdʊrəns]",
+    "释义(中文)": "n. 忍耐力；忍耐；持久；耐久",
+    "释义(英文)": "n. the power to withstand hardship or stress"
+  },
+  {
+    "单词": "prior",
+    "英音": "[ˈpraɪə(r)]",
+    "美音": "[ˈpraɪər]",
+    "释义(中文)": "adj. 优先的；在先的，在前的\nadv. 在前，居先\n",
+    "释义(英文)": "n. the head of a religious order; in an abbey the prior is next below the abbot"
+  },
+  {
+    "单词": "physically",
+    "英音": "[ˈfɪzɪkli]",
+    "美音": "[ˈfɪzɪkli]",
+    "释义(中文)": "adv. 身体上，身体上地",
+    "释义(英文)": "r. in accord with physical laws"
+  },
+  {
+    "单词": "moderately",
+    "英音": "[ˈmɒdərətli]",
+    "美音": "[ˈmɑːdərətli]",
+    "释义(中文)": "adv. 适度地；中庸地；有节制地",
+    "释义(英文)": "r. with moderation; in a moderate manner"
+  },
+  {
+    "单词": "arrangement",
+    "英音": "[əˈreɪndʒmənt]",
+    "美音": "[əˈreɪndʒmənt]",
+    "释义(中文)": "n. 布置；整理；准备",
+    "释义(英文)": "n. an orderly grouping (of things or persons) considered as a unit; the result of arranging\nn. an organized structure for arranging or classifying\nn. the act of arranging and adapting a piece of music"
+  },
+  {
+    "单词": "aboard",
+    "英音": "[əˈbɔːd]",
+    "美音": "[əˈbɔːrd]",
+    "释义(中文)": "prep. 在…上\nadv. 在飞机上；[船] 在船上；在火车上",
+    "释义(英文)": "r. on a ship, train, plane or other vehicle\nr. on first or second or third base\nr. side by side\nr. part of a group"
+  },
+  {
+    "单词": "tough",
+    "英音": "[tʌf]",
+    "美音": "[tʌf]",
+    "释义(中文)": "n. 恶棍\nadj. 艰苦的，困难的；坚强的，不屈不挠的；坚韧的，牢固的；强壮的，结实的\nvt. 坚持；忍受，忍耐\nadv. 强硬地，顽强地\n",
+    "释义(英文)": "a. not given to gentleness or sentimentality\na. physically toughened\na. resistant to cutting or chewing"
+  },
+  {
+    "单词": "postman",
+    "英音": "[ˈpəʊstmən]",
+    "美音": "[ˈpoʊstmən]",
+    "释义(中文)": "n. 邮递员；邮差",
+    "释义(英文)": "n a man who delivers the mail"
+  },
+  {
+    "单词": "rare",
+    "英音": "[reə(r)]",
+    "美音": "[rer]",
+    "释义(中文)": "adj. 稀有的；稀薄的；半熟的\nadj. 杰出的；极度的；非常好的\nadv. 非常；极其\nvi. 用后腿站起；渴望",
+    "释义(英文)": "s. not widely known; especially valued for its uncommonness\ns. recurring only at long intervals\ns. not widely distributed\ns. having low density"
+  },
+  {
+    "单词": "occasion",
+    "英音": "[əˈkeɪʒ(ə)n]",
+    "美音": "[əˈkeɪʒn]",
+    "释义(中文)": "n. 时机，机会；场合；理由\nvt. 引起，惹起",
+    "释义(英文)": "n. reason\nn. the time of a particular event\nn. an opportunity to do something\nv. give occasion to"
+  },
+  {
+    "单词": "mayor",
+    "英音": "[meə(r)]",
+    "美音": "[ˈmeɪər]",
+    "释义(中文)": "n. 市长\n",
+    "释义(英文)": "n. the head of a city government"
+  },
+  {
+    "单词": "medal",
+    "英音": "[ˈmedl]",
+    "美音": "[ˈmedl]",
+    "释义(中文)": "n. 勋章，奖章；纪念章\n",
+    "释义(英文)": "n an award for winning a championship or commemorating some other event"
+  },
+  {
+    "单词": "aged",
+    "英音": "[eɪdʒd]",
+    "美音": "[eɪdʒd; ˈeɪdʒɪd]",
+    "释义(中文)": "v. 老化（age的过去式）；成熟；变老\nadj. 年老的；…岁的；老年人特有的",
+    "释义(英文)": "n. people who are old collectively\ns. advanced in years; (`aged' is pronounced as two syllables)\ns. at an advanced stage of erosion (pronounced as one syllable)\ns. having attained a specific age; (`aged' is pronounced as one syllable)"
+  },
+  {
+    "单词": "content",
+    "英音": "[ˈkɒntent]",
+    "美音": "[ˈkɑːntent; kənˈtent]",
+    "释义(中文)": "n. 内容，目录；满足；容量\nadj. 满意的\nvt. 使满足\n",
+    "释义(英文)": "n. everything that is included in a collection and that is held or included in something\nn. the proportion of a substance that is contained in a mixture or alloy etc.\nn. the sum or range of what has been perceived, discovered, or learned\nv. satisfy in a limited way"
+  },
+  {
+    "单词": "primary",
+    "英音": "[ˈpraɪməri]",
+    "美音": "[ˈpraɪmeri]",
+    "释义(中文)": "n. 原色；最主要者\nadj. 主要的；初级的；基本的",
+    "释义(英文)": "n. a preliminary election where delegates or nominees are chosen\nn. one of the main flight feathers projecting along the outer edge of a bird's wing\nn. (astronomy) a celestial body (especially a star) relative to other objects in orbit around it\na. of first rank or importance or value; direct and immediate rather than secondary"
+  },
+  {
+    "单词": "arrange",
+    "英音": "[əˈreɪndʒ]",
+    "美音": "[əˈreɪndʒ]",
+    "释义(中文)": "vi. 安排；排列；协商\nvt. 安排；排列；整理",
+    "释义(英文)": "v. put into a proper or systematic order\nv. make arrangements for\nv. adapt for performance in a different way\nv. arrange thoughts, ideas, temporal events"
+  },
+  {
+    "单词": "minor",
+    "英音": "[ˈmaɪnə(r)]",
+    "美音": "[ˈmaɪnər]",
+    "释义(中文)": "adj. 未成年的；次要的；较小的；小调的；二流的\nn. 未成年人；小调；副修科目\nvi. 副修\n",
+    "释义(英文)": "a. of lesser importance or stature or rank\na. lesser in scope or effect\na. inferior in number or size or amount\na. of a scale or mode"
+  },
+  {
+    "单词": "operate",
+    "英音": "[ˈɒpəreɪt]",
+    "美音": "[ˈɑːpəreɪt]",
+    "释义(中文)": "vi. 运转；动手术；起作用\nvt. 操作；经营；引起；对…开刀",
+    "释义(英文)": "v. direct or control; projects, businesses, etc.\nv. handle and cause to function\nv. happen"
+  },
+  {
+    "单词": "operating table",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 手术台\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "funeral",
+    "英音": "[ˈfjuːnərəl]",
+    "美音": "[ˈfjuːnərəl]",
+    "释义(中文)": "n. 葬礼；麻烦事\nadj. 丧葬的，出殡的",
+    "释义(英文)": "n. a ceremony at which a dead person is buried or cremated"
+  },
+  {
+    "单词": "efficient",
+    "英音": "[ɪˈfɪʃnt]",
+    "美音": "[ɪˈfɪʃnt]",
+    "释义(中文)": "adj. 有效率的；有能力的；生效的",
+    "释义(英文)": "a. being effective without wasting time or effort or expense"
+  },
+  {
+    "单词": "decade",
+    "英音": "[ˈdekeɪd]",
+    "美音": "[ˈdekeɪdˌdɪˈkeɪd]",
+    "释义(中文)": "n. 十年，十年期；十",
+    "释义(英文)": "n. a period of 10 years"
+  },
+  {
+    "单词": "endure",
+    "英音": "[ɪnˈdjʊə(r)]",
+    "美音": "[ɪnˈdʊr]",
+    "释义(中文)": "vt. 忍耐；容忍\nvi. 忍耐；持续",
+    "释义(英文)": "v put up with something or somebody unpleasant\nv face and withstand with courage\nv continue to live through hardship or adversity\nv undergo or be subjected to\nv last and be usable\nv persist for a specified period of time\nv continue to exist"
+  },
+  {
+    "单词": "spot",
+    "英音": "[spɒt]",
+    "美音": "[spɑːt]",
+    "释义(中文)": "n. 地点；斑点\nadj. 现场的；现货买卖的\nvt. 认出；弄脏；用灯光照射\nvi. 沾上污渍；满是斑点\nadv. 准确地；恰好",
+    "释义(英文)": "n. a short section or illustration (as between radio or tv programs or in a magazine) that is often used for advertising\nn. a small contrasting part of something\nn. a section of an entertainment that is assigned to a specific performer or performance\nn. a business establishment for entertainment"
+  },
+  {
+    "单词": "brighten",
+    "英音": "[ˈbraɪtn]",
+    "美音": "[ˈbraɪt(ə)n]",
+    "释义(中文)": "vt. 使闪亮；使生辉；使快乐高兴\nvi. 明亮；变亮；活跃；快乐高兴\n",
+    "释义(英文)": "v. make lighter or brighter"
+  },
+  {
+    "单词": "clean",
+    "英音": "[kliːn]",
+    "美音": "[kliːn]",
+    "释义(中文)": "n. 打扫\nadj. 清洁的，干净的；清白的\nvt. 使干净\nvi. 打扫，清扫\nadv. 完全地\n",
+    "释义(英文)": "v. make clean by removing dirt, filth, or unwanted substances from\nv. remove unwanted substances from, such as feathers or pits\nv. be cleanable\nv. deprive wholly of money in a gambling game, robbery, etc."
+  },
+  {
+    "单词": "bunch",
+    "英音": "[bʌntʃ]",
+    "美音": "[bʌntʃ]",
+    "释义(中文)": "n. 群；串；突出物\nvt. 使成一串；使打褶\nvi. 隆起；打褶；形成一串\n",
+    "释义(英文)": "n. a grouping of a number of similar things\nn. any collection in its entirety\nv. gather or cause to gather into a cluster"
+  },
+  {
+    "单词": "marigold",
+    "英音": "[ˈmærɪɡəʊld]",
+    "美音": "[ˈmærɪɡoʊld]",
+    "释义(中文)": "n. 万寿菊；金盏花\n",
+    "释义(英文)": "n. any of various tropical American plants of the genus Tagetes widely cultivated for their showy yellow or orange flowers"
+  },
+  {
+    "单词": "mint",
+    "英音": "[mɪnt]",
+    "美音": "[mɪnt]",
+    "释义(中文)": "n. 薄荷；[金融] 造币厂，巨款\nvt. 铸造，铸币\nadj. 完美的\n",
+    "释义(英文)": "n. any north temperate plant of the genus Mentha with aromatic leaves and small mauve flowers\nn. any member of the mint family of plants\nn. the leaves of a mint plant used fresh or candied\nn. a candy that is flavored with a mint oil"
+  },
+  {
+    "单词": "slipper",
+    "英音": "[ˈslɪpə(r)]",
+    "美音": "[ˈslɪpər]",
+    "释义(中文)": "n. 拖鞋\nvt. 用拖鞋打",
+    "释义(英文)": "n. low footwear that can be slipped on and off easily; usually worn indoors"
+  },
+  {
+    "单词": "cardigan",
+    "英音": "[ˈkɑːdɪɡən]",
+    "美音": "[ˈkɑːrdɪɡən]",
+    "释义(中文)": "n. 羊毛衫，开襟羊毛衫（等于cardigan sweater）",
+    "释义(英文)": "n. knitted jacket that is fastened up the front with buttons or a zipper\nn. slightly bowlegged variety of corgi having rounded ears and a long tail"
+  },
+  {
+    "单词": "clatter",
+    "英音": "[ˈklætə(r)]",
+    "美音": "[ˈklætər]",
+    "释义(中文)": "n. 哗啦声；嘈杂的谈笑声；咔嗒声\nvi. 发出哗啦声；喧闹的谈笑\nvt. 使卡搭卡搭的响",
+    "释义(英文)": "n. a rattling noise (often produced by rapid movement)\nv. make a rattling sound"
+  },
+  {
+    "单词": "granny",
+    "英音": "[ˈɡræni]",
+    "美音": "[ˈɡræni]",
+    "释义(中文)": "n. 奶奶；外婆；婆婆妈妈的人",
+    "释义(英文)": "n. an old woman"
+  },
+  {
+    "单词": "unsealed",
+    "英音": "[ʌnˈsiːld]",
+    "美音": "[,ʌn'si:ld]",
+    "释义(中文)": "adj. 未封口的；未证实的\nv. 启封；解除约束（unseal的过去分词）",
+    "释义(英文)": "a. not established or confirmed\na. not closed or secured with or as if with a seal"
+  },
+  {
+    "单词": "sealed",
+    "英音": "[siːld]",
+    "美音": "[siːld]",
+    "释义(中文)": "v. 封闭；盖印（seal的过去分词）\nadj. 密封的；未知的",
+    "释义(英文)": "a. established irrevocably\na. closed or secured with or as if with a seal\ns. undisclosed for the time being"
+  },
+  {
+    "单词": "seal",
+    "英音": "[siːl]",
+    "美音": "[siːl]",
+    "释义(中文)": "n. 密封；印章；海豹；封条；标志\nvt. 密封；盖章\nvi. 猎海豹\n",
+    "释义(英文)": "n. a device incised to make an impression; used to secure a closing or to authenticate documents\nn. the pelt or fur (especially the underfur) of a seal\nn. a stamp affixed to a document (as to attest to its authenticity or to seal it)\nn. a finishing coat applied to exclude moisture"
+  },
+  {
+    "单词": "writing",
+    "英音": "[ˈraɪtɪŋ]",
+    "美音": "[ˈraɪtɪŋ]",
+    "释义(中文)": "n. 书写；作品；著作；[法] 笔迹\nv. 书写（write的ing形式）",
+    "释义(英文)": "n. the act of creating written works\nn. the work of a writer; anything expressed in letters of the alphabet (especially when considered from the point of view of style and effect)\nn. (usually plural) the collected work of an author\nn. letters or symbols that are written or imprinted on a surface to represent the sounds or words of a language"
+  },
+  {
+    "单词": "pang",
+    "英音": "[pæŋ]",
+    "美音": "[pæŋ]",
+    "释义(中文)": "n. （肉体上）剧痛；苦闷；（精神上）一阵极度的痛苦\nvt. 使剧痛；折磨\n",
+    "释义(英文)": "n. a sudden sharp feeling\nn. a mental pain or distress\nn. a sharp spasm of pain"
+  },
+  {
+    "单词": "disappointment",
+    "英音": "[ˌdɪsəˈpɔɪntmənt]",
+    "美音": "[ˌdɪsəˈpɔɪntmənt]",
+    "释义(中文)": "n. 失望；沮丧",
+    "释义(英文)": "n. a feeling of dissatisfaction that results when your expectations are not realized\nn. an act (or failure to act) that disappoints someone"
+  },
+  {
+    "单词": "parcel",
+    "英音": "[ˈpɑːs(ə)l]",
+    "美音": "[ˈpɑːrsl]",
+    "释义(中文)": "n. 包裹，小包\nvt. 打包；捆扎\n",
+    "释义(英文)": "n. the allotment of some amount by dividing something\nv. divide into parts\nv. cover with strips of canvas\nv. make into a wrapped container"
+  },
+  {
+    "单词": "reluctantly",
+    "英音": "[rɪˈlʌktəntli]",
+    "美音": "[rɪˈlʌktəntli]",
+    "释义(中文)": "adv. 不情愿地；嫌恶地",
+    "释义(英文)": "r. with reluctance"
+  },
+  {
+    "单词": "reluctant",
+    "英音": "[rɪˈlʌktənt]",
+    "美音": "[rɪˈlʌktənt]",
+    "释义(中文)": "adj. 不情愿的；勉强的；顽抗的",
+    "释义(英文)": "s. disinclined to become involved\ns. not eager"
+  },
+  {
+    "单词": "flutter",
+    "英音": "[ˈflʌtə(r)]",
+    "美音": "[ˈflʌtər]",
+    "释义(中文)": "n. 摆动；鼓翼；烦扰\nvt. 拍；使焦急；使飘动\nvi. 飘动；鼓翼；烦扰",
+    "释义(英文)": "n. abnormally rapid beating of the auricles of the heart (especially in a regular rhythm); can result in heart block\nv. flap the wings rapidly or fly with flapping movements"
+  },
+  {
+    "单词": "stoop",
+    "英音": "[stuːp]",
+    "美音": "[stuːp]",
+    "释义(中文)": "n. 弯腰，屈背；屈服\nvt. 辱没，堕落；俯曲\nvi. 弯腰；屈服；堕落\n",
+    "释义(英文)": "n. an inclination of the top half of the body forward and downward\nn. small porch or set of steps at the front entrance of a house\nv. descend swiftly, as if on prey\nv. sag, bend, bend over or down"
+  },
+  {
+    "单词": "tremble",
+    "英音": "[ˈtremb(ə)l]",
+    "美音": "[ˈtrembl]",
+    "释义(中文)": "n. 颤抖；战栗；摇晃\nvi. 发抖；战栗；焦虑；摇晃\nvt. 使挥动；用颤抖的声音说出",
+    "释义(英文)": "n. a reflex motion caused by cold or fear or excitement\nv. move or jerk quickly and involuntarily up and down or sideways"
+  },
+  {
+    "单词": "at other times",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 平素\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "round the corner",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 在拐弯的地方；在拐角处；在附近\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "around the corner",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. (= 〔英国〕 round the corner)在拐角那里\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "look after",
+    "英音": "[lʊk ˈɑːftə(r)]",
+    "美音": "[lʊk ˈæftər]",
+    "释义(中文)": "na. 照看；照顾；看管；对…负责\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "after all",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 毕竟；终究；最后\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "be sure of",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 确信\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "pick up",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "v. 拾起；探出；重新开始\n",
+    "释义(英文)": "n. a light truck with an open body and low sides and a tailboard\nn. a warrant to take someone into custody\nn. anything with restorative powers"
+  },
+  {
+    "单词": "adult",
+    "英音": "[ˈædʌlt; əˈdʌlt]",
+    "美音": "[əˈdʌlt; ˈædʌlt]",
+    "释义(中文)": "n. 成年人\nadj. 成年的；成熟的",
+    "释义(英文)": "n. a fully developed person from maturity onward\nn. any mature animal\ns. (of animals) fully developed"
+  },
+  {
+    "单词": "emotion",
+    "英音": "[ɪˈməʊʃn]",
+    "美音": "[ɪˈmoʊʃn]",
+    "释义(中文)": "n. 情感；情绪",
+    "释义(英文)": "n. any strong feeling"
+  },
+  {
+    "单词": "security",
+    "英音": "[sɪˈkjʊərəti]",
+    "美音": "[sɪˈkjʊrəti]",
+    "释义(中文)": "n. 安全；保证；证券；抵押品\nadj. 安全的；保安的；保密的",
+    "释义(英文)": "n. the state of being free from danger or injury\nn. defense against financial failure; financial independence\nn. freedom from anxiety or fear\nn. a formal declaration that documents a fact of relevance to finance and investment; the holder has a right to receive interest or dividends"
+  },
+  {
+    "单词": "discomfort",
+    "英音": "[dɪsˈkʌmfət]",
+    "美音": "[dɪsˈkʌmfərt]",
+    "释义(中文)": "n. 不适，不安；不便之处\nvt. 使……不舒服；使……不安",
+    "释义(英文)": "n. the state of being tense and feeling pain\nn. an uncomfortable feeling of mental painfulness or distress"
+  },
+  {
+    "单词": "privilege",
+    "英音": "[ˈprɪvəlɪdʒ]",
+    "美音": "[ˈprɪvəlɪdʒ]",
+    "释义(中文)": "n. 特权；优待\nvt. 给与…特权；特免",
+    "释义(英文)": "n. a special advantage or immunity or benefit not enjoyed by all\nn. (law) the right to refuse to divulge information obtained in a confidential relationship\nv. bestow a privilege upon"
+  },
+  {
+    "单词": "community",
+    "英音": "[kəˈmjuːnəti]",
+    "美音": "[kəˈmjuːnəti]",
+    "释义(中文)": "n. 社区；[生态] 群落；共同体；团体",
+    "释义(英文)": "n. a group of people living in a particular local area\nn. common ownership\nn. a group of nations having common interests\nn. agreement as to goals"
+  },
+  {
+    "单词": "related",
+    "英音": "[rɪˈleɪtɪd]",
+    "美音": "[rɪˈleɪtɪd]",
+    "释义(中文)": "v. 叙述（relate过去式）\nadj. 有关系的，有关联的；讲述的，叙述的",
+    "释义(英文)": "a. being connected either logically or causally or by shared characteristics\na. connected by kinship, common origin, or marriage"
+  },
+  {
+    "单词": "apartment",
+    "英音": "[əˈpɑːtmənt]",
+    "美音": "[əˈpɑːrtmənt]",
+    "释义(中文)": "n. 公寓；房间",
+    "释义(英文)": "n. a suite of rooms usually on one floor of an apartment house"
+  },
+  {
+    "单词": "worthwhile",
+    "英音": "[ˌwɜːθˈwaɪl]",
+    "美音": "[ˌwɜːrθˈwaɪl]",
+    "释义(中文)": "adj. 值得做的，值得花时间的",
+    "释义(英文)": "s. sufficiently valuable to justify the investment of time or interest"
+  },
+  {
+    "单词": "educational",
+    "英音": "[ˌedʒuˈkeɪʃən(ə)l]",
+    "美音": "[ˌedʒuˈkeɪʃənl]",
+    "释义(中文)": "adj. 教育的；有教育意义的",
+    "释义(英文)": "a. relating to the process of education\ns. providing knowledge"
+  },
+  {
+    "单词": "current",
+    "英音": "[ˈkʌrənt]",
+    "美音": "[ˈkɜːrənt]",
+    "释义(中文)": "n. （水，气，电）流；趋势；涌流\nadj. 现在的；流通的，通用的；最近的；草写的\n",
+    "释义(英文)": "n. a flow of electricity through a conductor\nn. a steady flow of a fluid (usually from natural causes)\na. occurring in or belonging to the present time"
+  },
+  {
+    "单词": "social",
+    "英音": "[ˈsəʊʃ(ə)l]",
+    "美音": "[ˈsoʊʃ(ə)l]",
+    "释义(中文)": "n. 联谊会；联欢会\nadj. 社会的，社交的；群居的",
+    "释义(英文)": "a. relating to human society and its members\na. living together or enjoying life in communities or organized groups\na. relating to or belonging to or characteristic of high society\ns. composed of sociable people or formed for the purpose of sociability"
+  },
+  {
+    "单词": "activity",
+    "英音": "[ækˈtɪvəti]",
+    "美音": "[ækˈtɪvəti]",
+    "释义(中文)": "n. 活动；行动；活跃",
+    "释义(英文)": "n. any specific behavior\nn. (chemistry) the capacity of a substance to take part in a chemical reaction"
+  },
+  {
+    "单词": "prohibit",
+    "英音": "[prəˈhɪbɪt]",
+    "美音": "[prəˈhɪbɪtˌproʊˈhɪbɪt]",
+    "释义(中文)": "vt. 阻止，禁止",
+    "释义(英文)": "v command against"
+  },
+  {
+    "单词": "reasonable",
+    "英音": "[ˈriːznəbl]",
+    "美音": "[ˈriːznəbl]",
+    "释义(中文)": "adj. 合理的，公道的；通情达理的",
+    "释义(英文)": "a. showing reason or sound judgment\ns. marked by sound judgment"
+  },
+  {
+    "单词": "proposal",
+    "英音": "[prəˈpəʊzl]",
+    "美音": "[prəˈpoʊzl]",
+    "释义(中文)": "n. 提议，建议；求婚",
+    "释义(英文)": "n. something proposed (such as a plan or assumption)\nn. the act of making a proposal"
+  },
+  {
+    "单词": "distraction",
+    "英音": "[dɪˈstrækʃn]",
+    "美音": "[dɪˈstrækʃn]",
+    "释义(中文)": "n. 注意力分散；消遣；心烦意乱",
+    "释义(英文)": "n. mental turmoil\nn. an obstacle to attention\nn. the act of distracting; drawing someone's attention away from something"
+  },
+  {
+    "单词": "distract",
+    "英音": "[dɪˈstrækt]",
+    "美音": "[dɪˈstrækt]",
+    "释义(中文)": "vt. 转移；分心",
+    "释义(英文)": "v. draw someone's attention away from something"
+  },
+  {
+    "单词": "actually",
+    "英音": "[ˈæktʃuəli]",
+    "美音": "[ˈæktʃuəli]",
+    "释义(中文)": "adv. 实际上；事实上",
+    "释义(英文)": "r. in actual fact\nr. used to imply that one would expect the fact to be the opposite of that stated; surprisingly\nr. at the present moment\nr. as a sentence modifier to add slight emphasis"
+  },
+  {
+    "单词": "gap",
+    "英音": "[ɡæp]",
+    "美音": "[ɡæp]",
+    "释义(中文)": "n. 间隙；缺口；差距；分歧\nvt. 使形成缺口\nvi. 裂开",
+    "释义(英文)": "n. a conspicuous disparity or difference as between two figures\nn. a narrow opening\nn. a difference (especially an unfortunate difference) between two opinions or two views or two situations\nv. make an opening or gap in"
+  },
+  {
+    "单词": "divorce",
+    "英音": "[dɪˈvɔːs]",
+    "美音": "[dɪˈvɔːrs]",
+    "释义(中文)": "n. 离婚；分离\nvt. 使离婚，使分离；与…离婚\nvi. 离婚",
+    "释义(英文)": "n. the legal dissolution of a marriage\nv. get a divorce; formally terminate a marriage"
+  },
+  {
+    "单词": "rate",
+    "英音": "[reɪt]",
+    "美音": "[reɪt]",
+    "释义(中文)": "n. 比率，率；速度；价格；等级\nvt. 认为；估价；责骂\nvi. 责骂；被评价\n",
+    "释义(英文)": "n. a magnitude or frequency relative to a time unit\nn. amount of a charge or payment relative to some basis\nn. a quantity or amount or measure considered as a proportion of another quantity or amount or measure\nv. assign a rank or rating to"
+  },
+  {
+    "单词": "failure",
+    "英音": "[ˈfeɪljə(r)]",
+    "美音": "[ˈfeɪljər]",
+    "释义(中文)": "n. 失败；故障；失败者；破产",
+    "释义(英文)": "n. an act that fails\nn. an event that does not accomplish its intended purpose\nn. lack of success\nn. a person with a record of failing; someone who loses consistently"
+  },
+  {
+    "单词": "disturb",
+    "英音": "[dɪˈstɜːb]",
+    "美音": "[dɪˈstɜːrb]",
+    "释义(中文)": "vt. 打扰；妨碍；使不安；弄乱；使恼怒\nvi. 打扰；妨碍",
+    "释义(英文)": "v. move deeply\nv. damage as if by shaking or jarring"
+  },
+  {
+    "单词": "emotional",
+    "英音": "[ɪˈməʊʃən(ə)l]",
+    "美音": "[ɪˈmoʊʃənl]",
+    "释义(中文)": "adj. 情绪的；易激动的；感动人的",
+    "释义(英文)": "a. determined or actuated by emotion rather than reason\na. of more than usual emotion\na. of or pertaining to emotion"
+  },
+  {
+    "单词": "rediscover",
+    "英音": "[ˌriːdɪˈskʌvə(r)]",
+    "美音": "[ˌriːdɪˈskʌvər]",
+    "释义(中文)": "vt. 重新发现；再发现",
+    "释义(英文)": "v. discover again"
+  },
+  {
+    "单词": "pastime",
+    "英音": "[ˈpɑːstaɪm]",
+    "美音": "[ˈpæstaɪm]",
+    "释义(中文)": "n. 娱乐，消遣",
+    "释义(英文)": "n. a diversion that occupies one's time and thoughts (usually pleasantly)"
+  },
+  {
+    "单词": "sunset",
+    "英音": "[ˈsʌnset]",
+    "美音": "[ˈsʌnset]",
+    "释义(中文)": "n. 日落，傍晚",
+    "释义(英文)": "n. the time in the evening at which the sun begins to fall below the horizon\nn. atmospheric phenomena accompanying the daily disappearance of the sun\nn. the daily event of the sun sinking below the horizon\ns. of a declining industry or technology"
+  },
+  {
+    "单词": "neighborhood",
+    "英音": "[ˈneɪbəhʊd]",
+    "美音": "[ˈneɪbərhʊd]",
+    "释义(中文)": "n. 附近；街坊；接近；街区",
+    "释义(英文)": "n. people living near one another\nn. an area within a city or town that has some distinctive features (especially one forming a community)"
+  },
+  {
+    "单词": "adult",
+    "英音": "[ˈædʌlt; əˈdʌlt]",
+    "美音": "[əˈdʌlt; ˈædʌlt]",
+    "释义(中文)": "n. 成年人\nadj. 成年的；成熟的",
+    "释义(英文)": "n. a fully developed person from maturity onward\nn. any mature animal\ns. (of animals) fully developed"
+  },
+  {
+    "单词": "entertainment",
+    "英音": "[ˌentəˈteɪnmənt]",
+    "美音": "[ˌentərˈteɪnmənt]",
+    "释义(中文)": "n. 娱乐；消遣；款待",
+    "释义(英文)": "n. an activity that is diverting and that holds the attention"
+  },
+  {
+    "单词": "typical",
+    "英音": "[ˈtɪpɪk(ə)l]",
+    "美音": "[ˈtɪpɪkl]",
+    "释义(中文)": "adj. 典型的；特有的；象征性的",
+    "释义(英文)": "a. exhibiting the qualities or characteristics that identify a group or kind or category\ns. conforming to a type"
+  },
+  {
+    "单词": "educator",
+    "英音": "[ˈedʒukeɪtə(r)]",
+    "美音": "[ˈedʒukeɪtər]",
+    "释义(中文)": "n. 教育家；教育工作者；教师",
+    "释义(英文)": "n. someone who educates young people"
+  },
+  {
+    "单词": "barely",
+    "英音": "[ˈbeəli]",
+    "美音": "[ˈberli]",
+    "释义(中文)": "adv. 仅仅，勉强；几乎不；公开地；贫乏地",
+    "释义(英文)": "r. only a very short time before"
+  },
+  {
+    "单词": "literate",
+    "英音": "[ˈlɪtərət]",
+    "美音": "[ˈlɪtərət]",
+    "释义(中文)": "adj. 受过教育的；精通文学的\nn. 学者",
+    "释义(英文)": "n. a person who can read and write\na. able to read and write\na. versed in literature; dealing with literature\ns. knowledgeable and educated in one or several fields"
+  },
+  {
+    "单词": "product",
+    "英音": "[ˈprɒdʌkt]",
+    "美音": "[ˈprɑːdʌkt]",
+    "释义(中文)": "n. 产品；结果；[数] 乘积；作品",
+    "释义(英文)": "n. an artifact that has been created by someone or some process\nn. a quantity obtained by multiplication\nn. a chemical substance formed as a result of a chemical reaction\nn. a consequence of someone's efforts or of a particular set of circumstances"
+  },
+  {
+    "单词": "network",
+    "英音": "[ˈnetwɜːk]",
+    "美音": "[ˈnetwɜːrk]",
+    "释义(中文)": "n. 网络；广播网；网状物",
+    "释义(英文)": "n. an interconnected system of things or people\nn. (broadcasting) a communication system consisting of a group of broadcasting stations that all transmit the same programs\nn. a system of intersecting lines or channels\nn. (electronics) a system of interconnected electronic components or circuits"
+  },
+  {
+    "单词": "radical",
+    "英音": "[ˈrædɪkl]",
+    "美音": "[ˈrædɪkl]",
+    "释义(中文)": "n. 基础；激进分子；[物化] 原子团；[数] 根数\nadj. 激进的；根本的；彻底的",
+    "释义(英文)": "n. a person who has radical ideas or opinions\nn. (mathematics) a quantity expressed as the root of another quantity\nn. a character conveying the lexical meaning of a logogram\ns. arising from or going to the root or source"
+  },
+  {
+    "单词": "electronic",
+    "英音": "[ɪˌlekˈtrɒnɪk]",
+    "美音": "[ɪˌlekˈtrɑːnɪk]",
+    "释义(中文)": "adj. 电子的\nn. 电子电路；电子器件",
+    "释义(英文)": "a. of or relating to electronics; concerned with or using devices that operate on principles governing the behavior of electrons\na. of or concerned with electrons"
+  },
+  {
+    "单词": "electron",
+    "英音": "[ɪˈlektrɒn]",
+    "美音": "[ɪˈlektrɑːn]",
+    "释义(中文)": "n. 电子",
+    "释义(英文)": "n. an elementary particle with negative charge"
+  },
+  {
+    "单词": "baby-sitter",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 临时替人看小孩者",
+    "释义(英文)": "n a person engaged to care for children when the parents are not home"
+  },
+  {
+    "单词": "childhood",
+    "英音": "[ˈtʃaɪldhʊd]",
+    "美音": "[ˈtʃaɪldhʊd]",
+    "释义(中文)": "n. 童年时期；幼年时代",
+    "释义(英文)": "n. the time of person's life when they are a child\nn. the state of a child between infancy and adolescence"
+  },
+  {
+    "单词": "involve",
+    "英音": "[ɪnˈvɒlv]",
+    "美音": "[ɪnˈvɑːlv]",
+    "释义(中文)": "vt. 包含；牵涉；使陷于；潜心于",
+    "释义(英文)": "v. connect closely and often incriminatingly\nv. engage as a participant\nv. contain as a part\nv. occupy or engage the interest of"
+  },
+  {
+    "单词": "imagination",
+    "英音": "[ɪˌmædʒɪˈneɪʃ(ə)n]",
+    "美音": "[ɪˌmædʒɪˈneɪʃn]",
+    "释义(中文)": "n. [心理] 想象力；空想；幻想物",
+    "释义(英文)": "n. the formation of a mental image of something that is not perceived as real and is not present to the senses\nn. the ability to form mental images of things or events"
+  },
+  {
+    "单词": "learning",
+    "英音": "[ˈlɜːnɪŋ]",
+    "美音": "[ˈlɜːrnɪŋ]",
+    "释义(中文)": "n. 学习；学问\nv. 学习（learn的现在分词）",
+    "释义(英文)": "n. the cognitive process of acquiring skill or knowledge"
+  },
+  {
+    "单词": "invent",
+    "英音": "[ɪnˈvent]",
+    "美音": "[ɪnˈvent]",
+    "释义(中文)": "vt. 发明；创造；虚构",
+    "释义(英文)": "v. come up with (an idea, plan, explanation, theory, or principle) after a mental effort"
+  },
+  {
+    "单词": "generation gap",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 代沟；两代人之间的隔阂\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "in part",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 一部份地；有几成；在某种程度上\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "grow up",
+    "英音": "[ɡrəʊ ʌp]",
+    "美音": "[ɡroʊ ʌp]",
+    "释义(中文)": "na. 长大\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "bring together",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 集合\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "come up with",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 想出(一个主意或计划)；提出；提供；筹措\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "at first glance",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "adv. 初看起来\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "have a ball",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "v. 〈非正式〉尽情享受；玩得开心\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "lucky",
+    "英音": "[ˈlʌki]",
+    "美音": "[ˈlʌki]",
+    "释义(中文)": "adj. 幸运的；侥幸的",
+    "释义(英文)": "s. occurring by chance\na. having or bringing good fortune"
+  },
+  {
+    "单词": "sob",
+    "英音": "[sɒb]",
+    "美音": "[sɑːb]",
+    "释义(中文)": "n. 啜泣，呜咽\nvt. 哭诉，啜泣\nvi. 啜泣，呜咽；（风等）发出呜咽声",
+    "释义(英文)": "n. convulsive gasp made while weeping\nv. weep convulsively"
+  },
+  {
+    "单词": "argument",
+    "英音": "[ˈɑːɡjumənt]",
+    "美音": "[ˈɑːrɡjumənt]",
+    "释义(中文)": "n. 论证；论据；争吵；内容提要",
+    "释义(英文)": "n. a fact or assertion offered as evidence that something is true\nn. a discussion in which reasons are advanced for and against some proposition or proposal\nn. a summary of the subject or plot of a literary work or play or movie\nn. (computer science) a reference or value that is passed to a function, procedure, subroutine, command, or program"
+  },
+  {
+    "单词": "excitement",
+    "英音": "[ɪkˈsaɪtmənt]",
+    "美音": "[ɪkˈsaɪtmənt]",
+    "释义(中文)": "n. 兴奋；刺激；令人兴奋的事物",
+    "释义(英文)": "n. the state of being emotionally aroused and worked up"
+  },
+  {
+    "单词": "living room",
+    "英音": "['lɪvɪŋ ru:m]",
+    "美音": "[ˈlɪvɪŋ ruːm]",
+    "释义(中文)": "n. 客厅；起居室\n",
+    "释义(英文)": "n a room in a private house or establishment where people can sit and talk and relax"
+  },
+  {
+    "单词": "violence",
+    "英音": "[ˈvaɪələns]",
+    "美音": "[ˈvaɪələns]",
+    "释义(中文)": "n. 暴力；侵犯；激烈；歪曲",
+    "释义(英文)": "n. an act of aggression (as one against a person who resists)\nn. a turbulent state resulting in injuries and destruction etc."
+  },
+  {
+    "单词": "disagree",
+    "英音": "[ˌdɪsəˈɡriː]",
+    "美音": "[ˌdɪsəˈɡriː]",
+    "释义(中文)": "vi. 不同意；不一致；争执；不适宜",
+    "释义(英文)": "v. be of different opinions\nv. be different from one another"
+  },
+  {
+    "单词": "deny",
+    "英音": "[dɪˈnaɪ]",
+    "美音": "[dɪˈnaɪ]",
+    "释义(中文)": "vi. 否认；拒绝\nvt. 否定，否认；拒绝给予；拒绝…的要求",
+    "释义(英文)": "v. declare untrue; contradict\nv. refuse to accept or believe\nv. refuse to grant, as of a petition or request\nv. refuse to let have"
+  },
+  {
+    "单词": "powerful",
+    "英音": "[ˈpaʊəf(ə)l]",
+    "美音": "[ˈpaʊərfl]",
+    "释义(中文)": "adj. 强大的；强有力的\nadv. 很；非常",
+    "释义(英文)": "a. having great power or force or potency or effect"
+  },
+  {
+    "单词": "influence",
+    "英音": "[ˈɪnfluəns]",
+    "美音": "[ˈɪnfluəns]",
+    "释义(中文)": "n. 影响；势力；感化；有影响的人或事\nvt. 影响；改变",
+    "释义(英文)": "n. a power to affect persons or events especially power based on prestige etc\nn. causing something without any direct or apparent effort\nn. a cognitive factor that tends to have an effect on what you do\nn. the effect of one thing (or person) on another"
+  },
+  {
+    "单词": "concern",
+    "英音": "[kənˈsɜː(r)n]",
+    "美音": "[kənˈsɜːrn]",
+    "释义(中文)": "n. 关系；关心；关心的事；忧虑\nvt. 涉及，关系到；使担心",
+    "释义(英文)": "n. something that interests you because it is important or affects you\nn. an anxious feeling\nn. a feeling of sympathy for someone or something\nn. something or someone that causes anxiety; a source of unhappiness"
+  },
+  {
+    "单词": "handful",
+    "英音": "[ˈhændfʊl]",
+    "美音": "[ˈhændfʊl]",
+    "释义(中文)": "n. 少数；一把；棘手事",
+    "释义(英文)": "n. a small number or amount\nn. the quantity that can be held in the hand"
+  },
+  {
+    "单词": "spoil",
+    "英音": "[spɔɪl]",
+    "美音": "[spɔɪl]",
+    "释义(中文)": "n. 次品；奖品\nvt. 溺爱；糟蹋；破坏；掠夺\nvi. 掠夺；变坏；腐败",
+    "释义(英文)": "n. (usually plural) valuables taken by violence (especially in war)\nn. the act of spoiling something by causing damage to it\nn. the act of stripping and taking by force\nv. become unfit for consumption or use"
+  },
+  {
+    "单词": "illustrate",
+    "英音": "[ˈɪləstreɪt]",
+    "美音": "[ˈɪləstreɪt]",
+    "释义(中文)": "vi. 举例\nvt. 阐明，举例说明；图解",
+    "释义(英文)": "v. depict with an illustration\nv. supply with illustrations"
+  },
+  {
+    "单词": "genius",
+    "英音": "[ˈdʒiːniəs]",
+    "美音": "[ˈdʒiːniəs]",
+    "释义(中文)": "n. 天才，天赋；精神",
+    "释义(英文)": "n. someone who has exceptional intellectual ability and originality\nn. exceptional creative ability"
+  },
+  {
+    "单词": "semester",
+    "英音": "[sɪˈmestə(r)]",
+    "美音": "[sɪˈmestər]",
+    "释义(中文)": "n. 学期；半年",
+    "释义(英文)": "n. one of two divisions of an academic year\nn. half a year; a period of 6 months"
+  },
+  {
+    "单词": "embarrass",
+    "英音": "[ɪmˈbærəs]",
+    "美音": "[ɪmˈbærəs]",
+    "释义(中文)": "vt. 使局促不安；使困窘；阻碍",
+    "释义(英文)": "v. cause to be embarrassed; cause to feel self-conscious"
+  },
+  {
+    "单词": "embarrassment",
+    "英音": "[ɪmˈbærəsmənt]",
+    "美音": "[ɪmˈbærəsmənt]",
+    "释义(中文)": "n. 窘迫，难堪；使人为难的人或事物；拮据",
+    "释义(英文)": "n. the shame you feel when your inadequacy or guilt is made public\nn. the state of being embarrassed (usually by some financial inadequacy)\nn. some event that causes someone to be embarrassed"
+  },
+  {
+    "单词": "astonishment",
+    "英音": "[əˈstɒnɪʃmənt]",
+    "美音": "[əˈstɑːnɪʃmənt]",
+    "释义(中文)": "n. 惊讶；令人惊讶的事物",
+    "释义(英文)": "n. the feeling that accompanies something extremely surprising"
+  },
+  {
+    "单词": "astonish",
+    "英音": "[əˈstɒnɪʃ]",
+    "美音": "[əˈstɑːnɪʃ]",
+    "释义(中文)": "vt. 使惊讶",
+    "释义(英文)": "v affect with wonder"
+  },
+  {
+    "单词": "publish",
+    "英音": "[ˈpʌblɪʃ]",
+    "美音": "[ˈpʌblɪʃ]",
+    "释义(中文)": "vi. 出版；发行；刊印\nvt. 出版；发表；公布",
+    "释义(英文)": "v. prepare and issue for public distribution or sale\nv. have (one's written work) issued for publication"
+  },
+  {
+    "单词": "publication",
+    "英音": "[ˌpʌblɪˈkeɪʃn]",
+    "美音": "[ˌpʌblɪˈkeɪʃn]",
+    "释义(中文)": "n. 出版；出版物；发表",
+    "释义(英文)": "n. a copy of a printed work offered for distribution\nn. the communication of something to the public; making information generally known\nn. the business of issuing printed matter for sale or distribution"
+  },
+  {
+    "单词": "dumb",
+    "英音": "[dʌm]",
+    "美音": "[dʌm]",
+    "释义(中文)": "adj. 哑的，无说话能力的；不说话的，无声音的",
+    "释义(英文)": "s. lacking the power of human speech\ns. unable to speak because of hereditary deafness"
+  },
+  {
+    "单词": "dumb luck",
+    "英音": "[dʌm lʌk]",
+    "美音": "[dʌm lʌk]",
+    "释义(中文)": "不费多少心思和力气得来的好运，不应得的好运",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "recipe",
+    "英音": "[ˈresəpi]",
+    "美音": "[ˈresəpi]",
+    "释义(中文)": "n. 食谱；[临床] 处方；秘诀；烹饪法",
+    "释义(英文)": "n. directions for making something"
+  },
+  {
+    "单词": "graduate",
+    "英音": "[ˈɡrædʒuət]",
+    "美音": "[ˈɡrædʒuət]",
+    "释义(中文)": "n. 研究生；毕业生\nadj. 毕业的；研究生的\nvt. 授予…学位；分等级；标上刻度\nvi. 毕业；渐变",
+    "释义(英文)": "n. a measuring instrument for measuring fluid volume; a glass container (cup or cylinder or flask) whose sides are marked with or divided into amounts\nv. receive an academic degree upon completion of one's studies\nv. confer an academic degree upon\ns. of or relating to studies beyond a bachelor's degree"
+  },
+  {
+    "单词": "graduation",
+    "英音": "[ˌɡrædʒuˈeɪʃ(ə)n]",
+    "美音": "[ˌɡrædʒuˈeɪʃn]",
+    "释义(中文)": "n. 毕业；毕业典礼；刻度，分度；分等级",
+    "释义(英文)": "n. the successful completion of a program of study\nn. a line (as on a vessel or ruler) that marks a measurement"
+  },
+  {
+    "单词": "minus",
+    "英音": "[ˈmaɪnəs]",
+    "美音": "[ˈmaɪnəs]",
+    "释义(中文)": "prep. 减，减去\nn. 负号，减号；不足；负数\nadj. 减的；负的\n",
+    "释义(英文)": "a. on the negative side or lower end of a scale\ns. involving disadvantage or harm"
+  },
+  {
+    "单词": "scrapbook",
+    "英音": "[ˈskræpbʊk]",
+    "美音": "[ˈskræpbʊk]",
+    "释义(中文)": "n. 剪贴簿",
+    "释义(英文)": "n. an album into which clippings or notes or pictures can be pasted"
+  },
+  {
+    "单词": "latter",
+    "英音": "[ˈlætə(r)]",
+    "美音": "[ˈlætər]",
+    "释义(中文)": "adj. 后者的；近来的；后面的；较后的\n",
+    "释义(英文)": "n. the second of two or the second mentioned of two\na. referring to the second of two things or persons mentioned (or the last one or ones of several)"
+  },
+  {
+    "单词": "the latter",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "adj. （刚提及的两者中）后者的；末尾的；后半期的；后面的\nn. （刚提及的两者中）后者；（系列中）最后一位\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "echo",
+    "英音": "[ˈekəʊ]",
+    "美音": "[ˈekoʊ]",
+    "释义(中文)": "n. 回音；效仿\nvt. 反射；重复\nvi. 随声附和；发出回声",
+    "释义(英文)": "n. the repetition of a sound resulting from reflection of the sound waves\nn. (Greek mythology) a nymph who was spurned by Narcissus and pined away until only her voice remained\nn. a reply that repeats what has just been said\nn. a reflected television or radio or radar beam"
+  },
+  {
+    "单词": "laughter",
+    "英音": "[ˈlɑːftə(r)]",
+    "美音": "[ˈlæftər]",
+    "释义(中文)": "n. 笑；笑声",
+    "释义(英文)": "n. the activity of laughing; the manifestation of joy or mirth or scorn"
+  },
+  {
+    "单词": "nonsense",
+    "英音": "[ˈnɒns(ə)ns]",
+    "美音": "[ˈnɑːnsens; ˈnɑːnsns]",
+    "释义(中文)": "n. 胡说；废话\nadj. 荒谬的\nint. 胡说！",
+    "释义(英文)": "n. a message that seems to convey no meaning\ns. having no intelligible meaning"
+  },
+  {
+    "单词": "laundry",
+    "英音": "[ˈlɔːndri]",
+    "美音": "[ˈlɔːndri]",
+    "释义(中文)": "n. 洗衣店，洗衣房；要洗的衣服；洗熨；洗好的衣服",
+    "释义(英文)": "n. garments or white goods that can be cleaned by laundering\nn. workplace where clothes are washed and ironed"
+  },
+  {
+    "单词": "ancient",
+    "英音": "[ˈeɪnʃənt]",
+    "美音": "[ˈeɪnʃənt]",
+    "释义(中文)": "n. 古代人；老人\nadj. 古代的；古老的，过时的；年老的",
+    "释义(英文)": "n. a very old person\nn. a person who lived in ancient times\ns. belonging to times long past especially of the historical period before the fall of the Western Roman Empire\ns. very old"
+  },
+  {
+    "单词": "random",
+    "英音": "[ˈrændəm]",
+    "美音": "[ˈrændəm]",
+    "释义(中文)": "n. 随意\nadj. [数] 随机的；任意的；胡乱的\nadv. 胡乱地",
+    "释义(英文)": "a. lacking any definite plan or order or purpose; governed by or depending on chance"
+  },
+  {
+    "单词": "manuscript",
+    "英音": "[ˈmænjuskrɪpt]",
+    "美音": "[ˈmænjuskrɪpt]",
+    "释义(中文)": "n. [图情] 手稿；原稿\nadj. 手写的",
+    "释义(英文)": "n. the form of a literary work submitted for publication\nn. handwritten book or document"
+  },
+  {
+    "单词": "diaper",
+    "英音": "[ˈdaɪpə(r)]",
+    "美音": "[ˈdaɪpər]",
+    "释义(中文)": "n. 尿布\nvt. 给孩子换尿布",
+    "释义(英文)": "n. garment consisting of a folded cloth drawn up between the legs and fastened at the waist; worn by infants to catch excrement\nn. a fabric (usually cotton or linen) with a distinctive woven pattern of small repeated figures"
+  },
+  {
+    "单词": "package",
+    "英音": "[ˈpækɪdʒ]",
+    "美音": "[ˈpækɪdʒ]",
+    "释义(中文)": "n. 包，包裹；套装软件，[计] 程序包\nadj. 一揽子的\nvt. 打包；将…包装",
+    "释义(英文)": "n. a collection of things wrapped or boxed together\nn. a wrapped container"
+  },
+  {
+    "单词": "enclose",
+    "英音": "[ɪnˈkləʊz]",
+    "美音": "[ɪnˈkloʊz]",
+    "释义(中文)": "vt. 围绕；装入；放入封套",
+    "释义(英文)": "v. close in; darkness enclosed him\"\nv. surround completely"
+  },
+  {
+    "单词": "illustration",
+    "英音": "[ˌɪləˈstreɪʃ(ə)n]",
+    "美音": "[ˌɪləˈstreɪʃn]",
+    "释义(中文)": "n. 说明；插图；例证；图解",
+    "释义(英文)": "n. artwork that helps make something clear or attractive\nn. a visual representation (a picture or diagram) that is used make some subject more pleasing or easier to understand"
+  },
+  {
+    "单词": "chapter",
+    "英音": "[ˈtʃæptə(r)]",
+    "美音": "[ˈtʃæptər]",
+    "释义(中文)": "n. 章，回；（俱乐部、协会等的）分会；人生或历史上的重要时期\nvt. 把…分成章节",
+    "释义(英文)": "n. a subdivision of a written work; usually numbered and titled\nn. any distinct period in history or in a person's life\nn. a local branch of some fraternity or association\nn. an ecclesiastical assembly of the monks in a monastery or even of the canons of a church"
+  },
+  {
+    "单词": "favorite",
+    "英音": "[ˈfeɪvərɪt]",
+    "美音": "[ˈfeɪvərɪt]",
+    "释义(中文)": "n. 幸运儿；喜欢的事物；特别喜欢的人\nadj. 最喜爱的；中意的；宠爱的",
+    "释义(英文)": "n. something regarded with special favor or liking\ns. appealing to the general public"
+  },
+  {
+    "单词": "string",
+    "英音": "[strɪŋ]",
+    "美音": "[strɪŋ]",
+    "释义(中文)": "n. 线，弦，细绳；一串，一行",
+    "释义(英文)": "n. a lightweight cord\nn. a tightly stretched cord of wire or gut, which makes sound when plucked, struck, or bowed\nn. a sequentially ordered set of things or events or ideas in which each successive member is related to the preceding\nn. a linear sequence of symbols (characters or words or phrases)"
+  },
+  {
+    "单词": "contract",
+    "英音": "[ˈkɒntrækt; kənˈtrækt]",
+    "美音": "[ˈkɑːntrækt; kənˈtrækt]",
+    "释义(中文)": "n. 合同；婚约\nvt. 感染；订约；使缩短\nvi. 收缩；感染；订约",
+    "释义(英文)": "n. a binding agreement between two or more persons that is enforceable by law\nn. (contract bridge) the highest bid becomes the contract setting the number of tricks that the bidder must make\nn. a variety of bridge in which the bidder receives points toward game only for the number of tricks he bid\nv. enter into a contractual arrangement"
+  },
+  {
+    "单词": "royalty",
+    "英音": "[ˈrɔɪəlti]",
+    "美音": "[ˈrɔɪəlti]",
+    "释义(中文)": "n. 皇室；版税；王权；专利税",
+    "释义(英文)": "n. payment to the holder of a patent or copyright or resource for the right to use their property\nn. royal persons collectively"
+  },
+  {
+    "单词": "bestseller",
+    "英音": "[ˌbestˈselə(r)]",
+    "美音": "[ˌbestˈselər]",
+    "释义(中文)": "n. 畅销书；畅销书作者；畅销商品（等于best seller）",
+    "释义(英文)": "n a book that has had a large and rapid sale"
+  },
+  {
+    "单词": "worldwide",
+    "英音": "[ˌwɜːldˈwaɪd]",
+    "美音": "[ˌwɜːrldˈwaɪd]",
+    "释义(中文)": "adj. 全世界的\nadv. 在世界各地",
+    "释义(英文)": "s. spanning or extending throughout the entire world"
+  },
+  {
+    "单词": "promotional",
+    "英音": "[prəˈməʊʃənl]",
+    "美音": "[prəˈmoʊʃənl]",
+    "释义(中文)": "adj. 促销的；增进的；奖励的",
+    "释义(英文)": "a. of or relating to serving as publicity\na. of or relating to advancement"
+  },
+  {
+    "单词": "qualification",
+    "英音": "[ˌkwɒlɪfɪˈkeɪʃn]",
+    "美音": "[ˌkwɑːlɪfɪˈkeɪʃn]",
+    "释义(中文)": "n. 资格；条件；限制；赋予资格",
+    "释义(英文)": "n. an attribute that must be met or complied with and that fits a person for something\nn. the act of modifying or changing the strength of some idea"
+  },
+  {
+    "单词": "qualify",
+    "英音": "[ˈkwɒlɪfaɪ]",
+    "美音": "[ˈkwɑːlɪfaɪ]",
+    "释义(中文)": "vi. 取得资格，有资格\nvt. 限制；使具有资格；证明…合格",
+    "释义(英文)": "v. prove capable or fit; meet requirements\nv. pronounce fit or able\nv. make more specific\nv. make fit or prepared"
+  },
+  {
+    "单词": "disciplined",
+    "英音": "[ˈdɪsəplɪnd]",
+    "美音": "[ˈdɪsəplɪnd]",
+    "释义(中文)": "adj. 遵守纪律的；受过训练的\nv. 使有纪律（discipline的过去分词）；训导",
+    "释义(英文)": "s. obeying the rules\ns. trained mentally or physically by instruction or exercise"
+  },
+  {
+    "单词": "discipline",
+    "英音": "[ˈdɪsəplɪn]",
+    "美音": "[ˈdɪsəplɪn]",
+    "释义(中文)": "n. 学科；纪律；训练；惩罚\nvt. 训练，训导；惩戒",
+    "释义(英文)": "n. a branch of knowledge\nn. a system of rules of conduct or method of practice; \nn. the trait of being well behaved\nn. training to improve strength or self-control"
+  },
+  {
+    "单词": "thesaurus",
+    "英音": "[θɪˈsɔːrəs]",
+    "美音": "[θɪˈsɔːrəs]",
+    "释义(中文)": "n. 宝库；辞典；知识宝库；分类词汇汇编",
+    "释义(英文)": "n. a book containing a classified list of synonyms"
+  },
+  {
+    "单词": "processor",
+    "英音": "[ˈprəʊsesə(r)]",
+    "美音": "[ˈprɑːsesər]",
+    "释义(中文)": "n. [计] 处理器；处理程序；加工者",
+    "释义(英文)": "n. a business engaged in processing agricultural products and preparing them for market\nn. someone who processes things (foods or photographs or applicants etc.)"
+  },
+  {
+    "单词": "process",
+    "英音": "[prəˈses; ˈprəʊses]",
+    "美音": "[prəˈses；ˈprɑːses]",
+    "释义(中文)": "n. 过程，进行；方法，步骤；作用；程序；推移\nadj. 经过特殊加工（或处理）的\nvt. 处理；加工\nvi. 列队前进",
+    "释义(英文)": "n. (psychology) the performance of some composite cognitive activity; an operation that affects mental contents\nn. a mental process that you are not directly aware of\nn. a natural prolongation or projection from a part of an organism either animal or plant\nn. a sustained phenomenon or one marked by gradual changes through a series of states"
+  },
+  {
+    "单词": "longhand",
+    "英音": "[ˈlɒŋhænd]",
+    "美音": "[ˈlɔːŋhænd]",
+    "释义(中文)": "n. 普通书写（速记或打字）；普通写法",
+    "释义(英文)": "n. rapid handwriting in which letters are set down in full and are cursively connected within words without lifting the writing implement from the paper\ns. having words written out in full by hand"
+  },
+  {
+    "单词": "shorthand",
+    "英音": "[ˈʃɔːthænd]",
+    "美音": "[ˈʃɔːrthænd]",
+    "释义(中文)": "n. 速记；速记法\nadj. 速记法的",
+    "释义(英文)": "n. a method of writing rapidly\ns. written in abbreviated or symbolic form"
+  },
+  {
+    "单词": "sofa",
+    "英音": "[ˈsəʊfə]",
+    "美音": "[ˈsoʊfə]",
+    "释义(中文)": "n. 沙发；长椅\n",
+    "释义(英文)": "n. an upholstered seat for more than one person"
+  },
+  {
+    "单词": "pizza",
+    "英音": "[ˈpiːtsə]",
+    "美音": "[ˈpiːtsə]",
+    "释义(中文)": "n. 比萨饼（一种涂有乳酪核番茄酱的意大利式有馅烘饼）\n",
+    "释义(英文)": "n. Italian open pie made of thin bread dough spread with a spiced mixture of e.g. tomato sauce and cheese"
+  },
+  {
+    "单词": "stink",
+    "英音": "[stɪŋk]",
+    "美音": "[stɪŋk]",
+    "释义(中文)": "n. 臭味；讨厌的人\nvt. 使发出臭气；用臭味驱赶\nvi. 发出臭味；招人讨厌",
+    "释义(英文)": "v. be extremely bad in quality or in one's performance"
+  },
+  {
+    "单词": "odds",
+    "英音": "[ɒdz]",
+    "美音": "[ɑːdz]",
+    "释义(中文)": "n. 几率；胜算；不平等；差别",
+    "释义(英文)": "n. the likelihood of a thing occurring rather than not occurring\nn. the ratio by which one better's wager is greater than that of another"
+  },
+  {
+    "单词": "burst into",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 闯进；突然…起来\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "to sb.'s astonishment",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "at random",
+    "英音": "[æt ˈrændəm]",
+    "美音": "[æt ˈrændəm]",
+    "释义(中文)": "na. 碰运气地；无目标地\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "work on",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 对…有效[有作用]；动(人,感情等)；向…做工作；左右\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "fit in",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 有地方容纳; 有时间从事（某事）; 有时间接待（某人）; 相处融洽",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "here and there",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 到处；零零落落\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "set one's mind on",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "un. 迅速回想一遍；下决心\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "set one's mind to",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 一心想做；专心致志；全力以赴",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "paradise",
+    "英音": "[ˈpærədaɪs]",
+    "美音": "[ˈpærədaɪs]",
+    "释义(中文)": "n. 天堂\n至福境地",
+    "释义(英文)": "n. (Christianity) the abode of righteous souls after death"
+  },
+  {
+    "单词": "unaware",
+    "英音": "[ˌʌnəˈweə(r)]",
+    "美音": "[ˌʌnəˈwer]",
+    "释义(中文)": "adj. 不知道的，无意的；未察觉到的\nadv. 意外地；不知不觉地",
+    "释义(英文)": "a. (often followed by `of') not aware"
+  },
+  {
+    "单词": "surroundings",
+    "英音": "[səˈraʊndɪŋz]",
+    "美音": "[səˈraʊndɪŋz]",
+    "释义(中文)": "n. 环境；周围的事物",
+    "释义(英文)": "n the environmental condition\nn the area in which something exists or lives\nv extend on all sides of simultaneously; encircle\nv envelop completely\nv surround so as to force to give up\nv surround with a wall in order to fortify"
+  },
+  {
+    "单词": "attractive",
+    "英音": "[əˈtræktɪv]",
+    "美音": "[əˈtræktɪv]",
+    "释义(中文)": "adj. 吸引人的；有魅力的；引人注目的",
+    "释义(英文)": "a. pleasing to the eye or mind especially through beauty or charm\ns. having power to arouse interest\na. having the properties of a magnet; the ability to draw or pull;"
+  },
+  {
+    "单词": "irresistible",
+    "英音": "[ˌɪrɪˈzɪstəb(ə)l]",
+    "美音": "[ˌɪrɪˈzɪstəbl]",
+    "释义(中文)": "adj. 不可抵抗的；不能压制的；极为诱人的",
+    "释义(英文)": "a. impossible to resist; overpowering\ns. overpoweringly attractive"
+  },
+  {
+    "单词": "selection",
+    "英音": "[sɪˈlekʃ(ə)n]",
+    "美音": "[sɪˈlekʃn]",
+    "释义(中文)": "n. 选择，挑选；选集；精选品",
+    "释义(英文)": "n. an assortment of things from which a choice can be made"
+  },
+  {
+    "单词": "appointment",
+    "英音": "[əˈpɔɪntmənt]",
+    "美音": "[əˈpɔɪntmənt]",
+    "释义(中文)": "n. 任命；约定；任命的职位",
+    "释义(英文)": "n. the act of putting a person into a non-elective position\nn. (usually plural) furnishings and equipment (especially for a ship or hotel)\nn. the job to which you are (or hope to be) appointed\nn. (law) the act of disposing of property by virtue of the power of appointment"
+  },
+  {
+    "单词": "attraction",
+    "英音": "[əˈtrækʃn]",
+    "美音": "[əˈtrækʃn]",
+    "释义(中文)": "n. 吸引，吸引力；引力；吸引人的事物",
+    "释义(英文)": "n. the force by which one object attracts another\nn. an entertainment that is offered to the public\nn. the quality of arousing interest; being attractive or something that attracts\nn. a characteristic that provides pleasure and attracts"
+  },
+  {
+    "单词": "inevitable",
+    "英音": "[ɪnˈevɪtəbl]",
+    "美音": "[ɪnˈevɪtəbl]",
+    "释义(中文)": "adj. 必然的，不可避免的",
+    "释义(英文)": "n. an unavoidable event\na. incapable of being avoided or prevented\ns. invariably occurring or appearing"
+  },
+  {
+    "单词": "background",
+    "英音": "[ˈbækɡraʊnd]",
+    "美音": "[ˈbækɡraʊnd]",
+    "释义(中文)": "n. 背景；隐蔽的位置\nadj. 背景的；发布背景材料的\nvt. 作…的背景",
+    "释义(英文)": "n. a person's social heritage: previous experience or training\nn. the part of a scene (or picture) that lies behind objects in the foreground\nn. information that is essential to understanding a situation or problem\nn. extraneous signals that can be confused with the phenomenon to be observed or measured"
+  },
+  {
+    "单词": "section",
+    "英音": "[ˈsekʃn]",
+    "美音": "[ˈsekʃn]",
+    "释义(中文)": "n. 截面；部分；部门；地区；章节\nvt. 把…分段；将…切片；对…进行划分\nvi. 被切割成片；被分成部分",
+    "释义(英文)": "n. a self-contained part of a larger composition (written or musical)\nn. a very thin slice (of tissue or mineral or other substance) for examination under a microscope\nn. a distinct region or subdivision of a territorial or political area or community or group of people\nn. one of several parts or pieces that fit with others to constitute a whole object"
+  },
+  {
+    "单词": "retire",
+    "英音": "[rɪˈtaɪə(r)]",
+    "美音": "[rɪˈtaɪər]",
+    "释义(中文)": "n. 退休；退隐；退兵信号\nvi. 退休；撤退；退却\nvt. 退休；离开；收回",
+    "释义(英文)": "v. go into retirement; stop performing one's work or withdraw from one's position\nv. withdraw from active participation\nv. withdraw from circulation or from the market, as of bills, shares, and bonds\nv. make (someone) retire"
+  },
+  {
+    "单词": "run up",
+    "英音": "[ˈrʌn ʌp]",
+    "美音": "[rʌn ʌp]",
+    "释义(中文)": "na. 抬高(市价等)；升(旗等)；造；增加(费用,债款等)\n",
+    "释义(英文)": "n. the approach run during which an athlete gathers speed"
+  },
+  {
+    "单词": "account",
+    "英音": "[əˈkaʊnt]",
+    "美音": "[əˈkaʊnt]",
+    "释义(中文)": "n. 账户；解释；账目，账单；理由；描述\nvt. 认为；把…视为\nvi. 解释；导致；报账",
+    "释义(英文)": "n. a formal contractual relationship established to provide for regular banking or brokerage or business services\nn. importance or value\nn. a statement of recent transactions and the resulting balance\nn. the quality of taking advantage"
+  },
+  {
+    "单词": "missing",
+    "英音": "[ˈmɪsɪŋ]",
+    "美音": "[ˈmɪsɪŋ]",
+    "释义(中文)": "adj. 失踪的；缺少的\nv. 错过（miss的ing形式）；想念；漏掉\n",
+    "释义(英文)": "s. not able to be found"
+  },
+  {
+    "单词": "tempt",
+    "英音": "[tempt]",
+    "美音": "[tempt]",
+    "释义(中文)": "vt. 诱惑；引起；冒…的风险；使感兴趣",
+    "释义(英文)": "v. dispose or incline or entice to\nv. give rise to a desire by being attractive or inviting\nv. try to seduce\nv. try presumptuously"
+  },
+  {
+    "单词": "efficiency",
+    "英音": "[ɪˈfɪʃ(ə)nsi]",
+    "美音": "[ɪˈfɪʃnsi]",
+    "释义(中文)": "n. 效率；效能；功效",
+    "释义(英文)": "n. the ratio of the output to the input of any system\nn. skillfulness in avoiding wasted time and effort"
+  },
+  {
+    "单词": "industrial",
+    "英音": "[ɪnˈdʌstriəl]",
+    "美音": "[ɪnˈdʌstriəl]",
+    "释义(中文)": "n. 工业股票；工业工人\nadj. 工业的，产业的；从事工业的；供工业用的；来自勤劳的",
+    "释义(英文)": "a. of or relating to or resulting from industry\na. having highly developed industries\ns. employed in industry\ns. suitable to stand up to hard wear"
+  },
+  {
+    "单词": "elementary",
+    "英音": "[ˌelɪˈmentri]",
+    "美音": "[ˌelɪˈmentri]",
+    "释义(中文)": "adj. 基本的；初级的；[化学] 元素的",
+    "释义(英文)": "s. easy and not involved or complicated\na. of or pertaining to or characteristic of elementary school or elementary education\ns. of or being the essential or basic part"
+  },
+  {
+    "单词": "upper",
+    "英音": "[ˈʌpə(r)]",
+    "美音": "[ˈʌpər]",
+    "释义(中文)": "adj. 上面的，上部的；较高的\n",
+    "释义(英文)": "n. piece of leather or synthetic material that forms the part of a shoe or boot above the sole that encases the foot\ns. the topmost one of two\ns. higher in place or position\ns. superior in rank or accomplishment"
+  },
+  {
+    "单词": "drawer",
+    "英音": "[drɔ:(r)]",
+    "美音": "[drɔːr]",
+    "释义(中文)": "n. 抽屉；开票人；出票人；起草者；酒馆侍\n",
+    "释义(英文)": "n. a boxlike container in a piece of furniture; made so as to slide in and out\nn. the person who writes a check or draft instructing the drawee to pay someone else"
+  },
+  {
+    "单词": "bureau",
+    "英音": "[ˈbjʊərəʊ]",
+    "美音": "[ˈbjʊroʊ]",
+    "释义(中文)": "n. 局，处；衣柜；办公桌\n",
+    "释义(英文)": "n an administrative unit of government\nn furniture with drawers for keeping clothes"
+  },
+  {
+    "单词": "underwear",
+    "英音": "[ˈʌndəweə(r)]",
+    "美音": "[ˈʌndərwer]",
+    "释义(中文)": "n. 内衣物",
+    "释义(英文)": "n. undergarment worn next to the skin and under the outer garments"
+  },
+  {
+    "单词": "pants",
+    "英音": "[pænts]",
+    "美音": "[pænts]",
+    "释义(中文)": "n. 裤子",
+    "释义(英文)": "n underpants worn by women\nn the noise made by a short puff of steam (as from an engine)\nn (usually in the plural) a garment extending from the waist to the knee or ankle, covering each leg separately\nn a short labored intake of breath with the mouth open\nv breathe noisily, as when one is exhausted\nv utter while panting, as if out of breath"
+  },
+  {
+    "单词": "expert",
+    "英音": "[ˈekspɜːt]",
+    "美音": "[ˈekspɜːrt]",
+    "释义(中文)": "n. 专家；行家；能手\nadj. 熟练的；内行的；老练的\nvt. 当专家；在…中当行家\n",
+    "释义(英文)": "n. a person with special knowledge or ability who performs skillfully"
+  },
+  {
+    "单词": "utensil",
+    "英音": "[juːˈtens(ə)l]",
+    "美音": "[juːˈtensl]",
+    "释义(中文)": "n. 用具，器皿",
+    "释义(英文)": "n. an implement for practical use (especially in a household)"
+  },
+  {
+    "单词": "foundation",
+    "英音": "[faʊnˈdeɪʃn]",
+    "美音": "[faʊnˈdeɪʃn]",
+    "释义(中文)": "n. 基础；地基；基金会；根据；创立",
+    "释义(英文)": "n. the basis on which something is grounded\nn. an institution supported by an endowment\nn. lowest support of a structure\nn. education or instruction in the fundamentals of a field of knowledge"
+  },
+  {
+    "单词": "career",
+    "英音": "[kəˈrɪə(r)]",
+    "美音": "[kəˈrɪr]",
+    "释义(中文)": "n. 生涯；职业；事业；速度，全速\nadj. 作为毕生职业的\nvi. 全速前进，猛冲",
+    "释义(英文)": "n. the particular occupation for which you are trained\nn. the general progression of your working or professional life\nv. move headlong at high speed"
+  },
+  {
+    "单词": "engineering",
+    "英音": "[ˌendʒɪˈnɪərɪŋ]",
+    "美音": "[ˌendʒɪˈnɪrɪŋ]",
+    "释义(中文)": "n. 工程，工程学\nv. 设计；管理（engineer的ing形式）；建造",
+    "释义(英文)": "n. the discipline dealing with the art or science of applying scientific knowledge to practical problems\nn. a room (as on a ship) in which the engine is located"
+  },
+  {
+    "单词": "unfortunately",
+    "英音": "[ʌnˈfɔːtʃənətli]",
+    "美音": "[ʌnˈfɔːrtʃənətli]",
+    "释义(中文)": "adv. 不幸地",
+    "释义(英文)": "r. by bad luck"
+  },
+  {
+    "单词": "bossy",
+    "英音": "[ˈbɒsi]",
+    "美音": "[ˈbɔːsi]",
+    "释义(中文)": "n. 母牛；牛犊\nadj. 专横的；浮雕装饰的；爱指挥他人的",
+    "释义(英文)": "s offensively self-assured or given to exercising usually unwarranted power"
+  },
+  {
+    "单词": "project",
+    "英音": "[ˈprɒdʒekt]",
+    "美音": "[ˈprɑːdʒekt]",
+    "释义(中文)": "n. 工程；计划；事业\nvt. 设计；计划；发射；放映\nvi. 设计；计划；表达；投射",
+    "释义(英文)": "n. a planned undertaking\nv. communicate vividly\nv. transfer (ideas or principles) from one domain into another\nv. project on a screen"
+  },
+  {
+    "单词": "bachelor",
+    "英音": "[ˈbætʃələ(r)]",
+    "美音": "[ˈbætʃələr]",
+    "释义(中文)": "n. 学士；单身汉；（尚未交配的）小雄兽\n",
+    "释义(英文)": "n. a man who has never been married\nv. lead a bachelor's existence"
+  },
+  {
+    "单词": "short-term",
+    "英音": "[ˌʃɔːt ˈtɜːm]",
+    "美音": "[ˌʃɔːrt ˈtɜːrm]",
+    "释义(中文)": "adj. 短期的",
+    "释义(英文)": "s relating to or extending over a limited period"
+  },
+  {
+    "单词": "consultant",
+    "英音": "[kənˈsʌltənt]",
+    "美音": "[kənˈsʌltənt]",
+    "释义(中文)": "n. 顾问；咨询者；会诊医生",
+    "释义(英文)": "n an expert who gives advice"
+  },
+  {
+    "单词": "consult",
+    "英音": "[kənˈsʌlt]",
+    "美音": "[kənˈsʌlt]",
+    "释义(中文)": "vi. 请教；商议；当顾问\nvt. 查阅；商量；向…请教",
+    "释义(英文)": "v. get or ask advice from\nv. seek information from\nv. advise professionally"
+  },
+  {
+    "单词": "amaze",
+    "英音": "[əˈmeɪz]",
+    "美音": "[əˈmeɪz]",
+    "释义(中文)": "vt. 使吃惊",
+    "释义(英文)": "v. affect with wonder"
+  },
+  {
+    "单词": "whatsoever",
+    "英音": "[ˌwɒtsəʊˈevə(r)]",
+    "美音": "[ˌhwɑtsoˈevər]",
+    "释义(中文)": "pron. 无论什么",
+    "释义(英文)": "s one or some or every or all without specification"
+  },
+  {
+    "单词": "inspect",
+    "英音": "[ɪnˈspekt]",
+    "美音": "[ɪnˈspekt]",
+    "释义(中文)": "vt. 检查；视察；检阅\nvi. 进行检查；进行视察",
+    "释义(英文)": "v. look over carefully"
+  },
+  {
+    "单词": "shipment",
+    "英音": "[ˈʃɪpmənt]",
+    "美音": "[ˈʃɪpmənt]",
+    "释义(中文)": "n. 装货；装载的货物",
+    "释义(英文)": "n goods carried by a large vehicle\nn the act of sending off something"
+  },
+  {
+    "单词": "sleeve",
+    "英音": "[sliːv]",
+    "美音": "[sliːv]",
+    "释义(中文)": "n. [机] 套筒，[机] 套管；袖子，[服装] 袖套\nvt. 给……装袖子；给……装套筒",
+    "释义(英文)": "n. the part of a garment that is attached at the armhole and that provides a cloth covering for the arm\nn. small case into which an object fits"
+  },
+  {
+    "单词": "uncomfortable",
+    "英音": "[ʌnˈkʌmftəb(ə)l]",
+    "美音": "[ʌnˈkʌmftəbl; ʌnˈkʌmfərtəbl]",
+    "释义(中文)": "adj. 不舒服的；不安的",
+    "释义(英文)": "a. conducive to or feeling mental discomfort\na. providing or experiencing physical discomfort"
+  },
+  {
+    "单词": "relieve",
+    "英音": "[rɪˈliːv]",
+    "美音": "[rɪˈliːv]",
+    "释义(中文)": "vt. 解除，减轻；使不单调乏味；换…的班；解围；使放心",
+    "释义(英文)": "v. provide physical relief, as from pain\nv. free from a burden, evil, or distress\nv. take by stealing\nv. alleviate or remove (pressure or stress) or make less oppressive"
+  },
+  {
+    "单词": "boring",
+    "英音": "[ˈbɔːrɪŋ]",
+    "美音": "[ˈbɔːrɪŋ]",
+    "释义(中文)": "n. 钻孔\nadj. 无聊的；令人厌烦的\nv. 钻孔；使厌烦；挖空（bore的ing形式）\n",
+    "释义(英文)": "n. the act of drilling a hole in the earth in the hope of producing petroleum\ns. so lacking in interest as to cause mental weariness"
+  },
+  {
+    "单词": "bore",
+    "英音": "[bɔː(r)]",
+    "美音": "[bɔːr]",
+    "释义(中文)": "n. 孔；令人讨厌的人\nvt. 钻孔；使烦扰\nvi. 钻孔\n",
+    "释义(英文)": "n. a person who evokes boredom\nn. diameter of a tube or gun barrel\nn. a hole or passage made by a drill; usually made for exploratory purposes\nv. cause to be bored"
+  },
+  {
+    "单词": "workroom",
+    "英音": "[ˈwɜːkruːm; ˈwɜːkrʊm]",
+    "美音": "[ˈwɜːrkruːmˌˈwɜːrkrʊm]",
+    "释义(中文)": "n. 工作室；工场间",
+    "释义(英文)": "n. room where work is done"
+  },
+  {
+    "单词": "furthermore",
+    "英音": "[ˌfɜːðəˈmɔː(r)]",
+    "美音": "[ˌfɜːrðərˈmɔːr]",
+    "释义(中文)": "adv. 此外；而且",
+    "释义(英文)": "r. in addition; furthermore, their quality is improving\"; moreover, mice nested there\""
+  },
+  {
+    "单词": "irregular",
+    "英音": "[ɪˈreɡjələ(r)]",
+    "美音": "[ɪˈreɡjələr]",
+    "释义(中文)": "n. 不规则物；不合规格的产品\nadj. 不规则的；无规律的；非正规的；不合法的",
+    "释义(英文)": "n. merchandise that has imperfections; usually sold at a reduced price without the brand name\na. contrary to rule or accepted order or general practice\ns. not occurring at expected times\na. (used of the military) not belonging to or engaged in by regular army forces"
+  },
+  {
+    "单词": "absent-minded",
+    "英音": "[ˌæbsənt ˈmaɪndɪd]",
+    "美音": "[ˌæbsənt ˈmaɪndɪd]",
+    "释义(中文)": "adj. 心不在焉的；健忘的；出神的",
+    "释义(英文)": "a. Absent in mind; abstracted; preoccupied."
+  },
+  {
+    "单词": "absent",
+    "英音": "[ˈæbsənt]",
+    "美音": "[ˈæbsənt]",
+    "释义(中文)": "adj. 缺席的；缺少的；心不在焉的；茫然的\nvt. 使缺席",
+    "释义(英文)": "v. go away or leave\na. not being in a specified place\ns. lost in thought; showing preoccupation"
+  },
+  {
+    "单词": "assembly",
+    "英音": "[əˈsembli]",
+    "美音": "[əˈsembli]",
+    "释义(中文)": "n. 装配；集会，集合",
+    "释义(英文)": "n. a group of machine parts that fit together to form a self-contained unit\nn. a group of persons who are gathered together for a common purpose\nn. a unit consisting of components that have been fitted together\nn. the social act of assembling"
+  },
+  {
+    "单词": "assemble",
+    "英音": "[əˈsemb(ə)l]",
+    "美音": "[əˈsembl]",
+    "释义(中文)": "vt. 集合，聚集；装配；收集\nvi. 集合，聚集",
+    "释义(英文)": "v. create by putting components or members together\nv. get people together"
+  },
+  {
+    "单词": "assembly line",
+    "英音": "[əˈsembli laɪn]",
+    "美音": "[əˈsembli laɪn]",
+    "释义(中文)": "na. 装配线\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "recognize",
+    "英音": "[ˈrekəɡnaɪz]",
+    "美音": "[ˈrekəɡnaɪz]",
+    "释义(中文)": "vt. 认出，识别；承认\nvi. 确认，承认；具结",
+    "释义(英文)": "v. be fully aware or cognizant of\nv. perceive to be the same\nv. exhibit recognition for (an antigen or a substrate)\nv. show approval or appreciation of"
+  },
+  {
+    "单词": "shift",
+    "英音": "[ʃɪft]",
+    "美音": "[ʃɪft]",
+    "释义(中文)": "n. 移动；变化；手段；轮班\nvt. 转移；改变；替换\nvi. 移动；转变；转换",
+    "释义(英文)": "n. an event in which something is displaced without rotation\nn. the time period during which you are at work\nn. the act of moving from one place to another\nn. a crew of workers who work for a specific period of time"
+  },
+  {
+    "单词": "daydream",
+    "英音": "[ˈdeɪdriːm]",
+    "美音": "[ˈdeɪdriːm]",
+    "释义(中文)": "n. 白日梦\nvi. 做白日梦",
+    "释义(英文)": "v. have dreamlike musings or fantasies while awake"
+  },
+  {
+    "单词": "observation",
+    "英音": "[ˌɒbzəˈveɪʃ(ə)n]",
+    "美音": "[ˌɑːbzərˈveɪʃ(ə)n]",
+    "释义(中文)": "n. 观察；监视；观察报告",
+    "释义(英文)": "n. the act of making and recording a measurement\nn. the act of observing; taking a patient look\nn. a remark expressing careful consideration\nn. facts learned by observing"
+  },
+  {
+    "单词": "observe",
+    "英音": "[əbˈzɜːv]",
+    "美音": "[əbˈzɜːrv]",
+    "释义(中文)": "vt. 庆祝\nvt. 观察；遵守；说；注意到；评论\nvi. 观察；说；注意到；评论",
+    "释义(英文)": "v. watch attentively\nv. behave as expected during of holidays or rites\nv. stick to correctly or closely\nv. conform one's action or practice to"
+  },
+  {
+    "单词": "observer",
+    "英音": "[əbˈzɜːvə(r)]",
+    "美音": "[əbˈzɜːrvər]",
+    "释义(中文)": "n. 观察者；[天] 观测者；遵守者",
+    "释义(英文)": "n. an expert who observes and comments on something"
+  },
+  {
+    "单词": "oral",
+    "英音": "[ˈɔːrəl]",
+    "美音": "[ˈɔːrəl]",
+    "释义(中文)": "n. 口试\nadj. 口头的，口述的\n",
+    "释义(英文)": "n. an examination conducted by spoken communication\ns. using speech rather than writing\na. of or relating to or affecting or for use in the mouth\na. of or involving the mouth or mouth region or the surface on which the mouth is located"
+  },
+  {
+    "单词": "findings",
+    "英音": "[ˈfaɪndɪŋz]",
+    "美音": "[ˈfaɪndɪŋz]",
+    "释义(中文)": "n. 发现，调查结果；检验发现的情况（finding复数）",
+    "释义(英文)": "n. a collection of tools and other articles used by an artisan to make jewelry or clothing or shoes"
+  },
+  {
+    "单词": "inspection",
+    "英音": "[ɪnˈspekʃ(ə)n]",
+    "美音": "[ɪnˈspekʃn]",
+    "释义(中文)": "n. 视察，检查",
+    "释义(英文)": "n. a formal or official examination"
+  },
+  {
+    "单词": "redesign",
+    "英音": "[ˌriːdɪˈzaɪn]",
+    "美音": "[ˌriːdɪˈzaɪn]",
+    "释义(中文)": "n. 重新设计；新设计\nvt. 重新设计",
+    "释义(英文)": "v. design anew, make a new design for"
+  },
+  {
+    "单词": "decrease",
+    "英音": "[dɪˈkriːs]",
+    "美音": "[dɪˈkriːs; ˈdiːkriːs]",
+    "释义(中文)": "n. 减少，减小；减少量\nvt. 减少，减小\nvi. 减少，减小",
+    "释义(英文)": "n. a change downward\nn. a process of becoming smaller or shorter\nn. the amount by which something decreases\nn. the act of decreasing or reducing something"
+  },
+  {
+    "单词": "worktable",
+    "英音": "[ˈwɜːkˌteɪb(ə)l]",
+    "美音": "[ˈwɜːrkˌtebl]",
+    "释义(中文)": "n. 工作台；缝纫桌",
+    "释义(英文)": "n. a table designed for a particular task"
+  },
+  {
+    "单词": "operator",
+    "英音": "[ˈɒpəreɪtə(r)]",
+    "美音": "[ˈɑːpəreɪtər]",
+    "释义(中文)": "n. 经营者；操作员；话务员；行家",
+    "释义(英文)": "n. (mathematics) a symbol or function representing a mathematical operation\nn. an agent that operates some apparatus or machine\nn. someone who owns or operates a business\nn. a speculator who trades aggressively on stock or commodity markets"
+  },
+  {
+    "单词": "management",
+    "英音": "[ˈmænɪdʒmənt]",
+    "美音": "[ˈmænɪdʒmənt]",
+    "释义(中文)": "n. 管理；管理人员；管理部门；操纵；经营手段",
+    "释义(英文)": "n. the act of managing something\nn. those in charge of running a business"
+  },
+  {
+    "单词": "background",
+    "英音": "[ˈbækɡraʊnd]",
+    "美音": "[ˈbækɡraʊnd]",
+    "释义(中文)": "n. 背景；隐蔽的位置\nadj. 背景的；发布背景材料的\nvt. 作…的背景",
+    "释义(英文)": "n. a person's social heritage: previous experience or training\nn. the part of a scene (or picture) that lies behind objects in the foreground\nn. information that is essential to understanding a situation or problem\nn. extraneous signals that can be confused with the phenomenon to be observed or measured"
+  },
+  {
+    "单词": "beautify",
+    "英音": "[ˈbjuːtɪfaɪ]",
+    "美音": "[ˈbjuːtɪfaɪ]",
+    "释义(中文)": "vt. 使美化，使变美\nvi. 美化",
+    "释义(英文)": "v make more beautiful\nv be beautiful to look at\nv make more attractive by adding ornament, colour, etc."
+  },
+  {
+    "单词": "setting",
+    "英音": "[ˈsetɪŋ]",
+    "美音": "[ˈsetɪŋ]",
+    "释义(中文)": "n. 环境；安装；布置；[天] 沉落\nv. 放置；沉没；使…处于某位置（set的ing形式）",
+    "释义(英文)": "n. the context and environment in which something is set\nn. the state of the environment in which a situation exists\nn. the physical position of something"
+  },
+  {
+    "单词": "productive",
+    "英音": "[prəˈdʌktɪv]",
+    "美音": "[prəˈdʌktɪv]",
+    "释义(中文)": "adj. 能生产的；生产的，生产性的；多产的；富有成效的",
+    "释义(英文)": "a. producing or capable of producing (especially abundantly)\ns. yielding positive results"
+  },
+  {
+    "单词": "promotion",
+    "英音": "[prəˈməʊʃn]",
+    "美音": "[prəˈmoʊʃn]",
+    "释义(中文)": "n. 提升，[劳经] 晋升；推销，促销；促进；发扬，振兴",
+    "释义(英文)": "n. a message issued in behalf of some product or cause or idea or person or institution\nn. act of raising in rank or position\nn. encouragement of the progress or growth or acceptance of something"
+  },
+  {
+    "单词": "promote",
+    "英音": "[prəˈməʊt]",
+    "美音": "[prəˈmoʊt]",
+    "释义(中文)": "vi. 成为王后或其他大于卒的子\nvt. 促进；提升；推销；发扬",
+    "释义(英文)": "v. contribute to the progress or growth of\nv. give a promotion to or assign to a higher position\nv. be changed for a superior chess or checker piece\nv. change a pawn for a better piece by advancing it to the eighth row, or change a checker piece for a more valuable piece by moving it to the row closest to your opponent"
+  },
+  {
+    "单词": "incentive",
+    "英音": "[ɪnˈsentɪv]",
+    "美音": "[ɪnˈsentɪv]",
+    "释义(中文)": "n. 动机；刺激\nadj. 激励的；刺激的",
+    "释义(英文)": "n. a positive motivational influence"
+  },
+  {
+    "单词": "suggestion",
+    "英音": "[səˈdʒestʃən]",
+    "美音": "[səˈdʒestʃən; səɡˈdʒestʃən]",
+    "释义(中文)": "n. 建议；示意；微量，细微的迹象",
+    "释义(英文)": "n. an idea that is suggested\nn. a proposal offered for acceptance or rejection\nn. persuasion formulated as a suggestion\nn. the sequential mental process in which one thought leads to another by association"
+  },
+  {
+    "单词": "co-owner",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 共有人；共同所有人",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "compliments",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 恭维（compliment的复数）；问候；道贺\nv. 祝贺（compliment的三单形式）；向…致贺辞",
+    "释义(英文)": "n (usually plural) a polite expression of desire for someone's welfare\nn a remark (or act) expressing praise and admiration\nv say something to someone that expresses praise\nv express respect or esteem for"
+  },
+  {
+    "单词": "find out",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 查出；发现；看清…的面目；识破\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "turn out",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "v. （以某种方式）发生；最后是；结果是 （尤指天气突然）变得（晴好） 原来是；结果发现 出席;参加;前去观看关掉，熄灭（电灯、煤气等） 出席;参加;前去观看生产；制造 （尤指把某人从其长期居住处）撵走，赶出，逐出 翻出；倒出 出席；参加；前去观看",
+    "释义(英文)": "n. The act of coming forth; a leaving of houses, shops,\n   etc.; esp., a quitting of employment for the purpose of forcing\n   increase of wages; a strike; -- opposed to lockout.\nn. A short side track on a railroad, which may be occupied\n   by one train while another is passing on a main track; a shunt; a\n   siding; a switch.\nn. That which is prominently brought forward or exhibited;\n   hence, an equipage; as, a man with a showy carriage and horses is said\n   to have a fine turn-out.\nn. The aggregate number of persons who have come out, as\n   from their houses, for a special purpose.\nn. Net quantity of produce yielded."
+  },
+  {
+    "单词": "quality control",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 质量控制\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "as a result",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "adv. 结果\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "except for",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 只有\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "go on strike",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 实行罢工\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "hold up",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "v. 举起；支撑；耽误；抢劫\nn. 抢劫；延误；堵车\n",
+    "释义(英文)": "n robbery at gunpoint\nn the act of delaying; inactivity resulting in something being put off until a later time"
+  },
+  {
+    "单词": "result in",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 终于(失败)\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "talk over",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 商谈；说服\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "keep up with",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 不落后\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "behave",
+    "英音": "[bɪˈheɪv]",
+    "美音": "[bɪˈheɪv]",
+    "释义(中文)": "vi. 表现；（机器等）运转；举止端正；（事物）起某种作用\nvt. 使守规矩；使表现得…",
+    "释义(英文)": "v. behave in a certain manner\nv. behave well or properly"
+  },
+  {
+    "单词": "tend",
+    "英音": "[tend]",
+    "美音": "[tend]",
+    "释义(中文)": "vt. 照料，照管\nvi. 趋向，倾向；照料，照顾",
+    "释义(英文)": "v. have a tendency or disposition to do or be something; be inclined\nv. have care of or look after\nv. manage or run"
+  },
+  {
+    "单词": "Bible",
+    "英音": "[ˈbaɪb(ə)l]",
+    "美音": "[ˈbaɪb(ə)l]",
+    "释义(中文)": "n. 有权威的书",
+    "释义(英文)": "n. the sacred writings of the Christian religions\nn. a book regarded as authoritative in its field"
+  },
+  {
+    "单词": "barber",
+    "英音": "[ˈbɑːbə(r)]",
+    "美音": "[ˈbɑːrbər]",
+    "释义(中文)": "n. 理发师\nvt. 为…理发；修整\nvi. 当理发师\n",
+    "释义(英文)": "n. United States composer (1910-1981)\nn. a hairdresser who cuts hair and shaves beards as a trade\nv. perform the services of a barber: cut the hair and/or beard of"
+  },
+  {
+    "单词": "alcohol",
+    "英音": "[ˈælkəhɒl]",
+    "美音": "[ˈælkəhɔːl]",
+    "释义(中文)": "n. 酒精，乙醇",
+    "释义(英文)": "n. a liquor or brew containing alcohol as the active agent\nn. any of a series of volatile hydroxyl compounds that are made from hydrocarbons by distillation"
+  },
+  {
+    "单词": "forbid",
+    "英音": "[fəˈbɪd]",
+    "美音": "[fərˈbɪd]",
+    "释义(中文)": "vt. 禁止；不准；不允许；〈正式〉严禁",
+    "释义(英文)": "v. command against"
+  },
+  {
+    "单词": "manufacture",
+    "英音": "[ˌmænjuˈfæktʃə(r)]",
+    "美音": "[ˌmænjuˈfæktʃər]",
+    "释义(中文)": "n. 制造；产品；制造业\nvt. 制造；加工；捏造\nvi. 制造",
+    "释义(英文)": "v. put together out of artificial or natural components or parts; He manufactured a popular cereal\"\nv. produce naturally\nv. create or produce in a mechanical way"
+  },
+  {
+    "单词": "raw",
+    "英音": "[rɔː]",
+    "美音": "[rɔː]",
+    "释义(中文)": "n. 擦伤处\nadj. 生的；未加工的；阴冷的；刺痛的；擦掉皮的；无经验的；（在艺术等方面）不成熟的\nvt. 擦伤\n",
+    "释义(英文)": "n. informal terms for nakedness\ns. having the surface exposed and painful\na. not treated with heat to prepare it for eating\ns. not processed or refined"
+  },
+  {
+    "单词": "leather",
+    "英音": "[ˈleðə(r)]",
+    "美音": "[ˈleðər]",
+    "释义(中文)": "n. 皮革；皮革制品\nvt. 用皮革包盖；抽打\nadj. 皮的；皮革制的\n",
+    "释义(英文)": "n. an animal skin made smooth and flexible by removing the hair and then tanning\nv. whip with a leather strap"
+  },
+  {
+    "单词": "harness",
+    "英音": "[ˈhɑːnɪs]",
+    "美音": "[ˈhɑːrnɪs]",
+    "释义(中文)": "n. 马具；甲胄；挽具状带子；降落伞背带；日常工作\nvt. 治理；套；驾驭；披上甲胄；利用",
+    "释义(英文)": "n. a support consisting of an arrangement of straps for holding something to the body (especially one supporting a person suspended from a parachute)\nn. stable gear consisting of an arrangement of leather straps fitted to a draft animal so that it can be attached to and pull a cart\nv. put a harness\nv. exploit the power of"
+  },
+  {
+    "单词": "wool",
+    "英音": "[wʊl]",
+    "美音": "[wʊl]",
+    "释义(中文)": "n. 羊毛；毛线；绒线；毛织品；毛料衣物\n",
+    "释义(英文)": "n. a fabric made from the hair of sheep\nn. fiber sheared from animals (such as sheep) and twisted into yarn for weaving\nn. outer coat of especially sheep and yaks"
+  },
+  {
+    "单词": "fur",
+    "英音": "[fɜː(r)]",
+    "美音": "[fɜːr]",
+    "释义(中文)": "n. 皮，皮子；毛皮；软毛\nn. 水垢\nvt. 用毛皮覆盖；使穿毛皮服装\n",
+    "释义(英文)": "n. the dressed hairy coat of a mammal\nn. dense coat of fine silky hairs on mammals (e.g., cat or seal or weasel)\nn. a garment made of the dressed hairy coat of a mammal"
+  },
+  {
+    "单词": "exchange",
+    "英音": "[ɪksˈtʃeɪndʒ]",
+    "美音": "[ɪksˈtʃeɪndʒ]",
+    "释义(中文)": "n. 交换；交流；交易所；兑换\nvt. 交换；交易；兑换\nvi. 交换；交易；兑换",
+    "释义(英文)": "n. chemical process in which one atom or ion or group changes places with another\nn. a mutual expression of views (especially an unpleasant one)\nn. the act of changing one thing for another thing\nn. the act of giving something in return for something received"
+  },
+  {
+    "单词": "introduction",
+    "英音": "[ˌɪntrəˈdʌkʃn]",
+    "美音": "[ˌɪntrəˈdʌkʃn]",
+    "释义(中文)": "n. 介绍；引进；采用；入门；传入",
+    "释义(英文)": "n. the act of beginning something new\nn. the first section of a communication\nn. a basic or elementary instructional text\nn. a new proposal"
+  },
+  {
+    "单词": "painter",
+    "英音": "[ˈpeɪntə(r)]",
+    "美音": "[ˈpeɪntər]",
+    "释义(中文)": "n. 画家；油漆匠\n",
+    "释义(英文)": "n. an artist who paints\nn. a worker who is employed to cover objects with paint\nn. a line that is attached to the bow of a boat and used for tying up (as when docking or towing)"
+  },
+  {
+    "单词": "solution",
+    "英音": "[səˈluːʃ(ə)n]",
+    "美音": "[səˈluːʃn]",
+    "释义(中文)": "n. 解决方案；溶液；溶解；解答",
+    "释义(英文)": "n. a homogeneous mixture of two or more substances; frequently (but not necessarily) a liquid solution\nn. a statement that solves a problem or explains how to solve the problem\nn. a method for solving a problem\nn. the set of values that give a true statement when substituted into an equation"
+  },
+  {
+    "单词": "improvement",
+    "英音": "[ɪmˈpruːvmənt]",
+    "美音": "[ɪmˈpruːvmənt]",
+    "释义(中文)": "n. 改进，改善；提高",
+    "释义(英文)": "n. a change for the better; progress in development\nn. the act of improving something\nn. a condition superior to an earlier condition"
+  },
+  {
+    "单词": "painful",
+    "英音": "[ˈpeɪnf(ə)l]",
+    "美音": "[ˈpeɪnfl]",
+    "释义(中文)": "adj. 痛苦的；疼痛的；令人不快的",
+    "释义(英文)": "a. causing physical or psychological pain"
+  },
+  {
+    "单词": "author",
+    "英音": "[ˈɔːθə(r)]",
+    "美音": "[ˈɔːθər]",
+    "释义(中文)": "n. 作者；作家；创始人\nvt. 创作出版",
+    "释义(英文)": "v. be the author of"
+  },
+  {
+    "单词": "intention",
+    "英音": "[ɪnˈtenʃ(ə)n]",
+    "美音": "[ɪnˈtenʃn]",
+    "释义(中文)": "n. 意图；目的；意向；愈合",
+    "释义(英文)": "n. (usually plural) the goal with respect to a marriage proposal\nn. an act of intending; a volition that you intend to carry out"
+  },
+  {
+    "单词": "sampler",
+    "英音": "[ˈsɑːmplə(r)]",
+    "美音": "[ˈsæmplər]",
+    "释义(中文)": "n. [自] 采样器；取样器；样品检查员",
+    "释义(英文)": "n. an assortment of various samples\nn. a piece of embroidery demonstrating skill with various stitches"
+  },
+  {
+    "单词": "pudding",
+    "英音": "[ˈpʊdɪŋ]",
+    "美音": "[ˈpʊdɪŋ]",
+    "释义(中文)": "n. 布丁",
+    "释义(英文)": "n. any of various soft thick unsweetened baked dishes\nn. (British) the dessert course of a meal (`pud' is used informally)\nn. any of various soft sweet desserts thickened usually with flour and baked or boiled or steamed"
+  },
+  {
+    "单词": "Christmas",
+    "英音": "[ˈkrɪsməs]",
+    "美音": "[ˈkrɪsməs]",
+    "释义(中文)": "n. 圣诞节；圣诞节期间",
+    "释义(英文)": "n. period extending from Dec. 24 to Jan. 6\nn. a Christian holiday celebrating the birth of Christ; a quarter day in England, Wales, and Ireland"
+  },
+  {
+    "单词": "select",
+    "英音": "[sɪˈlekt]",
+    "美音": "[sɪˈlekt]",
+    "释义(中文)": "n. 被挑选者；精萃\nadj. 精选的；挑选出来的；极好的\nvt. 挑选；选拔\nvi. 挑选",
+    "释义(英文)": "v pick out, select, or choose from a number of alternatives\ns of superior grade\ns selected or chosen for special qualifications"
+  },
+  {
+    "单词": "selection",
+    "英音": "[sɪˈlekʃ(ə)n]",
+    "美音": "[sɪˈlekʃn]",
+    "释义(中文)": "n. 选择，挑选；选集；精选品",
+    "释义(英文)": "n. an assortment of things from which a choice can be made"
+  },
+  {
+    "单词": "sample",
+    "英音": "[ˈsɑːmpl]",
+    "美音": "[ˈsæmpl]",
+    "释义(中文)": "n. 样品；样本；例子\nadj. 试样的，样品的；作为例子的\nvt. 取样；尝试；抽样检查\n",
+    "释义(英文)": "n. a small part of something intended as representative of the whole\nn. all or part of a natural object that is collected and preserved as an example of its class\nv. take a sample of"
+  },
+  {
+    "单词": "advantage",
+    "英音": "[ədˈvɑːntɪdʒ]",
+    "美音": "[ədˈvæntɪdʒ]",
+    "释义(中文)": "n. 优势；利益；有利条件\nvt. 有利于；使处于优势\nvi. 获利",
+    "释义(英文)": "n. the quality of having a superior or more favorable position\nn. (tennis) first point scored after deuce\nn. benefit resulting from some event or action\nv. give an advantage to"
+  },
+  {
+    "单词": "privilege",
+    "英音": "[ˈprɪvəlɪdʒ]",
+    "美音": "[ˈprɪvəlɪdʒ]",
+    "释义(中文)": "n. 特权；优待\nvt. 给与…特权；特免",
+    "释义(英文)": "n. a special advantage or immunity or benefit not enjoyed by all\nn. (law) the right to refuse to divulge information obtained in a confidential relationship\nv. bestow a privilege upon"
+  },
+  {
+    "单词": "suspect",
+    "英音": "[səˈspekt]",
+    "美音": "[səˈspekt]",
+    "释义(中文)": "n. 嫌疑犯\nadj. 可疑的；不可信的\nvi. 怀疑；猜想\nvt. 怀疑；猜想",
+    "释义(英文)": "n. someone who is under suspicion\nv. imagine to be the case or true or probable\nv. hold in suspicion; believe to be guilty"
+  },
+  {
+    "单词": "suspicion",
+    "英音": "[səˈspɪʃ(ə)n]",
+    "美音": "[səˈspɪʃn]",
+    "释义(中文)": "n. 怀疑；嫌疑；疑心；一点儿\nvt. 怀疑",
+    "释义(英文)": "n. the state of being suspected\nn. being of a suspicious nature"
+  },
+  {
+    "单词": "elderly",
+    "英音": "[ˈeldəli]",
+    "美音": "[ˈeldərli]",
+    "释义(中文)": "adj. 上了年纪的；过了中年的；稍老的",
+    "释义(英文)": "n people who are old collectively\ns advanced in years; (`aged' is pronounced as two syllables)"
+  },
+  {
+    "单词": "limp",
+    "英音": "[lɪmp]",
+    "美音": "[lɪmp]",
+    "释义(中文)": "adj. 柔软的，无力的；软弱的\nvi. 跛行，一拐一拐地走；缓慢费力地前进\nn. 跛行\n",
+    "释义(英文)": "v. walk impeded by some physical limitation or injury\nv. proceed slowly or with difficulty\ns. not firm\ns. lacking in strength or firmness or resilience"
+  },
+  {
+    "单词": "occasionally",
+    "英音": "[əˈkeɪʒnəli]",
+    "美音": "[əˈkeɪʒnəli]",
+    "释义(中文)": "adv. 偶尔；间或",
+    "释义(英文)": "r. now and then or here and there"
+  },
+  {
+    "单词": "occasional",
+    "英音": "[əˈkeɪʒən(ə)l]",
+    "美音": "[əˈkeɪʒənl]",
+    "释义(中文)": "adj. 偶然的；临时的；特殊场合的",
+    "释义(英文)": "s. occurring from time to time"
+  },
+  {
+    "单词": "heavy",
+    "英音": "[ˈhevi]",
+    "美音": "[ˈhevi]",
+    "释义(中文)": "n. 重物；严肃角色\nadj. 沉重的；繁重的，巨大的；拥挤的；阴沉的\nadv. 大量地；笨重地",
+    "释义(英文)": "n. an actor who plays villainous roles\nn. a serious (or tragic) role in a play\na. of comparatively great physical weight or density\na. unusually great in degree or quantity or number"
+  },
+  {
+    "单词": "evident",
+    "英音": "[ˈevɪdənt]",
+    "美音": "[ˈevɪdənt]",
+    "释义(中文)": "adj. 明显的；明白的",
+    "释义(英文)": "s clearly revealed to the mind or the senses or judgment\ns capable of being seen or noticed"
+  },
+  {
+    "单词": "evidently",
+    "英音": "[ˈevɪdəntli]",
+    "美音": "[ˈevɪdəntli]",
+    "释义(中文)": "adv. 显然，明显地；清楚地",
+    "释义(英文)": "r unmistakably (`plain' is often used informally for `plainly')"
+  },
+  {
+    "单词": "sincerely",
+    "英音": "[sɪnˈsɪəli]",
+    "美音": "[sɪnˈsɪrli]",
+    "释义(中文)": "adv. 真诚地；由衷地，诚恳地",
+    "释义(英文)": "r. with sincerity; without pretense\nr. written formula for ending a letter"
+  },
+  {
+    "单词": "sincere",
+    "英音": "[sɪnˈsɪə(r)]",
+    "美音": "[sɪnˈsɪr]",
+    "释义(中文)": "adj. 真诚的；诚挚的；真实的",
+    "释义(英文)": "a. open and genuine; not deceitful"
+  },
+  {
+    "单词": "eventually",
+    "英音": "[ɪˈventʃuəli]",
+    "美音": "[ɪˈventʃuəli]",
+    "释义(中文)": "adv. 最后，终于",
+    "释义(英文)": "r after an unspecified period of time or an especially long delay"
+  },
+  {
+    "单词": "positive",
+    "英音": "[ˈpɒzətɪv]",
+    "美音": "[ˈpɑːzətɪv]",
+    "释义(中文)": "n. 正数；[摄] 正片\nadj. 积极的；[数] 正的，[医][化学] 阳性的；确定的，肯定的；实际的，真实的；绝对的",
+    "释义(英文)": "n. the primary form of an adjective or adverb; denotes a quality without qualification, comparison, or relation to increase or diminution\nn. a film showing a photographic image whose tones correspond to those of the original subject\na. characterized by or displaying affirmation or acceptance or certainty etc.\na. indicating existence or presence of a suspected condition or pathogen"
+  },
+  {
+    "单词": "cheat",
+    "英音": "[tʃiːt]",
+    "美音": "[tʃiːt]",
+    "释义(中文)": "n. 欺骗，作弊；骗子\nvt. 欺骗；骗取\nvi. 欺骗；作弊",
+    "释义(英文)": "n. a deception for profit to yourself\nv. deprive somebody of something by deceit\nv. defeat someone through trickery or deceit\nv. engage in deceitful behavior; practice trickery or fraud"
+  },
+  {
+    "单词": "chap",
+    "英音": "[tʃæp]",
+    "美音": "[tʃæp]",
+    "释义(中文)": "n. 小伙子；家伙；龟裂\nvt. 使皲裂\nvi. 皲裂\n",
+    "释义(英文)": "n. a boy or man\nn. a crack in a lip caused usually by cold\nn. (usually in the plural) leather leggings without a seat; joined by a belt; often have flared outer flaps; worn over trousers by cowboys to protect their legs\nv. crack due to dehydration"
+  },
+  {
+    "单词": "amidst",
+    "英音": "[əˈmɪdst]",
+    "美音": "[əˈmɪdst]",
+    "释义(中文)": "prep. 在…当中",
+    "释义(英文)": "prep. Alt. of Amid"
+  },
+  {
+    "单词": "prosperous",
+    "英音": "[ˈprɒspərəs]",
+    "美音": "[ˈprɑːspərəs]",
+    "释义(中文)": "adj. 繁荣的；兴旺的",
+    "释义(英文)": "s in fortunate circumstances financially; moderately rich\ns very lively and profitable\ns marked by peace and prosperity\ns presaging or likely to bring good luck"
+  },
+  {
+    "单词": "prosperity",
+    "英音": "[prɒˈsperəti]",
+    "美音": "[prɑːˈsperəti]",
+    "释义(中文)": "n. 繁荣，成功",
+    "释义(英文)": "n. an economic state of growth with rising profits and full employment\nn. the condition of prospering; having good fortune"
+  },
+  {
+    "单词": "pitiful",
+    "英音": "[ˈpɪtɪf(ə)l]",
+    "美音": "[ˈpɪtɪfl]",
+    "释义(中文)": "adj. 可怜的，令人同情的",
+    "释义(英文)": "s inspiring mixed contempt and pity\ns bad; unfortunate\ns deserving or inciting pity"
+  },
+  {
+    "单词": "benevolence",
+    "英音": "[bəˈnevələns]",
+    "美音": "[bəˈnevələns]",
+    "释义(中文)": "n. 仁慈；善行",
+    "释义(英文)": "n. disposition to do good\nn. an inclination to do kind or charitable acts\nn. an act intending or showing kindness and good will"
+  },
+  {
+    "单词": "benevolent",
+    "英音": "[bəˈnevələnt]",
+    "美音": "[bəˈnevələnt]",
+    "释义(中文)": "adj. 仁慈的；慈善的；亲切的",
+    "释义(英文)": "a. intending or showing kindness\ns. generous in providing aid to others"
+  },
+  {
+    "单词": "sting",
+    "英音": "[stɪŋ]",
+    "美音": "[stɪŋ]",
+    "释义(中文)": "n. 刺痛；讽刺，刺激；刺毛\nvt. 刺；驱使；使…苦恼；使…疼痛\nvi. 刺痛；被刺痛；感到剧痛\n",
+    "释义(英文)": "n. a kind of pain; something as sudden and painful as being stung\nn. a painful wound caused by the thrust of an insect's stinger into skin\nv. deliver a sting to\nv. cause an emotional pain, as if by stinging"
+  },
+  {
+    "单词": "wrinkle",
+    "英音": "[ˈrɪŋk(ə)l]",
+    "美音": "[ˈrɪŋkl]",
+    "释义(中文)": "n. 皱纹\nvi. 起皱\nvt. 使起皱纹",
+    "释义(英文)": "n. a slight depression in the smoothness of a surface\nn. a minor difficulty\nn. a clever method of doing something (especially something new and different)\nv. make wrinkles or creases on a smooth surface; make a pressed, folded or wrinkled line in"
+  },
+  {
+    "单词": "dignity",
+    "英音": "[ˈdɪɡnəti]",
+    "美音": "[ˈdɪɡnəti]",
+    "释义(中文)": "n. 尊严；高贵",
+    "释义(英文)": "n. the quality of being worthy of esteem or respect\nn. formality in bearing and appearance\nn. high office or rank or station"
+  },
+  {
+    "单词": "appearance",
+    "英音": "[əˈpɪərəns]",
+    "美音": "[əˈpɪrəns]",
+    "释义(中文)": "n. 外貌，外观；出现，露面",
+    "释义(英文)": "n. outward or visible aspect of a person or thing\nn. the event of coming into sight\nn. formal attendance (in court or at a hearing) of a party in an action\nn. a mental representation"
+  },
+  {
+    "单词": "worn",
+    "英音": "[wɔːn]",
+    "美音": "[wɔːrn]",
+    "释义(中文)": "v. 穿；磨损（wear的过去分词）；佩戴\nadj. 疲倦的；用旧的\n",
+    "释义(英文)": "a. affected by wear; damaged by long use"
+  },
+  {
+    "单词": "pocketbook",
+    "英音": "[ˈpɒkɪtbʊk]",
+    "美音": "[ˈpɑːkɪtbʊk]",
+    "释义(中文)": "n. 钱包；笔记本；经济来源；皮夹",
+    "释义(英文)": "n. your personal financial means\nn. pocket-sized paperback book"
+  },
+  {
+    "单词": "shilling",
+    "英音": "[ˈʃɪlɪŋ]",
+    "美音": "[ˈʃɪlɪŋ]",
+    "释义(中文)": "n. 先令\n",
+    "释义(英文)": "n. an English coin worth one twentieth of a pound"
+  },
+  {
+    "单词": "unsay",
+    "英音": "[ʌnˈseɪ]",
+    "美音": "[ʌnˈseɪ]",
+    "释义(中文)": "vt. 撤回，收回；取消",
+    "释义(英文)": "v take back what one has said"
+  },
+  {
+    "单词": "tactless",
+    "英音": "[ˈtæktləs]",
+    "美音": "[ˈtæktləs]",
+    "释义(中文)": "adj. 不机智的；不老练的；笨拙的",
+    "释义(英文)": "a. lacking or showing a lack of what is fitting and considerate in dealing with others"
+  },
+  {
+    "单词": "lay out",
+    "英音": "[leɪ aʊt]",
+    "美音": "[leɪ aʊt]",
+    "释义(中文)": "n. 布局；设计；规划；安排\n",
+    "释义(英文)": "n. a plan or design of something that is laid out\nn. the act of laying out (as by making plans for something)"
+  },
+  {
+    "单词": "in a row",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 成一排；连续\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "to sb.'s taste",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "take advantage of",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 乘；利用；欺骗；引诱(女人)\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "and what's more",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 更重要的是；而且啊；更何况",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "all right",
+    "英音": "[ˌɔːl ˈraɪt]",
+    "美音": "[ɔːl raɪt]",
+    "释义(中文)": "adj. 可接受（的）；满意（的）；安全健康（的）；平安无恙（的）\nint. 是不是；（表示同意）好；没什么；（引起注意）哎\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "break off",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "v. 断绝；摘；把…折断；使脱落\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "come down",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 败落；退步；(飞机的)下降\n",
+    "释义(英文)": "n. decline to a lower status or level"
+  },
+  {
+    "单词": "come down in the world",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 没落\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "out of place",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 不得其所的；不适当的；不相称的；碍事的\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "do sb. a favor",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 帮忙；帮一个忙；做好事",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "do sb. a favour",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 帮忙；帮个忙；帮助某人",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "mistake ... for",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "v. 把…错认\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "pull out",
+    "英音": "[ˈpʊl aʊt]",
+    "美音": "[ˈpʊl aʊt]",
+    "释义(中文)": "na. 拔(牙等)；把船划出；(车,船等)开出；(人)出发\n",
+    "释义(英文)": "n to break off a military action with an enemy"
+  },
+  {
+    "单词": "count out",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 一面数一面取出；一面数一面分开；除开\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "long for",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "v. 渴望\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "automatic",
+    "英音": "[ˌɔːtəˈmætɪk]",
+    "美音": "[ˌɔːtəˈmætɪk]",
+    "释义(中文)": "n. 自动机械；自动手枪\nadj. 自动的；无意识的；必然的",
+    "释义(英文)": "a. operating with minimal human intervention; independent of external control\ns. resembling the unthinking functioning of a machine\ns. without volition or conscious control"
+  },
+  {
+    "单词": "arise",
+    "英音": "[əˈraɪz]",
+    "美音": "[əˈraɪz]",
+    "释义(中文)": "vi. 出现；上升；起立\n",
+    "释义(英文)": "v. originate or come into being\nv. rise to one's feet\nv. result or issue"
+  },
+  {
+    "单词": "impatient",
+    "英音": "[ɪmˈpeɪʃ(ə)nt]",
+    "美音": "[ɪmˈpeɪʃnt]",
+    "释义(中文)": "adj. 焦躁的；不耐心的",
+    "释义(英文)": "a. restless or short-tempered under delay or opposition\ns. (usually followed by `to') full of eagerness"
+  },
+  {
+    "单词": "response",
+    "英音": "[rɪˈspɒns]",
+    "美音": "[rɪˈspɑːns]",
+    "释义(中文)": "n. 响应；反应；回答",
+    "释义(英文)": "n. a result\nn. a phrase recited or sung by the congregation following a versicle by the priest or minister\nn. the manner in which an electrical or mechanical device responds to an input signal or a range of input signals"
+  },
+  {
+    "单词": "contrast",
+    "英音": "[ˈkɒntrɑːst]",
+    "美音": "[ˈkɑːntræst]",
+    "释义(中文)": "n. 对比；差别；对照物\nvt. 使对比；使与…对照\nvi. 对比；形成对照",
+    "释义(英文)": "n. the opposition or dissimilarity of things that are compared\nn. the act of distinguishing by comparing differences\nn. the perceptual effect of the juxtaposition of very different colors\nn. the range of optical density and tone on a photographic negative or print (or the extent to which adjacent areas on a television screen differ in brightness)"
+  },
+  {
+    "单词": "faded",
+    "英音": "[ˈfeɪdɪd]",
+    "美音": "[ˈfeɪdɪd]",
+    "释义(中文)": "adj. 已褪色的；已凋谢的",
+    "释义(英文)": "v become less clearly visible or distinguishable; disappear gradually or seemingly\nv lose freshness, vigor, or vitality\nv disappear gradually\nv become feeble\ns having lost freshness or brilliance of color\ns reduced in strength"
+  },
+  {
+    "单词": "sweater",
+    "英音": "[ˈswetə(r)]",
+    "美音": "[ˈswetər]",
+    "释义(中文)": "n. 毛线衣，运动衫；大量出汗的人，发汗剂",
+    "释义(英文)": "n. a crocheted or knitted garment covering the upper part of the body"
+  },
+  {
+    "单词": "expose",
+    "英音": "[ɪkˈspəʊz]",
+    "美音": "[ɪkˈspoʊz]",
+    "释义(中文)": "vt. 揭露，揭发；使曝光；显示",
+    "释义(英文)": "n. the exposure of an impostor or a fraud\nv. expose or make accessible to some action or influence\nv. to show, make visible or apparent\nv. expose to light, of photographic film"
+  },
+  {
+    "单词": "stocking",
+    "英音": "[ˈstɒkɪŋ]",
+    "美音": "[ˈstɑːkɪŋ]",
+    "释义(中文)": "n. 长袜\n",
+    "释义(英文)": "n. close-fitting hosiery to cover the foot and leg; come in matched pairs (usually used in the plural)\nn. the activity of supplying a stock of something"
+  },
+  {
+    "单词": "intensity",
+    "英音": "[ɪnˈtensəti]",
+    "美音": "[ɪnˈtensəti]",
+    "释义(中文)": "n. 强度；强烈；[电子] 亮度；紧张",
+    "释义(英文)": "n. the amount of energy transmitted (as by acoustic or electromagnetic radiation)\nn. high level or degree; the property of being intense"
+  },
+  {
+    "单词": "label",
+    "英音": "[ˈleɪb(ə)l]",
+    "美音": "[ˈleɪbl]",
+    "释义(中文)": "vt. 标注；贴标签于\nn. 标签；商标；签条\n",
+    "释义(英文)": "n. a brief description given for purposes of identification\nn. trade name of a company that produces musical recordings\nn. a radioactive isotope that is used in a compound in order to trace the mechanism of a chemical reaction\nn. an identifying or descriptive marker that is attached to an object"
+  },
+  {
+    "单词": "layer",
+    "英音": "[ˈleɪə(r)]",
+    "美音": "[ˈleɪər]",
+    "释义(中文)": "n. 层，层次；膜；[植]压条；放置者，计划者\nvt. 把…分层堆放；借助压条法；生根繁殖；将（头发）剪成不同层次\nvi. 形成或分成层次；[植]通过压条法而生根",
+    "释义(英文)": "n. single thickness of usually some homogeneous substance\nn. a relatively thin sheetlike expanse or region lying over or under another\nn. a hen that lays eggs\nn. thin structure composed of a single thickness of cells"
+  },
+  {
+    "单词": "stale",
+    "英音": "[steɪl]",
+    "美音": "[steɪl]",
+    "释义(中文)": "n. 尿\nadj. 陈腐的；不新鲜的\nvt. 使变旧；变得不新鲜\nvi. 变陈旧；撒尿；变得不新鲜\n",
+    "释义(英文)": "v. urinate, of cattle and horses\na. lacking freshness, palatability, or showing deterioration from age"
+  },
+  {
+    "单词": "entertain",
+    "英音": "[ˌentəˈteɪn]",
+    "美音": "[ˌentərˈteɪn]",
+    "释义(中文)": "vt. 娱乐；招待；怀抱；容纳\nvi. 款待",
+    "释义(英文)": "v. provide entertainment for\nv. take into consideration, have in view"
+  },
+  {
+    "单词": "loyalty",
+    "英音": "[ˈlɔɪəlti]",
+    "美音": "[ˈlɔɪəlti]",
+    "释义(中文)": "n. 忠诚；忠心；忠实；忠于…感情",
+    "释义(英文)": "n. the quality of being loyal\nn. feelings of allegiance"
+  },
+  {
+    "单词": "respond",
+    "英音": "[rɪˈspɒnd]",
+    "美音": "[rɪˈspɑːnd]",
+    "释义(中文)": "n. 应答；唱和\nvi. 回答；作出反应；承担责任\nvt. 以…回答",
+    "释义(英文)": "v. respond favorably or as hoped"
+  },
+  {
+    "单词": "collapse",
+    "英音": "[kəˈlæps]",
+    "美音": "[kəˈlæps]",
+    "释义(中文)": "n. 倒塌；失败；衰竭\nvt. 使倒塌，使崩溃；使萎陷；折叠\nvi. 倒塌；瓦解；暴跌",
+    "释义(英文)": "n. an abrupt failure of function or complete physical exhaustion\nn. a natural event caused by something suddenly falling down or caving in\nv. break down, literally or metaphorically\nv. fold or close up"
+  },
+  {
+    "单词": "image",
+    "英音": "[ˈɪmɪdʒ]",
+    "美音": "[ˈɪmɪdʒ]",
+    "释义(中文)": "n. 影像；想象；肖像；偶像\nvt. 想象；反映；象征；作…的像\n",
+    "释义(英文)": "n. an iconic mental representation\nn. (mathematics) the set of values of the dependent variable for which a function is defined\nn. the general impression that something (a person or organization or product) presents to the public\nv. render visible, as by means of MRI"
+  },
+  {
+    "单词": "desperate",
+    "英音": "[ˈdespərət]",
+    "美音": "[ˈdespərət]",
+    "释义(中文)": "adj. 不顾一切的；令人绝望的；极度渴望的",
+    "释义(英文)": "n. a person who is frightened and in need of help\ns. desperately determined\ns. (of persons) dangerously reckless or violent as from urgency or despair\ns. showing extreme courage; especially of actions courageously undertaken in desperation as a last resort"
+  },
+  {
+    "单词": "robot",
+    "英音": "[ˈrəʊbɒt]",
+    "美音": "[ˈroʊbɑːt]",
+    "释义(中文)": "n. 机器人；遥控设备，自动机械；机械般工作的人",
+    "释义(英文)": "n a mechanism that can move automatically"
+  },
+  {
+    "单词": "instinct",
+    "英音": "[ˈɪnstɪŋkt]",
+    "美音": "[ˈɪnstɪŋkt]",
+    "释义(中文)": "n. 本能，直觉；天性\nadj. 充满着的",
+    "释义(英文)": "n. inborn pattern of behavior often responsive to specific stimuli\ns. (followed by `with')deeply filled or permeated"
+  },
+  {
+    "单词": "magician",
+    "英音": "[məˈdʒɪʃn]",
+    "美音": "[məˈdʒɪʃn]",
+    "释义(中文)": "n. 魔术师，变戏法的人",
+    "释义(英文)": "n. someone who performs magic tricks to amuse an audience"
+  },
+  {
+    "单词": "magic",
+    "英音": "[ˈmædʒɪk]",
+    "美音": "[ˈmædʒɪk]",
+    "释义(中文)": "n. 巫术；魔法；戏法\nadj. 不可思议的；有魔力的；魔术的\n",
+    "释义(英文)": "n. any art that invokes supernatural powers"
+  },
+  {
+    "单词": "stretch",
+    "英音": "[stretʃ]",
+    "美音": "[stretʃ]",
+    "释义(中文)": "vt. 伸展,张开；（大量地）使用，消耗（金钱，时间）；使竭尽所能；使全力以赴；\nn. 伸展，延伸\nvi. 伸展；足够买（或支付）",
+    "释义(英文)": "n. a large and unbroken expanse or distance\nn. a straightaway section of a racetrack\nn. exercise designed to extend the limbs and muscles to their full extent\nn. extension to or beyond the ordinary limit"
+  },
+  {
+    "单词": "approach",
+    "英音": "[əˈprəʊtʃ]",
+    "美音": "[əˈproʊtʃ]",
+    "释义(中文)": "n. 方法；途径；接近\nvt. 接近；着手处理\nvi. 靠近",
+    "释义(英文)": "n. ideas or actions intended to deal with a problem or situation\nn. the act of drawing spatially closer to something\nn. the event of one object coming closer to another\nn. the temporal property of becoming nearer in time"
+  },
+  {
+    "单词": "community",
+    "英音": "[kəˈmjuːnəti]",
+    "美音": "[kəˈmjuːnəti]",
+    "释义(中文)": "n. 社区；[生态] 群落；共同体；团体",
+    "释义(英文)": "n. a group of people living in a particular local area\nn. common ownership\nn. a group of nations having common interests\nn. agreement as to goals"
+  },
+  {
+    "单词": "hallway",
+    "英音": "[ˈhɔːlweɪ]",
+    "美音": "[ˈhɔːlweɪ]",
+    "释义(中文)": "n. 走廊；门厅；玄关",
+    "释义(英文)": "n. an interior passage or corridor onto which rooms open"
+  },
+  {
+    "单词": "balloon",
+    "英音": "[bəˈluːn]",
+    "美音": "[bəˈluːn]",
+    "释义(中文)": "n. 气球\nadj. 像气球般鼓起的\nvt. 使像气球般鼓起；使激增\nvi. 激增；膨胀如气球\n",
+    "释义(英文)": "n. large tough nonrigid bag filled with gas or heated air\nn. small thin inflatable rubber bag with narrow neck\nv. ride in a hot-air balloon\nv. become inflated"
+  },
+  {
+    "单词": "instantly",
+    "英音": "[ˈɪnstəntli]",
+    "美音": "[ˈɪnstəntli]",
+    "释义(中文)": "conj. 一…就…\nadv. 立即地；马上地；即刻地",
+    "释义(英文)": "r without delay or hesitation; with no time intervening\nr without any delay"
+  },
+  {
+    "单词": "instant",
+    "英音": "[ˈɪnstənt]",
+    "美音": "[ˈɪnstənt]",
+    "释义(中文)": "n. 瞬间；立即；片刻\nadj. 立即的；紧急的；紧迫的",
+    "释义(英文)": "s. in or of the present month"
+  },
+  {
+    "单词": "second-hand",
+    "英音": "[ˌsekənd ˈhænd]",
+    "美音": "[ˈsekənd hænd]",
+    "释义(中文)": "adj. 旧的，二手的\nadv. 间接地，第二手地",
+    "释义(英文)": "s. derived from what is primary or original; not firsthand\ns. previously used or owned by another\nr. by indirect means"
+  },
+  {
+    "单词": "somehow",
+    "英音": "[ˈsʌmhaʊ]",
+    "美音": "[ˈsʌmhaʊ]",
+    "释义(中文)": "adv. 以某种方法；莫名其妙地",
+    "释义(英文)": "r. in some unspecified way or manner; or by some unspecified means\nr. for some unspecified reason;"
+  },
+  {
+    "单词": "scrape",
+    "英音": "[skreɪp]",
+    "美音": "[skreɪp]",
+    "释义(中文)": "n. 刮掉；擦痕；困境；刮擦声\nvt. 刮；擦伤；挖成\nvi. 刮掉；刮出刺耳声",
+    "释义(英文)": "n. a harsh noise made by scraping\nn. a deep bow with the foot drawn backwards (indicating excessive humility)\nv. scratch repeatedly\nv. make by scraping"
+  },
+  {
+    "单词": "payment",
+    "英音": "[ˈpeɪmənt]",
+    "美音": "[ˈpeɪmənt]",
+    "释义(中文)": "n. 付款，支付；报酬，报答；偿还；惩罚，报应",
+    "释义(英文)": "n. a sum of money paid or a claim discharged\nn. the act of paying money"
+  },
+  {
+    "单词": "down payment",
+    "英音": "[ˌdaʊn ˈpeɪmənt]",
+    "美音": "[ˌdaʊn ˈpeɪmənt]",
+    "释义(中文)": "n. （分期付款的）首期付款；预付金；订金\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "sicken",
+    "英音": "[ˈsɪkən]",
+    "美音": "[ˈsɪkən]",
+    "释义(中文)": "vt. 使患病；使恶心；使嫌恶\nvi. 生病；变厌腻",
+    "释义(英文)": "v. get sick\nv. upset and make nauseated\nv. make sick or ill"
+  },
+  {
+    "单词": "rob",
+    "英音": "[rɒb]",
+    "美音": "[rɑːb]",
+    "释义(中文)": "vt. 抢劫；使…丧失；非法剥夺\nvi. 抢劫；掠夺",
+    "释义(英文)": "v. take something away by force or without the consent of the owner"
+  },
+  {
+    "单词": "astonish",
+    "英音": "[əˈstɒnɪʃ]",
+    "美音": "[əˈstɑːnɪʃ]",
+    "释义(中文)": "vt. 使惊讶",
+    "释义(英文)": "v affect with wonder"
+  },
+  {
+    "单词": "absolutely",
+    "英音": "[ˈæbsəluːtli]",
+    "美音": "[ˈæbsəluːtli]",
+    "释义(中文)": "adv. 绝对地；完全地",
+    "释义(英文)": "r. completely and without qualification; used informally as intensifiers\nr. totally and definitely; without question"
+  },
+  {
+    "单词": "absolute",
+    "英音": "[ˈæbsəluːt]",
+    "美音": "[ˈæbsəluːt]",
+    "释义(中文)": "n. 绝对；绝对事物\nadj. 绝对的；完全的；专制的",
+    "释义(英文)": "n. something that is conceived or that exists independently and not in relation to other things; something that does not depend on anything else and is beyond human control; something that is not relative\na. perfect or complete or pure\ns. complete and without restriction or qualification; sometimes used informally as intensifiers\ns. not limited by law"
+  },
+  {
+    "单词": "reveal",
+    "英音": "[rɪˈviːl]",
+    "美音": "[rɪˈviːl]",
+    "释义(中文)": "n. 揭露；暴露；门侧，窗侧\nvt. 显示；透露；揭露；泄露",
+    "释义(英文)": "v. disclose directly or through prophets"
+  },
+  {
+    "单词": "slight",
+    "英音": "[slaɪt]",
+    "美音": "[slaɪt]",
+    "释义(中文)": "n. 怠慢；轻蔑\nadj. 轻微的，少量的；脆弱的；细长的；不重要的\nvt. 轻视，忽略；怠慢",
+    "释义(英文)": "v. pay no attention to, disrespect"
+  },
+  {
+    "单词": "hint",
+    "英音": "[hɪnt]",
+    "美音": "[hɪnt]",
+    "释义(中文)": "n. 暗示；线索\nvt. 暗示；示意\nvi. 示意\n",
+    "释义(英文)": "n. an indirect suggestion\nn. a slight indication\nv. drop a hint; intimate by a hint"
+  },
+  {
+    "单词": "avoid",
+    "英音": "[əˈvɔɪd]",
+    "美音": "[əˈvɔɪd]",
+    "释义(中文)": "vt. 避免；避开，躲避；消除",
+    "释义(英文)": "v. stay clear from; keep away from; keep out of the way of someone or something\nv. refrain from doing something"
+  },
+  {
+    "单词": "deny",
+    "英音": "[dɪˈnaɪ]",
+    "美音": "[dɪˈnaɪ]",
+    "释义(中文)": "vi. 否认；拒绝\nvt. 否定，否认；拒绝给予；拒绝…的要求",
+    "释义(英文)": "v. declare untrue; contradict\nv. refuse to accept or believe\nv. refuse to grant, as of a petition or request\nv. refuse to let have"
+  },
+  {
+    "单词": "privacy",
+    "英音": "[ˈprɪvəsi]",
+    "美音": "[ˈpraɪvəsi]",
+    "释义(中文)": "n. 隐私；秘密；隐居；隐居处",
+    "释义(英文)": "n. the quality of being secluded from the presence or view of others\nn. the condition of being concealed or hidden"
+  },
+  {
+    "单词": "private",
+    "英音": "[ˈpraɪvət]",
+    "美音": "[ˈpraɪvət]",
+    "释义(中文)": "n. 列兵；二等兵\nadj. 私人的；私有的；私下的",
+    "释义(英文)": "n. an enlisted man of the lowest rank in the Army or Marines\na. confined to particular persons or groups or providing privacy\ns. concerning things deeply private and personal"
+  },
+  {
+    "单词": "compose",
+    "英音": "[kəmˈpəʊz]",
+    "美音": "[kəmˈpoʊz]",
+    "释义(中文)": "vt. 构成；写作；使平静；排…的版\nvi. 组成；作曲；排字",
+    "释义(英文)": "v. form the substance of\nv. write music\nv. put together out of existing material\nv. calm (someone, especially oneself); make quiet"
+  },
+  {
+    "单词": "exclamation",
+    "英音": "[ˌekskləˈmeɪʃ(ə)n]",
+    "美音": "[ˌekskləˈmeɪʃn]",
+    "释义(中文)": "n. 感叹；惊叫；惊叹词",
+    "释义(英文)": "n. an abrupt excited utterance\nn. a loud complaint or protest or reproach"
+  },
+  {
+    "单词": "wow",
+    "英音": "[waʊ]",
+    "美音": "[waʊ]",
+    "释义(中文)": "n. 极大的成功；一鸣惊人之举；魔兽世界(World of Warcraft)；失真\nint. （表示极大的惊奇或钦佩）哇，呀",
+    "释义(英文)": "v. impress greatly"
+  },
+  {
+    "单词": "lucky",
+    "英音": "[ˈlʌki]",
+    "美音": "[ˈlʌki]",
+    "释义(中文)": "adj. 幸运的；侥幸的",
+    "释义(英文)": "s. occurring by chance\na. having or bringing good fortune"
+  },
+  {
+    "单词": "talent",
+    "英音": "[ˈtælənt]",
+    "美音": "[ˈtælənt]",
+    "释义(中文)": "n. 才能；天才；天资",
+    "释义(英文)": "n. a person who possesses unusual innate ability in some field or activity"
+  },
+  {
+    "单词": "critical",
+    "英音": "[ˈkrɪtɪk(ə)l]",
+    "美音": "[ˈkrɪtɪkl]",
+    "释义(中文)": "adj. 鉴定的；[核] 临界的；批评的，爱挑剔的；危险的；决定性的；评论的",
+    "释义(英文)": "a. marked by a tendency to find and call attention to errors and flaws\na. at or of a point at which a property or phenomenon suffers an abrupt change especially having enough mass to sustain a chain reaction\na. characterized by careful evaluation and judgment\ns. urgently needed; absolutely necessary"
+  },
+  {
+    "单词": "spontaneously",
+    "英音": "[spɒnˈteɪniəsli]",
+    "美音": "[spɑːnˈteɪniəsli]",
+    "释义(中文)": "adv. 自发地；自然地；不由自主地",
+    "释义(英文)": "r. in a spontaneous manner"
+  },
+  {
+    "单词": "spontaneous",
+    "英音": "[spɒnˈteɪniəs]",
+    "美音": "[spɑːnˈteɪniəs]",
+    "释义(中文)": "adj. 自发的；自然的；无意识的",
+    "释义(英文)": "a. happening or arising without apparent external cause"
+  },
+  {
+    "单词": "gratitude",
+    "英音": "[ˈɡrætɪtjuːd]",
+    "美音": "[ˈɡrætɪtuːd]",
+    "释义(中文)": "n. 感谢（的心情）；感激",
+    "释义(英文)": "n. a feeling of thankfulness and appreciation"
+  },
+  {
+    "单词": "cue",
+    "英音": "[kjuː]",
+    "美音": "[kjuː]",
+    "释义(中文)": "n. 提示，暗示；线索\nvt. 给…暗示\n",
+    "释义(英文)": "n. an actor's line that immediately precedes and serves as a reminder for some action or speech\nn. sports implement consisting of a tapering rod used to strike a cue ball in pool or billiards"
+  },
+  {
+    "单词": "hand-held",
+    "英音": "[ˈhænd ˌheld]",
+    "美音": "[ˈhænd ˌheld]",
+    "释义(中文)": "adj. 手提式的，便携式的",
+    "释义(英文)": "a small and light enough to be operated while you hold it in your hands"
+  },
+  {
+    "单词": "mirror",
+    "英音": "[ˈmɪrə(r)]",
+    "美音": "[ˈmɪrər]",
+    "释义(中文)": "n. 镜子；真实的写照；榜样\nvt. 反射；反映",
+    "释义(英文)": "n. polished surface that forms images by reflecting light\nn. a faithful depiction or reflection\nv. reflect as if in a mirror\nv. reflect or resemble"
+  },
+  {
+    "单词": "range",
+    "英音": "[reɪndʒ]",
+    "美音": "[reɪndʒ]",
+    "释义(中文)": "n. 范围；幅度；排；山脉\nvt. 漫游；放牧；使并列；归类于；来回走动\nvi. （在...内）变动；平行，列为一行；延伸；漫游；射程达到",
+    "释义(英文)": "n. the limits within which something can be effective\nn. a large tract of grassy open land on which livestock can graze\nn. a series of hills or mountains\nn. a place for shooting (firing or driving) projectiles of various kinds"
+  },
+  {
+    "单词": "slap",
+    "英音": "[slæp]",
+    "美音": "[slæp]",
+    "释义(中文)": "n. 掴；侮辱；掌击；拍打声\nvt. 拍击；侮辱；掌击；掴…的耳光\nvi. 掴；拍击\nadv. 直接地；猛然地；恰好",
+    "释义(英文)": "n. a blow from a flat object (as an open hand)\nv. hit with something flat, like a paddle or the open hand"
+  },
+  {
+    "单词": "jaw",
+    "英音": "[dʒɔː]",
+    "美音": "[dʒɔː]",
+    "释义(中文)": "n. 颌；下巴；狭窄入口；唠叨\nvt. 教训；对…唠叨\nvi. 教训；唠叨\n",
+    "释义(英文)": "n. the part of the skull of a vertebrate that frames the mouth and holds the teeth\nn. the bones of the skull that frame the mouth and serve to open it; the bones that hold the teeth\nn. holding device consisting of one or both of the opposing parts of a tool that close to hold an object"
+  },
+  {
+    "单词": "ear-to-ear",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "合不拢嘴\n咧着嘴",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "grin",
+    "英音": "[ɡrɪn]",
+    "美音": "[ɡrɪn]",
+    "释义(中文)": "n. 露齿笑\nv. 露齿而笑，咧着嘴笑\n",
+    "释义(英文)": "v. to draw back the lips and reveal the teeth, in a smile, grimace, or snarl"
+  },
+  {
+    "单词": "expose",
+    "英音": "[ɪkˈspəʊz]",
+    "美音": "[ɪkˈspoʊz]",
+    "释义(中文)": "vt. 揭露，揭发；使曝光；显示",
+    "释义(英文)": "n. the exposure of an impostor or a fraud\nv. expose or make accessible to some action or influence\nv. to show, make visible or apparent\nv. expose to light, of photographic film"
+  },
+  {
+    "单词": "hug",
+    "英音": "[hʌɡ]",
+    "美音": "[hʌɡ]",
+    "释义(中文)": "n. 拥抱；紧抱；固执\nvi. 拥抱；紧抱在一起；挤在一起\nvt. 拥抱；紧抱；抱有，坚持\n",
+    "释义(英文)": "n. a tight or amorous embrace\nv. fit closely or tightly"
+  },
+  {
+    "单词": "acquire",
+    "英音": "[əˈkwaɪə(r)]",
+    "美音": "[əˈkwaɪər]",
+    "释义(中文)": "vt. 获得；取得；学到；捕获",
+    "释义(英文)": "v. locate (a moving entity) by means of a tracking system such as radar\nv. win something through one's efforts"
+  },
+  {
+    "单词": "confidence",
+    "英音": "[ˈkɒnfɪdəns]",
+    "美音": "[ˈkɑːnfɪdəns]",
+    "释义(中文)": "n. 信心；信任；秘密\nadj. （美）诈骗的；骗得信任的",
+    "释义(英文)": "n. a feeling of trust (in someone or something)\nn. a state of confident hopefulness that events will be favorable\nn. a trustful relationship\nn. a secret that is confided or entrusted to another"
+  },
+  {
+    "单词": "naturally",
+    "英音": "[ˈnætʃ(ə)rəli]",
+    "美音": "[ˈnætʃrəli]",
+    "释义(中文)": "adv. 自然地\n自然而然地\n轻而易举\n天生地\n大方地",
+    "释义(英文)": "r. as might be expected\nr. according to nature; by natural means; without artificial help\nr. through inherent nature\nr. in a natural or normal manner"
+  },
+  {
+    "单词": "tone",
+    "英音": "[təʊn]",
+    "美音": "[toʊn]",
+    "释义(中文)": "n. 语气；色调；音调；音色\nvt. 增强；用某种调子说\nvi. 颜色调和；呈现悦目色调\n",
+    "释义(英文)": "n. the quality of a person's voice\nn. (linguistics) a pitch or change in pitch of the voice that serves to distinguish words in tonal languages\nn. a steady sound without overtones\nn. a musical interval of two semitones"
+  },
+  {
+    "单词": "indicate",
+    "英音": "[ˈɪndɪkeɪt]",
+    "美音": "[ˈɪndɪkeɪt]",
+    "释义(中文)": "vt. 表明；指出；预示；象征",
+    "释义(英文)": "v. indicate a place, direction, person, or thing; either spatially or figuratively\nv. to state or express briefly\nv. suggest the necessity of an intervention; in medicine"
+  },
+  {
+    "单词": "indication",
+    "英音": "[ˌɪndɪˈkeɪʃn]",
+    "美音": "[ˌɪndɪˈkeɪʃn]",
+    "释义(中文)": "n. 指示，指出；迹象；象征",
+    "释义(英文)": "n. something that serves to indicate or suggest\nn. the act of indicating or pointing out by name\nn. (medicine) a reason to prescribe a drug or perform a procedure\nn. something (as a course of action) that is indicated as expedient or necessary"
+  },
+  {
+    "单词": "wrap",
+    "英音": "[ræp]",
+    "美音": "[ræp]",
+    "释义(中文)": "n. 外套；围巾\nvt. 包；缠绕；隐藏；掩护\nvi. 包起来；缠绕；穿外衣",
+    "释义(英文)": "n. cloak that is folded or wrapped around a person\nn. a sandwich in which the filling is rolled up in a soft tortilla\nv. arrange or fold as a cover or protection\nv. crash into so as to coil around"
+  },
+  {
+    "单词": "doll",
+    "英音": "[dɒl]",
+    "美音": "[dɑːl]",
+    "释义(中文)": "n. 洋娃娃；玩偶；无头脑的美丽女人\nvt. 把…打扮得花枝招展\n",
+    "释义(英文)": "n. a small replica of a person; used as a toy"
+  },
+  {
+    "单词": "buddy",
+    "英音": "[ˈbʌdi]",
+    "美音": "[ˈbʌdi]",
+    "释义(中文)": "n. 伙伴，好朋友；密友；小男孩\nvi. 做好朋友，交朋友\n",
+    "释义(英文)": "n. a close friend who accompanies his buddies in their activities"
+  },
+  {
+    "单词": "necktie",
+    "英音": "[ˈnektaɪ]",
+    "美音": "[ˈnektaɪ]",
+    "释义(中文)": "n. 领带",
+    "释义(英文)": "n. neckwear consisting of a long narrow piece of material worn (mostly by men) under a collar and tied in knot at the front"
+  },
+  {
+    "单词": "halfhearted",
+    "英音": "[ˌhɑːf ˈhɑːtɪd]",
+    "美音": "[ˌhæfˈhɑːrtɪd]",
+    "释义(中文)": "adj. 不认真的；不热心的；无兴趣的",
+    "释义(英文)": "s. feeling or showing little interest or enthusiasm"
+  },
+  {
+    "单词": "snap",
+    "英音": "[snæp]",
+    "美音": "[snæp]",
+    "释义(中文)": "n. 猛咬；劈啪声；突然折断\nadj. 突然的\nvt. 突然折断，拉断；猛咬；啪地关上\nvi. 咬；厉声说；咯嗒一声关上",
+    "释义(英文)": "n. a spell of cold weather\nn. the noise produced by the rapid movement of a finger from the tip to the base of the thumb on the same hand\nn. a sudden breaking\nn. a fastener used on clothing; fastens with a snapping sound"
+  },
+  {
+    "单词": "snap one's fingers",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 的一声弹指用响；赶快；打响指",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "two-wheeler",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "挂车\n两轮挂车",
+    "释义(英文)": "a. of or relating to vehicles with two wheels"
+  },
+  {
+    "单词": "breed",
+    "英音": "[briːd]",
+    "美音": "[briːd]",
+    "释义(中文)": "n. [生物] 品种；种类，类型\nvt. 繁殖；饲养；养育，教育；引起\nvi. 繁殖；饲养；产生\n",
+    "释义(英文)": "n. a special variety of domesticated animals within a species\nn. a special type\nv. copulate with a female, used especially of horses\nv. cause to procreate (animals)"
+  },
+  {
+    "单词": "startle",
+    "英音": "[ˈstɑːt(ə)l]",
+    "美音": "[ˈstɑːrtl]",
+    "释义(中文)": "n. 惊愕；惊恐\nvt. 使吓一跳；使惊奇\nvi. 惊吓；惊跳；惊奇",
+    "释义(英文)": "n. a sudden involuntary movement\nv. to stimulate to action\nv. move or jump suddenly, as if in surprise or alarm"
+  },
+  {
+    "单词": "in search of",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 寻找；去找；追求；为了寻求\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "something like",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 约；有点像…的；〔口语〕了不起的；几乎\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "scrape together",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 一点一点地贮蓄；设法凑拢\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "rob of",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "v. 抢走\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "rob sb. of sth.",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "v. 抢走\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "come upon",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 碰到；忽然想到；突袭；要求\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "think over",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "v. 仔细考虑\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "come true",
+    "英音": "[kʌm truː]",
+    "美音": "[kʌm truː]",
+    "释义(中文)": "na. (预言等)成事实；实现；(作物)不变种地发芽生长\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "on cue",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 恰好在这个时候；恰好在这时候；就在这个时候",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "hug oneself",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "使沾沾自喜, 使深自庆幸",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "do well by",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 对…很好",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "hold back",
+    "英音": "['həuldbæk]",
+    "美音": "['həuldbæk]",
+    "释义(中文)": "na. 阻止；踌躇；隐瞒；抑制\n",
+    "释义(英文)": "n. Check; hindrance; restraint; obstacle.\nn. The projection or loop on the thill of a vehicle. to\n   which a strap of the harness is attached, to hold back a carriage when\n   going down hill, or in backing; also, the strap or part of the harness\n   so used."
+  },
+  {
+    "单词": "Christian",
+    "英音": "[ˈkrɪstʃən]",
+    "美音": "['krɪstʃən]",
+    "释义(中文)": "n. 基督徒，信徒\nadj. 基督教的；信基督教的",
+    "释义(英文)": "n. a religious person who believes Jesus is the Christ and who is a member of a Christian denomination\na. relating to or characteristic of Christianity\na. following the teachings or manifesting the qualities or spirit of Jesus Christ"
+  },
+  {
+    "单词": "festival",
+    "英音": "[ˈfestɪv(ə)l]",
+    "美音": "[ˈfestɪvl]",
+    "释义(中文)": "n. 节日；庆祝，纪念活动；欢乐\nadj. 节日的，喜庆的；快乐的",
+    "释义(英文)": "n. a day or period of time set aside for feasting and celebration\nn. an organized series of acts and performances (usually in one place)"
+  },
+  {
+    "单词": "religious",
+    "英音": "[rɪˈlɪdʒəs]",
+    "美音": "[rɪˈlɪdʒəs]",
+    "释义(中文)": "n. 修道士；尼姑\nadj. 宗教的；虔诚的；严谨的；修道的",
+    "释义(英文)": "n. a member of a religious order who is bound by vows of poverty and chastity and obedience\ns. concerned with sacred matters or religion or the church\na. having or showing belief in and reverence for a deity\na. of or relating to clergy bound by monastic vows"
+  },
+  {
+    "单词": "decorate",
+    "英音": "[ˈdekəreɪt]",
+    "美音": "[ˈdekəreɪt]",
+    "释义(中文)": "vt. 装饰；布置；授勋给\nvi. 装饰；布置",
+    "释义(英文)": "v. make more attractive by adding ornament, colour, etc.\nv. award a mark of honor, such as a medal, to"
+  },
+  {
+    "单词": "sack",
+    "英音": "[sæk]",
+    "美音": "[sæk]",
+    "释义(中文)": "n. 麻布袋；洗劫\nvt. 解雇；把……装入袋；劫掠\n",
+    "释义(英文)": "n. a bag made of paper or plastic for holding customer's purchases\nn. the quantity contained in a sack\nn. any of various light dry strong white wine from Spain and Canary Islands (including sherry)\nn. a woman's full loose hiplength jacket"
+  },
+  {
+    "单词": "pillow-case",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "开口式枕套；无边式枕套",
+    "释义(英文)": "n bed linen consisting of a cover for a pillow"
+  },
+  {
+    "单词": "glimpse",
+    "英音": "[ɡlɪmps]",
+    "美音": "[ɡlɪmps]",
+    "释义(中文)": "n. 一瞥，一看\nvt. 瞥见\nvi. 瞥见",
+    "释义(英文)": "n. a brief or incomplete view\nn. a vague indication\nv. catch a glimpse of or see briefly"
+  },
+  {
+    "单词": "creep",
+    "英音": "[kriːp]",
+    "美音": "[kriːp]",
+    "释义(中文)": "n. 爬行；毛骨悚然的感觉；谄媚者\nvi. 爬行；蔓延；慢慢地移动；起鸡皮疙瘩",
+    "释义(英文)": "n. someone unpleasantly strange or eccentric\nn. a slow longitudinal movement or deformation\nn. a pen that is fenced so that young animals can enter but adults cannot\nv. grow or spread, often in such a way as to cover (a surface)"
+  },
+  {
+    "单词": "salad",
+    "英音": "[ˈsæləd]",
+    "美音": "[ˈsæləd]",
+    "释义(中文)": "n. 色拉；尤指莴苣\n",
+    "释义(英文)": "n. food mixtures either arranged on a plate or tossed and served with a moist dressing; usually consisting of or including greens"
+  },
+  {
+    "单词": "feature",
+    "英音": "[ˈfiːtʃə(r)]",
+    "美音": "[ˈfiːtʃər]",
+    "释义(中文)": "n. 特色，特征；容貌；特写或专题节目\nvt. 特写；以…为特色；由…主演\nvi. 起重要作用",
+    "释义(英文)": "n. a prominent attribute or aspect of something\nn. the characteristic parts of a person's face: eyes and nose and mouth and chin\nn. the principal (full-length) film in a program at a movie theater\nn. a special or prominent article in a newspaper or magazine"
+  },
+  {
+    "单词": "dessert",
+    "英音": "[dɪˈzɜːt]",
+    "美音": "[dɪˈzɜːrt]",
+    "释义(中文)": "n. 餐后甜点；甜点心\n",
+    "释义(英文)": "n. a dish served as the last course of a meal"
+  },
+  {
+    "单词": "ice-cream",
+    "英音": "[ˈaɪs kriːm]",
+    "美音": "[ˈaɪs kriːm]",
+    "释义(中文)": "a. 冰淇淋的, 乳白色的",
+    "释义(英文)": "n frozen dessert containing cream and sugar and flavoring"
+  },
+  {
+    "单词": "log",
+    "英音": "[lɒɡ]",
+    "美音": "[lɔːɡ]",
+    "释义(中文)": "vi. 伐木\nvt. 切；伐木；航行\nn. 记录；航行日志；原木",
+    "释义(英文)": "n. a segment of the trunk of a tree when stripped of branches\nn. a written record of messages sent or received\nn. a written record of events on a voyage (of a ship or plane)\nn. measuring instrument that consists of a float that trails from a ship by a knotted line in order to measure the ship's speed through the water"
+  },
+  {
+    "单词": "leap",
+    "英音": "[liːp]",
+    "美音": "[liːp]",
+    "释义(中文)": "vi. 跳，跳跃\nn. 飞跃；跳跃\nvt. 跳跃，跳过；使跃过\n",
+    "释义(英文)": "n. a light, self-propelled movement upwards or forwards\nn. an abrupt transition\nn. the distance leaped (or to be leaped)\nv. pass abruptly from one state or topic to another"
+  },
+  {
+    "单词": "beast",
+    "英音": "[biːst]",
+    "美音": "[biːst]",
+    "释义(中文)": "n. 野兽；畜生，人面兽心的人",
+    "释义(英文)": "n. a cruelly rapacious person"
+  },
+  {
+    "单词": "humorous",
+    "英音": "[ˈhjuːmərəs]",
+    "美音": "[ˈhjuːmərəs]",
+    "释义(中文)": "adj. 诙谐的，幽默的；滑稽的，可笑的",
+    "释义(英文)": "a. full of or characterized by humor"
+  },
+  {
+    "单词": "humor",
+    "英音": "[ˈhjuːmə(r)]",
+    "美音": "[ˈhjuːmər]",
+    "释义(中文)": "n. 幽默，诙谐；心情\nvt. 迎合，迁就；顺应",
+    "释义(英文)": "n. the trait of appreciating (and being able to express) the humorous\nn. the quality of being funny\nn. (Middle Ages) one of the four fluids in the body whose balance was believed to determine your emotional and physical state"
+  },
+  {
+    "单词": "essay",
+    "英音": "[ˈeseɪ]",
+    "美音": "[ˈeseɪ]",
+    "释义(中文)": "n. 散文；试图；随笔\nvt. 尝试；对…做试验",
+    "释义(英文)": "n. an analytic or interpretive literary composition\nn. a tentative attempt"
+  },
+  {
+    "单词": "excitement",
+    "英音": "[ɪkˈsaɪtmənt]",
+    "美音": "[ɪkˈsaɪtmənt]",
+    "释义(中文)": "n. 兴奋；刺激；令人兴奋的事物",
+    "释义(英文)": "n. the state of being emotionally aroused and worked up"
+  },
+  {
+    "单词": "planet",
+    "英音": "[ˈplænɪt]",
+    "美音": "[ˈplænɪt]",
+    "释义(中文)": "n. 行星\n",
+    "释义(英文)": "n. (astronomy) any of the nine large celestial bodies in the solar system that revolve around the sun and shine by reflected light; Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, and Pluto in order of their proximity to the sun; viewed from the constellation Hercules, all the planets rotate around the sun in a counterclockwise direction\nn. any celestial body (other than comets or satellites) that revolves around a star"
+  },
+  {
+    "单词": "Venusian",
+    "英音": "[vi'nju:siən]",
+    "美音": "[vi'nju:siən]",
+    "释义(中文)": "adj. 金星的，太白星的",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "satellite",
+    "英音": "[ˈsætəlaɪt]",
+    "美音": "[ˈsætəlaɪt]",
+    "释义(中文)": "n. 卫星；人造卫星；随从；卫星国家",
+    "释义(英文)": "n. man-made equipment that orbits around the earth or the moon\nn. a person who follows or serves another\nn. any celestial body orbiting around a planet or star\nv. broadcast or disseminate via satellite"
+  },
+  {
+    "单词": "signal",
+    "英音": "[ˈsɪɡnəl]",
+    "美音": "[ˈsɪɡnəl]",
+    "释义(中文)": "n. 信号；暗号；导火线\nadj. 显著的；作为信号的\nvt. 标志；用信号通知；表示\nvi. 发信号\n",
+    "释义(英文)": "n. any nonverbal action or gesture that encodes a message\nn. any incitement to action\nn. an electric quantity (voltage or current or field strength) whose modulation represents coded information about the source from which it comes\ns. notably out of the ordinary"
+  },
+  {
+    "单词": "astronomer",
+    "英音": "[əˈstrɒnəmə(r)]",
+    "美音": "[əˈstrɑːnəmər]",
+    "释义(中文)": "n. 天文学家",
+    "释义(英文)": "n. a physicist who studies astronomy"
+  },
+  {
+    "单词": "telescope",
+    "英音": "[ˈtelɪskəʊp]",
+    "美音": "[ˈtelɪskoʊp]",
+    "释义(中文)": "n. 望远镜；缩叠式旅行袋\nvi. 套叠；变短\nvt. 压缩；使套叠",
+    "释义(英文)": "n. a magnifier of images of distant objects\nv. crush together or collapse\nv. make smaller or shorter"
+  },
+  {
+    "单词": "extremely",
+    "英音": "[ɪkˈstriːmli]",
+    "美音": "[ɪkˈstriːmli]",
+    "释义(中文)": "adv. 非常，极其；极端地",
+    "释义(英文)": "r. to an extreme degree"
+  },
+  {
+    "单词": "extreme",
+    "英音": "[ɪkˈstriːm]",
+    "美音": "[ɪkˈstriːm]",
+    "释义(中文)": "n. 极端；末端；最大程度；极端的事物\nadj. 极端的；极度的；偏激的；尽头的",
+    "释义(英文)": "n. the furthest or highest degree of something\ns. of the greatest possible degree or extent or intensity\ns. far beyond a norm in quantity or amount or degree; to an utmost degree\ns. beyond a norm in views or actions"
+  },
+  {
+    "单词": "feasibility",
+    "英音": "[ˌfiːzəˈbɪləti]",
+    "美音": "[ˌfiːzəˈbɪləti]",
+    "释义(中文)": "n. 可行性；可能性",
+    "释义(英文)": "n. the quality of being doable"
+  },
+  {
+    "单词": "feasible",
+    "英音": "[ˈfiːzəb(ə)l]",
+    "美音": "[ˈfiːzəbl]",
+    "释义(中文)": "adj. 可行的；可能的；可实行的",
+    "释义(英文)": "s. capable of being done with means at hand and circumstances as they are"
+  },
+  {
+    "单词": "manned",
+    "英音": "[mænd]",
+    "美音": "[mænd]",
+    "释义(中文)": "adj. 有人驾驶的；有人操纵的；配备齐船员的\nv. 给…配备人员（man的过去分词）",
+    "释义(英文)": "a. having a crew"
+  },
+  {
+    "单词": "saucer",
+    "英音": "[ˈsɔːsə(r)]",
+    "美音": "[ˈsɔːsər]",
+    "释义(中文)": "n. 茶托，浅碟；浅碟形物；眼睛",
+    "释义(英文)": "n. a small shallow dish for holding a cup at the table"
+  },
+  {
+    "单词": "flying saucer",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 飞碟\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "conference",
+    "英音": "[ˈkɒnfərəns]",
+    "美音": "[ˈkɑːnfərəns]",
+    "释义(中文)": "n. 会议；讨论；协商；联盟；（正式）讨论会；[工会、工党用语]（每年的）大会\nvi. 举行或参加（系列）会议",
+    "释义(英文)": "n. a prearranged meeting for consultation or exchange of information or discussion (especially one with a formal agenda)\nn. a discussion among participants who have an agreed (serious) topic"
+  },
+  {
+    "单词": "press conference",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. 新闻发布会；记者招待会\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "institute",
+    "英音": "[ˈɪnstɪtjuːt]",
+    "美音": "[ˈɪnstɪtuːt]",
+    "释义(中文)": "n. 学会，协会；学院\nvt. 开始（调查）；制定；创立；提起（诉讼）",
+    "释义(英文)": "n. an association organized to promote art or science or education\nv. advance or set forth in court"
+  },
+  {
+    "单词": "technology",
+    "英音": "[tekˈnɒlədʒi]",
+    "美音": "[tekˈnɑːlədʒi]",
+    "释义(中文)": "n. 技术；工艺；术语",
+    "释义(英文)": "n. the practical application of science to commerce or industry"
+  },
+  {
+    "单词": "conclusion",
+    "英音": "[kənˈkluːʒn]",
+    "美音": "[kənˈkluːʒn]",
+    "释义(中文)": "n. 结论；结局；推论",
+    "释义(英文)": "n. an intuitive assumption\nn. the proposition arrived at by logical reasoning (such as the proposition that must follow from the major and minor premises of a syllogism)\nn. a final settlement\nn. the last section of a communication"
+  },
+  {
+    "单词": "conclude",
+    "英音": "[kənˈkluːd]",
+    "美音": "[kənˈkluːd]",
+    "释义(中文)": "vi. 推断；断定；决定\nvt. 推断；决定，作结论；结束",
+    "释义(英文)": "v. bring to a close\nv. reach a conclusion after a discussion or deliberation\nv. come to a close\nv. reach agreement on"
+  },
+  {
+    "单词": "reporter",
+    "英音": "[rɪˈpɔːtə(r)]",
+    "美音": "[rɪˈpɔːrtər]",
+    "释义(中文)": "n. 记者",
+    "释义(英文)": "n. a person who investigates and reports or edits news stories"
+  },
+  {
+    "单词": "concrete",
+    "英音": "[ˈkɒŋkriːt]",
+    "美音": "[ˈkɑːnkriːt]",
+    "释义(中文)": "n. 具体物；凝结物\nadj. 混凝土的；实在的，具体的；有形的\nvt. 使凝固；用混凝土修筑\nvi. 凝结",
+    "释义(英文)": "n. a strong hard building material composed of sand and gravel and cement and water\nv. cover with cement\nv. form into a solid mass; coalesce\na. capable of being perceived by the senses; not abstract or imaginary"
+  },
+  {
+    "单词": "atmosphere",
+    "英音": "[ˈætməsfɪə(r)]",
+    "美音": "[ˈætməsfɪr]",
+    "释义(中文)": "n. 气氛；大气；空气",
+    "释义(英文)": "n. a particular environment or surrounding influence\nn. the mass of air surrounding the Earth\nn. the weather or climate at some place\nn. the envelope of gases surrounding any celestial body"
+  },
+  {
+    "单词": "carbon",
+    "英音": "[ˈkɑːbən]",
+    "美音": "[ˈkɑːrbən]",
+    "释义(中文)": "n. [化学] 碳；碳棒；复写纸\nadj. 碳的；碳处理的\n",
+    "释义(英文)": "n. an abundant nonmetallic tetravalent element occurring in three allotropic forms: amorphous carbon and graphite and diamond; occurs in all organic compounds\nn. a copy made with carbon paper"
+  },
+  {
+    "单词": "monoxide",
+    "英音": "[məˈnɒksaɪd]",
+    "美音": "[məˈnɑːksaɪd]",
+    "释义(中文)": "n. [无化] 一氧化物",
+    "释义(英文)": "n. an oxide containing just one atom of oxygen in the molecule"
+  },
+  {
+    "单词": "deadly",
+    "英音": "[ˈdedli]",
+    "美音": "[ˈdedli]",
+    "释义(中文)": "adj. 致命的；非常的；死一般的\nadv. 非常；如死一般地",
+    "释义(英文)": "s. causing or capable of causing death\ns. of an instrument of certain death\ns. extremely poisonous or injurious; producing venom\ns. involving loss of divine grace or spiritual death"
+  },
+  {
+    "单词": "gas",
+    "英音": "[ɡæs]",
+    "美音": "[ɡæs]",
+    "释义(中文)": "n. 气体；[矿业] 瓦斯；汽油；毒气\nvt. 加油；毒（死）\nvi. 加油；放出气体；空谈\n",
+    "释义(英文)": "n. the state of matter distinguished from the solid and liquid states by: relatively low density and viscosity; relatively great expansion and contraction with changes in pressure and temperature; the ability to diffuse readily; and the spontaneous tendency to become distributed uniformly throughout any container\nn. a fluid in the gaseous state having neither independent shape nor volume and being able to expand indefinitely\nv. attack with gas; subject to gas fumes"
+  },
+  {
+    "单词": "survive",
+    "英音": "[səˈvaɪv]",
+    "美音": "[sərˈvaɪv]",
+    "释义(中文)": "vi. 幸存；活下来\nvt. 幸存；生还；幸免于；比...活得长",
+    "释义(英文)": "v. continue to live through hardship or adversity\nv. continue in existence after (an adversity, etc.)"
+  },
+  {
+    "单词": "survival",
+    "英音": "[səˈvaɪv(ə)l]",
+    "美音": "[sərˈvaɪvl]",
+    "释义(中文)": "n. 幸存，残存；幸存者，残存物",
+    "释义(英文)": "n. a state of surviving; remaining alive\nn. a natural process resulting in the evolution of organisms best adapted to the environment\nn. something that survives"
+  },
+  {
+    "单词": "concern",
+    "英音": "[kənˈsɜː(r)n]",
+    "美音": "[kənˈsɜːrn]",
+    "释义(中文)": "n. 关系；关心；关心的事；忧虑\nvt. 涉及，关系到；使担心",
+    "释义(英文)": "n. something that interests you because it is important or affects you\nn. an anxious feeling\nn. a feeling of sympathy for someone or something\nn. something or someone that causes anxiety; a source of unhappiness"
+  },
+  {
+    "单词": "oxygen",
+    "英音": "[ˈɒksɪdʒən]",
+    "美音": "[ˈɑːksɪdʒən]",
+    "释义(中文)": "n. [化学] 氧气，[化学] 氧",
+    "释义(英文)": "n. a nonmetallic bivalent element that is normally a colorless odorless tasteless nonflammable diatomic gas; constitutes 21 percent of the atmosphere by volume; the most abundant element in the earth's crust"
+  },
+  {
+    "单词": "originally",
+    "英音": "[əˈrɪdʒənəli]",
+    "美音": "[əˈrɪdʒənəli]",
+    "释义(中文)": "adv. 最初，起初；本来",
+    "释义(英文)": "r. in an original manner"
+  },
+  {
+    "单词": "original",
+    "英音": "[əˈrɪdʒən(ə)l]",
+    "美音": "[əˈrɪdʒənl]",
+    "释义(中文)": "n. 原件；原作；原物；原型\nadj. 原始的；最初的；独创的；新颖的",
+    "释义(英文)": "n. something that serves as a model or a basis for making copies\ns. preceding all others in time or being as first made or performed\ns. (of e.g. information) not secondhand or by way of something intermediary\na. being or productive of something fresh and unusual; or being as first made or thought of"
+  },
+  {
+    "单词": "hazard",
+    "英音": "[ˈhæzəd]",
+    "美音": "[ˈhæzərd]",
+    "释义(中文)": "n. 危险，冒险；冒险的事\nvt. 赌运气；冒…的危险，使遭受危险\n",
+    "释义(英文)": "n. a source of danger; a possibility of incurring loss or misfortune\nn. an obstacle on a golf course"
+  },
+  {
+    "单词": "hover",
+    "英音": "[ˈhɒvə(r)]",
+    "美音": "[ˈhʌvər]",
+    "释义(中文)": "n. 徘徊；盘旋；犹豫\nvi. 盘旋，翱翔；徘徊\nvt. 孵；徘徊在…近旁\n",
+    "释义(英文)": "v. be undecided about something; waver between conflicting positions or courses of action\nv. move to and fro\nv. hang in the air; fly or be suspended above"
+  },
+  {
+    "单词": "consolidated",
+    "英音": "[kənˈsɒlɪdeɪtɪd]",
+    "美音": "[kənˈsɑːlɪdeɪtɪd]",
+    "释义(中文)": "adj. 巩固的；统一的；整理过的\nv. 合并；巩固（consolidate的过去分词形式）；统一",
+    "释义(英文)": "s. forming a solid mass"
+  },
+  {
+    "单词": "consolidate",
+    "英音": "[kənˈsɒlɪdeɪt]",
+    "美音": "[kənˈsɑːlɪdeɪt]",
+    "释义(中文)": "vt. 巩固，使固定；联合\nvi. 巩固，加强",
+    "释义(英文)": "v. unite into one\nv. make firm or secure; strengthen\nv. bring together into a single whole or system\nv. form into a solid mass or whole"
+  },
+  {
+    "单词": "pollute",
+    "英音": "[pəˈluːt]",
+    "美音": "[pəˈluːt]",
+    "释义(中文)": "vt. 污染；玷污；败坏",
+    "释义(英文)": "v. make impure"
+  },
+  {
+    "单词": "pollution",
+    "英音": "[pəˈluːʃ(ə)n]",
+    "美音": "[pəˈluːʃn]",
+    "释义(中文)": "n. 污染\n污染物",
+    "释义(英文)": "n. undesirable state of the natural environment being contaminated with harmful substances as a consequence of human activities"
+  },
+  {
+    "单词": "unfit",
+    "英音": "[ʌnˈfɪt]",
+    "美音": "[ʌnˈfɪt]",
+    "释义(中文)": "adj. 不适宜的；不合格的；不健康的\nvt. 使不合格；使不相宜；使不胜任",
+    "释义(英文)": "a. below the required standards for a purpose\na. not in good physical or mental condition; out of condition"
+  },
+  {
+    "单词": "spot",
+    "英音": "[spɒt]",
+    "美音": "[spɑːt]",
+    "释义(中文)": "n. 地点；斑点\nadj. 现场的；现货买卖的\nvt. 认出；弄脏；用灯光照射\nvi. 沾上污渍；满是斑点\nadv. 准确地；恰好",
+    "释义(英文)": "n. a short section or illustration (as between radio or tv programs or in a magazine) that is often used for advertising\nn. a small contrasting part of something\nn. a section of an entertainment that is assigned to a specific performer or performance\nn. a business establishment for entertainment"
+  },
+  {
+    "单词": "particle",
+    "英音": "[ˈpɑːtɪk(ə)l]",
+    "美音": "[ˈpɑːrtɪkl]",
+    "释义(中文)": "n. 颗粒；[物] 质点；极小量；小品词",
+    "释义(英文)": "n. a body having finite mass and internal structure but negligible dimensions\nn. a function word that can be used in English to form phrasal verbs"
+  },
+  {
+    "单词": "emit",
+    "英音": "[iˈmɪt]",
+    "美音": "[iˈmɪt]",
+    "释义(中文)": "vt. 发出，放射；发行；发表",
+    "释义(英文)": "v. expel (gases or odors)\nv. give off, send forth, or discharge; as of light, heat, or radiation, vapor, etc."
+  },
+  {
+    "单词": "emission",
+    "英音": "[ɪˈmɪʃ(ə)n]",
+    "美音": "[ɪˈmɪʃn]",
+    "释义(中文)": "n. （光、热等的）发射，散发；喷射；发行\n",
+    "释义(英文)": "n. the act of emitting; causing to flow forth\nn. the release of electrons from parent atoms\nn. the occurrence of a flow of water (as from a pipe)"
+  },
+  {
+    "单词": "crash",
+    "英音": "[kræʃ]",
+    "美音": "[kræʃ]",
+    "释义(中文)": "n. 撞碎；坠毁；破产；轰隆声；睡觉\nvi. 摔碎；坠落；发出隆隆声；(金融企业等)破产\nvt. 打碎；使坠毁、撞坏；擅自闯入",
+    "释义(英文)": "n. a serious accident (usually involving one or more vehicles)\nn. a sudden large decline of business or the prices of stocks (especially one that causes additional failures)\nn. the act of colliding with something\nn. (computer science) an event that causes a computer system to become inoperative"
+  },
+  {
+    "单词": "smash",
+    "英音": "[smæʃ]",
+    "美音": "[smæʃ]",
+    "释义(中文)": "n. 破碎；扣球；冲突；大败\nvt. 粉碎；使破产；溃裂\nadj. 了不起的；非常轰动的；出色的\nvi. 粉碎；打碎",
+    "释义(英文)": "n. a serious collision (especially of motor vehicles)\nv. hit hard\nv. break into pieces, as by striking or knocking over\nv. hit violently"
+  },
+  {
+    "单词": "stalagmite",
+    "英音": "[ˈstæləɡmaɪt]",
+    "美音": "[stəˈlæɡmaɪt]",
+    "释义(中文)": "n. 石笋；石笋状",
+    "释义(英文)": "n. a cylinder of calcium carbonate projecting upward from the floor of a limestone cave"
+  },
+  {
+    "单词": "projection",
+    "英音": "[prəˈdʒekʃn]",
+    "美音": "[prəˈdʒekʃn]",
+    "释义(中文)": "n. 投射；规划；突出；发射；推测",
+    "释义(英文)": "n. a prediction made by extrapolating from past observations\nn. the projection of an image from a film onto a screen\nn. any structure that branches out from a central support\nn. any solid convex shape that juts out from something"
+  },
+  {
+    "单词": "project",
+    "英音": "[ˈprɒdʒekt]",
+    "美音": "[ˈprɑːdʒekt]",
+    "释义(中文)": "n. 工程；计划；事业\nvt. 设计；计划；发射；放映\nvi. 设计；计划；表达；投射",
+    "释义(英文)": "n. a planned undertaking\nv. communicate vividly\nv. transfer (ideas or principles) from one domain into another\nv. project on a screen"
+  },
+  {
+    "单词": "granite",
+    "英音": "[ˈɡrænɪt]",
+    "美音": "[ˈɡrænɪt]",
+    "释义(中文)": "n. 花岗岩；坚毅；冷酷无情",
+    "释义(英文)": "n. plutonic igneous rock having visibly crystalline texture; generally composed of feldspar and mica and quartz\nn. something having the quality of granite (unyielding firmness)"
+  },
+  {
+    "单词": "formation",
+    "英音": "[fɔːˈmeɪʃn]",
+    "美音": "[fɔːrˈmeɪʃn]",
+    "释义(中文)": "n. 形成；构造；编队",
+    "释义(英文)": "n. an arrangement of people or things acting as a unit\nn. the act of fabricating something in a particular shape\nn. a particular spatial arrangement\nn. natural process that causes something to form"
+  },
+  {
+    "单词": "skyscraper",
+    "英音": "[ˈskaɪskreɪpə(r)]",
+    "美音": "[ˈskaɪskreɪpər]",
+    "释义(中文)": "n. 摩天楼，超高层大楼；特别高的东西",
+    "释义(英文)": "n. a very tall building with many stories"
+  },
+  {
+    "单词": "proceed",
+    "英音": "[prəˈsiːd]",
+    "美音": "[proʊˈsiːd]",
+    "释义(中文)": "vi. 开始；继续进行；发生；行进\nn. 收入，获利",
+    "释义(英文)": "v. move ahead; travel onward in time or space\nv. follow a certain course"
+  },
+  {
+    "单词": "fund",
+    "英音": "[fʌnd]",
+    "美音": "[fʌnd]",
+    "释义(中文)": "n. 基金；资金；存款\nvt. 投资；资助\n",
+    "释义(英文)": "n. a reserve of money set aside for some purpose\nv. convert (short-term floating debt) into long-term debt that bears fixed interest and is represented by bonds\nv. place or store up in a fund for accumulation\nv. provide a fund for the redemption of principal or payment of interest"
+  },
+  {
+    "单词": "billion",
+    "英音": "[ˈbɪljən]",
+    "美音": "[ˈbɪljən]",
+    "释义(中文)": "num. 十亿\nn. 十亿；大量\nadj. 十亿的\n",
+    "释义(英文)": "n. the number that is represented as a one followed by 12 zeros; in the United Kingdom the usage followed in the United States is frequently seen\nn. the number that is represented as a one followed by 9 zeros\ns. denoting a quantity consisting of one thousand million items or units in the United States\ns. denoting a quantity consisting of one million million items or units in Great Britain"
+  },
+  {
+    "单词": "zilch",
+    "英音": "[zɪltʃ]",
+    "美音": "[zɪltʃ]",
+    "释义(中文)": "n. 零，无；无价值之物；小人物\n",
+    "释义(英文)": "n a quantity of no importance"
+  },
+  {
+    "单词": "known as",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 被称为；被认为是；以…而闻名",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "be known as",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 通称\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "name after",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. name for 用(别人,别物的名字)命名\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "as to",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 〈正式〉至于；说到\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "base on",
+    "英音": "[beɪs ɒn]",
+    "美音": "[beɪs ɑːn]",
+    "释义(中文)": "v. 根据\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "base upon",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "使建立在…基础上",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "for one thing ...",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 第一〔表示列举〕；原因之一是\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "for one thing ... for another",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "be composed of",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 由…组成\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "as far as ... be concerned",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "就…来说, 就…而论",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "stick up",
+    "英音": "[ˈstɪk ʌp]",
+    "美音": "[ˈstɪk ʌp]",
+    "释义(中文)": "na. 突出；举起；抢劫\n",
+    "释义(英文)": "n robbery at gunpoint"
+  },
+  {
+    "单词": "give off",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 发散(水蒸气等)\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "set back",
+    "英音": "[set bæk]",
+    "美音": "[set bæk]",
+    "释义(中文)": "na. 阻碍；延迟；〈非正式〉花费\n",
+    "释义(英文)": "n. structure where a wall or building narrows abruptly"
+  },
+  {
+    "单词": "peculiar",
+    "英音": "[pɪˈkjuːliə(r)]",
+    "美音": "[pɪˈkjuːliər]",
+    "释义(中文)": "n. 特权；特有财产\nadj. 特殊的；独特的；奇怪的；罕见的",
+    "释义(英文)": "s. markedly different from the usual\ns. characteristic of one only; distinctive or special"
+  },
+  {
+    "单词": "definite",
+    "英音": "[ˈdefɪnət]",
+    "美音": "[ˈdefɪnət]",
+    "释义(中文)": "adj. 一定的；确切的",
+    "释义(英文)": "a. precise; explicit and clearly defined\ns. known for certain"
+  },
+  {
+    "单词": "tissue",
+    "英音": "[ˈtɪʃuː]",
+    "美音": "[ˈtɪʃuː]",
+    "释义(中文)": "n. 组织；纸巾；薄纱；一套\nvt. 饰以薄纱；用化妆纸揩去",
+    "释义(英文)": "n. part of an organism consisting of an aggregate of cells having a similar structure and function\nn. a soft thin (usually translucent) paper"
+  },
+  {
+    "单词": "crystal",
+    "英音": "[ˈkrɪst(ə)l]",
+    "美音": "[ˈkrɪstl]",
+    "释义(中文)": "n. 结晶，晶体；水晶；水晶饰品\nadj. 水晶的；透明的，清澈的\n",
+    "释义(英文)": "n. a solid formed by the solidification of a chemical and having a highly regular atomic structure\nn. a crystalline element used as a component in various electronic devices\nn. a rock formed by the solidification of a substance; has regularly repeating internal structure; external plane faces\nn. glassware made of quartz"
+  },
+  {
+    "单词": "tolerance",
+    "英音": "[ˈtɒlərəns]",
+    "美音": "[ˈtɑːlərəns]",
+    "释义(中文)": "n. 公差；宽容；容忍；公差",
+    "释义(英文)": "n. the power or capacity of an organism to tolerate unfavorable environmental conditions\nn. the act of tolerating something\nn. willingness to recognize and respect the beliefs or practices of others"
+  },
+  {
+    "单词": "slip",
+    "英音": "[slɪp]",
+    "美音": "[slɪp]",
+    "释义(中文)": "n. 滑，滑倒；片，纸片；错误；下跌；事故\nabbr. 串行线路接口协议，是旧式的协议（Serial Line Interface Protocol）\nadj. 滑动的；有活结的；活络的\nvt. 使滑动；滑过；摆脱；塞入；闪开\nvi. 滑动；滑倒；犯错；失足；减退\n",
+    "释义(英文)": "n. a minor inadvertent mistake usually observed in speech or writing or in small accidents or memory lapses etc.\nn. potter's clay that is thinned and used for coating or decorating ceramics\nn. a young and slender person\nn. an accidental misstep threatening (or causing) a fall"
+  },
+  {
+    "单词": "exhaust",
+    "英音": "[ɪɡˈzɔːst]",
+    "美音": "[ɪɡˈzɔːst]",
+    "释义(中文)": "n. 排气；废气；排气装置\nvt. 排出；耗尽；使精疲力尽；彻底探讨\nvi. 排气",
+    "释义(英文)": "n. gases ejected from an engine as waste products\nn. system consisting of the parts of an engine through which burned gases or steam are discharged\nv. wear out completely\nv. use up the whole supply of"
+  },
+  {
+    "单词": "mysterious",
+    "英音": "[mɪˈstɪəriəs]",
+    "美音": "[mɪˈstɪriəs]",
+    "释义(中文)": "adj. 神秘的；不可思议的；难解的",
+    "释义(英文)": "s. having an import not apparent to the senses nor obvious to the intelligence; beyond ordinary understanding"
+  },
+  {
+    "单词": "mystery",
+    "英音": "[ˈmɪstri]",
+    "美音": "[ˈmɪstəri]",
+    "释义(中文)": "n. 秘密，谜；神秘，神秘的事物；推理小说，推理剧；常作 mysteries 秘技，秘诀",
+    "释义(英文)": "n. something that baffles understanding and cannot be explained\nn. a story about a crime (usually murder) presented as a novel or play or movie"
+  },
+  {
+    "单词": "folklore",
+    "英音": "[ˈfəʊklɔː(r)]",
+    "美音": "[ˈfoʊklɔːr]",
+    "释义(中文)": "n. 民俗学；民间传说；民间风俗",
+    "释义(英文)": "n. the unwritten lore (stories and proverbs and riddles and songs) of a culture"
+  },
+  {
+    "单词": "reappear",
+    "英音": "[ˌriːəˈpɪə(r)]",
+    "美音": "[ˌriːəˈpɪr]",
+    "释义(中文)": "vi. 再出现",
+    "释义(英文)": "v. appear again"
+  },
+  {
+    "单词": "anew",
+    "英音": "[əˈnjuː]",
+    "美音": "[əˈnuː]",
+    "释义(中文)": "adv. 重新；再",
+    "释义(英文)": "r again but in a new or different way"
+  },
+  {
+    "单词": "sometime",
+    "英音": "[ˈsʌmtaɪm]",
+    "美音": "[ˈsʌmtaɪm]",
+    "释义(中文)": "adj. 以前的；某一时间的\nadv. 改天；来日；在某一时候",
+    "释义(英文)": "r. at some indefinite or unstated time"
+  },
+  {
+    "单词": "fort",
+    "英音": "[fɔːt]",
+    "美音": "[fɔːrt]",
+    "释义(中文)": "n. 堡垒；要塞；（美）边界贸易站\nvt. 设要塞保卫\nvi. 构筑要塞\n",
+    "释义(英文)": "v. gather in, or as if in, a fort, as for protection or defense\nv. station (troops) in a fort"
+  },
+  {
+    "单词": "tide",
+    "英音": "[taɪd]",
+    "美音": "[taɪd]",
+    "释义(中文)": "n. 趋势，潮流；潮汐\nvt. 随潮漂流",
+    "释义(英文)": "n. the periodic rise and fall of the sea level under the gravitational pull of the moon\nn. something that may increase or decrease (like the tides of the sea)\nn. there are usually two high and two low tides each day\nv. rise or move forward"
+  },
+  {
+    "单词": "vanish",
+    "英音": "[ˈvænɪʃ]",
+    "美音": "[ˈvænɪʃ]",
+    "释义(中文)": "n. 弱化音\nvi. 消失；突然不见；成为零\nvt. 使不见，使消失",
+    "释义(英文)": "v. become invisible or unnoticeable\nv. cease to exist\nv. decrease rapidly and disappear"
+  },
+  {
+    "单词": "ill-fitting",
+    "英音": "[ˌɪl ˈfɪtɪŋ]",
+    "美音": "[ˌɪl ˈfɪtɪŋ]",
+    "释义(中文)": "adj. 不合的",
+    "释义(英文)": "s not the right size or shape"
+  },
+  {
+    "单词": "dusty",
+    "英音": "[ˈdʌsti]",
+    "美音": "[ˈdʌsti]",
+    "释义(中文)": "adj. 落满灰尘的",
+    "释义(英文)": "s. covered with a layer of dust"
+  },
+  {
+    "单词": "mask",
+    "英音": "[mɑːsk]",
+    "美音": "[mæsk]",
+    "释义(中文)": "n. 面具；口罩；掩饰\nvi. 掩饰；戴面具；化装\nvt. 掩饰；戴面具；使模糊",
+    "释义(英文)": "n. a covering to disguise or conceal the face\nn. activity that tries to conceal something\nn. a protective covering worn over the face\nv. put a mask on or cover with a mask"
+  },
+  {
+    "单词": "chew",
+    "英音": "[tʃuː]",
+    "美音": "[tʃuː]",
+    "释义(中文)": "n. 咀嚼；咀嚼物\nvi. 细想，深思\nvt. 嚼碎，咀嚼\n",
+    "释义(英文)": "n. a wad of something chewable as tobacco\nn. biting and grinding food in your mouth so it becomes soft enough to swallow\nv. chew (food); to bite and grind with the teeth"
+  },
+  {
+    "单词": "root",
+    "英音": "[ruːt]",
+    "美音": "[ruːt]",
+    "释义(中文)": "n. 根；根源；词根；祖先\nvt. 生根，固定；根源在于\nvi. 生根；根除\n",
+    "释义(英文)": "n. (botany) the usually underground organ that lacks buds or leaves or nodes; absorbs water and mineral salts; usually it anchors the plant to the ground\nn. (linguistics) the form of a word after all affixes are removed\nn. a number that, when multiplied by itself some number of times, equals a given number\nn. the part of a tooth that is embedded in the jaw and serves as support"
+  },
+  {
+    "单词": "runaway",
+    "英音": "[ˈrʌnəweɪ]",
+    "美音": "[ˈrʌnəweɪ]",
+    "释义(中文)": "n. 逃跑；逃走的人\nadj. 逃亡的；逃走的",
+    "释义(英文)": "n. an easy victory\ns. completely out of control"
+  },
+  {
+    "单词": "brightly",
+    "英音": "[ˈbraɪtli]",
+    "美音": "[ˈbraɪtli]",
+    "释义(中文)": "adv. 明亮地；鲜明地；生辉地",
+    "释义(英文)": "r with brightness"
+  },
+  {
+    "单词": "swig",
+    "英音": "[swɪɡ]",
+    "美音": "[swɪɡ]",
+    "释义(中文)": "n. 痛饮，大喝；牛饮\nvt. 牛饮；大喝特喝，豪饮\nvi. 牛饮；大喝特喝",
+    "释义(英文)": "n a large and hurried swallow\nv strike heavily, especially with the fist or a bat\nv to swallow hurriedly or greedily or in one draught"
+  },
+  {
+    "单词": "retreat",
+    "英音": "[rɪˈtriːt]",
+    "美音": "[rɪˈtriːt]",
+    "释义(中文)": "n. 撤退；休息寓所；撤退\nvt. 退（棋）；使后退\nvi. 撤退；退避；向后倾",
+    "释义(英文)": "n. (military) withdrawal of troops to a more favorable position to escape the enemy's superior forces or after a defeat\nn. a place of privacy; a place affording peace and quiet\nn. (military) a signal to begin a withdrawal from a dangerous position\nn. (military) a bugle call signaling the lowering of the flag at sunset"
+  },
+  {
+    "单词": "chatter",
+    "英音": "[ˈtʃætə(r)]",
+    "美音": "[ˈtʃætər]",
+    "释义(中文)": "n. 唠叨；饶舌；（动物的）啁啾声；潺潺流水声\nvt. 喋喋不休地说；使卡嗒卡嗒作声\nvi. 唠叨；喋喋不休；（动物等）吱吱叫",
+    "释义(英文)": "n. the rapid series of noises made by the parts of a machine\nn. the high-pitched continuing noise made by animals (birds or monkeys)\nv. click repeatedly or uncontrollably\nv. cut unevenly with a chattering tool"
+  },
+  {
+    "单词": "painfully",
+    "英音": "[ˈpeɪnfəli]",
+    "美音": "[ˈpeɪnfəli]",
+    "释义(中文)": "adv. 痛苦地，费力地",
+    "释义(英文)": "r. unpleasantly\nr. in or as if in pain"
+  },
+  {
+    "单词": "painful",
+    "英音": "[ˈpeɪnf(ə)l]",
+    "美音": "[ˈpeɪnfl]",
+    "释义(中文)": "adj. 痛苦的；疼痛的；令人不快的",
+    "释义(英文)": "a. causing physical or psychological pain"
+  },
+  {
+    "单词": "jail",
+    "英音": "[dʒeɪl]",
+    "美音": "[dʒeɪl]",
+    "释义(中文)": "n. 监狱；监牢；拘留所\nvt. 监禁；下狱\n",
+    "释义(英文)": "n. a correctional institution used to detain persons who are in the lawful custody of the government (either accused persons awaiting trial or convicted persons serving a sentence)"
+  },
+  {
+    "单词": "guy",
+    "英音": "[ɡaɪ]",
+    "美音": "[ɡaɪ]",
+    "释义(中文)": "n. 男人，家伙\nvt. 嘲弄，取笑\nvi. 逃跑\n",
+    "释义(英文)": "n. an informal term for a youth or man\nn. an effigy of Guy Fawkes that is burned on a bonfire on Guy Fawkes Day\nn. a cable, wire, or rope that is used to brace something (especially a tent)\nv. steady or support with a guy wire or cable"
+  },
+  {
+    "单词": "yeah",
+    "英音": "[jeə]",
+    "美音": "[jeə]",
+    "释义(中文)": "adv. 是\nint. 是",
+    "释义(英文)": "r not only so, but"
+  },
+  {
+    "单词": "parole",
+    "英音": "[pəˈrəʊl]",
+    "美音": "[pəˈroʊl]",
+    "释义(中文)": "n. 语言；誓言，诺言；释放宣言\nvt. 有条件释放，假释；使假释出狱；宣誓后释放",
+    "释义(英文)": "n. a promise\nn. (law) a conditional release from imprisonment that entitles the person to serve the remainder of the sentence outside the prison as long as the terms of release are complied with\nv. release a criminal from detention and place him on parole"
+  },
+  {
+    "单词": "oak",
+    "英音": "[əʊk]",
+    "美音": "[oʊk]",
+    "释义(中文)": "n. 橡树；橡木色；橡木家具\nadj. 栎树的；栎木制的\n",
+    "释义(英文)": "n. the hard durable wood of any oak; used especially for furniture and flooring\nn. a deciduous tree of the genus Quercus; has acorns and lobed leaves"
+  },
+  {
+    "单词": "exclaim",
+    "英音": "[ɪkˈskleɪm]",
+    "美音": "[ɪkˈskleɪm]",
+    "释义(中文)": "vt. 大声说出\nvi. 呼喊，惊叫；大声叫嚷",
+    "释义(英文)": "v. utter aloud; often with surprise, horror, or joy"
+  },
+  {
+    "单词": "unformed",
+    "英音": "[ˌʌnˈfɔːmd]",
+    "美音": "[ˌʌnˈfɔːrmd]",
+    "释义(中文)": "adj. 未成形的；未充分发展的",
+    "释义(英文)": "a. not having form or shape\ns. not formed or organized"
+  },
+  {
+    "单词": "snapshot",
+    "英音": "[ˈsnæpʃɒt]",
+    "美音": "[ˈsnæpʃɑːt]",
+    "释义(中文)": "n. 快照，快相；急射，速射；简单印象\nvt. 给…拍快照\nvi. 拍快照",
+    "释义(英文)": "n. an informal photograph; usually made with a small hand-held camera"
+  },
+  {
+    "单词": "tighten",
+    "英音": "[ˈtaɪt(ə)n]",
+    "美音": "[ˈtaɪtn]",
+    "释义(中文)": "vt. 变紧；使变紧\nvi. 绷紧；变紧",
+    "释义(英文)": "v. make tight or tighter\nv. become tight or tighter"
+  },
+  {
+    "单词": "fortify",
+    "英音": "[ˈfɔːtɪfaɪ]",
+    "美音": "[ˈfɔːrtɪfaɪ]",
+    "释义(中文)": "vt. 加强；增强；（酒）的酒精含量；设防于\nvi. 筑防御工事",
+    "释义(英文)": "v. enclose by or as if by a fortification\nv. add nutrients to"
+  },
+  {
+    "单词": "stun",
+    "英音": "[stʌn]",
+    "美音": "[stʌn]",
+    "释义(中文)": "n. 昏迷；打昏；惊倒；令人惊叹的事物\nvt. 使震惊；打昏；给以深刻的印象",
+    "释义(英文)": "v. make senseless or dizzy by or as if by a blow\nv. overcome as with astonishment or disbelief"
+  },
+  {
+    "单词": "banner",
+    "英音": "[ˈbænə(r)]",
+    "美音": "[ˈbænər]",
+    "释义(中文)": "n. 横幅图片的广告模式\nn. 旗帜，横幅,标语\n",
+    "释义(英文)": "n. long strip of cloth or paper used for decoration or advertising\ns. unusually good; outstanding"
+  },
+  {
+    "单词": "billow",
+    "英音": "[ˈbɪləʊ]",
+    "美音": "[ˈbɪloʊ]",
+    "释义(中文)": "vt. 使翻腾\nvi. 翻腾\nn. 巨浪\n",
+    "释义(英文)": "n. a large sea wave\nv. rise up as if in waves\nv. move with great difficulty\nv. rise and move, as in waves or billows"
+  },
+  {
+    "单词": "con",
+    "英音": "[kɒn]",
+    "美音": "[kɑːn]",
+    "释义(中文)": "n. 反对票；反对论\nvt. 精读；默记\nadv. 反面地\nadj. 欺诈的\nprep. 以…\n",
+    "释义(英文)": "n. an argument opposed to a proposal\nr. in opposition to a proposition, opinion, etc."
+  },
+  {
+    "单词": "dream of",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "v. 梦想\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "pull into",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "un. 停车；进\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "come through",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 胜利；脱险；支付；捐献\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "take back",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 退回；收回(说过的话)；承认…是错的；拿回\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "be caught up in",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 对…特别感兴趣；被卷入；被卷入某事",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "take over",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 接管；继承\n",
+    "释义(英文)": "n. a change by sale or merger in the controlling interest of a corporation"
+  },
+  {
+    "单词": "make one's way",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 前往；发迹\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "exhaust",
+    "英音": "[ɪɡˈzɔːst]",
+    "美音": "[ɪɡˈzɔːst]",
+    "释义(中文)": "n. 排气；废气；排气装置\nvt. 排出；耗尽；使精疲力尽；彻底探讨\nvi. 排气",
+    "释义(英文)": "n. gases ejected from an engine as waste products\nn. system consisting of the parts of an engine through which burned gases or steam are discharged\nv. wear out completely\nv. use up the whole supply of"
+  },
+  {
+    "单词": "headquarters",
+    "英音": "[ˌhedˈkwɔːtəz]",
+    "美音": "[ˈhedkwɔːrtərz]",
+    "释义(中文)": "n. 总部；指挥部；司令部",
+    "释义(英文)": "n. (usually plural) the office that serves as the administrative center of an enterprise\nn. the military installation from which a commander performs the functions of command\nn. (plural) a military unit consisting of a commander and the headquarters staff"
+  },
+  {
+    "单词": "sympathy",
+    "英音": "[ˈsɪmpəθi]",
+    "美音": "[ˈsɪmpəθi]",
+    "释义(中文)": "n. 同情；慰问；赞同",
+    "释义(英文)": "n. an inclination to support or be loyal to or to agree with an opinion\nn. sharing the feelings of others (especially feelings of sorrow or anguish)\nn. a relation of affinity or harmony between people; whatever affects one correspondingly affects the other"
+  },
+  {
+    "单词": "harm",
+    "英音": "[hɑːm]",
+    "美音": "[hɑːrm]",
+    "释义(中文)": "n. 伤害；损害\nvt. 伤害；危害；损害\n",
+    "释义(英文)": "v. cause or do harm to"
+  },
+  {
+    "单词": "penetrate",
+    "英音": "[ˈpenətreɪt]",
+    "美音": "[ˈpenətreɪt]",
+    "释义(中文)": "vi. 渗透；刺入；看透\nvt. 渗透；穿透；洞察",
+    "释义(英文)": "v. pass into or through, often by overcoming resistance\nv. come to understand\nv. make one's way deeper into or through\nv. insert the penis into the vagina or anus of"
+  },
+  {
+    "单词": "ease",
+    "英音": "[iːz]",
+    "美音": "[iːz]",
+    "释义(中文)": "n. 轻松，舒适；安逸，悠闲\nvt. 减轻，缓和；使安心\nvi. 减轻，缓和；放松；灵活地移动",
+    "释义(英文)": "n. freedom from difficulty or hardship or effort\nn. a freedom from financial difficulty that promotes a comfortable state\nn. freedom from constraint or embarrassment\nv. move gently or carefully"
+  },
+  {
+    "单词": "sweat",
+    "英音": "[swet]",
+    "美音": "[swet]",
+    "释义(中文)": "n. 汗；水珠；焦急；苦差使\nvt. 使出汗；流出；使干苦活；剥削；藉出汗减轻；焦急地期待\nvi. 出汗；辛苦工作；懊恼；结水珠",
+    "释义(英文)": "n. condensation of moisture on a cold surface\nv. excrete perspiration through the pores in the skin"
+  },
+  {
+    "单词": "ridiculous",
+    "英音": "[rɪˈdɪkjələs]",
+    "美音": "[rɪˈdɪkjələs]",
+    "释义(中文)": "adj. 可笑的；荒谬的",
+    "释义(英文)": "s inspiring scornful pity\ns incongruous; inviting ridicule\ns broadly or extravagantly humorous; resembling farce"
+  },
+  {
+    "单词": "quit",
+    "英音": "[kwɪt]",
+    "美音": "[kwɪt]",
+    "释义(中文)": "n. 离开；[计] 退出\nvt. 离开；放弃；停止；使…解除\nadj. 摆脱了…的；已经了结的\nvi. 离开；辞职；停止\n",
+    "释义(英文)": "v put an end to a state or an activity\nv give up or retire from a position\nv go away or leave\nv turn away from; give up\nv give up in the face of defeat of lacking hope; admit defeat"
+  },
+  {
+    "单词": "puzzle",
+    "英音": "[ˈpʌzl]",
+    "美音": "[ˈpʌzl]",
+    "释义(中文)": "n. 谜；难题；迷惑\nvt. 使…困惑；使…为难；苦思而得出\nvi. 迷惑；冥思苦想",
+    "释义(英文)": "n. a particularly baffling problem that is said to have a correct solution\nn. a game that tests your ingenuity\nv. be uncertain about; think about without fully understanding or being able to decide"
+  },
+  {
+    "单词": "alarm",
+    "英音": "[əˈlɑːm]",
+    "美音": "[əˈlɑːrm]",
+    "释义(中文)": "n. 闹钟；警报，警告器；惊慌\nvt. 警告；使惊恐",
+    "释义(英文)": "n. fear resulting from the awareness of danger\nn. a device that signals the occurrence of some undesirable event\nn. an automatic signal (usually a sound) warning of danger\nv. warn or arouse to a sense of danger or call to a state of preparedness"
+  }
+]
