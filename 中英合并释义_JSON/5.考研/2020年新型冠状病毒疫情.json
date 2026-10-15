@@ -1,0 +1,457 @@
+[
+  {
+    "单词": "coronavirus",
+    "英音": "[kəˈrəʊnəvaɪrəs]",
+    "美音": "[kəˈroʊnəvaɪrəs]",
+    "释义(中文)": "n. 冠状病毒；日冕形病毒",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "novel coronavirus",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "2019-nCoV",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "reservoir for virus",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "pneumonia",
+    "英音": "[njuːˈməʊniə]",
+    "美音": "[nuːˈmoʊniə]",
+    "释义(中文)": "n. 肺炎",
+    "释义(英文)": "n. respiratory disease characterized by inflammation of the lung parenchyma (excluding the bronchi) with congestion caused by viruses or bacteria or irritants"
+  },
+  {
+    "单词": "novel coronavirus pneumonia",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "NCP",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "[计] 网络控制程序",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "contagious",
+    "英音": "[kənˈteɪdʒəs]",
+    "美音": "[kənˈteɪdʒəs]",
+    "释义(中文)": "adj. 感染性的；会蔓延的",
+    "释义(英文)": "s. easily diffused or spread as from one person to another"
+  },
+  {
+    "单词": "infectious",
+    "英音": "[ɪnˈfekʃəs]",
+    "美音": "[ɪnˈfekʃəs]",
+    "释义(中文)": "adj. 传染的；传染性的；易传染的",
+    "释义(英文)": "s. caused by infection or capable of causing infection\na. easily spread; children catch it from their elders\"- Bertrand Russell\na. of or relating to infection"
+  },
+  {
+    "单词": "outbreak",
+    "英音": "[ˈaʊtbreɪk]",
+    "美音": "[ˈaʊtbreɪk]",
+    "释义(中文)": "n. （战争的）爆发；（疾病的）发作\nvi. 爆发",
+    "释义(英文)": "n. a sudden violent spontaneous occurrence (usually of some undesirable condition)"
+  },
+  {
+    "单词": "human-to-human transmission",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "《英汉医学词典》human-to-human transmission\n人与人之间的传染",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "droplet transmission",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "飞沫传播",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "imported case",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "confirmed case",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "确认病例",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "suspected case",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "un. 可疑病例\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "secondary infection case",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "incubation period",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 孵化期，（接种后的微生物）保温培养期，发酵周期; 潜伏期; 潜育期",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "asymptomatic infection",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无症状感染",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "symptomless spreader",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "close contact",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "un. 紧密接触\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "patient in critical condition",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "fatality rate",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 致死率\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "death toll",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. （事故、战争、灾难等的）死亡人数\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "symptom",
+    "英音": "[ˈsɪmptəm]",
+    "美音": "[ˈsɪmptəm]",
+    "释义(中文)": "n. [临床] 症状；征兆",
+    "释义(英文)": "n. (medicine) any sensation or change in bodily function that is experienced by a patient and is associated with a particular disease\nn. anything that accompanies X and is regarded as an indication of X's existence"
+  },
+  {
+    "单词": "fever",
+    "英音": "[ˈfiːvə(r)]",
+    "美音": "[ˈfiːvər]",
+    "释义(中文)": "n. 发烧，发热；狂热\nvt. 使发烧；使狂热；使患热病\nvi. 发烧；狂热；患热病",
+    "释义(英文)": "n. a rise in the temperature of the body; frequently a symptom of infection\nn. intense nervous anticipation"
+  },
+  {
+    "单词": "dry cough",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "un. 干咳\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "shortness of breath",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 喘气\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "breathing difficulty",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "respiratory infection",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "un. 呼吸道传染\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "fever, cough and difficulty in breathing",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "acute respiratory infection symptom",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "seafood market",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "ground zero",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "n. （核弹的）爆心投影点\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "illegal wild animals transaction",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "contain the spread",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "contain the outbreak",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "combat the virus",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "first-level public health emergency response",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "epidemic prevention and control",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "Public Health Emergency of International Concern",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "PHEIC",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "makeshift hospital",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 临时医院",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "mobile cabin hospital",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "the lockdown of a city",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "a city is on lockdown",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "seal off the city",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "evacuate diplomats",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "be under medical observation",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "quarantine",
+    "英音": "[ˈkwɒrəntiːn]",
+    "美音": "[ˈkwɔːrəntiːn]",
+    "释义(中文)": "n. 检疫；隔离；检疫期；封锁\nvt. 检疫；隔离；使隔离\nvi. 实行隔离",
+    "释义(英文)": "n. enforced isolation of patients suffering from a contagious disease in order to prevent the spread of disease\nn. isolation to prevent the spread of infectious disease\nv. place into enforced isolation, as for medical reasons"
+  },
+  {
+    "单词": "medical supplies",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 医疗用品；医药用品；医用耗材",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "vaccine",
+    "英音": "[ˈvæksiːn]",
+    "美音": "[vækˈsiːn]",
+    "释义(中文)": "n. 疫苗；牛痘苗\nadj. 疫苗的；牛痘的",
+    "释义(英文)": "n. immunogen consisting of a suspension of weakened or dead pathogenic cells injected in order to stimulate the production of antibodies"
+  },
+  {
+    "单词": "cure",
+    "英音": "[kjʊə(r)]",
+    "美音": "[kjʊr]",
+    "释义(中文)": "n. 治疗；治愈；[临床] 疗法\nvt. 治疗；治愈；使硫化；加工处理\nvi. 治病；痊愈；受治疗；被硫化；被加工处理\n",
+    "释义(英文)": "v. prepare by drying, salting, or chemical processing in order to preserve\nv. make (substances) hard and improve their usability\nv. be or become preserved"
+  },
+  {
+    "单词": "mask",
+    "英音": "[mɑːsk]",
+    "美音": "[mæsk]",
+    "释义(中文)": "n. 面具；口罩；掩饰\nvi. 掩饰；戴面具；化装\nvt. 掩饰；戴面具；使模糊",
+    "释义(英文)": "n. a covering to disguise or conceal the face\nn. activity that tries to conceal something\nn. a protective covering worn over the face\nv. put a mask on or cover with a mask"
+  },
+  {
+    "单词": "face mask",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 面罩；面模\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "protective clothing",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "na. 防毒服\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "protective suits",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "goggles",
+    "英音": "[ˈɡɒɡ(ə)lz]",
+    "美音": "[ˈɡɑːɡlz]",
+    "释义(中文)": "n. [安全] 护目镜；防护眼镜；瞪视（goggle的复数）\nv. 瞪大眼睛看；转动眼珠（goggle的三单形式）",
+    "释义(英文)": "n. tight-fitting spectacles worn to protect the eyes"
+  },
+  {
+    "单词": "disposable gloves",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " 一次性手套；用后可弃手套；抛弃式手套",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "National Health Commission",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "NHC",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": " [医][=national health council]全国卫生理事会，全国卫生协会",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "World Health Organization",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "un. 世界卫生组织\n",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "WHO",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "pron. 谁；什么人",
+    "释义(英文)": "n a United Nations agency to coordinate international health activities and to help governments improve health services"
+  },
+  {
+    "单词": "Chinese Center for Disease Control and Prevention",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "《英汉医学词典》Chinese Center for Disease Control and Prevention\n中国疾病预防控制中心",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "National Healthcare Security Administration",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "无",
+    "释义(英文)": "none"
+  },
+  {
+    "单词": "medical institution",
+    "英音": "",
+    "美音": "",
+    "释义(中文)": "un. 医疗机构\n",
+    "释义(英文)": "none"
+  }
+]
