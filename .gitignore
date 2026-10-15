@@ -1,0 +1,27 @@
+# Intermediate raw data folders (only upload JSON vocabulary as requested)
+中文释义/
+英文释义/
+中英合并释义/
+中/
+英语/
+中英合并/
+test_sample.json
+convert_to_json.py
+merge_processor.py
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# Temp files
+*.tmp
+*.pdf
+*.zip
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
