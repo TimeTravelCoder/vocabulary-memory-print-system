@@ -1,0 +1,170 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>单词工具回归测试</title>
+<h1>单词工具回归测试</h1>
+<pre id="results">运行中…</pre>
+<div id="fixture" hidden></div>
+<script src="../workbench.js"></script>
+<script>
+(async () => {
+  const storageKeys = ['vocab_workbench_settings_v1', 'vocab_review_v1', 'vocab_presets_v1'];
+  const originalStorage = Object.fromEntries(storageKeys.map(key => [key, localStorage.getItem(key)]));
+  const lines = [];
+  let failures = 0;
+  const check = (name, condition) => {
+    lines.push((condition ? 'PASS ' : 'FAIL ') + name);
+    if (!condition) failures++;
+  };
+
+  try {
+    const html = await (await fetch('../index.html')).text();
+    const doc = new DOMParser().parseFromString(html, 'text/html');
+    const root = document.getElementById('fixture');
+    root.append(
+      doc.querySelector('.sidebar'),
+      doc.querySelector('#wordManager'),
+      doc.querySelector('#mergeFileInput'),
+      doc.querySelector('#learningFileInput')
+    );
+
+    const words = ['a', 'I', 'an', 'to', 'the', 'and', 'look up', 'well-known', 'The', '  the  ', 'Apple']
+      .map(word => ({'单词': word, '释义(中文)': '测试'}));
+    let currentWords = words;
+    VocabWorkbench.init({
+      words: () => currentWords,
+      refresh: () => {},
+      replace: loaded => { currentWords = loaded; },
+      applyControls: () => {}
+    });
+    const $ = id => document.getElementById(id);
+
+    $('minLetters').value = '0';
+    $('keepPhrases').checked = true;
+    $('deduplicate').checked = true;
+    $('familiarWords').value = '';
+    $('reviewOnly').checked = false;
+    $('reviewDueOnly').checked = false;
+    check('去重忽略大小写与多余空格', VocabWorkbench.process(words).length === 9);
+
+    $('minLetters').value = '3';
+    let output = VocabWorkbench.process(words).map(word => word['单词']);
+    check('过滤少于三个字母并保留 the 和 and', !output.includes('to') && !output.includes('a') && output.includes('the') && output.includes('and'));
+    const accented = [{'单词':'été'}, {'单词':'él'}, {'单词':'东京'}];
+    output = VocabWorkbench.process(accented).map(word => word['单词']);
+    check('带重音的拉丁字母参与字母数统计', output.includes('été') && !output.includes('él') && !output.includes('东京'));
+
+    $('minLetters').value = '8';
+    check('短语保留开关', VocabWorkbench.process(words).some(word => word['单词'] === 'look up'));
+    $('keepPhrases').checked = false;
+    check('关闭短语豁免后按总字母数过滤', !VocabWorkbench.process(words).some(word => word['单词'] === 'look up'));
+    check('连字符不计入字母数', VocabWorkbench.process(words).some(word => word['单词'] === 'well-known'));
+
+    $('minLetters').value = '0';
+    $('familiarWords').value = 'THE, apple\nlook up';
+    check('熟词名单忽略大小写并支持多种分隔符', VocabWorkbench.process(words).length === 6);
+    $('familiarWords').value = '';
+    $('deduplicate').checked = false;
+    check('关闭去重后保留原始词条', VocabWorkbench.process(words).length === 11);
+    check('拒绝非数组词书', (() => { try { VocabWorkbench.validateWords({}); return false; } catch { return true; } })());
+    check('拒绝缺少单词字段的词书', (() => { try { VocabWorkbench.validateWords([{}]); return false; } catch { return true; } })());
+
+    const result = VocabWorkbench.preflight(words, {wordsPerPage: 4, showCover: true, printDuplex: 'long'});
+    check('双面打印用纸计算', result.pageCount === 4 && result.sheets === 2);
+
+    const realFetch = window.fetch;
+    let abortedFetches = 0;
+    window.fetch = async (...args) => { abortedFetches++; return realFetch(...args); };
+    const cancelled = new AbortController();
+    cancelled.abort();
+    const abortedBeforeSubmit = await VocabWorkbench.exportFile({}, 'pdf', cancelled.signal, () => {})
+      .then(() => false, error => error.name === 'AbortError');
+    window.fetch = realFetch;
+    check('提交前取消不会创建后台任务', abortedBeforeSubmit && abortedFetches === 0);
+
+    $('manageWords').click();
+    $('wordSearch').value = 'apple';
+    $('wordSearch').dispatchEvent(new Event('input'));
+    $('excludeMatching').click();
+    check('取消搜索结果后同步排除打印', !VocabWorkbench.process(words).some(word => word['单词'] === 'Apple'));
+    $('restoreSelection').click();
+    check('恢复全部勾选', VocabWorkbench.process(words).length === 11);
+    $('closeWordManager').click();
+
+    const fakeFile = new File([JSON.stringify([{'单词':'mergedfixture', '释义(中文)':'合并测试'}])], 'merge.json');
+    await $('mergeFileInput').onchange({target:{files:[fakeFile], value:'test'}});
+    check('本地 JSON 合并保留原词书', currentWords.length === 12 && currentWords.at(-1)['单词'] === 'mergedfixture');
+
+    const countBeforeInvalid = currentWords.length;
+    const originalAlert = window.alert;
+    window.alert = () => {};
+    try {
+      await $('mergeFileInput').onchange({target:{files:[new File(['{}'], 'bad.json')], value:'test'}});
+      const tooMany = Array.from({length:51}, (_, index) => new File(['[]'], `many-${index}.json`));
+      await $('mergeFileInput').onchange({target:{files:tooMany, value:'test'}});
+    } finally {
+      window.alert = originalAlert;
+    }
+    check('无效或超量本地文件不覆盖当前词书', currentWords.length === countBeforeInvalid);
+
+    let releaseSlowRead;
+    const slowRead = new Promise(resolve => { releaseSlowRead = resolve; });
+    const delayedFile = {
+      size: 32,
+      text: async () => {
+        await slowRead;
+        return JSON.stringify([{'单词':'stalefile'}]);
+      }
+    };
+    window.alert = () => {};
+    const pendingMerge = $('mergeFileInput').onchange({target:{files:[delayedFile], value:'test'}});
+    const switchedWords = currentWords.slice();
+    currentWords = switchedWords;
+    releaseSlowRead();
+    await pendingMerge;
+    window.alert = originalAlert;
+    check('读取期间切换词书时放弃过期合并结果', currentWords === switchedWords && !currentWords.some(word => word['单词'] === 'stalefile'));
+
+    $('presetName').value = '__regression_fixture__';
+    $('minLetters').value = '3';
+    $('savePreset').click();
+    $('minLetters').value = '8';
+    $('applyPreset').click();
+    check('个人方案保存并恢复筛选参数', $('minLetters').value === '3');
+    $('deletePreset').click();
+    check('删除个人方案', !Array.from($('presetSelect').options).some(option => option.value === '__regression_fixture__'));
+    $('undoPreset').click();
+    check('撤销删除方案', Array.from($('presetSelect').options).some(option => option.value === '__regression_fixture__'));
+
+    const bookValueBeforeRestore = $('bookSelect').value;
+    const backup = new File([JSON.stringify({
+      version: 1,
+      settings: {minLetters:'4'},
+      review: {backupfixture:{word:{'单词':'backupfixture'}, stage:0, due:Date.now()}},
+      presets: {'备份测试':{settings:{minLetters:'4'}, controls:{bookSelect:'forbidden', minLetters:'4'}}}
+    })], 'backup.json');
+    await $('learningFileInput').onchange({target:{files:[backup], value:'test'}});
+    check('备份恢复筛选、错词和方案', $('minLetters').value === '4' && Array.from($('presetSelect').options).some(option => option.value === '备份测试'));
+    $('presetSelect').value = '备份测试';
+    $('applyPreset').click();
+    check('导入方案不能修改词书选择控件', $('bookSelect').value === bookValueBeforeRestore);
+
+    const presetCountBeforeBadBackup = $('presetSelect').options.length;
+    window.alert = () => {};
+    await $('learningFileInput').onchange({target:{files:[new File([JSON.stringify({version:1, review:{}, presets:[]})], 'bad-backup.json')], value:'test'}});
+    window.alert = originalAlert;
+    check('拒绝损坏的学习备份', $('presetSelect').options.length === presetCountBeforeBadBackup);
+
+    $('openReview').click();
+    check('备份恢复的错词可打开为复习本', currentWords.some(word => word['单词'] === 'backupfixture'));
+  } catch (error) {
+    failures++;
+    lines.push('ERROR ' + error.stack);
+  } finally {
+    for (const key of storageKeys) {
+      if (originalStorage[key] === null) localStorage.removeItem(key);
+      else localStorage.setItem(key, originalStorage[key]);
+    }
+    document.getElementById('results').textContent = lines.join('\n') + '\nFailures: ' + failures;
+  }
+})();
+</script>

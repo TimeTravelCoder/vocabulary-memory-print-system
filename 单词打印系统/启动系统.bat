@@ -8,20 +8,25 @@ echo 服务启动后将自动在浏览器中打开系统界面。
 echo 如需关闭服务，请直接关闭本命令窗口或按 Ctrl + C。
 echo.
 
-where python >nul 2>nul
-if %errorlevel% equ 0 (
-    python server.py
-    goto end
+set "PYTHON_EXE="
+for /d %%D in ("%LOCALAPPDATA%\Programs\Python\Python*") do (
+    if exist "%%~fD\python.exe" set "PYTHON_EXE=%%~fD\python.exe"
 )
 
-if exist "%LOCALAPPDATA%\Microsoft\WindowsApps\python.exe" (
-    "%LOCALAPPDATA%\Microsoft\WindowsApps\python.exe" server.py
+if defined PYTHON_EXE (
+    "%PYTHON_EXE%" server.py
     goto end
 )
 
 where py >nul 2>nul
 if %errorlevel% equ 0 (
-    py server.py
+    py -3 server.py
+    goto end
+)
+
+where python >nul 2>nul
+if %errorlevel% equ 0 (
+    python server.py
     goto end
 )
 

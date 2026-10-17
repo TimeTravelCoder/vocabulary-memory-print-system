@@ -480,7 +480,12 @@
     .search-result-item {
       padding: 7px 10px;
       cursor: pointer;
+      width: 100%;
+      border: 0;
       border-bottom: 1px solid #f1f5f9;
+      background: #fff;
+      font: inherit;
+      text-align: left;
       display: flex;
       justify-content: space-between;
       align-items: center;
@@ -707,6 +712,51 @@
       gap: 24px;
     }
 
+    .workbench-panel { padding:12px; margin:10px 0; border:1px solid #cbd5e1; border-radius:8px; background:#f8fafc; font-size:12px; }
+    .workbench-panel h3 { margin:0 0 8px; font-size:14px; }
+    .workbench-panel label { display:block; margin:7px 0 4px; }
+    .workbench-panel input[type=number], .workbench-panel input:not([type]), .workbench-panel select,
+    .workbench-panel textarea { width:100%; box-sizing:border-box; padding:6px; border:1px solid #94a3b8; border-radius:4px; }
+    .workbench-panel details { margin:8px 0; border-top:1px solid #e2e8f0; padding-top:8px; }
+    .workbench-panel summary { cursor:pointer; font-weight:600; }
+    .workbench-panel button, .word-manager button { padding:6px 9px; margin:3px 2px; border:1px solid #94a3b8; border-radius:4px; background:white; cursor:pointer; }
+    .workbench-panel p, #layoutReport, #exportPreflight { line-height:1.6; color:#475569; margin:6px 0; white-space:pre-line; }
+    .word-manager { width:min(850px,92vw); max-height:85vh; overflow:auto; border:1px solid #94a3b8; border-radius:10px; padding:18px; }
+    .word-manager::backdrop { background:#0f172a88; }
+    .word-manager-toolbar { display:flex; align-items:center; justify-content:space-between; gap:8px; flex-wrap:wrap; }
+    .word-manager table { width:100%; border-collapse:collapse; }
+    .word-manager td, .word-manager th { padding:8px; border-bottom:1px solid #e2e8f0; text-align:left; }
+    .word-manager small { display:block; max-width:450px; color:#64748b; line-height:1.5; }
+    .confirm-dialog { width:min(460px,90vw); border:0; border-radius:12px; padding:20px; box-shadow:0 18px 50px #0f172a55; }
+    .confirm-dialog::backdrop { background:#0f172a88; }
+    .confirm-dialog h3 { margin:0 0 10px; color:#0f172a; font-size:16px; }
+    .confirm-dialog p { margin:0; color:#475569; white-space:pre-line; line-height:1.7; font-size:13px; }
+    .confirm-dialog-actions { display:flex; justify-content:flex-end; gap:8px; margin-top:18px; }
+    .confirm-dialog-actions button { padding:7px 14px; border-radius:6px; border:1px solid #cbd5e1; cursor:pointer; }
+    .confirm-dialog-actions .primary { border-color:#2563eb; background:#2563eb; color:#fff; font-weight:700; }
+    #wordSearch { width:100%; padding:8px; }
+    #exportProgress { width:100%; height:10px; }
+    .a4-page.ink-saver { filter:grayscale(1); --theme-accent:#334155; --theme-accent-dark:#111; --theme-ref-bg:#fff; --theme-title-color:#111; --theme-header-line:#334155; }
+    .a4-page.ink-saver *, .a4-page.no-decoration .pos-tag { background-color:transparent !important; box-shadow:none !important; }
+    .a4-page.no-decoration :is(.academic-badge,.word-index-tag,.ebbinghaus-track,.foldable-fold-hint) { display:none; }
+    .a4-page.lang-en :is(.academic-zh-line,.minimal-zh,.split-zh,.tb-meaning-zh,.dict-zh,.foldable-zh,.grid-zh,.compact-zh,.meaning-zh) { display:none; }
+    .a4-page.lang-zh :is(.academic-en-line,.minimal-en,.split-en,.tb-meaning-en,.dict-en,.foldable-en,.grid-en,.compact-en,.meaning-en,.word-meaning-box-single) { display:none; }
+    .a4-page.full-definitions { height:auto; max-height:none; overflow:visible; }
+    .full-definitions .word-list { overflow:visible; flex:none; gap:10px; }
+    .full-definitions .word-list > div { flex:none; min-height:55mm; overflow:visible; break-inside:avoid; }
+    .full-definitions :is(.academic-top-header,.minimal-info-zone,.tb-top-info,.dict-defs,.split-left-content,.foldable-defs,.grid-def-cell,.word-meaning-box,.word-meaning-box-single) { overflow:visible; flex-shrink:0; }
+    .full-definitions :is(.academic-zh-line,.academic-en-line,.minimal-zh,.minimal-en,.split-zh,.split-en,.tb-meaning-zh,.tb-meaning-en,.dict-zh,.dict-en,.foldable-zh,.foldable-en,.grid-zh,.grid-en,.compact-zh,.compact-en,.meaning-content) { display:block !important; -webkit-line-clamp:unset; overflow:visible; }
+    .full-definitions.lang-en :is(.academic-zh-line,.minimal-zh,.split-zh,.tb-meaning-zh,.dict-zh,.foldable-zh,.grid-zh,.compact-zh,.meaning-zh),
+    .full-definitions.lang-zh :is(.academic-en-line,.minimal-en,.split-en,.tb-meaning-en,.dict-en,.foldable-en,.grid-en,.compact-en,.meaning-en) { display:none !important; }
+    .full-definitions .word-text { white-space:normal; overflow-wrap:anywhere; }
+    .full-definitions .spacious-practice-zone { flex-shrink:0; }
+    @media print {
+      .a4-page.full-definitions { height:auto !important; max-height:none !important; overflow:visible !important; }
+    }
+    .a4-page.duplex-long.sheet-front { padding-left:20mm !important; padding-right:12mm !important; }
+    .a4-page.duplex-long.sheet-back { padding-left:12mm !important; padding-right:20mm !important; }
+    .a4-page.duplex-short.sheet-front { padding-top:16mm !important; }
+    .a4-page.duplex-short.sheet-back { padding-bottom:15mm !important; }
     /* Strict A4 Paper Container - 零溢出保护 */
     .a4-page {
       width: 210mm;
@@ -2222,6 +2272,108 @@
       display: none;
     }
 
+    /* Keep writing rows independent of variable-length definitions. */
+    .academic-bottom-practice, .minimal-practice-zone, .tb-bottom-practice,
+    .dict-bottom-practice {
+      flex-shrink: 0;
+      min-height: 46px;
+    }
+    .academic-top-header, .minimal-info-zone, .tb-top-info, .dict-defs {
+      min-height: 0;
+      min-width: 0;
+      flex-shrink: 1;
+      overflow: hidden;
+    }
+    .academic-practice-row, .minimal-practice-line, .tb-practice-row,
+    .split-row, .compact-practice-row {
+      min-height: 12px;
+      min-width: 0;
+    }
+    .p-slots {
+      min-width: 0;
+      min-height: 0;
+      grid-auto-rows: minmax(0, 1fr);
+      grid-template-columns: repeat(var(--slot-count, 1), minmax(0, 1fr));
+    }
+    .p-slots-2 { --slot-count: 2; }
+    .p-slots-3 { --slot-count: 3; }
+    .p-slots-5 { --slot-count: 5; }
+    .c-slot { min-height: 0; min-width: 0; overflow: hidden; }
+    .p-tag, .p-label, .minimal-plabel, .split-label {
+      flex-shrink: 0;
+      white-space: nowrap;
+    }
+    .p-tag { width: 54px; min-width: 54px; }
+    .dense-page .p-tag { width: 54px; min-width: 54px; }
+    .academic-word, .minimal-word, .tb-word, .dict-word, .compact-word,
+    .word-text {
+      min-width: 0;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .academic-phonetic, .minimal-phonetic, .tb-phonetic, .dict-phonetic,
+    .compact-phonetic, .word-phonetic {
+      min-width: 0;
+      flex-shrink: 1;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .split-right-col, .grid-word-cell, .grid-def-cell { min-width: 0; }
+
+    /* At 10+ words, reserve a full-height column for handwriting instead of
+       squeezing three writing rows below a multi-line definition. */
+    .dense-page :is(.word-card-academic, .word-card-minimal, .top-bottom-word-card) {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+      grid-template-rows: minmax(0, 1fr);
+      gap: 6px;
+    }
+    .dense-page :is(.academic-bottom-practice, .minimal-practice-zone,
+      .tb-bottom-practice, .dict-bottom-practice) {
+      min-height: 0;
+      min-width: 0;
+      border-left: 1px dashed var(--theme-card-border);
+      padding-left: 6px;
+    }
+    .dense-page :is(.academic-top-header, .tb-top-info) {
+      border-bottom: 0;
+      justify-content: center;
+    }
+    .dense-page :is(.academic-status-box, .minimal-meta, .dict-meta-group) {
+      min-width: 0;
+      flex-shrink: 1;
+      white-space: nowrap;
+      overflow: hidden;
+    }
+    .dense-page :is(.academic-check, .minimal-check) { display: none; }
+    .dense-page .word-card-dict {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+      grid-template-rows: auto minmax(0, 1fr);
+    }
+    .dense-page .dict-top-header { grid-area: 1 / 1; }
+    .dense-page .dict-defs { grid-area: 2 / 1; }
+    .dense-page .dict-bottom-practice { grid-area: 1 / 2 / 3 / 3; }
+    .dense-page .word-card-compact {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+      grid-template-rows: auto auto minmax(0, 1fr);
+    }
+    .dense-page .compact-top-line { grid-area: 1 / 1; }
+    .dense-page .compact-zh { grid-area: 2 / 1; }
+    .dense-page .compact-en { grid-area: 3 / 1; }
+    .dense-page .compact-practice-row { grid-area: 1 / 2 / 4 / 3; }
+    .dense-page .word-card-grid {
+      display: grid;
+      grid-template-columns: minmax(0, 3fr) minmax(0, 2fr);
+      grid-template-rows: minmax(0, 1fr);
+    }
+    .dense-page .grid-top-row { border-bottom: 0; overflow: hidden; }
+    .dense-page .grid-bottom-row { min-width: 0; }
+    .dense-page .grid-bottom-row > div { flex: 1; min-height: 12px; }
+
     /* ======================================================== */
     /* 模式 2: 宽松卡片排版 (4 ~ 6 词/页，宽裕大字) */
     /* ======================================================== */
@@ -2847,7 +2999,7 @@
           <div class="preset-btn" data-val="15">15 词(密)</div>
         </div>
         <div style="font-size: 10.5px; color: #64748b; margin-top: 2px;">
-          * ≥7 词时自动启用横行紧凑排版，精准匹配 A4 高度，绝无跨页溢出。
+          * ≥10 词时采用左右分区，保留抄写空间；长释义会精简显示，精读建议每页 4～6 词。
         </div>
       </div>
 
@@ -3077,21 +3229,6 @@
             </div>
           </div>
 
-          <!-- 难度过滤 -->
-          <div class="form-group">
-            <label>词汇难度/长度过滤</label>
-            <div class="radio-pill-group two-cols">
-              <label>
-                <input type="radio" name="wordFilter" value="all" checked>
-                <span>全部词汇 (保留原貌)</span>
-              </label>
-              <label>
-                <input type="radio" name="wordFilter" value="len5">
-                <span>过滤简单词 (&ge;5字母)</span>
-              </label>
-            </div>
-          </div>
-
           <!-- 音标偏好 -->
           <div class="form-group">
             <label>音标显示偏好</label>
@@ -3178,6 +3315,52 @@
         </div>
       </div>
 
+      <section class="workbench-panel">
+        <h3>筛选与学习工具</h3>
+        <label for="minLetters">最少英文字母数（0＝不限）</label>
+        <input id="minLetters" type="number" min="0" max="40" value="0">
+        <label><input id="keepPhrases" type="checkbox" checked> 保留短语（不受字母数限制）</label>
+        <label><input id="deduplicate" type="checkbox" checked> 自动去重（忽略大小写及多余空格）</label>
+        <details><summary>排除已掌握单词</summary><label for="familiarWords">每行一个单词或短语，也可用逗号分隔</label><textarea id="familiarWords" rows="4" placeholder="a, an, to&#10;look up"></textarea></details>
+        <p id="filterStats" role="status"></p>
+        <button id="manageWords" type="button">自选单词与错词</button>
+        <details><summary>合并词书</summary>
+          <select id="mergeBookSelect" aria-label="待合并词书"><option value="">选择第二本内置词书</option></select>
+          <button id="mergeRemote" type="button">合并到当前词书</button>
+          <button id="mergeLocal" type="button">合并本地 JSON（可多选）</button>
+          <p>去重时保留首次出现的词条；取消“自动去重”可保留不同释义。</p>
+        </details>
+        <details><summary>错词复习与备份</summary>
+          <p id="reviewStats" role="status"></p>
+          <label><input id="reviewOnly" type="checkbox"> 当前词书仅打印收藏错词</label>
+          <label><input id="reviewDueOnly" type="checkbox"> 仅打印到期待复习词</label>
+          <button id="openReview" type="button">打开全部错词本</button>
+          <button id="exportReview" type="button">导出错词 JSON</button>
+          <p>在自选列表点击“已复习”，按1、2、4、7、15、30天安排下次复习。</p>
+          <button id="backupLearning" type="button">备份学习数据与方案</button>
+          <button id="restoreLearning" type="button">恢复备份</button>
+        </details>
+        <details><summary>释义与省纸打印</summary>
+          <label for="definitionLanguage">释义语言</label><select id="definitionLanguage"><option value="both">中英双语</option><option value="zh">仅中文</option><option value="en">仅英文</option></select>
+          <label for="definitionDetail">释义显示</label><select id="definitionDetail"><option value="brief">精简释义（适合密集打印）</option><option value="full">完整释义（学术精读·最多4词/页·自动分页）</option></select>
+          <label for="zhDefinitionCount">中文释义条数</label><select id="zhDefinitionCount"><option value="all">全部</option><option value="1">1条</option><option value="2">2条</option><option value="3">3条</option></select>
+          <p>英文条数沿用“高级装订与排版细化”中的英文释义设置。</p>
+          <label for="printDuplex">双面装订</label><select id="printDuplex"><option value="off">单面</option><option value="long">双面长边翻页（内外边距交替）</option><option value="short">双面短边翻页</option></select>
+          <p>打印时仍需在打印机驱动中选择相同的双面翻页方向。</p>
+          <label><input id="printInkSaver" type="checkbox"> 黑白省墨（取消底色与装饰）</label>
+          <label><input id="printDecorations" type="checkbox" checked> 保留装饰和复习标记</label>
+          <button id="applyReadingLayout" type="button">一键精读排版（4词/页）</button>
+          <button id="applyEconomyLayout" type="button">一键省纸排版（12词/页·无封面）</button>
+        </details>
+        <details><summary>我的排版方案</summary>
+          <input id="presetName" aria-label="方案名称" placeholder="例如：考研每日默写" maxlength="60">
+          <button id="savePreset" type="button">保存当前方案</button>
+          <select id="presetSelect" aria-label="已保存方案"></select>
+          <button id="applyPreset" type="button">应用方案</button><button id="deletePreset" type="button">删除方案</button><button id="undoPreset" type="button" hidden>撤销上次方案修改</button>
+        </details>
+        <button id="checkLayout" type="button">打印前排版检查</button>
+        <div id="layoutReport" role="status"></div>
+      </section>
     </div>
 
     <!-- Sidebar Action Footer -->
@@ -3190,7 +3373,7 @@
       </button>
       <div class="status-bar">
         <span id="pageCountStatus">正在生成预览...</span>
-        <span>A4 物理排版零溢出</span>
+        <span>A4 打印排版</span>
       </div>
     </div>
   </aside>
@@ -3303,7 +3486,7 @@
             </span>
           </div>
           <div class="download-plan-desc">
-            针对大词库或周期背诵需求，提供按页数、按学习周期（天数）或自定义区间灵活切分，便于分册装订与随身携带。
+            按页数、学习周期或自定义区间切分。可下载目标分卷，也可使用“打包全部分卷”按钮。
           </div>
 
           <!-- 切分维度单选 -->
@@ -3429,13 +3612,21 @@
           </div>
         </div>
 
+        <div class="workbench-panel">
+          <label for="exportEdition">导出版本（适用于以上全部下载方式）</label>
+          <select id="exportEdition"><option value="current">按当前模板导出</option><option value="exercise">练习版（隐藏拼写）</option><option value="answer">答案版（显示单词及释义）</option></select>
+          <button id="downloadPracticePair" type="button">下载练习版＋答案版 PDF（ZIP）</button>
+          <div id="exportPreflight" role="status"></div>
+        </div>
         <!-- 渲染中加载状态条 -->
         <div class="download-progress-box" id="downloadProgressBox" style="display: none;">
           <div class="spinner"></div>
           <div style="flex: 1;">
             <div style="font-weight: 700; font-size: 12.5px; color: #065f46;" id="dlProgressStatusTitle">正在后台生成 PDF，请稍候...</div>
             <div style="font-size: 11px; color: #047857;" id="dlProgressStatusDesc">正在通过本地后台服务排版转码，不占用浏览器主线程，请勿关闭窗口。</div>
+            <progress id="exportProgress" max="100" aria-label="导出进度"></progress>
           </div>
+          <button type="button" id="cancelExport" disabled>取消导出</button>
         </div>
 
       </div>
@@ -3448,10 +3639,36 @@
   </div>
 
   <input type="file" id="localFileInput" accept=".json" style="display:none;">
+  <dialog id="wordManager" class="word-manager">
+    <div class="word-manager-toolbar"><h3>自选单词与错词</h3><button id="closeWordManager" type="button">完成</button></div>
+    <input id="wordSearch" type="search" aria-label="搜索单词与释义" placeholder="搜索单词或中文释义">
+    <div class="word-manager-toolbar"><button id="selectMatching" type="button">全选搜索结果</button><button id="excludeMatching" type="button">取消搜索结果</button><button id="restoreSelection" type="button">恢复全部勾选</button></div>
+    <p>取消勾选的词不参与预览和下载。错词收藏、方案和筛选保存在本浏览器，可导出备份。</p>
+    <table><thead><tr><th>打印</th><th>单词 / 释义</th><th>复习</th></tr></thead><tbody id="wordRows"></tbody></table>
+    <div class="word-manager-toolbar"><button id="wordPrev" type="button">上一页</button><span id="wordManagerCount"></span><button id="wordNext" type="button">下一页</button></div>
+  </dialog>
+  <dialog id="confirmDialog" class="confirm-dialog no-print" aria-labelledby="confirmDialogTitle">
+    <h3 id="confirmDialogTitle">请确认</h3>
+    <p id="confirmDialogMessage"></p>
+    <div class="confirm-dialog-actions"><button id="confirmDialogCancel" type="button">取消</button><button id="confirmDialogOk" class="primary" type="button">确定</button></div>
+  </dialog>
+  <input id="mergeFileInput" type="file" accept=".json" multiple hidden>
+  <input id="learningFileInput" type="file" accept=".json" hidden>
+  <script src="workbench.js"></script>
   <script src="catalog.js"></script>
   <script>
     let catalog = {};
     let currentBookWords = [];
+    let currentBookSource = '';
+    function customBookIdentity(words, name) {
+      let hash = 2166136261;
+      const identity = words.map(w => [
+        VocabWorkbench.key(w['单词']), String(w['释义(中文)'] || ''),
+        String(w['释义(英文)'] || ''), String(w['美音'] || ''), String(w['英音'] || '')
+      ].join('\u001f')).join('\n');
+      for (const character of identity) hash = Math.imul(hash ^ character.charCodeAt(0), 16777619);
+      return `local:${name}:${hash >>> 0}`;
+    }
     let zoom = 0.75;
     let wordsPerPage = 10;
     let showAllPreviewPages = false;
@@ -3516,7 +3733,8 @@
 
     // Words per page change
     function setWordsPerPage(val) {
-      val = Math.max(4, Math.min(16, parseInt(val) || 10));
+      const maxWords = document.getElementById('definitionDetail')?.value === 'full' ? 4 : 16;
+      val = Math.max(4, Math.min(maxWords, parseInt(val) || 10));
       wordsPerPage = val;
       wordsPerPageRange.value = val;
       wordsPerPageInput.value = val;
@@ -3572,14 +3790,18 @@
     localFileInput.onchange = (e) => {
       const file = e.target.files[0];
       if (!file) return;
+      const requestId = ++bookRequestId;
       const reader = new FileReader();
       reader.onload = (evt) => {
+        if (requestId !== bookRequestId) return;
         try {
-          currentBookWords = JSON.parse(evt.target.result);
+          currentBookWords = VocabWorkbench.validateWords(JSON.parse(evt.target.result));
+          VocabWorkbench.bookChanged();
           shuffledOrderCache = null;
           const baseWords = getProcessedBookWords();
           bookWordCount.textContent = `${baseWords.length} 词`;
           const bookName = file.name.replace(/\.json$/i, '');
+          currentBookSource = customBookIdentity(currentBookWords, bookName);
           previewBookTitle.textContent = bookName;
           rangeStart.value = 1;
           rangeEnd.value = Math.min(40, baseWords.length);
@@ -3592,7 +3814,13 @@
           pageCountStatus.textContent = `已加载本地词书: ${bookName}`;
         } catch (err) {
           alert('解析 JSON 失败: ' + err.message);
+        } finally {
+          localFileInput.value = '';
         }
+      };
+      reader.onerror = () => {
+        if (requestId === bookRequestId) alert('读取本地词书失败，请重新选择文件。');
+        localFileInput.value = '';
       };
       reader.readAsText(file, 'utf-8');
     };
@@ -3611,6 +3839,7 @@
       }
       
       const categories = Object.keys(catalog);
+      VocabWorkbench.populateCatalog(catalog);
       if (categories.length > 0) {
         categoryCount.textContent = `${categories.length} 类`;
         categorySelect.innerHTML = '';
@@ -3648,19 +3877,26 @@
       }
     }
 
+    let bookRequestId = 0;
     async function onBookChange() {
+      const requestId = ++bookRequestId;
       const path = bookSelect.value;
-      if (!path) return;
+      if (!path) return false;
       pageCountStatus.textContent = '正在读取词书数据...';
       try {
         const res = await fetch(`/api/book?path=${encodeURIComponent(path)}`);
-        currentBookWords = await res.json();
-        bookWordCount.textContent = `${currentBookWords.length} 词`;
+        if (!res.ok) throw new Error('词书读取失败');
+        const loaded = VocabWorkbench.validateWords(await res.json());
+        if (requestId !== bookRequestId) return false;
+        currentBookWords = loaded;
+        currentBookSource = path;
+        VocabWorkbench.bookChanged();
         const bookName = bookSelect.options[bookSelect.selectedIndex]?.text.split(' (')[0] || '';
         previewBookTitle.textContent = bookName;
         
         shuffledOrderCache = null;
         const baseWords = getProcessedBookWords();
+        bookWordCount.textContent = `${baseWords.length} 词`;
         rangeStart.value = 1;
         rangeEnd.value = Math.min(40, baseWords.length);
         rangeEnd.max = baseWords.length;
@@ -3670,8 +3906,12 @@
         updateAllScopeSummary();
         renderProgressCard();
         renderPages();
+        return true;
       } catch (err) {
+        if (requestId !== bookRequestId) return false;
+        pageCountStatus.textContent = '词书加载失败，请重新选择或重试。';
         console.error('读取词书失败:', err);
+        return false;
       }
     }
 
@@ -3680,18 +3920,14 @@
 
     function getProcessedBookWords() {
       if (!currentBookWords || currentBookWords.length === 0) return [];
-      const filterMode = document.querySelector('input[name="wordFilter"]:checked')?.value || 'all';
       const orderMode = document.querySelector('input[name="wordOrder"]:checked')?.value || 'original';
 
-      let list = currentBookWords;
-      if (filterMode === 'len5') {
-        list = list.filter(w => (w['单词'] || '').replace(/[^a-zA-Z]/g, '').length >= 5);
-      }
+      let list = VocabWorkbench.process(currentBookWords);
 
       if (orderMode === 'alpha') {
         list = [...list].sort((a, b) => (a['单词'] || '').localeCompare(b['单词'] || ''));
       } else if (orderMode === 'shuffle') {
-        const key = `${getCurrentBookKey()}_${filterMode}_${list.length}`;
+        const key = `${getCurrentBookKey()}_${list.length}`;
         if (!shuffledOrderCache || lastShuffleBookKey !== key) {
           shuffledOrderCache = [...list];
           for (let i = shuffledOrderCache.length - 1; i > 0; i--) {
@@ -3705,11 +3941,47 @@
       return list;
     }
 
+    function annotateBookWords(words = getProcessedBookWords()) {
+      return words.map((word, index) => ({
+        ...word,
+        _index: index + 1,
+        _dayTag: `Day ${Math.floor(index / wordsPerPage) + 1}`
+      }));
+    }
+
+    function getContentGroups(words = getProcessedBookWords(), config = getRenderConfig()) {
+      return getPageGroups(annotateBookWords(words), config);
+    }
+
+    function getPageForWordIndex(groups, wordIndex) {
+      const pageIndex = groups.findIndex(group => group.some(word => word._index >= wordIndex));
+      return pageIndex < 0 ? groups.length : pageIndex + 1;
+    }
+
+    function syncScopeBounds() {
+      const baseWords = getProcessedBookWords();
+      const wordMaximum = Math.max(1, baseWords.length);
+      rangeStart.max = wordMaximum;
+      rangeEnd.max = wordMaximum;
+      rangeStart.value = Math.max(1, Math.min(wordMaximum, parseInt(rangeStart.value) || 1));
+      rangeEnd.value = Math.max(Number(rangeStart.value), Math.min(wordMaximum, parseInt(rangeEnd.value) || wordMaximum));
+      const pageMaximum = Math.max(1, baseWords.length ? getContentGroups(baseWords).length : 1);
+      batchStartPage.max = pageMaximum;
+      batchPageCount.max = pageMaximum;
+      batchStartPage.value = Math.max(1, Math.min(pageMaximum, parseInt(batchStartPage.value) || 1));
+      batchPageCount.value = Math.max(1, Math.min(pageMaximum, parseInt(batchPageCount.value) || 1));
+    }
+
     function updateDaySelect() {
       const perDay = wordsPerPage;
       const baseWords = getProcessedBookWords();
       const totalWords = baseWords.length;
-      if (totalWords === 0) return;
+      if (totalWords === 0) {
+        daySelect.innerHTML = '<option value="1">暂无可打印单词</option>';
+        daySelect.disabled = true;
+        return;
+      }
+      daySelect.disabled = false;
       const totalDays = Math.ceil(totalWords / perDay);
 
       const prevVal = daySelect.value;
@@ -3733,7 +4005,9 @@
     // ==========================================
     function getStoredRecords() {
       try {
-        return JSON.parse(localStorage.getItem('vocab_print_records') || '{}');
+        const records = JSON.parse(localStorage.getItem('vocab_print_records') || '{}');
+        if (!records || typeof records !== 'object' || Array.isArray(records)) return {};
+        return Object.fromEntries(Object.entries(records).filter(([, record]) => record && typeof record === 'object' && !Array.isArray(record)));
       } catch (e) {
         return {};
       }
@@ -3748,7 +4022,7 @@
     }
 
     function getCurrentBookKey() {
-      return bookSelect.value || previewBookTitle.textContent || 'current_book';
+      return currentBookSource || bookSelect.value || previewBookTitle.textContent || 'current_book';
     }
 
     function renderProgressCard() {
@@ -3763,7 +4037,8 @@
       const records = getStoredRecords();
       const rec = records[key];
       const totalWords = baseWords.length;
-      const totalPages = Math.ceil(totalWords / wordsPerPage);
+      const groups = getContentGroups(baseWords);
+      const totalPages = groups.length;
 
       if (!rec || !rec.lastPrintedEndPage) {
         pcBadge.textContent = '未开始';
@@ -3774,8 +4049,8 @@
         btnContinueBatch.textContent = `接续打印下 5 页 (从第 1 页开始)`;
         btnContinueBatch.dataset.nextPage = 1;
       } else {
-        const endPage = rec.lastPrintedEndPage;
-        const endWord = Math.min(totalWords, rec.lastPrintedEndWord || endPage * wordsPerPage);
+        const endWord = Math.min(totalWords, rec.lastPrintedEndWord || rec.lastPrintedEndPage * wordsPerPage);
+        const endPage = getPageForWordIndex(groups, endWord);
         const percent = Math.min(100, Math.round((endPage / totalPages) * 100));
 
         if (endPage >= totalPages) {
@@ -3806,7 +4081,7 @@
       const baseWords = getProcessedBookWords();
       if (!baseWords || baseWords.length === 0) return;
       const totalWords = baseWords.length;
-      const totalPages = Math.ceil(totalWords / wordsPerPage);
+      const totalPages = getContentGroups(baseWords).length;
 
       const key = getCurrentBookKey();
       const records = getStoredRecords();
@@ -3841,16 +4116,21 @@
 
     function updateBatchSummary() {
       const baseWords = getProcessedBookWords();
-      if (!baseWords || baseWords.length === 0) return;
+      if (!baseWords || baseWords.length === 0) {
+        batchSummaryText.textContent = '当前筛选没有可打印单词。';
+        return;
+      }
       const totalWords = baseWords.length;
-      const totalPages = Math.ceil(totalWords / wordsPerPage);
+      const groups = getContentGroups(baseWords);
+      const totalPages = groups.length;
       const startPage = Math.max(1, Math.min(totalPages, parseInt(batchStartPage.value) || 1));
       const count = Math.max(1, parseInt(batchPageCount.value) || 1);
       const endPage = Math.min(totalPages, startPage + count - 1);
-
-      const startWord = (startPage - 1) * wordsPerPage + 1;
-      const endWord = Math.min(totalWords, endPage * wordsPerPage);
-      const actualCount = endWord - startWord + 1;
+      const selectedGroups = groups.slice(startPage - 1, endPage);
+      const selectedWords = selectedGroups.flat();
+      const startWord = selectedWords[0]?._index || 0;
+      const endWord = selectedWords.at(-1)?._index || 0;
+      const actualCount = selectedWords.length;
 
       batchSummaryText.innerHTML = `将打印 <strong>第 ${startPage} ~ ${endPage} 页</strong> (共 ${endPage - startPage + 1} 页 A4 纸 · 包含第 ${startWord} ~ ${endWord} 词，共 ${actualCount} 词)`;
 
@@ -3867,9 +4147,13 @@
 
     function updateAllScopeSummary() {
       const baseWords = getProcessedBookWords();
-      if (!baseWords || baseWords.length === 0) return;
+      if (!baseWords || baseWords.length === 0) {
+        if (allTotalPagesBadge) allTotalPagesBadge.textContent = '共 0 页 A4';
+        if (allSummaryDetail) allSummaryDetail.textContent = '当前筛选没有可打印单词。';
+        return;
+      }
       const totalWords = baseWords.length;
-      const totalPages = Math.ceil(totalWords / wordsPerPage);
+      const totalPages = getContentGroups(baseWords).length;
       const bookName = previewBookTitle.textContent || bookSelect.options[bookSelect.selectedIndex]?.text.split(' (')[0] || '当前词书';
 
       if (allTotalPagesBadge) allTotalPagesBadge.textContent = `共 ${totalPages} 页 A4`;
@@ -3897,7 +4181,8 @@
       const key = getCurrentBookKey();
       const scopeMode = document.querySelector('input[name="scopeMode"]:checked')?.value || 'batch';
       const totalWords = baseWords.length;
-      const totalPages = Math.ceil(totalWords / wordsPerPage);
+      const groups = getContentGroups(baseWords);
+      const totalPages = groups.length;
 
       let endPage = 1;
       let endWord = wordsPerPage;
@@ -3907,18 +4192,22 @@
         const startPage = Math.max(1, Math.min(totalPages, parseInt(batchStartPage.value) || 1));
         const count = Math.max(1, parseInt(batchPageCount.value) || 5);
         endPage = Math.min(totalPages, startPage + count - 1);
-        endWord = Math.min(totalWords, endPage * wordsPerPage);
-        pageCount = count;
+        endWord = groups.slice(startPage - 1, endPage).flat().at(-1)?._index || 0;
+        pageCount = endPage - startPage + 1;
       } else if (scopeMode === 'day') {
         const day = parseInt(daySelect.value) || 1;
-        endPage = day;
         endWord = Math.min(totalWords, day * wordsPerPage);
-        pageCount = 1;
+        const startWord = (day - 1) * wordsPerPage + 1;
+        const startPage = getPageForWordIndex(groups, startWord);
+        endPage = getPageForWordIndex(groups, endWord);
+        pageCount = Math.max(1, endPage - startPage + 1);
       } else if (scopeMode === 'range') {
+        const start = Math.max(1, parseInt(rangeStart.value) || 1);
         const end = Math.min(totalWords, parseInt(rangeEnd.value) || totalWords);
         endWord = end;
-        endPage = Math.ceil(end / wordsPerPage);
-        pageCount = Math.ceil((end - (parseInt(rangeStart.value) || 1) + 1) / wordsPerPage);
+        const startPage = getPageForWordIndex(groups, start);
+        endPage = getPageForWordIndex(groups, end);
+        pageCount = Math.max(1, endPage - startPage + 1);
       } else if (scopeMode === 'all') {
         endPage = totalPages;
         endWord = totalWords;
@@ -3976,21 +4265,23 @@
               </div>
             </div>
             <div style="display: flex; gap: 6px; align-items: center; margin-left: 10px;">
-              <button type="button" class="btn-continue" style="width: auto; padding: 4px 10px; font-size: 11px;" onclick="switchToBookAndContinue('${escapeHtml(k)}')">
+              <button type="button" data-history-continue class="btn-continue" style="width: auto; padding: 4px 10px; font-size: 11px;">
                 接续打印
               </button>
-              <button type="button" class="link-btn text-danger" style="font-size: 11px;" onclick="deleteRecord('${escapeHtml(k)}')">
+              <button type="button" data-history-delete class="link-btn text-danger" style="font-size: 11px;">
                 删除
               </button>
             </div>
           `;
+          card.querySelector('[data-history-continue]').onclick = () => switchToBookAndContinue(k);
+          card.querySelector('[data-history-delete]').onclick = () => deleteRecord(k);
           historyListContainer.appendChild(card);
         });
       }
       historyModal.style.display = 'flex';
     }
 
-    window.switchToBookAndContinue = (bookPath) => {
+    function switchToBookAndContinue(bookPath) {
       historyModal.style.display = 'none';
       for (const cat in catalog) {
         const found = catalog[cat].find(b => b.path === bookPath);
@@ -3998,70 +4289,48 @@
           categorySelect.value = cat;
           onCategoryChange(false);
           bookSelect.value = bookPath;
-          onBookChange().then(() => {
-            continueNextBatch();
+          onBookChange().then(loaded => {
+            if (loaded) continueNextBatch();
           });
           return;
         }
       }
       alert('未在当前目录中找到对应词书，若为本地文件请重新打开');
-    };
+    }
 
-    window.deleteRecord = (bookPath) => {
+    function deleteRecord(bookPath) {
       const records = getStoredRecords();
       delete records[bookPath];
       saveStoredRecords(records);
       renderProgressCard();
       openHistoryModal();
-    };
+    }
 
     // Get Active Selection of words
     function getSelectedWords() {
       const baseWords = getProcessedBookWords();
       if (!baseWords || baseWords.length === 0) return [];
+      const annotated = annotateBookWords(baseWords);
       const scopeMode = document.querySelector('input[name="scopeMode"]:checked')?.value || 'batch';
       if (scopeMode === 'all') {
-        return baseWords.map((w, idx) => ({
-          ...w,
-          _index: idx + 1,
-          _dayTag: `Day ${Math.floor(idx / wordsPerPage) + 1}`
-        }));
+        return annotated;
       } else if (scopeMode === 'batch') {
-        const totalWords = baseWords.length;
-        const totalPages = Math.ceil(totalWords / wordsPerPage);
+        const groups = getPageGroups(annotated, getRenderConfig());
+        const totalPages = groups.length;
         const startPage = Math.max(1, Math.min(totalPages, parseInt(batchStartPage.value) || 1));
         const count = Math.max(1, parseInt(batchPageCount.value) || 5);
         const endPage = Math.min(totalPages, startPage + count - 1);
-
-        const startIdx = (startPage - 1) * wordsPerPage;
-        const endIdx = Math.min(endPage * wordsPerPage, totalWords);
-
-        return baseWords.slice(startIdx, endIdx).map((w, idx) => {
-          const pageNum = Math.floor((startIdx + idx) / wordsPerPage) + 1;
-          return {
-            ...w,
-            _index: startIdx + idx + 1,
-            _dayTag: `Day ${pageNum}`
-          };
-        });
+        return groups.slice(startPage - 1, endPage).flat();
       } else if (scopeMode === 'day') {
         const perDay = wordsPerPage;
         const day = parseInt(daySelect.value) || 1;
         const startIdx = (day - 1) * perDay;
-        const endIdx = Math.min(startIdx + perDay, baseWords.length);
-        return baseWords.slice(startIdx, endIdx).map((w, idx) => ({
-          ...w,
-          _index: startIdx + idx + 1,
-          _dayTag: `Day ${day}`
-        }));
+        const endIdx = Math.min(startIdx + perDay, annotated.length);
+        return annotated.slice(startIdx, endIdx);
       } else {
         const start = Math.max(1, parseInt(rangeStart.value) || 1);
-        const end = Math.min(baseWords.length, parseInt(rangeEnd.value) || baseWords.length);
-        return baseWords.slice(start - 1, end).map((w, idx) => ({
-          ...w,
-          _index: start + idx,
-          _dayTag: `Day ${Math.floor((start + idx - 1) / wordsPerPage) + 1}`
-        }));
+        const end = Math.min(annotated.length, parseInt(rangeEnd.value) || annotated.length);
+        return annotated.slice(start - 1, end);
       }
     }
 
@@ -4123,7 +4392,10 @@
       const isFourLine = (template === 'fourline');
       const selectedBookName = previewBookTitle.textContent || bookSelect.options[bookSelect.selectedIndex]?.text.split(' (')[0] || '英语词汇记忆本';
 
+      const extra = VocabWorkbench.options();
+      const edition = document.getElementById('exportEdition')?.value || 'current';
       return {
+        ...extra,
         template,
         phoneticType,
         maxEnCount,
@@ -4139,14 +4411,15 @@
         clozeType,
         isFourLine,
         selectedBookName,
-        wordsPerPage
+        wordsPerPage,
+        ...(edition === 'exercise' ? {template:'cloze',clozeType:'word'} : edition === 'answer' ? {template:'standard'} : {})
       };
     }
 
     function buildCoverPageHtml(config) {
       const volTag = config.volumeSubTitle ? `<div style="display:inline-block; margin-top:10px; padding:4px 14px; font-size:13pt; font-weight:700; color:#1e40af; background:#eff6ff; border:1.5px solid #3b82f6; border-radius:6px; letter-spacing:0.5px;">${escapeHtml(config.volumeSubTitle)}</div>` : '';
       return `
-        <div class="a4-page cover-page theme-${config.paperTheme} margin-${config.marginMode || 'center'}">
+        <div class="a4-page cover-page ${config.printInkSaver ? 'ink-saver' : ''} ${config.printDecorations === false ? 'no-decoration' : ''} duplex-${config.printDuplex || 'off'} sheet-front theme-${config.paperTheme} margin-${config.marginMode || 'center'}">
           <div class="cover-top">
             <h1>ENGLISH VOCABULARY</h1>
             <h2>英语核心词汇·手写记忆与精读字帖本</h2>
@@ -4211,11 +4484,12 @@
           phoneticDisplay = w['英音'] || w['美音'] || '';
         }
 
-        const zhDefClean = String(w['释义(中文)'] || '—').replace(/[\r\n]+/g, '； ').trim();
+        const zhCount = config.zhDefinitionCount === 'all' ? Infinity : Number(config.zhDefinitionCount) || Infinity;
+        const zhDefClean = String(w['释义(中文)'] || '—').split(/[\r\n；;]+/).filter(Boolean).slice(0, zhCount).join('； ').trim();
         const formattedZh = escapeHtml(zhDefClean).replace(/\b(n|v|adj|adv|vi|vt|prep|conj|pron|num|art|int)\./gi, '<span class="pos-tag">$1.</span>');
         const rawEn = String(w['释义(英文)'] || '').trim();
         let enParts = (rawEn && rawEn !== '—' && rawEn.toLowerCase() !== 'none') ? rawEn.split(/[\r\n]+/).map(s => s.trim()).filter(Boolean) : [];
-        const enSelected = enParts.slice(0, config.maxEnCount);
+        const enSelected = config.definitionLanguage === 'zh' ? [] : enParts.slice(0, config.maxEnCount);
         let enDefClean = '';
         if (enSelected.length === 1) {
           enDefClean = enSelected[0];
@@ -4667,19 +4941,83 @@
     }
 
     function buildSinglePageHtml(p, pageWords, totalContentPages, config) {
-      const className = `a4-page card-style-${config.cardStyle} wpp-${config.wordsPerPage} theme-${config.paperTheme} fz-${config.fontSizeMode} margin-${config.marginMode || 'center'} ${config.template === 'cloze' ? 'mode-cloze-' + config.clozeType : ''}`;
+      const extraClasses = `${config.printInkSaver ? 'ink-saver' : ''} ${config.printDecorations === false ? 'no-decoration' : ''} lang-${config.definitionLanguage || 'both'} ${config.definitionDetail === 'full' ? 'full-definitions' : ''} duplex-${config.printDuplex || 'off'} ${(p + (config.showCover ? 1 : 0)) % 2 ? 'sheet-back' : 'sheet-front'}`;
+      const className = `a4-page ${extraClasses} ${config.wordsPerPage >= 10 ? 'dense-page' : ''} card-style-${config.cardStyle} wpp-${config.wordsPerPage} theme-${config.paperTheme} fz-${config.fontSizeMode} margin-${config.marginMode || 'center'} ${config.template === 'cloze' ? 'mode-cloze-' + config.clozeType : ''}`;
       return `<div class="${className}">${buildSinglePageContentHtml(pageWords, p, totalContentPages, config)}</div>`;
+    }
+
+    const fullPaginationCache = new Map();
+    function getPaginationCacheKey(words, config) {
+      let hash = 2166136261, length = 0;
+      for (const word of words) {
+        const value = [word['单词'], word['释义(中文)'], word['释义(英文)'], word['美音'], word['英音'], word._index, word._dayTag].join('\u001f');
+        length += value.length;
+        for (let index = 0; index < value.length; index++) {
+          hash = Math.imul(hash ^ value.charCodeAt(index), 16777619);
+        }
+      }
+      const layout = [
+        config.definitionDetail, config.definitionLanguage, config.zhDefinitionCount,
+        config.maxEnCount, config.wordsPerPage, config.cardStyle, config.template,
+        config.clozeType, config.phoneticType, config.fontSizeMode, config.marginMode,
+        config.paperTheme, config.showPhoneticSlot, config.showHeader, config.showCover,
+        config.printDuplex, config.printInkSaver, config.printDecorations, config.wordTagMode
+      ];
+      return `${words.length}:${length}:${hash >>> 0}:${JSON.stringify(layout)}`;
+    }
+    function getPageGroups(words, config) {
+      if (config.definitionDetail !== 'full') {
+        const groups = [];
+        for (let i = 0; i < words.length; i += config.wordsPerPage) groups.push(words.slice(i, i + config.wordsPerPage));
+        return groups;
+      }
+      const cacheKey = getPaginationCacheKey(words, config);
+      if (fullPaginationCache.has(cacheKey)) return fullPaginationCache.get(cacheKey);
+      const probe = document.createElement('div');
+      probe.style.cssText = 'position:fixed;left:-20000px;top:0;visibility:hidden;pointer-events:none;width:210mm;';
+      document.body.appendChild(probe);
+      const groups = [];
+      let group = [];
+      let usedHeight = 0;
+      try {
+        for (let offset = 0; offset < words.length; offset += 60) {
+          const batch = words.slice(offset, offset + 60);
+          probe.innerHTML = buildSinglePageHtml(0, batch, 999, config);
+          const sheet = probe.firstElementChild;
+          const css = getComputedStyle(sheet);
+          const header = sheet.querySelector('.page-header');
+          const footer = sheet.querySelector('.page-footer');
+          const available = 1122.5 - parseFloat(css.paddingTop) - parseFloat(css.paddingBottom)
+            - (header?.getBoundingClientRect().height || 0) - (footer?.getBoundingClientRect().height || 0) - 16;
+          const cards = Array.from(sheet.querySelector('.word-list').children);
+          const heights = cards.map(card => card.getBoundingClientRect().height);
+          for (let index = 0; index < batch.length; index++) {
+            const height = heights[index];
+            if (group.length && (usedHeight + height + 10 > available || group.length >= config.wordsPerPage)) {
+              groups.push(group); group = []; usedHeight = 0;
+            }
+            usedHeight += height + (group.length ? 10 : 0);
+            group.push(batch[index]);
+          }
+        }
+        if (group.length) groups.push(group);
+      } finally { probe.remove(); }
+      if (fullPaginationCache.size >= 12) fullPaginationCache.clear();
+      fullPaginationCache.set(cacheKey, groups);
+      return groups;
     }
 
     function buildAllPagesHtml(words, config, includeCover = null) {
       const showCover = (includeCover !== null) ? includeCover : config.showCover;
-      const totalContentPages = Math.ceil(words.length / config.wordsPerPage);
+      config = {...config, showCover};
+      const groups = getPageGroups(words, config);
+      const totalContentPages = groups.length;
       let html = '';
       if (showCover) {
         html += buildCoverPageHtml(config);
       }
       for (let p = 0; p < totalContentPages; p++) {
-        const pageWords = words.slice(p * config.wordsPerPage, (p + 1) * config.wordsPerPage);
+        const pageWords = groups[p];
         html += buildSinglePageHtml(p, pageWords, totalContentPages, config);
       }
       return html;
@@ -4715,6 +5053,9 @@
     .no-print {
       display: none !important;
     }
+    body { display: block !important; height: auto !important; overflow: visible !important; }
+    .a4-page:last-child { page-break-after: auto !important; break-after: auto !important; }
+    .a4-page.full-definitions { height:auto !important; max-height:none !important; overflow:visible !important; }
   </style>
 </head>
 <body style="background:#ffffff; margin:0; padding:0;">
@@ -4730,11 +5071,20 @@
         return;
       }
 
+      syncScopeBounds();
       const words = getSelectedWords();
       const config = getRenderConfig();
+      if (!words.length) {
+        previewArea.innerHTML = '<p style="padding:30px;color:white;">没有符合条件的单词，请调整筛选或恢复勾选。</p>';
+        pageCountStatus.textContent = '当前筛选为0词';
+        previewPageIndicator.textContent = '共0页';
+        if (document.getElementById('layoutReport').textContent.trim()) updatePreflight();
+        return;
+      }
       previewBookTitle.textContent = config.selectedBookName;
 
-      const totalContentPages = Math.ceil(words.length / config.wordsPerPage);
+      const pageGroups = getPageGroups(words, config);
+      const totalContentPages = pageGroups.length;
       const totalPagesWithCover = totalContentPages + (config.showCover ? 1 : 0);
       const renderLimit = (isFullRenderForPrint || showAllPreviewPages) ? totalContentPages : Math.min(12, totalContentPages);
 
@@ -4749,7 +5099,7 @@
 
       // 2. Pages
       for (let p = 0; p < renderLimit; p++) {
-        const pageWords = words.slice(p * config.wordsPerPage, (p + 1) * config.wordsPerPage);
+        const pageWords = pageGroups[p];
         const pageWrapper = document.createElement('div');
         pageWrapper.innerHTML = buildSinglePageHtml(p, pageWords, totalContentPages, config);
         frag.appendChild(pageWrapper.firstElementChild);
@@ -4811,6 +5161,7 @@
         pageCountStatus.textContent = `已生成 ${totalPagesWithCover} 页 A4 打印预览 (每页 ${config.wordsPerPage} 词)`;
       }
       setZoom(zoom);
+      if (document.getElementById('layoutReport').textContent.trim()) updatePreflight();
     }
 
     function getTemplateName(t) {
@@ -4829,6 +5180,31 @@
         .replace(/>/g, '&gt;')
         .replace(/"/g, '&quot;')
         .replace(/'/g, '&#39;');
+    }
+
+    function askConfirmation(message, confirmLabel = '确定', cancelLabel = '取消') {
+      const dialog = document.getElementById('confirmDialog');
+      const messageEl = document.getElementById('confirmDialogMessage');
+      const ok = document.getElementById('confirmDialogOk');
+      const cancel = document.getElementById('confirmDialogCancel');
+      if (dialog.open) dialog.close();
+      messageEl.textContent = message;
+      ok.textContent = confirmLabel;
+      cancel.textContent = cancelLabel;
+      dialog.showModal();
+      return new Promise(resolve => {
+        let settled = false;
+        const finish = value => {
+          if (settled) return;
+          settled = true;
+          ok.onclick = null; cancel.onclick = null; dialog.oncancel = null;
+          if (dialog.open) dialog.close();
+          resolve(value);
+        };
+        ok.onclick = () => finish(true);
+        cancel.onclick = () => finish(false);
+        dialog.oncancel = event => { event.preventDefault(); finish(false); };
+      });
     }
 
     // Event Bindings
@@ -4858,8 +5234,7 @@
     document.querySelectorAll('.batch-preset-btn').forEach(btn => {
       btn.onclick = () => {
         const p = btn.dataset.pages;
-        const totalWords = currentBookWords.length;
-        const totalPages = Math.ceil(totalWords / wordsPerPage);
+        const totalPages = getContentGroups().length;
         const startPage = parseInt(batchStartPage.value) || 1;
         if (p === 'all') {
           batchPageCount.value = Math.max(1, totalPages - startPage + 1);
@@ -4877,9 +5252,9 @@
       saveCurrentPrintProgress();
       alert('已成功将当前打印范围记录为最新学习进度！下次打开可直接一键接续打印。');
     };
-    btnResetProgress.onclick = () => {
+    btnResetProgress.onclick = async () => {
       const key = getCurrentBookKey();
-      if (confirm('确定要重置当前词书的打印进度记录吗？')) {
+      if (await askConfirmation('确定要重置当前词书的打印进度记录吗？')) {
         const records = getStoredRecords();
         delete records[key];
         saveStoredRecords(records);
@@ -4890,8 +5265,8 @@
     btnCloseHistory.onclick = () => {
       historyModal.style.display = 'none';
     };
-    btnClearAllHistory.onclick = () => {
-      if (confirm('确定要清空所有词书的打印历史与进度档案吗？此操作不可撤销。')) {
+    btnClearAllHistory.onclick = async () => {
+      if (await askConfirmation('确定要清空所有词书的打印历史与进度档案吗？此操作不可撤销。', '清空全部')) {
         localStorage.removeItem('vocab_print_records');
         renderProgressCard();
         openHistoryModal();
@@ -4932,15 +5307,21 @@
         if (matches.length === 0) {
           quickSearchResults.innerHTML = '<div style="padding:10px; font-size:11px; color:#94a3b8; text-align:center;">未找到匹配词书</div>';
         } else {
-          quickSearchResults.innerHTML = matches.map(b => `
-            <div class="search-result-item" onclick="selectSearchedBook('${escapeHtml(b.category)}', '${escapeHtml(b.path)}')">
+          quickSearchResults.innerHTML = matches.map((b, index) => `
+            <button type="button" class="search-result-item" data-search-index="${index}">
               <div style="flex:1; min-width:0; overflow:hidden; text-overflow:ellipsis; white-space:nowrap;">
                 <strong>${escapeHtml(b.name)}</strong>
                 <span style="font-size:10px; color:#94a3b8; margin-left:4px;">(${b.count} 词)</span>
               </div>
               <span class="search-cat">${escapeHtml(b.category)}</span>
-            </div>
+            </button>
           `).join('');
+          quickSearchResults.querySelectorAll('[data-search-index]').forEach(button => {
+            button.onclick = () => {
+              const book = matches[Number(button.dataset.searchIndex)];
+              if (book) selectSearchedBook(book.category, book.path);
+            };
+          });
         }
         quickSearchResults.style.display = 'block';
       };
@@ -4958,7 +5339,7 @@
       });
     }
 
-    window.selectSearchedBook = async (category, bookPath) => {
+    async function selectSearchedBook(category, bookPath) {
       quickSearchResults.style.display = 'none';
       quickSearchBook.value = '';
       clearSearchBtn.style.display = 'none';
@@ -4967,7 +5348,7 @@
       onCategoryChange(false);
       bookSelect.value = bookPath;
       await onBookChange();
-    };
+    }
 
     document.querySelectorAll('input[name="templateMode"]').forEach(el => {
       el.onchange = () => {
@@ -4988,6 +5369,10 @@
         }
         if (el.name === 'cardStyle') {
           localStorage.setItem('vocab_print_cardstyle', el.value);
+          if (el.value !== 'academic' && document.getElementById('definitionDetail').value === 'full') {
+            document.getElementById('definitionDetail').value = 'brief';
+            document.getElementById('definitionDetail').dispatchEvent(new Event('change'));
+          }
         }
         if (el.name === 'marginMode') {
           localStorage.setItem('vocab_print_margin', el.value);
@@ -5058,6 +5443,8 @@
     }
 
     function applyScenarioPreset(presetName) {
+      document.getElementById('definitionDetail').value = 'brief';
+      document.getElementById('definitionDetail').dispatchEvent(new Event('change'));
       document.querySelectorAll('.scenario-btn').forEach(btn => {
         btn.classList.toggle('active', btn.dataset.preset === presetName);
       });
@@ -5116,29 +5503,15 @@
     });
 
     // 恢复历史偏好 (主题、字号、卡片风格、装订留白)
-    const savedTheme = localStorage.getItem('vocab_print_theme');
-    if (savedTheme) {
-      const themeRadio = document.querySelector(`input[name="paperTheme"][value="${savedTheme}"]`);
-      if (themeRadio) themeRadio.checked = true;
+    function restoreRadioPreference(name, storageKey) {
+      const saved = localStorage.getItem(storageKey);
+      const radio = Array.from(document.querySelectorAll(`input[name="${name}"]`)).find(el => el.value === saved);
+      if (radio) radio.checked = true;
     }
-
-    const savedFontSize = localStorage.getItem('vocab_print_fontsize');
-    if (savedFontSize) {
-      const fzRadio = document.querySelector(`input[name="fontSizeMode"][value="${savedFontSize}"]`);
-      if (fzRadio) fzRadio.checked = true;
-    }
-
-    const savedCardStyle = localStorage.getItem('vocab_print_cardstyle');
-    if (savedCardStyle) {
-      const csRadio = document.querySelector(`input[name="cardStyle"][value="${savedCardStyle}"]`);
-      if (csRadio) csRadio.checked = true;
-    }
-
-    const savedMargin = localStorage.getItem('vocab_print_margin');
-    if (savedMargin) {
-      const marginRadio = document.querySelector(`input[name="marginMode"][value="${savedMargin}"]`);
-      if (marginRadio) marginRadio.checked = true;
-    }
+    restoreRadioPreference('paperTheme', 'vocab_print_theme');
+    restoreRadioPreference('fontSizeMode', 'vocab_print_fontsize');
+    restoreRadioPreference('cardStyle', 'vocab_print_cardstyle');
+    restoreRadioPreference('marginMode', 'vocab_print_margin');
 
     daySelect.onchange = renderPages;
 
@@ -5150,19 +5523,25 @@
     rangeStart.oninput = debounce(renderPages, 180);
     rangeEnd.oninput = debounce(renderPages, 180);
 
-    function triggerPrint() {
-      saveCurrentPrintProgress();
+    async function triggerPrint() {
       const words = getSelectedWords();
-      const totalContentPages = Math.ceil(words.length / wordsPerPage);
+      if (!words.length) {
+        alert('当前范围没有可打印的单词，请调整范围或筛选条件。');
+        return;
+      }
+      const totalContentPages = getPageGroups(words, getRenderConfig()).length;
 
       if (totalContentPages > 30) {
-        const useDirect = confirm(`当前打印范围共包含 ${totalContentPages} 页 A4 纸。\n\n由于页数较多，直接调用浏览器打印预览可能会由于解析大量图形元素而产生短暂卡顿。\n\n【推荐】：是否打开「直接下载」窗口，由后台静默渲染高精度矢量 PDF 或进行分卷导出？\n\n点击【确定】打开直接下载窗口，点击【取消】继续当前浏览器打印。`);
+        const useDirect = await askConfirmation(
+          `当前打印范围共包含 ${totalContentPages} 页 A4 纸。\n\n页数较多时，浏览器打印预览可能短暂卡顿。建议打开“直接下载”，由后台生成 PDF 或分卷文件。`,
+          '打开直接下载', '仍用浏览器打印');
         if (useDirect) {
           openDirectDownloadModal();
           return;
         }
       }
 
+      saveCurrentPrintProgress();
       if (totalContentPages > 12 && !showAllPreviewPages) {
         pageCountStatus.textContent = `正在为打印机准备全部 ${totalContentPages} 页排版数据...`;
         renderPages(true);
@@ -5241,15 +5620,15 @@
       }
       const config = getRenderConfig();
       const baseWords = getProcessedBookWords();
-      const allWords = baseWords.map((w, idx) => ({
-        ...w,
-        _index: idx + 1,
-        _dayTag: `Day ${Math.floor(idx / config.wordsPerPage) + 1}`
-      }));
+      if (!baseWords.length) {
+        alert('当前筛选没有可下载的单词，请放宽筛选或恢复勾选。');
+        return;
+      }
+      const allWords = annotateBookWords(baseWords);
       const selectedWords = getSelectedWords();
 
-      const totalAllPages = Math.ceil(allWords.length / config.wordsPerPage);
-      const totalSelectedPages = Math.ceil(selectedWords.length / config.wordsPerPage);
+      const totalAllPages = getPageGroups(allWords, config).length;
+      const totalSelectedPages = getPageGroups(selectedWords, config).length;
 
       if (modalBookNameDisplay) modalBookNameDisplay.textContent = config.selectedBookName;
       if (modalPagesCountBadge) modalPagesCountBadge.textContent = `全书共 ${totalAllPages} 页 A4 (${allWords.length} 词)`;
@@ -5260,12 +5639,12 @@
       if (dlScopeAllLabel) dlScopeAllLabel.textContent = `全书完整内容 (全部 ${allWords.length} 词 · ${totalAllPages} 页)`;
       if (dlScopeCurrentLabel) dlScopeCurrentLabel.textContent = `当前选定范围 (${selectedWords.length} 词 · ${totalSelectedPages} 页)`;
 
-      const estSec = Math.max(2, Math.round(totalAllPages * 0.015 + 1.5));
       if (pdfEstimateTimeHint) {
-        pdfEstimateTimeHint.textContent = `（全书共 ${totalAllPages} 页，预计静默渲染约 ${estSec} 秒）`;
+        pdfEstimateTimeHint.textContent = `（全书共 ${totalAllPages} 页，耗时取决于页数和电脑性能，请等待生成完成）`;
       }
 
       updateVolumeSelectOptions();
+      updatePreflight(true);
       if (directDownloadModal) directDownloadModal.style.display = 'flex';
     }
 
@@ -5280,21 +5659,26 @@
     }
 
     function getBindingAdvice(pageCount) {
-      if (pageCount <= 12) {
-        return '装订建议：约 ' + pageCount + ' 张 A4 纸，普通订书针轻松装订，超薄便携，随手翻写极其平整。';
-      } else if (pageCount <= 25) {
-        return '装订建议：约 ' + pageCount + ' 张 A4 纸，标准手账厚度，办公订书机或燕尾夹装订，桌面书写舒适。';
-      } else if (pageCount <= 40) {
-        return '装订建议：约 ' + pageCount + ' 张 A4 纸，厚度适中，建议使用 12# 加强订书机或 10mm 抽杆夹。';
+      const duplex = getRenderConfig().printDuplex !== 'off';
+      const sheets = duplex ? Math.ceil(pageCount / 2) : pageCount;
+      const amount = `共 ${pageCount} 页，预计 ${sheets} 张 A4 纸`;
+      if (sheets <= 12) {
+        return `装订建议：${amount}，普通订书针轻松装订，超薄便携，随手翻写平整。`;
+      } else if (sheets <= 25) {
+        return `装订建议：${amount}，标准手账厚度，办公订书机或燕尾夹装订，桌面书写舒适。`;
+      } else if (sheets <= 40) {
+        return `装订建议：${amount}，厚度适中，建议使用加强订书机或 10mm 抽杆夹。`;
       } else {
-        return '装订建议：约 ' + pageCount + ' 张 A4 纸，页数较厚，建议使用 30 穴打孔活页夹、长臂装订机或热熔胶装。';
+        return `装订建议：${amount}，厚度较大，建议使用打孔活页夹、长臂装订机或热熔胶装。`;
       }
     }
 
     function updateVolumeSelectOptions() {
+      const previousVolume = dlVolumeSelect ? dlVolumeSelect.value : '';
       const config = getRenderConfig();
       const wordsToUse = (dlScopeCurrent && dlScopeCurrent.checked) ? getSelectedWords() : getProcessedBookWords();
-      const totalContentPages = Math.max(1, Math.ceil(wordsToUse.length / config.wordsPerPage));
+      const targetGroups = getPageGroups(wordsToUse, config);
+      const totalContentPages = targetGroups.length;
       const dimension = getSelectedSplitDimension();
 
       // 显示/隐藏各维度的配置区域
@@ -5302,6 +5686,18 @@
       if (dlSplitByPeriodBox) dlSplitByPeriodBox.style.display = (dimension === 'period') ? 'flex' : 'none';
       if (dlSplitByCustomBox) dlSplitByCustomBox.style.display = (dimension === 'custom') ? 'flex' : 'none';
       if (dlVolumeSelectRow) dlVolumeSelectRow.style.display = (dimension === 'custom') ? 'none' : 'flex';
+
+      if (!totalContentPages) {
+        if (dlVolumeSelect) {
+          dlVolumeSelect.innerHTML = '<option value="">暂无可用分卷</option>';
+          dlVolumeSelect.disabled = true;
+        }
+        if (dlCustomStartPage) { dlCustomStartPage.max = 1; dlCustomStartPage.value = 1; }
+        if (dlCustomEndPage) { dlCustomEndPage.max = 1; dlCustomEndPage.value = 1; }
+        updateVolumeSummary();
+        return;
+      }
+      if (dlVolumeSelect) dlVolumeSelect.disabled = false;
 
       if (dimension === 'pages') {
         const isCustomPages = dlVolumeSizeSelect && dlVolumeSizeSelect.value === 'custom';
@@ -5315,17 +5711,11 @@
         const totalVols = Math.ceil(totalContentPages / volPages);
         if (dlVolumeSelect) {
           dlVolumeSelect.innerHTML = '';
-          if (totalVols > 1) {
-            const allOpt = document.createElement('option');
-            allOpt.value = 'all';
-            allOpt.textContent = `【全部所有分卷】打包下载全套分卷 (共 ${totalVols} 卷 · ZIP 压缩包)`;
-            dlVolumeSelect.appendChild(allOpt);
-          }
           for (let v = 0; v < totalVols; v++) {
             const startP = v * volPages + 1;
             const endP = Math.min((v + 1) * volPages, totalContentPages);
             const pCount = endP - startP + 1;
-            const wCount = Math.min(endP * config.wordsPerPage, wordsToUse.length) - (startP - 1) * config.wordsPerPage;
+            const wCount = targetGroups.slice(startP - 1, endP).flat().length;
             const opt = document.createElement('option');
             opt.value = `${startP}-${endP}`;
             opt.textContent = `第 ${v + 1} 分册 (第 ${startP} ~ ${endP} 页 · 共 ${pCount} 页 · ${wCount} 词)`;
@@ -5345,17 +5735,11 @@
         const totalVols = Math.ceil(totalContentPages / volPages);
         if (dlVolumeSelect) {
           dlVolumeSelect.innerHTML = '';
-          if (totalVols > 1) {
-            const allOpt = document.createElement('option');
-            allOpt.value = 'all';
-            allOpt.textContent = `【全部所有分卷】打包下载全套分卷 (共 ${totalVols} 卷 · ZIP 压缩包)`;
-            dlVolumeSelect.appendChild(allOpt);
-          }
           for (let v = 0; v < totalVols; v++) {
             const startP = v * volPages + 1;
             const endP = Math.min((v + 1) * volPages, totalContentPages);
             const pCount = endP - startP + 1;
-            const wCount = Math.min(endP * config.wordsPerPage, wordsToUse.length) - (startP - 1) * config.wordsPerPage;
+            const wCount = targetGroups.slice(startP - 1, endP).flat().length;
             const startDay = startP;
             const endDay = endP;
             const opt = document.createElement('option');
@@ -5384,13 +5768,21 @@
         }
       }
 
+      if (dimension !== 'custom' && dlVolumeSelect) {
+        const options = Array.from(dlVolumeSelect.options);
+        const previous = options.find(o => o.value === previousVolume);
+        const firstVolume = options[0];
+        dlVolumeSelect.value = (previous || firstVolume)?.value || '';
+      }
       updateVolumeSummary();
     }
 
     function getAllVolumesData() {
       const config = getRenderConfig();
       const allTargetWords = getTargetWordsForExport();
-      const totalContentPages = Math.max(1, Math.ceil(allTargetWords.length / config.wordsPerPage));
+      if (!allTargetWords.length) return [];
+      const targetGroups = getPageGroups(allTargetWords, config);
+      const totalContentPages = targetGroups.length;
       const dimension = getSelectedSplitDimension();
       const hasCover = dlVolumeCoverOpt ? dlVolumeCoverOpt.checked : true;
       const vols = [];
@@ -5398,9 +5790,7 @@
       if (dimension === 'custom') {
         const startP = Math.max(1, Math.min(totalContentPages, parseInt(dlCustomStartPage.value) || 1));
         const endP = Math.max(startP, Math.min(totalContentPages, parseInt(dlCustomEndPage.value) || totalContentPages));
-        const startIndex = (startP - 1) * config.wordsPerPage;
-        const endIndex = Math.min(endP * config.wordsPerPage, allTargetWords.length);
-        const volWords = allTargetWords.slice(startIndex, endIndex);
+        const volWords = targetGroups.slice(startP - 1, endP).flat();
         vols.push({
           volIndex: 1,
           startPage: startP,
@@ -5425,9 +5815,7 @@
         for (let v = 0; v < totalVols; v++) {
           const startP = v * volPages + 1;
           const endP = Math.min((v + 1) * volPages, totalContentPages);
-          const startIndex = (startP - 1) * config.wordsPerPage;
-          const endIndex = Math.min(endP * config.wordsPerPage, allTargetWords.length);
-          const volWords = allTargetWords.slice(startIndex, endIndex);
+          const volWords = targetGroups.slice(startP - 1, endP).flat();
           let volTitle = '';
           let volFilenamePart = '';
 
@@ -5459,7 +5847,9 @@
     function getSelectedVolumeData() {
       const config = getRenderConfig();
       const allTargetWords = getTargetWordsForExport();
-      const totalContentPages = Math.max(1, Math.ceil(allTargetWords.length / config.wordsPerPage));
+      if (!allTargetWords.length) return null;
+      const targetGroups = getPageGroups(allTargetWords, config);
+      const totalContentPages = targetGroups.length;
       const dimension = getSelectedSplitDimension();
       const hasCover = dlVolumeCoverOpt ? dlVolumeCoverOpt.checked : true;
 
@@ -5475,9 +5865,6 @@
         volFilenamePart = `定制分册_第${startP}-${endP}页`;
       } else {
         if (!dlVolumeSelect || !dlVolumeSelect.value) return null;
-        if (dlVolumeSelect.value === 'all') {
-          return { isAll: true };
-        }
         const [sp, ep] = dlVolumeSelect.value.split('-').map(Number);
         startP = sp;
         endP = ep;
@@ -5494,9 +5881,7 @@
         }
       }
 
-      const startIndex = (startP - 1) * config.wordsPerPage;
-      const endIndex = Math.min(endP * config.wordsPerPage, allTargetWords.length);
-      const volWords = allTargetWords.slice(startIndex, endIndex);
+      const volWords = targetGroups.slice(startP - 1, endP).flat();
       const pageCount = endP - startP + 1;
 
       return {
@@ -5517,21 +5902,15 @@
       const allVols = getAllVolumesData();
       const hasCover = dlVolumeCoverOpt ? dlVolumeCoverOpt.checked : true;
 
-      if (dimension !== 'custom' && dlVolumeSelect && dlVolumeSelect.value === 'all') {
-        const totalWords = allVols.reduce((acc, v) => acc + v.wordCount, 0);
-        const totalPages = allVols.reduce((acc, v) => acc + v.pageCount, 0);
-        const coverText = hasCover ? '各卷独立专属封面' : '纯内页输出';
-        dlVolumeInfoBadge.innerHTML = `
-          <strong>全部所有分卷概览：</strong>全书共切分为 <strong>${allVols.length}</strong> 卷（总计 ${totalPages} 页 · ${totalWords} 词 · ${coverText}）<br>
-          <span style="color:#047857;">打包说明：一键将所有分册打包下载为单个 ZIP 压缩包，解压后各册独立装订，避免打印机内存溢出与浏览器多弹窗拦截。</span>
-        `;
-        if (btnDownloadSelectedVolumePdf) {
-          btnDownloadSelectedVolumePdf.textContent = `打包下载全部分卷 PDF (ZIP · 共 ${allVols.length} 卷)`;
-        }
-        if (btnDownloadSelectedVolumeHtml) {
-          btnDownloadSelectedVolumeHtml.textContent = `打包全部分卷 HTML (ZIP)`;
-        }
+      if (!allVols.length) {
+        dlVolumeInfoBadge.textContent = '当前下载范围没有可导出的单词，请切换到全书或调整筛选。';
+        [btnDownloadSelectedVolumePdf, btnDownloadAllVolumesZip, btnDownloadSelectedVolumeHtml, btnDownloadAllVolumesHtmlZip]
+          .forEach(button => { if (button) button.disabled = true; });
         return;
+      }
+      if (!isExportingPdf) {
+        [btnDownloadSelectedVolumePdf, btnDownloadAllVolumesZip, btnDownloadSelectedVolumeHtml, btnDownloadAllVolumesHtmlZip]
+          .forEach(button => { if (button) button.disabled = false; });
       }
 
       if (btnDownloadSelectedVolumePdf) {
@@ -5552,37 +5931,54 @@
 
       dlVolumeInfoBadge.innerHTML = `
         <strong>${escapeHtml(volData.volTitle)}：</strong>包含第 ${volData.startPage} ~ ${volData.endPage} 页（共 ${volData.wordCount} 词 · ${coverText}）<br>
-        <span style="color:#047857;">${advice}</span>
+        <details><summary>装订建议</summary><span style="color:#047857;">${advice}</span></details>
       `;
     }
 
+    let downloadProgressTimer = null;
+
     function showDownloadProgress(title, desc) {
+      clearTimeout(downloadProgressTimer);
       if (downloadProgressBox) {
         dlProgressStatusTitle.textContent = title;
         dlProgressStatusDesc.textContent = desc;
         downloadProgressBox.style.display = 'flex';
+        downloadProgressBox.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
       }
     }
 
     function hideDownloadProgress() {
+      clearTimeout(downloadProgressTimer);
       if (downloadProgressBox) {
         downloadProgressBox.style.display = 'none';
       }
     }
 
     function getTargetWordsForExport() {
-      const config = getRenderConfig();
       if (dlScopeCurrent && dlScopeCurrent.checked) {
         return getSelectedWords();
       }
-      return getProcessedBookWords().map((w, idx) => ({
-        ...w,
-        _index: idx + 1,
-        _dayTag: `Day ${Math.floor(idx / config.wordsPerPage) + 1}`
-      }));
+      return annotateBookWords();
     }
 
     let isExportingPdf = false;
+    let exportController = null;
+    function beginExport() {
+      exportController = new AbortController();
+      document.getElementById('cancelExport').disabled = false;
+      document.getElementById('exportProgress').removeAttribute('value');
+      return exportController.signal;
+    }
+    function onExportProgress(job) {
+      const progress = document.getElementById('exportProgress');
+      progress.value = Math.round(job.completed / Math.max(1, job.total) * 100);
+      dlProgressStatusDesc.textContent = `已完成 ${job.completed} / ${job.total} 份文件${job.state === 'running' ? '，正在处理下一份…' : ''}`;
+    }
+    document.getElementById('cancelExport').onclick = () => {
+      exportController?.abort();
+      document.getElementById('cancelExport').disabled = true;
+      showDownloadProgress('正在取消导出…', '正在停止本次任务，不会继续生成或下载文件。');
+    };
 
     function setExportButtonsDisabled(disabled, activeBtn = null) {
       const btns = [
@@ -5591,7 +5987,8 @@
         btnDownloadAllVolumesZip,
         btnDownloadSelectedVolumeHtml,
         btnDownloadAllVolumesHtmlZip,
-        btnDownloadOfflineHtml
+        btnDownloadOfflineHtml,
+        document.getElementById('downloadPracticePair')
       ];
       btns.forEach(b => {
         if (!b) return;
@@ -5613,27 +6010,32 @@
     }
 
     async function executePdfDownload(wordsToExport, filename, statusDesc, triggerBtn = null, includeCover = null, customConfig = null) {
+      if (!wordsToExport.length) {
+        alert('当前范围没有可导出的单词，请调整范围或筛选条件。');
+        return;
+      }
       if (isExportingPdf) {
         alert('已有导出任务正在生成中，请勿重复点击，请稍候约 2~4 秒！');
         return;
       }
       isExportingPdf = true;
+      const signal = beginExport();
       setExportButtonsDisabled(true, triggerBtn);
 
       const config = customConfig || getRenderConfig();
       showDownloadProgress('正在后台生成 PDF 文件...', statusDesc || '正在通过后台 Edge 内核静默排版生成高精度矢量 PDF，请稍候...');
       try {
+        // Let the browser paint the busy state before constructing many pages.
+        await new Promise(resolve => setTimeout(resolve, 0));
+        signal.throwIfAborted();
         const fullHtml = buildStandalonePrintHtml(wordsToExport, config, includeCover);
-        const res = await fetch('/api/export-pdf', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ html: fullHtml, filename: filename })
-        });
+        const res = await VocabWorkbench.exportFile({html:fullHtml, filename}, 'pdf', signal, onExportProgress);
         if (!res.ok) {
           const err = await res.json().catch(() => ({}));
           throw new Error(err.error || '后台生成 PDF 失败，请检查服务状态');
         }
         const blob = await res.blob();
+        signal.throwIfAborted();
         const url = URL.createObjectURL(blob);
         const a = document.createElement('a');
         a.href = url;
@@ -5645,18 +6047,20 @@
           URL.revokeObjectURL(url);
         }, 1000);
         showDownloadProgress('生成成功！', '文件已成功发送并开始下载，请检查浏览器的下载管理器。');
-        setTimeout(() => hideDownloadProgress(), 2500);
+        downloadProgressTimer = setTimeout(() => hideDownloadProgress(), 2500);
       } catch (err) {
-        alert('导出 PDF 失败: ' + err.message);
-        hideDownloadProgress();
+        if (err.name === 'AbortError') showDownloadProgress('导出已取消', '本次任务已停止。');
+        else { alert('导出 PDF 失败: ' + err.message); hideDownloadProgress(); }
       } finally {
         isExportingPdf = false;
+        exportController = null;
+        document.getElementById('cancelExport').disabled = true;
         setExportButtonsDisabled(false);
       }
     }
 
     async function executeZipDownload(volumesList, format = 'pdf', triggerBtn = null) {
-      if (!volumesList || volumesList.length === 0) {
+      if (!volumesList || volumesList.length === 0 || !volumesList.some(v => v.words.length)) {
         alert('暂无可用的分卷数据！');
         return;
       }
@@ -5665,42 +6069,43 @@
         return;
       }
       isExportingPdf = true;
+      const signal = beginExport();
       setExportButtonsDisabled(true, triggerBtn);
 
       const config = getRenderConfig();
       const totalVols = volumesList.length;
       const formatUpper = format.toUpperCase();
-      const estSec = Math.max(3, Math.round(totalVols * (format === 'pdf' ? 1.8 : 0.05)));
 
       showDownloadProgress(
         `正在打包生成全部分卷 (${formatUpper} · ZIP 压缩包)...`,
-        `全书共 ${totalVols} 卷分册正在由后台静默转码生成并自动打包装箱，预计耗时约 ${estSec} 秒，请稍候...`
+        `正在生成并打包 ${totalVols} 卷分册，PDF 将逐卷处理，耗时取决于总页数和电脑性能，请保持窗口打开。`
       );
 
       try {
-        const volumesPayload = volumesList.map(vol => {
-          const volConfig = { ...config, volumeSubTitle: vol.volTitle };
+        await new Promise(resolve => setTimeout(resolve, 0));
+        const volumesPayload = [];
+        for (const vol of volumesList) {
+          signal.throwIfAborted();
+          const volConfig = { ...config, ...vol.config, volumeSubTitle: vol.volTitle };
           const fullHtml = buildStandalonePrintHtml(vol.words, volConfig, vol.hasCover);
-          const totalVolPages = vol.pageCount + (vol.hasCover ? 1 : 0);
+          const totalVolPages = getPageGroups(vol.words, volConfig).length + (vol.hasCover ? 1 : 0);
           const ext = format === 'pdf' ? '.pdf' : '.html';
           const fname = `${config.selectedBookName}_${vol.volFilenamePart}_每页${config.wordsPerPage}词_共${totalVolPages}页${ext}`;
-          return {
+          volumesPayload.push({
             filename: fname,
             html: fullHtml
-          };
-        });
+          });
+          showDownloadProgress('正在准备分卷…', `排版 ${volumesPayload.length} / ${totalVols} 卷`);
+          await new Promise(resolve => setTimeout(resolve, 0));
+        }
 
         const zipFname = `${config.selectedBookName}_全套分册(共${totalVols}卷_${formatUpper}).zip`;
 
-        const res = await fetch('/api/export-volumes-zip', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({
+        const res = await VocabWorkbench.exportFile({
             zipFilename: zipFname,
             format: format,
             volumes: volumesPayload
-          })
-        });
+        }, 'zip', signal, onExportProgress);
 
         if (!res.ok) {
           const err = await res.json().catch(() => ({}));
@@ -5708,6 +6113,7 @@
         }
 
         const blob = await res.blob();
+        signal.throwIfAborted();
         const url = URL.createObjectURL(blob);
         const a = document.createElement('a');
         a.href = url;
@@ -5720,17 +6126,23 @@
         }, 1000);
 
         showDownloadProgress('打包下载成功！', `全套 ${totalVols} 卷已成功打包为单个 ZIP 文件并开始下载，请检查浏览器的下载目录。`);
-        setTimeout(() => hideDownloadProgress(), 2500);
+        downloadProgressTimer = setTimeout(() => hideDownloadProgress(), 2500);
       } catch (err) {
-        alert('打包分卷失败: ' + err.message);
-        hideDownloadProgress();
+        if (err.name === 'AbortError') showDownloadProgress('导出已取消', '本次任务已停止。');
+        else { alert('打包分卷失败: ' + err.message); hideDownloadProgress(); }
       } finally {
         isExportingPdf = false;
+        exportController = null;
+        document.getElementById('cancelExport').disabled = true;
         setExportButtonsDisabled(false);
       }
     }
 
     function executeHtmlDownload(wordsToExport, filename, includeCover = null, customConfig = null) {
+      if (!wordsToExport.length) {
+        alert('当前范围没有可导出的单词，请调整范围或筛选条件。');
+        return;
+      }
       const config = customConfig || getRenderConfig();
       const fullHtml = buildStandalonePrintHtml(wordsToExport, config, includeCover);
       const blob = new Blob([fullHtml], { type: 'text/html;charset=utf-8' });
@@ -5745,7 +6157,7 @@
         URL.revokeObjectURL(url);
       }, 1000);
       showDownloadProgress('已完成导出！', '离线 HTML 文件已保存至下载目录。');
-      setTimeout(() => hideDownloadProgress(), 2000);
+      downloadProgressTimer = setTimeout(() => hideDownloadProgress(), 2000);
     }
 
     if (btnDirectDownload) btnDirectDownload.onclick = openDirectDownloadModal;
@@ -5758,8 +6170,8 @@
     }
 
     // 方案二事件监听绑定
-    if (dlScopeAll) dlScopeAll.onchange = updateVolumeSelectOptions;
-    if (dlScopeCurrent) dlScopeCurrent.onchange = updateVolumeSelectOptions;
+    if (dlScopeAll) dlScopeAll.onchange = () => { updateVolumeSelectOptions(); updatePreflight(true); };
+    if (dlScopeCurrent) dlScopeCurrent.onchange = () => { updateVolumeSelectOptions(); updatePreflight(true); };
     dlSplitDimensions.forEach(r => {
       r.onchange = updateVolumeSelectOptions;
     });
@@ -5777,22 +6189,15 @@
         const config = getRenderConfig();
         const words = getTargetWordsForExport();
         const scopeTag = (dlScopeCurrent && dlScopeCurrent.checked) ? '选定范围' : '全书完整版';
-        const totalP = Math.ceil(words.length / config.wordsPerPage) + (config.showCover ? 1 : 0);
+        const totalP = getPageGroups(words, config).length + (config.showCover ? 1 : 0);
         const fname = `${config.selectedBookName}_${scopeTag}_每页${config.wordsPerPage}词_共${totalP}页.pdf`;
         await executePdfDownload(words, fname, `全书 ${totalP} 页正在由后台静默转码生成，不占用浏览器主线程...`, btnDownloadFullPdf, null, config);
       };
     }
 
-    // 方案二：下载所选分卷 PDF（若选择“全部所有分卷”，则自动执行打包全部分卷）
+    // 方案二：下载所选分卷 PDF
     if (btnDownloadSelectedVolumePdf) {
       btnDownloadSelectedVolumePdf.onclick = async () => {
-        const dimension = getSelectedSplitDimension();
-        if (dimension !== 'custom' && dlVolumeSelect && dlVolumeSelect.value === 'all') {
-          const allVols = getAllVolumesData();
-          await executeZipDownload(allVols, 'pdf', btnDownloadSelectedVolumePdf);
-          return;
-        }
-
         const volData = getSelectedVolumeData();
         if (!volData) return alert('请先选择有效的分卷！');
         const config = getRenderConfig();
@@ -5818,16 +6223,9 @@
       };
     }
 
-    // 方案二：导出所选分卷 HTML（若选择“全部所有分卷”，则打包全部 HTML）
+    // 方案二：导出所选分卷 HTML
     if (btnDownloadSelectedVolumeHtml) {
       btnDownloadSelectedVolumeHtml.onclick = () => {
-        const dimension = getSelectedSplitDimension();
-        if (dimension !== 'custom' && dlVolumeSelect && dlVolumeSelect.value === 'all') {
-          const allVols = getAllVolumesData();
-          executeZipDownload(allVols, 'html', btnDownloadSelectedVolumeHtml);
-          return;
-        }
-
         const volData = getSelectedVolumeData();
         if (!volData) return alert('请先选择有效的分卷！');
         const config = getRenderConfig();
@@ -5852,12 +6250,83 @@
         const config = getRenderConfig();
         const words = getTargetWordsForExport();
         const scopeTag = (dlScopeCurrent && dlScopeCurrent.checked) ? '选定范围' : '全书完整版';
-        const totalP = Math.ceil(words.length / config.wordsPerPage) + (config.showCover ? 1 : 0);
+        const totalP = getPageGroups(words, config).length + (config.showCover ? 1 : 0);
         const fname = `${config.selectedBookName}_${scopeTag}_每页${config.wordsPerPage}词_共${totalP}页_离线排版.html`;
         executeHtmlDownload(words, fname, null, config);
       };
     }
 
+    function updatePreflight(forExport = false) {
+      const config = getRenderConfig();
+      const words = forExport ? getTargetWordsForExport() : getSelectedWords();
+      const result = VocabWorkbench.preflight(words, config);
+      const clipped = Array.from(previewArea.querySelectorAll('[title]')).filter(el => el.clientHeight && (el.scrollHeight > el.clientHeight + 1 || el.scrollWidth > el.clientWidth + 1));
+      if (clipped.length) result.warnings.push(`当前预览中 ${clipped.length} 处内容有截短，可悬停查看原文或使用完整释义。`);
+      const overlaps = Array.from(previewArea.querySelectorAll('.p-slots')).filter(el => {
+        const slot = el.getBoundingClientRect(), row = el.parentElement.getBoundingClientRect();
+        return slot.top < row.top - 1 || slot.bottom > row.bottom + 1;
+      });
+      if (overlaps.length) result.warnings.push(`检测到 ${overlaps.length} 处练习格空间不足，请减少每页词数。`);
+      const pages = getPageGroups(words, config).length + (words.length && config.showCover ? 1 : 0);
+      const sheets = config.printDuplex === 'off' ? pages : Math.ceil(pages / 2);
+      const message = `${words.length}词 · ${pages}页 · 预计${sheets}张纸\n` + (result.warnings.length ? result.warnings.join('\n') : '未发现明显风险。请按实际纸张尺寸预览打印。');
+      document.getElementById(forExport ? 'exportPreflight' : 'layoutReport').textContent = message;
+      return result;
+    }
+    document.getElementById('checkLayout').onclick = () => updatePreflight();
+    document.getElementById('exportEdition').onchange = () => {
+      renderPages(); updatePreflight(true); updateVolumeSelectOptions();
+    };
+    document.getElementById('applyReadingLayout').onclick = () => {
+      document.getElementById('definitionDetail').value = 'full';
+      setRadioValue('cardStyle', 'academic');
+      setWordsPerPage(4);
+      document.getElementById('definitionDetail').dispatchEvent(new Event('change'));
+      updatePreflight();
+    };
+    document.getElementById('applyEconomyLayout').onclick = () => {
+      document.getElementById('definitionDetail').value = 'brief';
+      document.getElementById('printInkSaver').checked = true;
+      document.getElementById('printDecorations').checked = false;
+      document.getElementById('optCover').checked = false;
+      setRadioValue('cardStyle', 'compact');
+      setWordsPerPage(12);
+      document.getElementById('definitionDetail').dispatchEvent(new Event('change'));
+      updatePreflight();
+    };
+    document.getElementById('downloadPracticePair').onclick = async () => {
+      const words = getTargetWordsForExport();
+      const config = getRenderConfig();
+      const versions = [
+        {template:'cloze',clozeType:'word', volumeSubTitle:'练习版（隐藏拼写）'},
+        {template:'standard',clozeType:'zh', volumeSubTitle:'答案版'}
+      ].map((override, index) => ({words,config:{...config,...override},hasCover:config.showCover,
+        volTitle:override.volumeSubTitle,volFilenamePart:index ? '答案版' : '练习版',pageCount:getPageGroups(words,{...config,...override}).length}));
+      await executeZipDownload(versions,'pdf',document.getElementById('downloadPracticePair'));
+    };
+    VocabWorkbench.init({
+      words: () => currentBookWords,
+      refresh: () => {
+        shuffledOrderCache = null;
+        if (document.getElementById('definitionDetail').value === 'full' && (wordsPerPage > 4 || document.querySelector('input[name="cardStyle"]:checked')?.value !== 'academic')) {
+          setRadioValue('cardStyle','academic'); setWordsPerPage(4);
+        }
+        updateDaySelect(); updateBatchSummary(); updateAllScopeSummary(); renderProgressCard(); renderPages();
+        bookWordCount.textContent = `${getProcessedBookWords().length} 词`;
+        if (directDownloadModal.style.display === 'flex') { updateVolumeSelectOptions(); updatePreflight(true); }
+      },
+      replace: (words, name) => {
+        bookRequestId++; currentBookWords = words; previewBookTitle.textContent = name;
+        currentBookSource = customBookIdentity(words, name);
+        VocabWorkbench.bookChanged(); rangeStart.value = 1; batchStartPage.value = 1;
+        rangeEnd.value = Math.min(40, words.length); rangeEnd.max = words.length;
+      },
+      applyControls: () => {
+        setWordsPerPage(document.getElementById('wordsPerPageInput').value);
+        document.querySelector('input[name="scopeMode"]:checked')?.dispatchEvent(new Event('change'));
+        clozeSubGroup.style.display = document.querySelector('input[name="templateMode"]:checked')?.value === 'cloze' ? 'flex' : 'none';
+      }
+    });
     // Start
     initCatalog();
   </script>

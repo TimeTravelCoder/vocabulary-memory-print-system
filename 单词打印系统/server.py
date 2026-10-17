@@ -1,55 +1,176 @@
-import os
-import sys
 import json
-import urllib.parse
-from http.server import ThreadingHTTPServer, SimpleHTTPRequestHandler
-import webbrowser
-import socket
-import threading
+import os
+from pathlib import Path
+import re
+import shutil
 import subprocess
+import sys
 import tempfile
-import uuid
-import zipfile
+import threading
+import time
+from http.server import ThreadingHTTPServer, SimpleHTTPRequestHandler
+import urllib.parse
+import webbrowser
+
+from export_jobs import ExportBusyError, ExportConflictError, ExportJobs
+
+
+def _stop_process_tree(process):
+    if process.poll() is not None:
+        return
+    if os.name == 'nt':
+        subprocess.run(
+            ['taskkill', '/PID', str(process.pid), '/T', '/F'],
+            capture_output=True,
+            creationflags=subprocess.CREATE_NO_WINDOW,
+        )
+    if process.poll() is None:
+        process.kill()
+    try:
+        process.communicate(timeout=5)
+    except subprocess.TimeoutExpired:
+        process.kill()
+        process.communicate()
+
+
+def render_pdf(browser_path, html_path, pdf_path, cancel_event=None):
+    """Render one local HTML document and always reap its browser process tree."""
+    cancel_event = cancel_event or threading.Event()
+    with tempfile.TemporaryDirectory(prefix='vocab_browser_') as profile:
+        cmd = [
+            browser_path, '--headless=new', '--disable-gpu', '--disable-extensions',
+            '--disable-background-networking', '--no-first-run',
+            '--no-default-browser-check', f'--user-data-dir={profile}',
+            '--no-pdf-header-footer', f'--print-to-pdf={pdf_path}',
+            Path(html_path).as_uri(),
+        ]
+        options = {
+            'stdout': subprocess.PIPE,
+            'stderr': subprocess.PIPE,
+        }
+        if os.name == 'nt':
+            options['creationflags'] = subprocess.CREATE_NO_WINDOW
+        else:
+            options['start_new_session'] = True
+        process = subprocess.Popen(cmd, **options)
+        started = time.monotonic()
+        result = None
+        try:
+            while True:
+                if cancel_event.is_set():
+                    raise InterruptedError('已取消导出')
+                if time.monotonic() - started > 120:
+                    raise subprocess.TimeoutExpired(cmd, 120)
+                try:
+                    stdout, stderr = process.communicate(timeout=0.2)
+                    result = subprocess.CompletedProcess(cmd, process.returncode, stdout, stderr)
+                    break
+                except subprocess.TimeoutExpired:
+                    continue
+        except subprocess.TimeoutExpired as error:
+            raise RuntimeError('PDF 生成超时，请减少每卷页数后重试') from error
+        finally:
+            _stop_process_tree(process)
+
+        if not os.path.isfile(pdf_path) or os.path.getsize(pdf_path) == 0:
+            detail = (result.stderr if result else b'').decode('utf-8', errors='replace')[-500:]
+            raise RuntimeError('浏览器未生成 PDF，请重试。' + detail)
+        with open(pdf_path, 'rb') as pdf:
+            if pdf.read(5) != b'%PDF-':
+                raise RuntimeError('浏览器生成的文件不是有效 PDF')
+
 
 SYSTEM_DIR = os.path.dirname(os.path.abspath(__file__))
-if os.path.exists(os.path.join(os.path.dirname(SYSTEM_DIR), "中英合并释义_JSON")):
-    DATA_DIR = os.path.join(os.path.dirname(SYSTEM_DIR), "中英合并释义_JSON")
-elif os.path.exists(os.path.join(SYSTEM_DIR, "中英合并释义_JSON")):
-    DATA_DIR = os.path.join(SYSTEM_DIR, "中英合并释义_JSON")
+if os.path.exists(os.path.join(os.path.dirname(SYSTEM_DIR), '中英合并释义_JSON')):
+    DATA_DIR = os.path.join(os.path.dirname(SYSTEM_DIR), '中英合并释义_JSON')
+elif os.path.exists(os.path.join(SYSTEM_DIR, '中英合并释义_JSON')):
+    DATA_DIR = os.path.join(SYSTEM_DIR, '中英合并释义_JSON')
 else:
-    DATA_DIR = os.path.join(os.path.dirname(SYSTEM_DIR), "中英合并释义_JSON")
+    DATA_DIR = os.path.join(os.path.dirname(SYSTEM_DIR), '中英合并释义_JSON')
+
 
 def find_browser_path():
     candidates = [
-        r"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe",
-        r"C:\Program Files\Microsoft\Edge\Application\msedge.exe",
-        os.path.expanduser(r"~\AppData\Local\Microsoft\Edge\Application\msedge.exe"),
-        r"C:\Program Files\Google\Chrome\Application\chrome.exe",
-        r"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe",
-        os.path.expanduser(r"~\AppData\Local\Google\Chrome\Application\chrome.exe"),
+        shutil.which('msedge'), shutil.which('chrome'), shutil.which('chromium'),
+        r'C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe',
+        r'C:\Program Files\Microsoft\Edge\Application\msedge.exe',
+        os.path.expanduser(r'~\AppData\Local\Microsoft\Edge\Application\msedge.exe'),
+        r'C:\Program Files\Google\Chrome\Application\chrome.exe',
+        r'C:\Program Files (x86)\Google\Chrome\Application\chrome.exe',
+        os.path.expanduser(r'~\AppData\Local\Google\Chrome\Application\chrome.exe'),
     ]
-    for p in candidates:
-        if os.path.exists(p):
-            return p
-    return None
+    return next((path for path in candidates if path and os.path.isfile(path)), None)
+
+
+EXPORT_JOBS = ExportJobs(render_pdf, find_browser_path)
+
+
+class ApiRequestError(Exception):
+    def __init__(self, status, message):
+        super().__init__(message)
+        self.status = status
+
 
 class VocabularyPrintServer(SimpleHTTPRequestHandler):
-    protocol_version = "HTTP/1.0"
+    protocol_version = 'HTTP/1.0'
 
     def __init__(self, *args, **kwargs):
         super().__init__(*args, directory=SYSTEM_DIR, **kwargs)
 
     def log_message(self, format, *args):
-        # Clean console log
-        sys.stdout.write(f"[{self.log_date_time_string()}] {format % args}\n")
+        sys.stdout.write(f'[{self.log_date_time_string()}] {format % args}\n')
         sys.stdout.flush()
 
+    def send_json(self, status, payload):
+        data = json.dumps(payload, ensure_ascii=False).encode('utf-8')
+        self.send_response(status)
+        self.send_header('Content-Type', 'application/json; charset=utf-8')
+        self.send_header('Content-Length', str(len(data)))
+        self.send_header('Cache-Control', 'no-store')
+        self.send_header('X-Content-Type-Options', 'nosniff')
+        self.send_header('Connection', 'close')
+        self.end_headers()
+        self.wfile.write(data)
+
+    def _same_origin_request(self):
+        if self.headers.get('Sec-Fetch-Site', '').lower() == 'cross-site':
+            return False
+        origin = self.headers.get('Origin')
+        if not origin:
+            return True
+        try:
+            parsed = urllib.parse.urlsplit(origin)
+            host_ok = parsed.hostname in ('127.0.0.1', 'localhost', '::1')
+            return parsed.scheme in ('http', 'https') and host_ok and parsed.port == self.server.server_port
+        except ValueError:
+            return False
+
+    def _read_json(self, maximum=100 * 1024 * 1024):
+        if not self._same_origin_request():
+            raise ApiRequestError(403, '拒绝跨站请求')
+        content_type = self.headers.get_content_type().lower()
+        if content_type != 'application/json':
+            raise ApiRequestError(415, '请求必须使用 application/json')
+        try:
+            size = int(self.headers.get('Content-Length', ''))
+        except ValueError as error:
+            raise ApiRequestError(411, '缺少有效的 Content-Length') from error
+        if size < 1:
+            raise ApiRequestError(400, '请求内容为空')
+        if size > maximum:
+            raise ApiRequestError(413, '排版内容过大，请减小分卷范围')
+        try:
+            payload = json.loads(self.rfile.read(size).decode('utf-8'))
+        except (UnicodeDecodeError, json.JSONDecodeError) as error:
+            raise ApiRequestError(400, 'JSON 格式无效') from error
+        if not isinstance(payload, dict):
+            raise ApiRequestError(400, '请求内容必须是 JSON 对象')
+        return payload
+
     def do_OPTIONS(self):
-        self.send_response(204)
-        self.send_header("Access-Control-Allow-Origin", "*")
-        self.send_header("Access-Control-Allow-Methods", "GET, POST, OPTIONS")
-        self.send_header("Access-Control-Allow-Headers", "Content-Type")
-        self.send_header("Connection", "close")
+        self.send_response(405)
+        self.send_header('Allow', 'GET, POST')
+        self.send_header('Connection', 'close')
         self.end_headers()
 
     def do_GET(self):
@@ -57,295 +178,151 @@ class VocabularyPrintServer(SimpleHTTPRequestHandler):
         path = parsed.path
         query = urllib.parse.parse_qs(parsed.query)
 
-        if path == "/api/catalog":
-            cat_path = os.path.join(SYSTEM_DIR, "catalog.json")
-            if os.path.exists(cat_path):
-                self.send_response(200)
-                self.send_header("Content-Type", "application/json; charset=utf-8")
-                self.send_header("Access-Control-Allow-Origin", "*")
-                self.send_header("Connection", "close")
-                self.end_headers()
-                with open(cat_path, "rb") as f:
-                    self.wfile.write(f.read())
-            else:
-                self.send_error(404, "Catalog not found")
+        job_match = re.fullmatch(r'/api/export-jobs/([a-f0-9]{32})(/file)?', path)
+        if job_match:
+            job_id, wants_file = job_match.group(1), bool(job_match.group(2))
+            status = EXPORT_JOBS.status(job_id)
+            if not status:
+                return self.send_json(404, {'error': '任务不存在或已过期'})
+            if not wants_file:
+                return self.send_json(200, status)
+            if status['state'] != 'done':
+                return self.send_json(409, {'error': '文件尚未生成或任务已取消'})
+            artifact = EXPORT_JOBS.file(job_id)
+            if not artifact:
+                return self.send_json(410, {'error': '导出文件已过期，请重新生成'})
+            self.send_response(200)
+            self.send_header('Content-Type', artifact['mime'])
+            self.send_header('Content-Length', str(artifact['size']))
+            self.send_header(
+                'Content-Disposition',
+                "attachment; filename*=UTF-8''" + urllib.parse.quote(artifact['filename']))
+            self.send_header('X-Content-Type-Options', 'nosniff')
+            self.send_header('Connection', 'close')
+            self.end_headers()
+            try:
+                with artifact['path'].open('rb') as source:
+                    shutil.copyfileobj(source, self.wfile, length=1024 * 1024)
+            except (BrokenPipeError, ConnectionResetError):
+                pass
             return
 
-        elif path == "/api/book":
-            rel_path = query.get("path", [""])[0]
+        if path == '/api/catalog':
+            catalog_path = Path(SYSTEM_DIR) / 'catalog.json'
+            if not catalog_path.is_file():
+                return self.send_error(404, 'Catalog not found')
+            data = catalog_path.read_bytes()
+            self.send_response(200)
+            self.send_header('Content-Type', 'application/json; charset=utf-8')
+            self.send_header('Content-Length', str(len(data)))
+            self.send_header('X-Content-Type-Options', 'nosniff')
+            self.send_header('Connection', 'close')
+            self.end_headers()
+            self.wfile.write(data)
+            return
+
+        if path == '/api/book':
+            rel_path = query.get('path', [''])[0]
             if not rel_path:
-                self.send_error(400, "Missing path param")
-                return
-            
-            safe_rel = urllib.parse.unquote(rel_path).replace("/", os.sep).replace("\\", os.sep).lstrip(os.sep)
-            file_path = os.path.abspath(os.path.join(DATA_DIR, safe_rel))
-            data_dir_abs = os.path.abspath(DATA_DIR)
-            
-            # 严格防止路径遍历攻击 (Path Traversal Protection)
-            if not file_path.startswith(data_dir_abs):
-                self.send_error(403, "Access denied")
-                return
-
-            if os.path.exists(file_path) and file_path.endswith(".json"):
-                self.send_response(200)
-                self.send_header("Content-Type", "application/json; charset=utf-8")
-                self.send_header("Access-Control-Allow-Origin", "*")
-                self.send_header("Connection", "close")
-                self.end_headers()
-                with open(file_path, "rb") as f:
-                    self.wfile.write(f.read())
-            else:
-                self.send_error(404, "Book file not found")
+                return self.send_error(400, 'Missing path param')
+            root = os.path.realpath(DATA_DIR)
+            relative = urllib.parse.unquote(rel_path).replace('/', os.sep).replace('\\', os.sep).lstrip(os.sep)
+            candidate = os.path.realpath(os.path.join(root, relative))
+            try:
+                allowed = os.path.commonpath([candidate, root]) == root
+            except (ValueError, OSError):
+                allowed = False
+            if not allowed:
+                return self.send_error(403, 'Access denied')
+            if not os.path.isfile(candidate) or not candidate.lower().endswith('.json'):
+                return self.send_error(404, 'Book file not found')
+            data = Path(candidate).read_bytes()
+            self.send_response(200)
+            self.send_header('Content-Type', 'application/json; charset=utf-8')
+            self.send_header('Content-Length', str(len(data)))
+            self.send_header('X-Content-Type-Options', 'nosniff')
+            self.send_header('Connection', 'close')
+            self.end_headers()
+            self.wfile.write(data)
             return
 
-        elif path == "/" or path == "":
+        if path in ('/', ''):
             self.send_response(302)
-            self.send_header("Location", "/index.html")
-            self.send_header("Connection", "close")
+            self.send_header('Location', '/index.html')
+            self.send_header('Connection', 'close')
             self.end_headers()
             return
-
         super().do_GET()
 
     def do_POST(self):
-        parsed = urllib.parse.urlparse(self.path)
-        if parsed.path == "/api/export-pdf":
-            temp_html_path = None
-            temp_pdf_path = None
-            try:
-                content_length = int(self.headers.get("Content-Length", 0))
-                post_data = self.rfile.read(content_length)
-                payload = json.loads(post_data.decode("utf-8"))
-                
-                html_content = payload.get("html", "")
-                raw_filename = payload.get("filename", "vocabulary_book.pdf")
-                if not raw_filename.endswith(".pdf"):
-                    raw_filename += ".pdf"
+        path = urllib.parse.urlparse(self.path).path
+        try:
+            if path == '/api/export-jobs':
+                payload = self._read_json()
+                try:
+                    job_id = EXPORT_JOBS.create(payload)
+                except ExportConflictError as error:
+                    return self.send_json(409, {'error': str(error)})
+                except ExportBusyError as error:
+                    return self.send_json(429, {'error': str(error)})
+                except ValueError as error:
+                    return self.send_json(400, {'error': str(error)})
+                return self.send_json(202, {'id': job_id})
 
-                browser_path = find_browser_path()
-                if not browser_path:
-                    self.send_response(500)
-                    self.send_header("Content-Type", "application/json; charset=utf-8")
-                    self.send_header("Access-Control-Allow-Origin", "*")
-                    self.send_header("Connection", "close")
-                    self.end_headers()
-                    self.wfile.write(json.dumps({"error": "未找到 Edge 或 Chrome 浏览器程序"}).encode("utf-8"))
-                    return
+            cancel_match = re.fullmatch(r'/api/export-jobs/([a-f0-9]{32})/cancel', path)
+            if cancel_match:
+                self._read_json(maximum=1024)
+                state = EXPORT_JOBS.cancel(cancel_match.group(1))
+                if state is None:
+                    return self.send_json(404, {'error': '任务不存在'})
+                return self.send_json(202 if state in ('queued', 'running') else 200, {
+                    'state': 'cancelling' if state in ('queued', 'running') else state,
+                })
+        except ApiRequestError as error:
+            return self.send_json(error.status, {'error': str(error)})
+        self.send_error(404, 'Endpoint not found')
 
-                temp_dir = tempfile.gettempdir()
-                uid = uuid.uuid4().hex[:8]
-                temp_html_path = os.path.abspath(os.path.join(temp_dir, f"vocab_export_{uid}.html"))
-                temp_pdf_path = os.path.abspath(os.path.join(temp_dir, f"vocab_export_{uid}.pdf"))
 
-                with open(temp_html_path, "w", encoding="utf-8") as f:
-                    f.write(html_content)
+class VocabularyHTTPServer(ThreadingHTTPServer):
+    allow_reuse_address = True
+    daemon_threads = True
 
-                file_url = "file:///" + temp_html_path.replace("\\", "/")
-                cmd = [
-                    browser_path,
-                    "--headless",
-                    "--disable-gpu",
-                    "--disable-software-rasterizer",
-                    "--hide-scrollbars",
-                    "--no-pdf-header-footer",
-                    f"--print-to-pdf={temp_pdf_path}",
-                    file_url
-                ]
 
-                run_res = subprocess.run(cmd, capture_output=True, timeout=120)
+def create_server(start_port=8899, attempts=50):
+    last_error = None
+    for port in range(start_port, start_port + attempts):
+        try:
+            return VocabularyHTTPServer(('127.0.0.1', port), VocabularyPrintServer)
+        except OSError as error:
+            last_error = error
+    raise RuntimeError(f'无法在 {start_port} 到 {start_port + attempts - 1} 端口启动服务') from last_error
 
-                if os.path.exists(temp_pdf_path) and os.path.getsize(temp_pdf_path) > 0:
-                    with open(temp_pdf_path, "rb") as f:
-                        pdf_bytes = f.read()
-
-                    quoted_filename = urllib.parse.quote(raw_filename.encode("utf-8"))
-                    self.send_response(200)
-                    self.send_header("Content-Type", "application/pdf")
-                    self.send_header("Content-Disposition", f"attachment; filename*=UTF-8''{quoted_filename}")
-                    self.send_header("Content-Length", str(len(pdf_bytes)))
-                    self.send_header("Access-Control-Allow-Origin", "*")
-                    self.send_header("Connection", "close")
-                    self.end_headers()
-                    self.wfile.write(pdf_bytes)
-                else:
-                    err_msg = run_res.stderr.decode("utf-8", errors="ignore") if run_res.stderr else "生成 PDF 失败"
-                    self.send_response(500)
-                    self.send_header("Content-Type", "application/json; charset=utf-8")
-                    self.send_header("Access-Control-Allow-Origin", "*")
-                    self.send_header("Connection", "close")
-                    self.end_headers()
-                    self.wfile.write(json.dumps({"error": err_msg}).encode("utf-8"))
-
-            except Exception as e:
-                self.send_response(500)
-                self.send_header("Content-Type", "application/json; charset=utf-8")
-                self.send_header("Access-Control-Allow-Origin", "*")
-                self.send_header("Connection", "close")
-                self.end_headers()
-                self.wfile.write(json.dumps({"error": str(e)}).encode("utf-8"))
-            finally:
-                if temp_html_path and os.path.exists(temp_html_path):
-                    try:
-                        os.remove(temp_html_path)
-                    except Exception:
-                        pass
-                if temp_pdf_path and os.path.exists(temp_pdf_path):
-                    try:
-                        os.remove(temp_pdf_path)
-                    except Exception:
-                        pass
-            return
-
-        elif parsed.path == "/api/export-volumes-zip":
-            temp_files_to_clean = []
-            try:
-                content_length = int(self.headers.get("Content-Length", 0))
-                post_data = self.rfile.read(content_length)
-                payload = json.loads(post_data.decode("utf-8"))
-
-                volumes = payload.get("volumes", [])
-                zip_filename = payload.get("zipFilename", "vocabulary_volumes.zip")
-                export_format = payload.get("format", "pdf")
-
-                if not zip_filename.endswith(".zip"):
-                    zip_filename += ".zip"
-
-                if not volumes:
-                    self.send_response(400)
-                    self.send_header("Content-Type", "application/json; charset=utf-8")
-                    self.send_header("Access-Control-Allow-Origin", "*")
-                    self.send_header("Connection", "close")
-                    self.end_headers()
-                    self.wfile.write(json.dumps({"error": "未提供有效分卷数据"}).encode("utf-8"))
-                    return
-
-                browser_path = find_browser_path() if export_format == "pdf" else None
-                if export_format == "pdf" and not browser_path:
-                    self.send_response(500)
-                    self.send_header("Content-Type", "application/json; charset=utf-8")
-                    self.send_header("Access-Control-Allow-Origin", "*")
-                    self.send_header("Connection", "close")
-                    self.end_headers()
-                    self.wfile.write(json.dumps({"error": "未找到 Edge 或 Chrome 浏览器程序"}).encode("utf-8"))
-                    return
-
-                temp_dir = tempfile.gettempdir()
-                uid = uuid.uuid4().hex[:8]
-                temp_zip_path = os.path.abspath(os.path.join(temp_dir, f"vocab_volumes_{uid}.zip"))
-                temp_files_to_clean.append(temp_zip_path)
-
-                with zipfile.ZipFile(temp_zip_path, 'w', compression=zipfile.ZIP_DEFLATED) as zf:
-                    for idx, vol in enumerate(volumes):
-                        vol_filename = vol.get("filename", f"volume_{idx+1}")
-                        html_content = vol.get("html", "")
-
-                        if export_format == "html":
-                            if not vol_filename.endswith(".html"):
-                                vol_filename += ".html"
-                            zf.writestr(vol_filename, html_content.encode("utf-8"))
-                        else:
-                            # PDF export
-                            if not vol_filename.endswith(".pdf"):
-                                vol_filename += ".pdf"
-                            vol_uid = f"{uid}_{idx+1}"
-                            v_html_path = os.path.abspath(os.path.join(temp_dir, f"v_html_{vol_uid}.html"))
-                            v_pdf_path = os.path.abspath(os.path.join(temp_dir, f"v_pdf_{vol_uid}.pdf"))
-                            temp_files_to_clean.extend([v_html_path, v_pdf_path])
-
-                            with open(v_html_path, "w", encoding="utf-8") as vf:
-                                vf.write(html_content)
-
-                            file_url = "file:///" + v_html_path.replace("\\", "/")
-                            cmd = [
-                                browser_path,
-                                "--headless",
-                                "--disable-gpu",
-                                "--disable-software-rasterizer",
-                                "--hide-scrollbars",
-                                "--no-pdf-header-footer",
-                                f"--print-to-pdf={v_pdf_path}",
-                                file_url
-                            ]
-                            subprocess.run(cmd, capture_output=True, timeout=120)
-
-                            if os.path.exists(v_pdf_path) and os.path.getsize(v_pdf_path) > 0:
-                                zf.write(v_pdf_path, arcname=vol_filename)
-                            else:
-                                fallback_html_name = vol_filename.replace(".pdf", ".html")
-                                zf.writestr(fallback_html_name, html_content.encode("utf-8"))
-
-                if os.path.exists(temp_zip_path) and os.path.getsize(temp_zip_path) > 0:
-                    with open(temp_zip_path, "rb") as zf_read:
-                        zip_bytes = zf_read.read()
-
-                    quoted_zip_name = urllib.parse.quote(zip_filename.encode("utf-8"))
-                    self.send_response(200)
-                    self.send_header("Content-Type", "application/zip")
-                    self.send_header("Content-Disposition", f"attachment; filename*=UTF-8''{quoted_zip_name}")
-                    self.send_header("Content-Length", str(len(zip_bytes)))
-                    self.send_header("Access-Control-Allow-Origin", "*")
-                    self.send_header("Connection", "close")
-                    self.end_headers()
-                    self.wfile.write(zip_bytes)
-                else:
-                    self.send_response(500)
-                    self.send_header("Content-Type", "application/json; charset=utf-8")
-                    self.send_header("Access-Control-Allow-Origin", "*")
-                    self.send_header("Connection", "close")
-                    self.end_headers()
-                    self.wfile.write(json.dumps({"error": "生成分卷压缩包失败"}).encode("utf-8"))
-
-            except Exception as e:
-                self.send_response(500)
-                self.send_header("Content-Type", "application/json; charset=utf-8")
-                self.send_header("Access-Control-Allow-Origin", "*")
-                self.send_header("Connection", "close")
-                self.end_headers()
-                self.wfile.write(json.dumps({"error": str(e)}).encode("utf-8"))
-            finally:
-                for tf in temp_files_to_clean:
-                    if tf and os.path.exists(tf):
-                        try:
-                            os.remove(tf)
-                        except Exception:
-                            pass
-            return
-
-        self.send_error(404, "Endpoint not found")
-
-def get_free_port(start_port=8899):
-    for port in range(start_port, start_port + 50):
-        with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
-            if s.connect_ex(('127.0.0.1', port)) != 0:
-                return port
-    return start_port
 
 def main():
-    sys.stdout.reconfigure(encoding='utf-8')
-    ThreadingHTTPServer.allow_reuse_address = True
-    port = get_free_port(8899)
-    server_address = ('127.0.0.1', port)
-    httpd = ThreadingHTTPServer(server_address, VocabularyPrintServer)
-    url = f"http://127.0.0.1:{port}/index.html"
-    
-    print("=" * 60, flush=True)
-    print("  [OK] 单词打印记忆本系统已成功启动！", flush=True)
-    print(f"  服务网址: {url}", flush=True)
-    print("  （浏览器已自动打开，若未打开请手动复制上方网址打开）", flush=True)
-    print("  请勿关闭此黑色窗口，按 Ctrl + C 可退出服务", flush=True)
-    print("=" * 60, flush=True)
+    if hasattr(sys.stdout, 'reconfigure'):
+        sys.stdout.reconfigure(encoding='utf-8')
+    httpd = create_server()
+    port = httpd.server_port
+    url = f'http://127.0.0.1:{port}/index.html'
 
-    def open_browser():
-        webbrowser.open(url)
+    print('=' * 60, flush=True)
+    print('  [OK] 单词打印记忆本系统已成功启动！', flush=True)
+    print(f'  服务网址: {url}', flush=True)
+    print('  （浏览器已自动打开，若未打开请手动复制上方网址打开）', flush=True)
+    print('  请勿关闭此黑色窗口，按 Ctrl + C 可退出服务', flush=True)
+    print('=' * 60, flush=True)
 
-    threading.Timer(0.5, open_browser).start()
-
+    opener = threading.Timer(0.5, lambda: webbrowser.open(url))
+    opener.daemon = True
+    opener.start()
     try:
         httpd.serve_forever()
     except KeyboardInterrupt:
-        print("\n系统已退出。", flush=True)
+        print('\n系统已退出。', flush=True)
     finally:
         httpd.server_close()
+        EXPORT_JOBS.shutdown()
+
 
 if __name__ == '__main__':
     main()
