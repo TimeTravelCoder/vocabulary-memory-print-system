@@ -61,6 +61,17 @@
     return 'advanced';
   }
 
+  function englishDefinitions(value, maximum = 99) {
+    const raw = String(value ?? '').replace(/\r\n?/g, '\n').trim();
+    if (!raw || raw === '—' || raw.toLowerCase() === 'none') return [];
+    const limit = Math.max(1, Number(maximum) || 1);
+    return raw
+      .split(/\n+|(?=\(\d+\)\s*)/)
+      .map(item => item.trim().replace(/^\(\d+\)\s*/, ''))
+      .filter(Boolean)
+      .slice(0, limit);
+  }
+
   function wordWeight(word, config = {}) {
     const spelling = String(word?.['单词'] || '');
     const zh = String(word?.['释义(中文)'] || '');
@@ -380,7 +391,7 @@
 
   window.VocabAdvanced = Object.freeze({
     DAY, DEFAULT_INTERVALS, clamp, key, escapeHtml, hashSeed, seededShuffle, latinLength,
-    difficultyScore, classifyDifficulty, wordWeight, smartPageGroups, overflowRecommendation,
+    difficultyScore, classifyDifficulty, englishDefinitions, wordWeight, smartPageGroups, overflowRecommendation,
     firstLetterMask, missingLetterMask, buildPracticeWord, parseIntervals, reviewSchedule,
     normalizeReviewItem, advanceReview, reviewPriority, bookletOrder, blankExample, morphology,
     renderTemplate, renderSafeTemplate, mergeWordbooks, exportRows, toCsv, toTsv, toAnki,

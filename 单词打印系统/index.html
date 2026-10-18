@@ -3558,6 +3558,7 @@
                   <span>全部</span>
                 </label>
               </div>
+              <div id="enDefCountHint" style="font-size:10px;color:#1d4ed8;margin-top:3px;">当前每个单词显示 2 条英文释义。</div>
             </div>
             <div class="definition-behavior-note wide">
               <strong>独立设置</strong>
@@ -4570,8 +4571,8 @@
   </dialog>
   <input id="mergeFileInput" type="file" accept=".json" multiple hidden>
   <input id="learningFileInput" type="file" accept=".json" hidden>
-  <script src="advanced_features.js?v=20261018"></script>
-  <script src="workbench.js?v=20261018"></script>
+  <script src="advanced_features.js?v=20261018-2"></script>
+  <script src="workbench.js?v=20261018-2"></script>
   <script src="catalog.js?v=20261017"></script>
   <script>
     let catalog = {};
@@ -5519,8 +5520,7 @@
         const zhDefClean = String(practiceWord.zh || '').split(/[\r\n；;]+/).filter(Boolean).slice(0, zhCount).join('； ').trim();
         let formattedZh = escapeHtml(zhDefClean).replace(/\b(n|v|adj|adv|vi|vt|prep|conj|pron|num|art|int)\./gi, '<span class="pos-tag">$1.</span>');
         const rawEn = String(practiceWord.en || '').trim();
-        let enParts = (rawEn && rawEn !== '—' && rawEn.toLowerCase() !== 'none') ? rawEn.split(/[\r\n]+/).map(s => s.trim()).filter(Boolean) : [];
-        const enSelected = config.definitionLanguage === 'zh' ? [] : enParts.slice(0, config.maxEnCount);
+        const enSelected = config.definitionLanguage === 'zh' ? [] : VocabAdvanced.englishDefinitions(rawEn, config.maxEnCount);
         let enDefClean = '';
         if (enSelected.length === 1) {
           enDefClean = enSelected[0];
@@ -6594,10 +6594,23 @@
       };
     });
 
-    // 英文释义条数由工作台统一保存和刷新；这里只负责退出场景预设高亮。
+    function updateEnDefinitionCountHint() {
+      const selected = document.querySelector('input[name="enDefCount"]:checked')?.value || '2';
+      const hint = document.getElementById('enDefCountHint');
+      if (hint) hint.textContent = selected === 'all'
+        ? '当前显示全部英文释义。'
+        : `当前每个单词严格显示 ${selected} 条英文释义。`;
+    }
+
+    // 英文释义条数由工作台统一保存和刷新；提示文字同步确认当前生效值。
     document.querySelectorAll('input[name="enDefCount"]').forEach(el => {
-      el.addEventListener('change', clearScenarioPresetActive);
+      el.addEventListener('change', () => {
+        clearScenarioPresetActive();
+        // 等浏览器完成单选组状态切换后再读取，避免提示仍显示切换前的条数。
+        setTimeout(updateEnDefinitionCountHint, 0);
+      });
     });
+    updateEnDefinitionCountHint();
     ['definitionLanguage', 'definitionDetail', 'zhDefinitionCount'].forEach(id => {
       document.getElementById(id)?.addEventListener('change', clearScenarioPresetActive);
     });

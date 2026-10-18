@@ -4,8 +4,8 @@
 <h1>单词工具回归测试</h1>
 <pre id="results">运行中…</pre>
 <div id="fixture" hidden></div>
-<script src="../advanced_features.js?v=20261018"></script>
-<script src="../workbench.js?v=20261018"></script>
+<script src="../advanced_features.js?v=20261018-2"></script>
+<script src="../workbench.js?v=20261018-2"></script>
 <script>
 (async () => {
   const storageKeys = [
@@ -60,6 +60,11 @@
     const accented = [{'单词':'été'}, {'单词':'él'}, {'单词':'东京'}];
     output = VocabWorkbench.process(accented).map(word => word['单词']);
     check('带重音的拉丁字母参与字母数统计', output.includes('été') && !output.includes('él') && !output.includes('东京'));
+    const englishFixture = 'n. something that is lost or surrendered as a penalty; \nn. a penalty for a fault or mistake';
+    const oneEnglishDefinition = VocabAdvanced.englishDefinitions(englishFixture, 1);
+    check('英文释义选择一条时不会混入第二条', oneEnglishDefinition.length === 1 && !oneEnglishDefinition[0].includes('a penalty for a fault'));
+    const inlineNumberedDefinitions = VocabAdvanced.englishDefinitions('(1) first meaning (2) second meaning', 1);
+    check('同行编号英文释义也能严格截取一条', inlineNumberedDefinitions.length === 1 && inlineNumberedDefinitions[0] === 'first meaning');
 
     $('minLetters').value = '8';
     check('短语保留开关', VocabWorkbench.process(words).some(word => word['单词'] === 'look up'));
