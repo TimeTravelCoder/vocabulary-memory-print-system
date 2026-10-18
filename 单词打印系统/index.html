@@ -3595,7 +3595,7 @@
             </div>
             <div id="wppLiveFeedback" style="font-size: 11px; color: #1d4ed8; background: #eff6ff; border: 1px solid #bfdbfe; border-radius: 6px; padding: 4px 8px; margin-top: 4px; display: flex; align-items: center; justify-content: space-between;">
               <span>当前已生效：<strong>10</strong> 词/页</span>
-              <button type="button" id="btnPreviewWordsDirect" style="background:#2563eb; color:#fff; border:none; border-radius:4px; padding:2px 8px; font-size:10.5px; cursor:pointer;">查看单词效果 ↓</button>
+              <button type="button" id="btnPreviewWordsDirect" style="flex:0 0 auto; white-space:nowrap; background:#2563eb; color:#fff; border:none; border-radius:4px; padding:3px 8px; font-size:10.5px; cursor:pointer;">查看效果 ↓</button>
             </div>
             <div style="font-size: 10.5px; color: #64748b; margin-top: 3px;">
               点击预设按钮、拖动滑块或按微调箭头均会立即更新并直达单词页；精读推荐 4～6 词，常规 10 词。
@@ -4695,15 +4695,19 @@
       renderPages(false, scrollToContent);
     }
 
-    const handleWppChange = (e) => {
+    const applyWppValue = (value) => {
       clearScenarioPresetActive();
-      setWordsPerPage(e.target.value, true, true);
+      setWordsPerPage(value, true, true);
     };
 
-    wordsPerPageRange.addEventListener('input', handleWppChange);
-    wordsPerPageRange.addEventListener('change', handleWppChange);
-    wordsPerPageInput.addEventListener('input', handleWppChange);
-    wordsPerPageInput.addEventListener('change', handleWppChange);
+    wordsPerPageRange.addEventListener('input', event => applyWppValue(event.target.value));
+    wordsPerPageRange.addEventListener('change', event => applyWppValue(event.target.value));
+    wordsPerPageInput.addEventListener('input', event => {
+      const value = Number(event.target.value);
+      // 用户输入两位数时会短暂出现 1、2、3；先允许继续输入，不要立刻改写成 4。
+      if (Number.isInteger(value) && value >= 4 && value <= 16) applyWppValue(value);
+    });
+    wordsPerPageInput.addEventListener('change', event => applyWppValue(event.target.value));
 
     document.querySelectorAll('.preset-btn').forEach(btn => {
       btn.addEventListener('click', (e) => {
