@@ -2779,58 +2779,6 @@
     }
     .split-right-col, .grid-word-cell, .grid-def-cell { min-width: 0; }
 
-    /* At 10+ words, reserve a full-height column for handwriting instead of
-       squeezing three writing rows below a multi-line definition. */
-    .dense-page :is(.word-card-academic, .word-card-minimal, .top-bottom-word-card) {
-      display: grid;
-      grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
-      grid-template-rows: minmax(0, 1fr);
-      gap: 6px;
-    }
-    .dense-page :is(.academic-bottom-practice, .minimal-practice-zone,
-      .tb-bottom-practice, .dict-bottom-practice) {
-      min-height: 0;
-      min-width: 0;
-      border-left: 1px dashed var(--theme-card-border);
-      padding-left: 6px;
-    }
-    .dense-page :is(.academic-top-header, .tb-top-info) {
-      border-bottom: 0;
-      justify-content: center;
-    }
-    .dense-page :is(.academic-status-box, .minimal-meta, .dict-meta-group) {
-      min-width: 0;
-      flex-shrink: 1;
-      white-space: nowrap;
-      overflow: hidden;
-    }
-    .dense-page :is(.academic-check, .minimal-check) { display: none; }
-    .dense-page .word-card-dict {
-      display: grid;
-      grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
-      grid-template-rows: auto minmax(0, 1fr);
-    }
-    .dense-page .dict-top-header { grid-area: 1 / 1; }
-    .dense-page .dict-defs { grid-area: 2 / 1; }
-    .dense-page .dict-bottom-practice { grid-area: 1 / 2 / 3 / 3; }
-    .dense-page .word-card-compact {
-      display: grid;
-      grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
-      grid-template-rows: auto auto minmax(0, 1fr);
-    }
-    .dense-page .compact-top-line { grid-area: 1 / 1; }
-    .dense-page .compact-zh { grid-area: 2 / 1; }
-    .dense-page .compact-en { grid-area: 3 / 1; }
-    .dense-page .compact-practice-row { grid-area: 1 / 2 / 4 / 3; }
-    .dense-page .word-card-grid {
-      display: grid;
-      grid-template-columns: minmax(0, 3fr) minmax(0, 2fr);
-      grid-template-rows: minmax(0, 1fr);
-    }
-    .dense-page .grid-top-row { border-bottom: 0; overflow: hidden; }
-    .dense-page .grid-bottom-row { min-width: 0; }
-    .dense-page .grid-bottom-row > div { flex: 1; min-height: 12px; }
-
     /* Selectable handwriting fields shared by all eight card styles. */
     [data-practice-container], [data-copy-field] {
       min-width: 0;
@@ -2885,18 +2833,6 @@
       justify-content: center;
     }
 
-    .copy-none :is(.word-card-academic, .word-card-minimal, .top-bottom-word-card, .word-card-dict, .word-card-compact, .word-card-grid) {
-      grid-template-columns: 1fr !important;
-      grid-template-rows: auto !important;
-    }
-
-    .copy-none .word-card-compact :is(.compact-top-line, .compact-zh, .compact-en) {
-      grid-area: auto !important;
-    }
-
-    .copy-none .word-card-dict :is(.dict-top-header, .dict-defs) {
-      grid-area: auto !important;
-    }
 
     .dense-page.copy-practice-4 [data-copy-field] {
       min-height: 0;
@@ -3610,13 +3546,13 @@
         <section class="sidebar-card">
           <div class="sidebar-card-header">
             <strong><span>📐</span> 每页词数与密度</strong>
-            <small>数量上限 · 自动分页</small>
+            <small>数量控制 · 即时更新</small>
           </div>
 
           <div class="form-group">
-            <label>
-              每页单词数上限
-              <span class="badge" id="wppBadge" style="background:#2563eb; color:#fff; font-weight:bold;">最多 10 词/页</span>
+            <label for="wordsPerPageInput">
+              每页单词数
+              <span class="badge" id="wppBadge" style="background:#2563eb; color:#fff; font-weight:bold;">10 词/页</span>
             </label>
             <div style="display: flex; align-items: center; gap: 8px;">
               <input type="range" id="wordsPerPageRange" min="4" max="16" value="10" step="1" style="flex: 1; cursor: pointer;">
@@ -3631,7 +3567,7 @@
               <button type="button" class="preset-btn" data-val="15">15 词(密)</button>
             </div>
             <div style="font-size: 10.5px; color: #64748b; margin-top: 2px;">
-              长释义会自动减少当前页词数；精读建议 4～6 词，但不会自动改动设置。
+              点击预设按钮、拖动滑块或按微调箭头均会立即更新预览；精读推荐 4～6 词，常规 10 词。
             </div>
           </div>
         </section>
@@ -3771,6 +3707,9 @@
                 <input type="radio" name="cardStyle" value="compact">
                 <span>高效备考</span>
               </label>
+            </div>
+            <div style="font-size: 10.5px; color: #64748b; margin-top: 3px;">
+              排版结构：学术精装、经典线框、极简手账为经典<strong>上下结构</strong>；黄金双栏、对折默写为<strong>左右双栏</strong>。
             </div>
           </div>
 
@@ -4682,7 +4621,7 @@
       wordsPerPage = val;
       wordsPerPageRange.value = val;
       wordsPerPageInput.value = val;
-      wppBadge.textContent = `最多 ${val} 词/页`;
+      wppBadge.textContent = `${val} 词/页`;
       try { localStorage.setItem('vocab_print_words_per_page', String(val)); } catch (e) {}
 
       document.querySelectorAll('.preset-btn').forEach(btn => {
@@ -4697,20 +4636,22 @@
       renderPages();
     }
 
-    wordsPerPageRange.oninput = (e) => {
-      clearScenarioPresetActive();
-      setWordsPerPage(e.target.value);
-    };
-    wordsPerPageInput.onchange = (e) => {
+    const handleWppChange = (e) => {
       clearScenarioPresetActive();
       setWordsPerPage(e.target.value);
     };
 
+    wordsPerPageRange.addEventListener('input', handleWppChange);
+    wordsPerPageRange.addEventListener('change', handleWppChange);
+    wordsPerPageInput.addEventListener('input', handleWppChange);
+    wordsPerPageInput.addEventListener('change', handleWppChange);
+
     document.querySelectorAll('.preset-btn').forEach(btn => {
-      btn.onclick = () => {
+      btn.addEventListener('click', (e) => {
+        e.preventDefault();
         clearScenarioPresetActive();
         setWordsPerPage(btn.dataset.val);
-      };
+      });
     });
 
     // Zoom controls

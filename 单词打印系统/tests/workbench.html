@@ -386,6 +386,17 @@
       VocabAdvanced.shortcutAction({key:'/',target:{tagName:'BODY'}}) === 'search' &&
       VocabAdvanced.shortcutAction({key:'Enter',ctrlKey:true,target:{tagName:'BODY'}}) === 'refresh' &&
       VocabAdvanced.shortcutAction({key:'d',ctrlKey:true,shiftKey:true,target:{tagName:'BODY'}}) === 'download');
+
+    check('每页单词数标签与徽章未显示最多且预设按钮完备',
+      $('wppBadge')?.textContent.trim() === '10 词/页' &&
+      root.querySelector('label[for="wordsPerPageInput"]')?.textContent.includes('每页单词数') &&
+      !root.querySelector('label[for="wordsPerPageInput"]')?.textContent.includes('上限') &&
+      Array.from(root.querySelectorAll('.preset-btn')).map(b => b.dataset.val).join(',') === '4,8,10,12,15');
+
+    check('卡片排版保留纯正上下结构无强制双栏网格覆盖',
+      !html.includes('.dense-page :is(.word-card-academic') &&
+      !html.includes('.dense-page .word-card-dict') &&
+      html.includes('排版结构：学术精装、经典线框、极简手账为经典'));
   } catch (error) {
     failures++;
     lines.push('ERROR ' + error.stack);
