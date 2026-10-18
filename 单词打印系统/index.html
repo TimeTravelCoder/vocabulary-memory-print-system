@@ -34,8 +34,8 @@
 
     /* Left Control Sidebar */
     .sidebar {
-      width: 390px;
-      min-width: 390px;
+      width: clamp(350px, 27vw, 390px);
+      min-width: 350px;
       background: var(--sidebar-bg);
       border-right: 1px solid var(--border-color);
       display: flex;
@@ -45,14 +45,14 @@
     }
 
     .sidebar-header {
-      padding: 14px 18px;
+      padding: 12px 16px;
       border-bottom: 1px solid var(--border-color);
       background: linear-gradient(135deg, #1e293b, #0f172a);
       color: #fff;
     }
 
     .sidebar-header h1 {
-      font-size: 17px;
+      font-size: 16px;
       font-weight: 700;
       display: flex;
       align-items: center;
@@ -60,24 +60,366 @@
     }
 
     .sidebar-header p {
-      font-size: 11.5px;
+      font-size: 11px;
       color: #94a3b8;
       margin-top: 3px;
+    }
+
+    .sidebar-tabs {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 4px;
+      padding: 6px 10px;
+      background: #f8fafc;
+      border-bottom: 1px solid var(--border-color);
+      position: sticky;
+      top: 0;
+      z-index: 20;
+    }
+
+    .sidebar-tab-btn {
+      padding: 6px 2px;
+      font-size: 11px;
+      font-weight: 600;
+      color: #64748b;
+      background: transparent;
+      border: 1px solid transparent;
+      border-radius: 6px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 3px;
+      transition: all 0.15s ease;
+      user-select: none;
+    }
+
+    .sidebar-tab-btn:hover {
+      color: var(--primary);
+      background: #eff6ff;
+    }
+
+    .sidebar-tab-btn.active {
+      color: var(--primary);
+      background: #fff;
+      border-color: #bfdbfe;
+      box-shadow: 0 1px 3px rgba(37, 99, 235, 0.08);
+      font-weight: 700;
+    }
+
+    .sidebar-tab-content {
+      display: none;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .sidebar-tab-content.active {
+      display: flex;
+    }
+
+    .sidebar-card {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      padding: 10px;
+      border: 1px solid #dbe3ee;
+      border-radius: 8px;
+      background: #fff;
+      box-shadow: 0 1px 2px rgba(0, 0, 0, 0.02);
+    }
+
+    .sidebar-card-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 6px;
+      padding-bottom: 5px;
+      border-bottom: 1px solid #f1f5f9;
+    }
+
+    .sidebar-card-header strong {
+      font-size: 12px;
+      color: #0f172a;
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+
+    .sidebar-card-header small {
+      font-size: 9.5px;
+      color: #64748b;
+    }
+
+    .sidebar-card-header .card-tag {
+      font-size: 9.5px;
+      font-weight: 600;
+      padding: 1px 6px;
+      border-radius: 4px;
+      background: #eff6ff;
+      color: #1d4ed8;
+      border: 1px solid #dbeafe;
     }
 
     .sidebar-body {
       flex: 1;
       overflow-y: auto;
-      padding: 14px 18px;
+      padding: 10px 12px;
       display: flex;
       flex-direction: column;
-      gap: 14px;
+      gap: 9px;
+      scroll-behavior: smooth;
+    }
+
+    .sidebar-body > * {
+      flex-shrink: 0;
     }
 
     .form-group {
       display: flex;
       flex-direction: column;
+      gap: 4px;
+    }
+
+    .sidebar-section,
+    .sidebar-fold,
+    .workbench-panel {
+      scroll-margin-top: 10px;
+    }
+
+    .sidebar-section {
+      display: flex;
+      flex-direction: column;
+      gap: 9px;
+      padding: 10px;
+      border: 1px solid #dbe3ee;
+      border-radius: 8px;
+      background: #fff;
+    }
+
+    .sidebar-section-heading {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      min-width: 0;
+    }
+
+    .sidebar-section-heading .section-index {
+      width: 22px;
+      height: 22px;
+      flex: 0 0 22px;
+      display: grid;
+      place-items: center;
+      border-radius: 50%;
+      background: #dbeafe;
+      color: #1d4ed8;
+      font-size: 11px;
+      font-weight: 800;
+    }
+
+    .sidebar-section-heading strong {
+      display: block;
+      color: #0f172a;
+      font-size: 13px;
+      line-height: 1.2;
+    }
+
+    .sidebar-section-heading small {
+      display: block;
+      margin-top: 1px;
+      color: #64748b;
+      font-size: 9.5px;
+      line-height: 1.25;
+    }
+
+    .book-select-grid {
+      display: grid;
+      grid-template-columns: minmax(0, .86fr) minmax(0, 1.14fr);
+      gap: 8px;
+    }
+
+    .book-select-grid .form-group {
+      min-width: 0;
+    }
+
+    .book-select-grid select {
+      min-width: 0;
+      text-overflow: ellipsis;
+    }
+
+    .sidebar-fold {
+      border: 1px solid #dbe3ee;
+      border-radius: 8px;
+      overflow: hidden;
+      background: #fff;
+    }
+
+    .sidebar-fold > summary {
+      min-height: 36px;
+      padding: 8px 10px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+      list-style: none;
+      cursor: pointer;
+      color: #334155;
+      font-size: 11.5px;
+      font-weight: 700;
+      background: #f8fafc;
+      user-select: none;
+    }
+
+    .sidebar-fold > summary::-webkit-details-marker {
+      display: none;
+    }
+
+    .sidebar-fold > summary::after {
+      content: '\203A';
+      flex: 0 0 auto;
+      color: #94a3b8;
+      font-size: 18px;
+      line-height: 1;
+      transform: rotate(0deg);
+      transition: transform .18s ease;
+    }
+
+    .sidebar-fold[open] > summary::after {
+      transform: rotate(90deg);
+    }
+
+    .sidebar-fold[open] > summary {
+      color: #1d4ed8;
+      background: #eff6ff;
+      border-bottom: 1px solid #dbeafe;
+    }
+
+    .sidebar-fold-content {
+      padding: 10px;
+      display: flex;
+      flex-direction: column;
+      gap: 9px;
+    }
+
+    .sidebar-fold:not([open]) > .sidebar-fold-content,
+    .workbench-tools-grid > details:not([open]) > :not(summary) {
+      display: none !important;
+    }
+
+    .sidebar-fold-summary-text {
+      display: flex;
+      align-items: baseline;
+      gap: 7px;
+      min-width: 0;
+    }
+
+    .sidebar-fold-summary-text small {
+      color: #94a3b8;
+      font-size: 9.5px;
+      font-weight: 500;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .sidebar-fold .scenario-presets-grid {
+      margin-top: 0;
+    }
+
+    .sidebar-fold-content > .progress-card {
+      padding: 0;
+      border: 0;
+      background: transparent;
+    }
+
+    .filter-essentials {
+      display: grid;
+      grid-template-columns: 108px minmax(0, 1fr);
+      gap: 8px;
+      align-items: end;
+    }
+
+    .filter-essentials .filter-toggles {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
       gap: 5px;
+      min-width: 0;
+    }
+
+    .filter-essentials .filter-toggles label {
+      margin: 0;
+      font-size: 10.5px;
+      line-height: 1.25;
+    }
+
+    .filter-essentials small {
+      display: block;
+      margin-top: 3px;
+      color: #64748b;
+      font-size: 9px;
+      line-height: 1.25;
+    }
+
+    .workbench-tools-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 6px;
+      margin-top: 7px;
+    }
+
+    .workbench-tools-grid > details {
+      min-width: 0;
+      margin: 0;
+      padding: 0;
+      border: 1px solid #e2e8f0;
+      border-radius: 6px;
+      background: #fff;
+      overflow: hidden;
+    }
+
+    .workbench-tools-grid > details[open] {
+      grid-column: 1 / -1;
+    }
+
+    .workbench-tools-grid > details > summary {
+      min-height: 34px;
+      padding: 7px 8px;
+      display: flex;
+      align-items: center;
+      list-style: none;
+      line-height: 1.2;
+      color: #475569;
+      background: #fff;
+    }
+
+    .workbench-tools-grid > details > summary::-webkit-details-marker {
+      display: none;
+    }
+
+    .workbench-tools-grid > details > summary::before {
+      content: '+';
+      margin-right: 5px;
+      color: #2563eb;
+      font-weight: 800;
+    }
+
+    .workbench-tools-grid > details[open] > summary::before {
+      content: '\2212';
+    }
+
+    .workbench-tools-grid > details[open] > summary {
+      color: #1d4ed8;
+      background: #eff6ff;
+      border-bottom: 1px solid #dbeafe;
+    }
+
+    .workbench-tools-grid > details > :not(summary) {
+      margin-left: 8px;
+      margin-right: 8px;
+    }
+
+    .workbench-tools-grid > details > :last-child {
+      margin-bottom: 8px;
     }
 
     .form-group label {
@@ -202,13 +544,99 @@
       cursor: pointer;
     }
 
+    .copy-field-selector {
+      border: 1px solid #bfdbfe;
+      border-radius: 7px;
+      background: linear-gradient(135deg, #eff6ff, #f8fafc);
+      padding: 6px;
+    }
+
+    .copy-field-presets {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 3px;
+      margin-bottom: 5px;
+    }
+
+    .copy-preset-btn {
+      padding: 2.5px 6px;
+      font-size: 10px;
+      border: 1px solid #cbd5e1;
+      border-radius: 4px;
+      background: #fff;
+      color: #475569;
+      cursor: pointer;
+      line-height: 1.2;
+      transition: all 0.15s ease;
+      user-select: none;
+    }
+
+    .copy-preset-btn:hover {
+      background: #f1f5f9;
+      border-color: #94a3b8;
+      color: #1e293b;
+    }
+
+    .copy-preset-btn.active {
+      background: #2563eb;
+      border-color: #1d4ed8;
+      color: #fff;
+      font-weight: 700;
+    }
+
+    .copy-field-grid {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 4px;
+    }
+
+    .copy-field-option {
+      min-width: 0;
+      display: flex !important;
+      align-items: center;
+      justify-content: center;
+      gap: 4px;
+      margin: 0 !important;
+      padding: 5px 3px;
+      border: 1px solid #cbd5e1;
+      border-radius: 5px;
+      background: #fff;
+      color: #334155;
+      font-size: 10.5px !important;
+      line-height: 1.15;
+      cursor: pointer;
+      user-select: none;
+    }
+
+    .copy-field-option:has(input:checked) {
+      border-color: #3b82f6;
+      background: #dbeafe;
+      color: #1e40af;
+      font-weight: 700;
+    }
+
+    .copy-field-option input {
+      width: 13px;
+      height: 13px;
+      margin: 0;
+      accent-color: var(--primary);
+      flex-shrink: 0;
+    }
+
+    .copy-field-help {
+      margin-top: 4px;
+      color: #64748b;
+      font-size: 10px;
+      line-height: 1.3;
+    }
+
     .sidebar-footer {
-      padding: 12px 18px;
+      padding: 9px 12px;
       border-top: 1px solid var(--border-color);
       background: #fff;
       display: flex;
       flex-direction: column;
-      gap: 8px;
+      gap: 6px;
     }
 
     .btn-print {
@@ -234,8 +662,8 @@
       background: linear-gradient(135deg, #059669, #047857);
       color: #fff;
       border: none;
-      padding: 12px 16px;
-      font-size: 14.5px;
+      padding: 10px 14px;
+      font-size: 13.5px;
       font-weight: 700;
       border-radius: 8px;
       cursor: pointer;
@@ -712,15 +1140,18 @@
       gap: 24px;
     }
 
-    .workbench-panel { padding:12px; margin:10px 0; border:1px solid #cbd5e1; border-radius:8px; background:#f8fafc; font-size:12px; }
+    .workbench-panel { padding:10px; margin:0; border:1px solid #dbe3ee; border-radius:8px; background:#fff; font-size:12px; display:flex; flex-direction:column; gap:7px; }
     .workbench-panel h3 { margin:0 0 8px; font-size:14px; }
     .workbench-panel label { display:block; margin:7px 0 4px; }
     .workbench-panel input[type=number], .workbench-panel input:not([type]), .workbench-panel select,
     .workbench-panel textarea { width:100%; box-sizing:border-box; padding:6px; border:1px solid #94a3b8; border-radius:4px; }
-    .workbench-panel details { margin:8px 0; border-top:1px solid #e2e8f0; padding-top:8px; }
+    .workbench-panel details { margin:0; border-top:0; padding-top:0; }
     .workbench-panel summary { cursor:pointer; font-weight:600; }
     .workbench-panel button, .word-manager button { padding:6px 9px; margin:3px 2px; border:1px solid #94a3b8; border-radius:4px; background:white; cursor:pointer; }
     .workbench-panel p, #layoutReport, #exportPreflight { line-height:1.6; color:#475569; margin:6px 0; white-space:pre-line; }
+    .workbench-panel > #manageWords, .workbench-panel > #checkLayout { width:100%; margin:0; }
+    label:has(#showPronunciationQr:not(:checked)) + label[for="qrProvider"],
+    label:has(#showPronunciationQr:not(:checked)) + label[for="qrProvider"] + #qrProvider { display:none; }
     .word-manager { width:min(850px,92vw); max-height:85vh; overflow:auto; border:1px solid #94a3b8; border-radius:10px; padding:18px; }
     .word-manager::backdrop { background:#0f172a88; }
     .word-manager-toolbar { display:flex; align-items:center; justify-content:space-between; gap:8px; flex-wrap:wrap; }
@@ -736,6 +1167,32 @@
     .confirm-dialog-actions .primary { border-color:#2563eb; background:#2563eb; color:#fff; font-weight:700; }
     #wordSearch { width:100%; padding:8px; }
     #exportProgress { width:100%; height:10px; }
+    .feature-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:7px; }
+    .feature-grid .wide { grid-column:1 / -1; }
+    .feature-field { display:flex; flex-direction:column; gap:3px; min-width:0; }
+    .feature-field > label { font-size:10.5px; color:#475569; font-weight:600; }
+    .feature-inline { display:flex; align-items:center; gap:6px; flex-wrap:wrap; }
+    .feature-actions { display:flex; gap:6px; flex-wrap:wrap; margin-top:4px; }
+    .feature-actions button { flex:1 1 120px; }
+    .feature-report { white-space:pre-line; border-radius:5px; background:#f8fafc; border:1px solid #e2e8f0; padding:6px 8px; color:#475569; font-size:10.5px; line-height:1.5; min-height:28px; }
+    .feature-help { color:#64748b; font-size:10px; line-height:1.45; }
+    .definition-settings-card { border-color:#bfdbfe; background:linear-gradient(180deg,#fff 0%,#f8fbff 100%); }
+    .definition-settings-card .sidebar-card-header { border-bottom-color:#dbeafe; }
+    .definition-behavior-note { display:flex; align-items:flex-start; gap:6px; padding:6px 8px; border:1px solid #dbeafe; border-radius:6px; background:#eff6ff; color:#475569; font-size:10px; line-height:1.45; }
+    .definition-behavior-note strong { flex:0 0 auto; color:#1d4ed8; font-size:10px; }
+    .definition-quick-action { width:100%; border-color:#93c5fd !important; background:#fff !important; color:#1d4ed8 !important; font-weight:700 !important; }
+    #batchBookSelect { min-height:112px; font-size:10.5px; }
+    .vocab-qr { width:9mm; height:9mm; object-fit:contain; border:1px solid #cbd5e1; padding:.4mm; background:#fff; border-radius:2px; }
+    .morphology-note { color:#475569; font-size:.88em; font-weight:500; margin-left:4px; }
+    .a4-page.overflow-shrink .page-content-shell { font-size:92%; }
+    .a4-page.overflow-shrink :is(.academic-word,.minimal-word,.split-word,.tb-word,.dict-word,.foldable-word,.grid-word,.compact-word,.word-text) { font-size:88% !important; }
+    .a4-page.calibrated .page-content-shell { position:relative; left:var(--calibration-x,0mm); top:var(--calibration-y,0mm); zoom:var(--calibration-scale,1); }
+    .page-content-shell { height:100%; min-height:0; display:flex; flex-direction:column; justify-content:space-between; }
+    .a4-page.booklet-sheet { width:297mm; height:210mm; min-height:210mm; max-height:210mm; padding:0 !important; display:grid; grid-template-columns:1fr 1fr; gap:0; overflow:hidden; background:#fff; }
+    .booklet-half { width:148.5mm; height:210mm; overflow:hidden; position:relative; border-right:.2mm dashed #cbd5e1; }
+    .booklet-half:last-child { border-right:0; }
+    .booklet-half > .a4-page { position:absolute; left:0; top:0; transform:scale(.70707) !important; transform-origin:top left !important; margin:0 !important; box-shadow:none !important; page-break-after:auto !important; break-after:auto !important; }
+    .booklet-half.blank { display:flex; align-items:center; justify-content:center; color:#cbd5e1; font-size:11pt; }
     .a4-page.ink-saver { filter:grayscale(1); --theme-accent:#334155; --theme-accent-dark:#111; --theme-ref-bg:#fff; --theme-title-color:#111; --theme-header-line:#334155; }
     .a4-page.ink-saver *, .a4-page.no-decoration .pos-tag { background-color:transparent !important; box-shadow:none !important; }
     .a4-page.no-decoration :is(.academic-badge,.word-index-tag,.ebbinghaus-track,.foldable-fold-hint) { display:none; }
@@ -2374,6 +2831,81 @@
     .dense-page .grid-bottom-row { min-width: 0; }
     .dense-page .grid-bottom-row > div { flex: 1; min-height: 12px; }
 
+    /* Selectable handwriting fields shared by all eight card styles. */
+    [data-practice-container], [data-copy-field] {
+      min-width: 0;
+      min-height: 0;
+    }
+
+    .foldable-practice-item,
+    .grid-practice-item,
+    .compact-practice-item {
+      display: flex;
+      align-items: flex-end;
+      gap: 4px;
+      flex: 1;
+      min-width: 0;
+      min-height: 0;
+    }
+
+    .copy-inline-label {
+      width: 27px;
+      min-width: 27px;
+      padding-bottom: 2px;
+      color: #64748b;
+      font-size: 6pt;
+      line-height: 1;
+      white-space: nowrap;
+    }
+
+    .compact-practice-row {
+      flex-direction: column;
+      align-items: stretch;
+      justify-content: space-between;
+      gap: 2px;
+    }
+
+    .copy-none [data-practice-container] {
+      display: none !important;
+    }
+
+    .copy-none .split-left-col {
+      width: 100%;
+      min-width: 100%;
+      border-right: 0;
+    }
+
+    .copy-none .grid-top-row {
+      flex: 1;
+      border-bottom: 0;
+    }
+
+    .copy-none :is(.academic-top-header, .minimal-info-zone, .tb-top-info, .dict-defs) {
+      flex: 1;
+      justify-content: center;
+    }
+
+    .copy-none :is(.word-card-academic, .word-card-minimal, .top-bottom-word-card, .word-card-dict, .word-card-compact, .word-card-grid) {
+      grid-template-columns: 1fr !important;
+      grid-template-rows: auto !important;
+    }
+
+    .copy-none .word-card-compact :is(.compact-top-line, .compact-zh, .compact-en) {
+      grid-area: auto !important;
+    }
+
+    .copy-none .word-card-dict :is(.dict-top-header, .dict-defs) {
+      grid-area: auto !important;
+    }
+
+    .dense-page.copy-practice-4 [data-copy-field] {
+      min-height: 0;
+    }
+
+    .dense-page.copy-practice-4 :is(.p-tag, .p-label, .minimal-plabel, .split-label, .copy-inline-label) {
+      font-size: 5.8pt;
+    }
+
     /* ======================================================== */
     /* 模式 2: 宽松卡片排版 (4 ~ 6 词/页，宽裕大字) */
     /* ======================================================== */
@@ -2569,6 +3101,15 @@
       color: #94a3b8;
     }
 
+    .spacious-en-line .slot-hint {
+      position: absolute;
+      right: 2px;
+      bottom: 1px;
+      font-size: 5.5pt;
+      color: #cbd5e1;
+      font-weight: normal;
+    }
+
     /* Ebbinghaus Bubbles */
     .ebbinghaus-track {
       display: flex;
@@ -2698,6 +3239,9 @@
     /* Binding Margin Modes */
     .a4-page.margin-left {
       padding: 8mm 8mm 7mm 20mm !important;
+    }
+    .a4-page.margin-right {
+      padding: 8mm 20mm 7mm 8mm !important;
     }
     .a4-page.margin-top {
       padding: 14mm 12mm 6mm 12mm !important;
@@ -2842,6 +3386,11 @@
         box-sizing: border-box !important;
         overflow: hidden !important;
       }
+      .a4-page.booklet-sheet {
+        width:297mm !important; height:210mm !important; min-height:210mm !important; max-height:210mm !important;
+        padding:0 !important; display:grid !important; grid-template-columns:1fr 1fr !important;
+      }
+      .booklet-half > .a4-page { transform:scale(.70707) !important; }
     }
   </style>
 </head>
@@ -2850,383 +3399,444 @@
   <!-- Left Sidebar Controls -->
   <aside class="sidebar no-print">
     <div class="sidebar-header">
-      <h1>单词记忆本·A4打印系统</h1>
-      <p>专为 A4 纸排版优化 · 科学抄写与艾宾浩斯复习</p>
+      <h1>单词记忆本</h1>
+      <p>A4 排版、抄写与复习打印</p>
     </div>
 
+    <nav class="sidebar-tabs" role="tablist" aria-label="侧栏设置分组">
+      <button type="button" class="sidebar-tab-btn active" role="tab" id="tab-btn-basic" data-tab="tab-basic" aria-selected="true" aria-controls="tab-basic">
+        <span>🖨️ 内容与排版</span>
+      </button>
+      <button type="button" class="sidebar-tab-btn" role="tab" id="tab-btn-detail" data-tab="tab-detail" aria-selected="false" aria-controls="tab-detail">
+        <span>⚙️ 打印细节</span>
+      </button>
+      <button type="button" class="sidebar-tab-btn" role="tab" id="tab-btn-tools" data-tab="tab-tools" aria-selected="false" aria-controls="tab-tools">
+        <span>📦 工具与复习</span>
+      </button>
+    </nav>
+
     <div class="sidebar-body">
-      <!-- 一键场景化排版预设 -->
-      <div class="form-group">
-        <label>一键排版场景预设</label>
-        <div class="scenario-presets-grid">
-          <button type="button" class="scenario-btn" data-preset="exam">
-            <strong>考研冲刺</strong>
-            <span>10词·学术蓝·艾宾浩斯</span>
-          </button>
-          <button type="button" class="scenario-btn" data-preset="calligraphy">
-            <strong>书法练字</strong>
-            <span>4词·四线格·护眼绿</span>
-          </button>
-          <button type="button" class="scenario-btn" data-preset="cloze">
-            <strong>自测默写</strong>
-            <span>12词·首字母提示·素黑</span>
-          </button>
-          <button type="button" class="scenario-btn" data-preset="journal">
-            <strong>便携手账</strong>
-            <span>8词·双栏·牛津棕</span>
-          </button>
-        </div>
-      </div>
+      <!-- ================= TAB 1: 基础排版 ================= -->
+      <div class="sidebar-tab-content active" id="tab-basic" role="tabpanel" aria-labelledby="tab-btn-basic">
+        <!-- 1. 词书选择 -->
+        <section class="sidebar-card" id="bookSection">
+          <div class="sidebar-card-header">
+            <strong><span>📚</span> 选择词书</strong>
+            <span class="card-tag">957 本内置</span>
+          </div>
 
-      <!-- 快速直接搜索任意单词表 (支持957本跨类直达) -->
-      <div class="form-group" style="position: relative;">
-        <label>
-          直接搜索 / 快速选定单词表
-          <span class="badge" style="background: #059669; color: #fff;">957 本总库</span>
-        </label>
-        <div style="position: relative;">
-          <input type="text" id="quickSearchBook" placeholder="输入关键词直达 (如: 考研 / 雅思 / 高考 / 乱序...)" style="width: 100%; padding-right: 24px; box-sizing: border-box;" autocomplete="off">
-          <span id="clearSearchBtn" style="position: absolute; right: 8px; top: 50%; transform: translateY(-50%); cursor: pointer; color: #94a3b8; display: none; font-size: 14px; font-weight: bold;">&times;</span>
-        </div>
-        <div id="quickSearchResults" style="display: none; position: absolute; top: 100%; left: 0; right: 0; background: #fff; border: 1px solid #cbd5e1; border-radius: 6px; box-shadow: 0 10px 15px -3px rgba(0,0,0,0.15); max-height: 220px; overflow-y: auto; z-index: 100; margin-top: 2px;"></div>
-      </div>
+          <div class="form-group" style="position: relative;">
+            <label>快速搜索</label>
+            <div style="position: relative;">
+              <input type="text" id="quickSearchBook" placeholder="考研 / 雅思 / 高考 / 乱序…" style="width: 100%; padding-right: 24px; box-sizing: border-box;" autocomplete="off">
+              <span id="clearSearchBtn" style="position: absolute; right: 8px; top: 50%; transform: translateY(-50%); cursor: pointer; color: #94a3b8; display: none; font-size: 14px; font-weight: bold;">&times;</span>
+            </div>
+            <div id="quickSearchResults" style="display: none; position: absolute; top: 100%; left: 0; right: 0; background: #fff; border: 1px solid #cbd5e1; border-radius: 6px; box-shadow: 0 10px 15px -3px rgba(0,0,0,0.15); max-height: 220px; overflow-y: auto; z-index: 100; margin-top: 2px;"></div>
+          </div>
 
-      <!-- 1. 词书分类选择 -->
-      <div class="form-group">
-        <label>1. 选择考试分类 <span class="badge" id="categoryCount">18 类</span></label>
-        <select id="categorySelect"></select>
-      </div>
-
-      <div class="form-group">
-        <label>2. 选择词书 <span class="badge" id="bookWordCount">0 词</span></label>
-        <select id="bookSelect"></select>
-        <div style="display: flex; justify-content: flex-end; margin-top: 2px;">
-          <button type="button" id="btnOpenFile" style="background:none; border:none; color:#2563eb; cursor:pointer; font-size:11px; text-decoration:underline;">打开本地 JSON 词书文件</button>
-        </div>
-      </div>
-
-      <!-- 打印进度与断点记录卡片 -->
-      <div class="progress-card" id="progressCard">
-        <div class="progress-card-header">
-          <span class="pc-title">打印进度与断点记录</span>
-          <span class="pc-badge" id="pcBadge">未开始</span>
-        </div>
-        <div class="progress-bar-bg">
-          <div class="progress-bar-fill" id="pcProgressBar" style="width: 0%;"></div>
-        </div>
-        <div class="progress-stats">
-          <span id="pcStatsText">尚未打印</span>
-          <span id="pcDateText" style="color:#94a3b8;"></span>
-        </div>
-        <div style="display: flex;">
-          <button type="button" class="btn-continue" id="btnContinueBatch" style="width: 100%;">
-            接续打印下 5 页
-          </button>
-        </div>
-        <div class="progress-links">
-          <button type="button" class="link-btn" id="btnMarkPrinted">标记为已打</button>
-          <button type="button" class="link-btn" id="btnOpenHistory">全部词书档案</button>
-          <button type="button" class="link-btn text-danger" id="btnResetProgress">重置本书</button>
-        </div>
-      </div>
-
-      <!-- 2. 记忆本模板选择 -->
-      <div class="form-group">
-        <label>3. 选择记忆本模板</label>
-        <div class="radio-pill-group">
-          <label>
-            <input type="radio" name="templateMode" value="standard" checked>
-            <span>标准抄写本</span>
-          </label>
-          <label>
-            <input type="radio" name="templateMode" value="ebbinghaus">
-            <span>艾宾浩斯打卡</span>
-          </label>
-          <label>
-            <input type="radio" name="templateMode" value="fourline">
-            <span>四线三格帖</span>
-          </label>
-          <label>
-            <input type="radio" name="templateMode" value="cloze">
-            <span>自测默写本</span>
-          </label>
-        </div>
-      </div>
-
-      <!-- 默写挖空选项 -->
-      <div class="form-group" id="clozeSubGroup" style="display: none;">
-        <label>默写挖空遮挡设置</label>
-        <div class="radio-pill-group three-cols" style="flex-wrap: wrap;">
-          <label>
-            <input type="radio" name="clozeType" value="zh" checked>
-            <span>隐藏中文</span>
-          </label>
-          <label>
-            <input type="radio" name="clozeType" value="en">
-            <span>隐藏英释</span>
-          </label>
-          <label>
-            <input type="radio" name="clozeType" value="both_def">
-            <span>双释全隐</span>
-          </label>
-          <label style="flex: 1 1 48%;">
-            <input type="radio" name="clozeType" value="first_letter">
-            <span>首字母提示 (a___)</span>
-          </label>
-          <label style="flex: 1 1 48%;">
-            <input type="radio" name="clozeType" value="word">
-            <span>隐藏完整单词</span>
-          </label>
-        </div>
-      </div>
-
-      <!-- 3. 每页单词数自由设置 (核心防溢出控制) -->
-      <div class="form-group">
-        <label>
-          4. 每页单词数 (自由设定 4 ~ 16 词)
-          <span class="badge" id="wppBadge" style="background:#2563eb; color:#fff; font-weight:bold;">10 词/页</span>
-        </label>
-        <div style="display: flex; align-items: center; gap: 8px;">
-          <input type="range" id="wordsPerPageRange" min="4" max="16" value="10" step="1" style="flex: 1; cursor: pointer;">
-          <input type="number" id="wordsPerPageInput" min="4" max="16" value="10" style="width: 55px; text-align: center; font-weight: bold;">
-        </div>
-        <!-- 快捷预设按钮 -->
-        <div class="radio-pill-group five-cols" style="margin-top: 3px;">
-          <div class="preset-btn" data-val="4">4 词(大)</div>
-          <div class="preset-btn" data-val="8">8 词</div>
-          <div class="preset-btn active" data-val="10">10 词</div>
-          <div class="preset-btn" data-val="12">12 词</div>
-          <div class="preset-btn" data-val="15">15 词(密)</div>
-        </div>
-        <div style="font-size: 10.5px; color: #64748b; margin-top: 2px;">
-          * ≥10 词时采用左右分区，保留抄写空间；长释义会精简显示，精读建议每页 4～6 词。
-        </div>
-      </div>
-
-      <!-- 4. 打印范围设置 -->
-      <div class="form-group">
-        <label>5. 学习范围与批次页数</label>
-        <div class="radio-pill-group four-cols">
-          <label>
-            <input type="radio" name="scopeMode" value="batch" checked>
-            <span>按页数批次</span>
-          </label>
-          <label>
-            <input type="radio" name="scopeMode" value="day">
-            <span>按天单页</span>
-          </label>
-          <label>
-            <input type="radio" name="scopeMode" value="range">
-            <span>序号范围</span>
-          </label>
-          <label>
-            <input type="radio" name="scopeMode" value="all">
-            <span>全本打印</span>
-          </label>
-        </div>
-      </div>
-
-      <!-- 按页数批次设置框 (核心断点打印控制) -->
-      <div class="form-group" id="batchScopeBox">
-        <div style="display: flex; gap: 8px; align-items: flex-end; justify-content: space-between;">
-          <div style="flex: 1;">
-            <label style="font-size: 11px; margin-bottom: 2px;">起始页码</label>
-            <div style="display: flex; align-items: center; gap: 3px;">
-              <span style="font-size: 11px; color: #64748b;">第</span>
-              <input type="number" id="batchStartPage" min="1" value="1" style="width: 100%; text-align: center; font-weight: bold;">
-              <span style="font-size: 11px; color: #64748b;">页</span>
+          <div class="book-select-grid">
+            <div class="form-group">
+              <label>分类 <span class="badge" id="categoryCount">18 类</span></label>
+              <select id="categorySelect"></select>
+            </div>
+            <div class="form-group">
+              <label>词书 <span class="badge" id="bookWordCount">0 词</span></label>
+              <select id="bookSelect"></select>
             </div>
           </div>
-          <div style="flex: 1;">
-            <label style="font-size: 11px; margin-bottom: 2px;">本次打印页数</label>
-            <div style="display: flex; align-items: center; gap: 3px;">
-              <input type="number" id="batchPageCount" min="1" value="5" style="width: 100%; text-align: center; font-weight: bold;">
-              <span style="font-size: 11px; color: #64748b;">页</span>
-            </div>
+          <div style="display:flex; justify-content:flex-end; margin-top:-3px;">
+            <button type="button" id="btnOpenFile" style="background:none; border:none; color:#2563eb; cursor:pointer; font-size:10.5px; text-decoration:underline;">导入本地 JSON</button>
           </div>
-        </div>
-        <!-- 快捷页数预设 -->
-        <div class="radio-pill-group five-cols" style="margin-top: 5px;">
-          <div class="batch-preset-btn" data-pages="1">1 页</div>
-          <div class="batch-preset-btn" data-pages="3">3 页</div>
-          <div class="batch-preset-btn active" data-pages="5">5 页</div>
-          <div class="batch-preset-btn" data-pages="10">10 页</div>
-          <div class="batch-preset-btn" data-pages="all">至全书</div>
-        </div>
-        <div id="batchSummaryText" style="font-size: 11px; color: #0369a1; background: #f0f9ff; border: 1px solid #bae6fd; padding: 4px 8px; border-radius: 4px; margin-top: 5px; line-height: 1.3;">
-          将打印 第 1 ~ 5 页 (共 50 词 · 单词序号 #1 ~ #50)
-        </div>
-      </div>
+        </section>
 
-      <div class="form-group" id="dayScopeBox" style="display: none;">
-        <label>
-          选择学习天数 / 批次
-          <span class="badge" id="dayRangeBadge">每天刚好1页</span>
-        </label>
-        <select id="daySelect"></select>
-      </div>
-
-      <div class="form-group" id="rangeScopeBox" style="display: none;">
-        <label>单词序号区间 (从 1 开始)</label>
-        <div class="range-inputs">
-          <input type="number" id="rangeStart" value="1" min="1">
-          <span>至</span>
-          <input type="number" id="rangeEnd" value="30" min="1">
-        </div>
-      </div>
-
-      <!-- 全本全量打印信息提示框 -->
-      <div class="form-group" id="allScopeBox" style="display: none;">
-        <div style="background: #eff6ff; border: 1px solid #bfdbfe; border-radius: 6px; padding: 10px; display: flex; flex-direction: column; gap: 6px;">
-          <div style="display: flex; justify-content: space-between; align-items: center;">
-            <strong style="font-size: 11.5px; color: #1e40af;">全本全量打印已就绪</strong>
-            <span class="badge" id="allTotalPagesBadge" style="background: #2563eb; color: #fff;">共 0 页 A4</span>
+        <!-- 2. 记忆模板与抄写自选 -->
+        <section class="sidebar-card" id="contentSection">
+          <div class="sidebar-card-header">
+            <strong><span>📝</span> 记忆模板与抄写自选</strong>
+            <small>模板、挖空与抄写区</small>
           </div>
-          <div style="font-size: 11px; color: #334155; line-height: 1.4;" id="allSummaryDetail">
-            将一次性排版全本所有单词。可点击底部“直接下载 PDF”或“打开浏览器打印预览”。
-          </div>
-        </div>
-      </div>
 
-      <!-- 6. 卡片排版设计风格 -->
-      <div class="form-group">
-        <label>6. 卡片排版设计风格</label>
-        <div class="radio-pill-group four-cols">
-          <label>
-            <input type="radio" name="cardStyle" value="academic" checked>
-            <span>学术精装</span>
-          </label>
-          <label>
-            <input type="radio" name="cardStyle" value="minimal">
-            <span>极简手账</span>
-          </label>
-          <label>
-            <input type="radio" name="cardStyle" value="split">
-            <span>黄金双栏</span>
-          </label>
-          <label>
-            <input type="radio" name="cardStyle" value="classic">
-            <span>经典线框</span>
-          </label>
-          <label>
-            <input type="radio" name="cardStyle" value="dictionary">
-            <span>现代词典</span>
-          </label>
-          <label>
-            <input type="radio" name="cardStyle" value="foldable">
-            <span>对折默写</span>
-          </label>
-          <label>
-            <input type="radio" name="cardStyle" value="grid">
-            <span>康奈尔网格</span>
-          </label>
-          <label>
-            <input type="radio" name="cardStyle" value="compact">
-            <span>高效备考</span>
-          </label>
-        </div>
-      </div>
-
-      <!-- 7. 纸张色彩主题 -->
-      <div class="form-group">
-        <label>7. 纸张色彩主题</label>
-        <div class="radio-pill-group three-cols">
-          <label>
-            <input type="radio" name="paperTheme" value="blue" checked>
-            <span><span class="theme-dot" style="background: #2563eb;"></span>商务蓝</span>
-          </label>
-          <label>
-            <input type="radio" name="paperTheme" value="green">
-            <span><span class="theme-dot" style="background: #059669;"></span>护眼绿</span>
-          </label>
-          <label>
-            <input type="radio" name="paperTheme" value="mono">
-            <span><span class="theme-dot" style="background: #0f172a;"></span>素墨黑</span>
-          </label>
-          <label>
-            <input type="radio" name="paperTheme" value="amber">
-            <span><span class="theme-dot" style="background: #d97706;"></span>牛津棕</span>
-          </label>
-          <label>
-            <input type="radio" name="paperTheme" value="purple">
-            <span><span class="theme-dot" style="background: #7c3aed;"></span>雅致紫</span>
-          </label>
-          <label>
-            <input type="radio" name="paperTheme" value="coral">
-            <span><span class="theme-dot" style="background: #ea580c;"></span>珊瑚橙</span>
-          </label>
-        </div>
-      </div>
-
-      <!-- 8. 字体大小 / 单词字号 -->
-      <div class="form-group">
-        <label>8. 字体大小 / 单词字号</label>
-        <div class="radio-pill-group four-cols">
-          <label>
-            <input type="radio" name="fontSizeMode" value="small">
-            <span>精简偏小</span>
-          </label>
-          <label>
-            <input type="radio" name="fontSizeMode" value="medium" checked>
-            <span>标准适中</span>
-          </label>
-          <label>
-            <input type="radio" name="fontSizeMode" value="large">
-            <span>清晰偏大</span>
-          </label>
-          <label>
-            <input type="radio" name="fontSizeMode" value="xlarge">
-            <span>字帖特大</span>
-          </label>
-        </div>
-      </div>
-
-      <!-- 高级装订与排版细化抽屉 -->
-      <div class="advanced-drawer-container">
-        <button type="button" id="btnToggleAdvanced" class="advanced-drawer-toggle">
-          <span>高级装订与排版细化</span>
-          <span class="drawer-arrow" id="drawerArrow">&#9660;</span>
-        </button>
-        <div id="advancedDrawer" class="advanced-drawer-content" style="display: none;">
-          <!-- 装订留白偏好 -->
+          <!-- 记忆本模板选择 -->
           <div class="form-group">
-            <label>装订装帧留白偏好</label>
+            <label>记忆模板</label>
+            <div class="radio-pill-group four-cols">
+              <label>
+                <input type="radio" name="templateMode" value="standard" checked>
+                <span>标准</span>
+              </label>
+              <label>
+                <input type="radio" name="templateMode" value="ebbinghaus">
+                <span>打卡</span>
+              </label>
+              <label>
+                <input type="radio" name="templateMode" value="fourline">
+                <span>四线格</span>
+              </label>
+              <label>
+                <input type="radio" name="templateMode" value="cloze">
+                <span>默写</span>
+              </label>
+            </div>
+          </div>
+
+          <!-- 默写挖空选项 -->
+          <div class="form-group" id="clozeSubGroup" style="display: none;">
+            <label>默写挖空遮挡设置</label>
+            <div class="radio-pill-group three-cols" style="flex-wrap: wrap;">
+              <label>
+                <input type="radio" name="clozeType" value="zh" checked>
+                <span>隐藏中文</span>
+              </label>
+              <label>
+                <input type="radio" name="clozeType" value="en">
+                <span>隐藏英释</span>
+              </label>
+              <label>
+                <input type="radio" name="clozeType" value="both_def">
+                <span>双释全隐</span>
+              </label>
+              <label style="flex: 1 1 48%;">
+                <input type="radio" name="clozeType" value="first_letter">
+                <span>首字母提示 (a___)</span>
+              </label>
+              <label style="flex: 1 1 48%;">
+                <input type="radio" name="clozeType" value="word">
+                <span>隐藏完整单词</span>
+              </label>
+            </div>
+          </div>
+
+          <!-- 抄写项目自选 -->
+          <div class="form-group" id="copyFieldsGroup">
+            <label>
+              抄写项目（可多选）
+              <span class="badge" id="copyFieldsBadge">单词 · 音标 · 中释</span>
+            </label>
+            <div class="copy-field-selector" role="group" aria-label="选择要打印的抄写项目">
+              <div class="copy-field-presets" aria-label="抄写项目快捷预设">
+                <button type="button" class="copy-preset-btn" data-copy-preset="all">全选</button>
+                <button type="button" class="copy-preset-btn" data-copy-preset="common" title="单词、音标和中文释义">常用：词+音+中释</button>
+                <button type="button" class="copy-preset-btn" data-copy-preset="word_def">词+中释</button>
+                <button type="button" class="copy-preset-btn" data-copy-preset="word_only">仅单词</button>
+                <button type="button" class="copy-preset-btn" data-copy-preset="none">无抄写</button>
+              </div>
+              <div class="copy-field-grid">
+                <label class="copy-field-option">
+                  <input type="checkbox" id="optWordSlot" checked>
+                  <span>单词</span>
+                </label>
+                <label class="copy-field-option">
+                  <input type="checkbox" id="optPhoneticSlot" checked>
+                  <span>音标</span>
+                </label>
+                <label class="copy-field-option">
+                  <input type="checkbox" id="optZhDefinitionSlot" checked>
+                  <span title="中文释义抄写格">中释格</span>
+                </label>
+                <label class="copy-field-option">
+                  <input type="checkbox" id="optEnDefinitionSlot">
+                  <span title="英文释义抄写格">英释格</span>
+                </label>
+              </div>
+              <div class="copy-field-help">可任意组合；全部取消时只保留词条学习内容。</div>
+            </div>
+          </div>
+        </section>
+
+        <!-- 3. 释义显示 -->
+        <section class="sidebar-card definition-settings-card" id="definitionSection">
+          <div class="sidebar-card-header">
+            <strong><span>📖</span> 释义显示</strong>
+            <small>语言 · 完整度 · 中英文条数</small>
+          </div>
+
+          <div class="feature-grid">
+            <div class="feature-field">
+              <label for="definitionLanguage">词条释义语言</label>
+              <select id="definitionLanguage">
+                <option value="both">中英双语</option>
+                <option value="zh">仅中文</option>
+                <option value="en">仅英文</option>
+              </select>
+            </div>
+            <div class="feature-field">
+              <label for="definitionDetail">释义完整度</label>
+              <select id="definitionDetail">
+                <option value="brief">精简释义（适合密集）</option>
+                <option value="full">完整释义（自动分页）</option>
+              </select>
+            </div>
+            <div class="feature-field">
+              <label for="zhDefinitionCount">词条中文释义条数</label>
+              <select id="zhDefinitionCount">
+                <option value="all">全部</option>
+                <option value="1">1 条（精炼）</option>
+                <option value="2">2 条（常用）</option>
+                <option value="3">3 条</option>
+              </select>
+            </div>
+            <div class="feature-field wide">
+              <label>词条英文释义显示条数</label>
+              <div class="radio-pill-group four-cols" role="radiogroup" aria-label="词条英文释义显示条数" style="margin-top: 1px;">
+                <label>
+                  <input type="radio" name="enDefCount" value="1">
+                  <span>1 条</span>
+                </label>
+                <label>
+                  <input type="radio" name="enDefCount" value="2" checked>
+                  <span>2 条</span>
+                </label>
+                <label>
+                  <input type="radio" name="enDefCount" value="3">
+                  <span>3 条</span>
+                </label>
+                <label>
+                  <input type="radio" name="enDefCount" value="all">
+                  <span>全部</span>
+                </label>
+              </div>
+            </div>
+            <div class="definition-behavior-note wide">
+              <strong>独立设置</strong>
+              <span>调整释义语言、完整度或条数，不会更改卡片风格和每页词数。</span>
+            </div>
+            <div class="feature-actions wide">
+              <button id="applyReadingLayout" class="definition-quick-action" type="button">应用精读推荐：完整释义 · 学术精装 · 4 词/页</button>
+            </div>
+          </div>
+        </section>
+
+        <!-- 4. 每页词数与排版密度 -->
+        <section class="sidebar-card">
+          <div class="sidebar-card-header">
+            <strong><span>📐</span> 每页词数与密度</strong>
+            <small>数量上限 · 自动分页</small>
+          </div>
+
+          <div class="form-group">
+            <label>
+              每页单词数上限
+              <span class="badge" id="wppBadge" style="background:#2563eb; color:#fff; font-weight:bold;">最多 10 词/页</span>
+            </label>
+            <div style="display: flex; align-items: center; gap: 8px;">
+              <input type="range" id="wordsPerPageRange" min="4" max="16" value="10" step="1" style="flex: 1; cursor: pointer;">
+              <input type="number" id="wordsPerPageInput" min="4" max="16" value="10" style="width: 55px; text-align: center; font-weight: bold;">
+            </div>
+            <!-- 快捷预设按钮 -->
+            <div class="radio-pill-group five-cols" style="margin-top: 3px;">
+              <button type="button" class="preset-btn" data-val="4">4 词(大)</button>
+              <button type="button" class="preset-btn" data-val="8">8 词</button>
+              <button type="button" class="preset-btn active" data-val="10">10 词</button>
+              <button type="button" class="preset-btn" data-val="12">12 词</button>
+              <button type="button" class="preset-btn" data-val="15">15 词(密)</button>
+            </div>
+            <div style="font-size: 10.5px; color: #64748b; margin-top: 2px;">
+              长释义会自动减少当前页词数；精读建议 4～6 词，但不会自动改动设置。
+            </div>
+          </div>
+        </section>
+
+        <!-- 5. 打印范围 -->
+        <section class="sidebar-card">
+          <div class="sidebar-card-header">
+            <strong><span>🎯</span> 学习与打印范围</strong>
+            <small>批次断点·单天·区间·全本</small>
+          </div>
+
+          <div class="form-group">
+            <label>范围模式</label>
+            <div class="radio-pill-group four-cols">
+              <label>
+                <input type="radio" name="scopeMode" value="batch" checked>
+                <span>按页批次</span>
+              </label>
+              <label>
+                <input type="radio" name="scopeMode" value="day">
+                <span>按天单页</span>
+              </label>
+              <label>
+                <input type="radio" name="scopeMode" value="range">
+                <span>序号范围</span>
+              </label>
+              <label>
+                <input type="radio" name="scopeMode" value="all">
+                <span>全本打印</span>
+              </label>
+            </div>
+          </div>
+
+          <!-- 按页数批次设置框 (核心断点打印控制) -->
+          <div class="form-group" id="batchScopeBox">
+            <div style="display: flex; gap: 8px; align-items: flex-end; justify-content: space-between;">
+              <div style="flex: 1;">
+                <label style="font-size: 11px; margin-bottom: 2px;">起始页码</label>
+                <div style="display: flex; align-items: center; gap: 3px;">
+                  <span style="font-size: 11px; color: #64748b;">第</span>
+                  <input type="number" id="batchStartPage" min="1" value="1" style="width: 100%; text-align: center; font-weight: bold;">
+                  <span style="font-size: 11px; color: #64748b;">页</span>
+                </div>
+              </div>
+              <div style="flex: 1;">
+                <label style="font-size: 11px; margin-bottom: 2px;">本次打印页数</label>
+                <div style="display: flex; align-items: center; gap: 3px;">
+                  <input type="number" id="batchPageCount" min="1" value="5" style="width: 100%; text-align: center; font-weight: bold;">
+                  <span style="font-size: 11px; color: #64748b;">页</span>
+                </div>
+              </div>
+            </div>
+            <!-- 快捷页数预设 -->
+            <div class="radio-pill-group five-cols" style="margin-top: 5px;">
+              <button type="button" class="batch-preset-btn" data-pages="1">1 页</button>
+              <button type="button" class="batch-preset-btn" data-pages="3">3 页</button>
+              <button type="button" class="batch-preset-btn active" data-pages="5">5 页</button>
+              <button type="button" class="batch-preset-btn" data-pages="10">10 页</button>
+              <button type="button" class="batch-preset-btn" data-pages="all">至全书</button>
+            </div>
+            <div id="batchSummaryText" style="font-size: 11px; color: #0369a1; background: #f0f9ff; border: 1px solid #bae6fd; padding: 4px 8px; border-radius: 4px; margin-top: 5px; line-height: 1.3;">
+              将打印 第 1 ~ 5 页 (共 50 词 · 单词序号 #1 ~ #50)
+            </div>
+          </div>
+
+          <div class="form-group" id="dayScopeBox" style="display: none;">
+            <label>
+              选择学习天数 / 批次
+              <span class="badge" id="dayRangeBadge">每天刚好1页</span>
+            </label>
+            <select id="daySelect"></select>
+          </div>
+
+          <div class="form-group" id="rangeScopeBox" style="display: none;">
+            <label>单词序号区间 (从 1 开始)</label>
+            <div class="range-inputs">
+              <input type="number" id="rangeStart" value="1" min="1">
+              <span>至</span>
+              <input type="number" id="rangeEnd" value="30" min="1">
+            </div>
+          </div>
+
+          <!-- 全本全量打印信息提示框 -->
+          <div class="form-group" id="allScopeBox" style="display: none;">
+            <div style="background: #eff6ff; border: 1px solid #bfdbfe; border-radius: 6px; padding: 10px; display: flex; flex-direction: column; gap: 6px;">
+              <div style="display: flex; justify-content: space-between; align-items: center;">
+                <strong style="font-size: 11.5px; color: #1e40af;">全本全量打印已就绪</strong>
+                <span class="badge" id="allTotalPagesBadge" style="background: #2563eb; color: #fff;">共 0 页 A4</span>
+              </div>
+              <div style="font-size: 11px; color: #334155; line-height: 1.4;" id="allSummaryDetail">
+                将一次性排版全本所有单词。可点击底部“直接下载 PDF”或“打开浏览器打印预览”。
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- 6. 外观与版式风格 -->
+        <section class="sidebar-card" id="appearanceSection">
+          <div class="sidebar-card-header">
+            <strong><span>🎨</span> 卡片风格与色彩</strong>
+            <small>卡片 · 主题 · 字号</small>
+          </div>
+
+          <!-- 卡片排版设计风格 -->
+          <div class="form-group">
+            <label>卡片风格</label>
+            <div class="radio-pill-group four-cols">
+              <label>
+                <input type="radio" name="cardStyle" value="academic" checked>
+                <span>学术精装</span>
+              </label>
+              <label>
+                <input type="radio" name="cardStyle" value="minimal">
+                <span>极简手账</span>
+              </label>
+              <label>
+                <input type="radio" name="cardStyle" value="split">
+                <span>黄金双栏</span>
+              </label>
+              <label>
+                <input type="radio" name="cardStyle" value="classic">
+                <span>经典线框</span>
+              </label>
+              <label>
+                <input type="radio" name="cardStyle" value="dictionary">
+                <span>现代词典</span>
+              </label>
+              <label>
+                <input type="radio" name="cardStyle" value="foldable">
+                <span>对折默写</span>
+              </label>
+              <label>
+                <input type="radio" name="cardStyle" value="grid">
+                <span>康奈尔网格</span>
+              </label>
+              <label>
+                <input type="radio" name="cardStyle" value="compact">
+                <span>高效备考</span>
+              </label>
+            </div>
+          </div>
+
+          <!-- 纸张色彩主题 -->
+          <div class="form-group">
+            <label>纸张色彩主题</label>
             <div class="radio-pill-group three-cols">
               <label>
-                <input type="radio" name="marginMode" value="center" checked>
-                <span>标准居中 (12mm)</span>
+                <input type="radio" name="paperTheme" value="blue" checked>
+                <span><span class="theme-dot" style="background: #2563eb;"></span>商务蓝</span>
               </label>
               <label>
-                <input type="radio" name="marginMode" value="left">
-                <span>左侧装订 (+8mm)</span>
+                <input type="radio" name="paperTheme" value="green">
+                <span><span class="theme-dot" style="background: #059669;"></span>护眼绿</span>
               </label>
               <label>
-                <input type="radio" name="marginMode" value="top">
-                <span>顶端翻页 (+8mm)</span>
+                <input type="radio" name="paperTheme" value="mono">
+                <span><span class="theme-dot" style="background: #0f172a;"></span>素墨黑</span>
+              </label>
+              <label>
+                <input type="radio" name="paperTheme" value="amber">
+                <span><span class="theme-dot" style="background: #d97706;"></span>牛津棕</span>
+              </label>
+              <label>
+                <input type="radio" name="paperTheme" value="purple">
+                <span><span class="theme-dot" style="background: #7c3aed;"></span>雅致紫</span>
+              </label>
+              <label>
+                <input type="radio" name="paperTheme" value="coral">
+                <span><span class="theme-dot" style="background: #ea580c;"></span>珊瑚橙</span>
               </label>
             </div>
           </div>
 
-          <!-- 单词顺序 -->
+          <!-- 字体大小 / 单词字号 -->
           <div class="form-group">
-            <div style="display: flex; justify-content: space-between; align-items: center;">
-              <label style="margin: 0;">单词排列顺序</label>
-              <button type="button" id="btnReshuffle" style="background: none; border: none; color: #2563eb; font-size: 10.5px; cursor: pointer; text-decoration: underline; display: none;">重新打乱</button>
+            <label>单词字号</label>
+            <div class="radio-pill-group four-cols">
+              <label>
+                <input type="radio" name="fontSizeMode" value="small">
+                <span>精简偏小</span>
+              </label>
+              <label>
+                <input type="radio" name="fontSizeMode" value="medium" checked>
+                <span>标准适中</span>
+              </label>
+              <label>
+                <input type="radio" name="fontSizeMode" value="large">
+                <span>清晰偏大</span>
+              </label>
+              <label>
+                <input type="radio" name="fontSizeMode" value="xlarge">
+                <span>字帖特大</span>
+              </label>
             </div>
-            <div class="radio-pill-group three-cols" style="margin-top: 4px;">
-              <label>
-                <input type="radio" name="wordOrder" value="original" checked>
-                <span>原书顺序</span>
-              </label>
-              <label>
-                <input type="radio" name="wordOrder" value="shuffle">
-                <span>随机乱序</span>
-              </label>
-              <label>
-                <input type="radio" name="wordOrder" value="alpha">
-                <span>A-Z字典序</span>
-              </label>
-            </div>
+          </div>
+        </section>
+      </div>
+
+      <!-- ================= TAB 2: 版式微调 ================= -->
+      <div class="sidebar-tab-content" id="tab-detail" role="tabpanel" aria-labelledby="tab-btn-detail">
+        <!-- 1. 音标、词序与打卡标签 -->
+        <section class="sidebar-card">
+          <div class="sidebar-card-header">
+            <strong><span>🔤</span> 音标、词序与标签</strong>
+            <small>音标偏好·乱序·序号标签</small>
           </div>
 
           <!-- 音标偏好 -->
@@ -3248,25 +3858,32 @@
             </div>
           </div>
 
-          <!-- 英文释义条数选择 -->
+          <!-- 单词顺序 -->
           <div class="form-group">
-            <label>英文释义显示条数</label>
-            <div class="radio-pill-group four-cols">
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+              <label style="margin: 0;">单词排列顺序</label>
+              <button type="button" id="btnReshuffle" style="background: none; border: none; color: #2563eb; font-size: 10.5px; cursor: pointer; text-decoration: underline; display: none;">重新打乱</button>
+            </div>
+            <div class="radio-pill-group five-cols" style="margin-top: 4px;">
               <label>
-                <input type="radio" name="enDefCount" value="1">
-                <span>1 条(精简)</span>
+                <input type="radio" name="wordOrder" value="original" checked>
+                <span>原书顺序</span>
               </label>
               <label>
-                <input type="radio" name="enDefCount" value="2" checked>
-                <span>2 条(推荐)</span>
+                <input type="radio" name="wordOrder" value="shuffle">
+                <span>随机乱序</span>
               </label>
               <label>
-                <input type="radio" name="enDefCount" value="3">
-                <span>3 条</span>
+                <input type="radio" name="wordOrder" value="alpha">
+                <span>A-Z字典</span>
               </label>
               <label>
-                <input type="radio" name="enDefCount" value="all">
-                <span>全部</span>
+                <input type="radio" name="wordOrder" value="difficulty">
+                <span>由易到难</span>
+              </label>
+              <label>
+                <input type="radio" name="wordOrder" value="weak">
+                <span>错词优先</span>
               </label>
             </div>
           </div>
@@ -3293,87 +3910,414 @@
               </label>
             </div>
           </div>
+        </section>
 
-          <!-- 附加选项 -->
+        <!-- 3. 装订留白、双面翻页与校准 -->
+        <section class="sidebar-card">
+          <div class="sidebar-card-header">
+            <strong><span>📐</span> 装订留白与硬件校准</strong>
+            <small>页边距·双面·小册子·打印偏移</small>
+          </div>
+
+          <!-- 基础页边距 -->
           <div class="form-group">
-            <label>排版细节与装帧</label>
-            <div style="display: flex; flex-direction: column; gap: 6px; margin-top: 3px;">
-              <label class="checkbox-item">
-                <input type="checkbox" id="optPhoneticSlot" checked>
-                <span>开启音标书写格 (2遍)</span>
+            <label>基础页边距</label>
+            <div class="radio-pill-group four-cols">
+              <label>
+                <input type="radio" name="marginMode" value="center" checked>
+                <span>标准居中 (12mm)</span>
               </label>
-              <label class="checkbox-item">
-                <input type="checkbox" id="optCover" checked>
-                <span>生成精美专属 A4 封面页</span>
+              <label>
+                <input type="radio" name="marginMode" value="left">
+                <span>左侧装订 (+8mm)</span>
               </label>
-              <label class="checkbox-item">
-                <input type="checkbox" id="optHeader" checked>
-                <span>打印页眉与学习日期横线</span>
+              <label>
+                <input type="radio" name="marginMode" value="right">
+                <span>右侧装订 (+8mm)</span>
+              </label>
+              <label>
+                <input type="radio" name="marginMode" value="top">
+                <span>顶端翻页 (+8mm)</span>
               </label>
             </div>
           </div>
-        </div>
+
+          <div class="feature-grid">
+            <div class="feature-field">
+              <label for="bindingMode">装订方向增强</label>
+              <select id="bindingMode">
+                <option value="none">使用基础页边距</option>
+                <option value="left">左装订</option>
+                <option value="right">右装订</option>
+                <option value="top">上装订</option>
+              </select>
+            </div>
+            <div class="feature-field">
+              <label for="printDuplex">双面装订翻页</label>
+              <select id="printDuplex">
+                <option value="off">单面打印</option>
+                <option value="long">双面长边翻页（内外边距交替）</option>
+                <option value="short">双面短边翻页</option>
+              </select>
+            </div>
+          </div>
+
+          <label class="checkbox-item" style="margin-top: 4px;">
+            <input id="bookletMode" type="checkbox">
+            <span>A4 横向双面拼版为 A5 对折小册子</span>
+          </label>
+
+          <details style="margin-top: 6px; border: 1px dashed #cbd5e1; border-radius: 6px; padding: 6px 8px; background: #fafafa;">
+            <summary style="font-size: 11px; color: #475569; cursor: pointer; font-weight: 600;">打印机硬件偏移与校准参数</summary>
+            <div class="feature-grid" style="margin-top: 6px;">
+              <div class="feature-field"><label for="calibrationScale">缩放比例 (90～110%)</label><input id="calibrationScale" type="number" min="90" max="110" value="100"></div>
+              <div class="feature-field"><label for="calibrationOffsetX">水平校准 (毫米)</label><input id="calibrationOffsetX" type="number" min="-15" max="15" step="0.5" value="0"></div>
+              <div class="feature-field"><label for="calibrationOffsetY">垂直校准 (毫米)</label><input id="calibrationOffsetY" type="number" min="-15" max="15" step="0.5" value="0"></div>
+            </div>
+            <div class="feature-actions" style="margin-top: 5px;"><button id="downloadCalibrationPage" type="button" style="width: 100%;">下载打印校准页</button></div>
+          </details>
+        </section>
+
+        <!-- 4. 智能排版、防溢出与省墨 -->
+        <section class="sidebar-card">
+          <div class="sidebar-card-header">
+            <strong><span>🧠</span> 智能排版与溢出优化</strong>
+            <small>自适应长度·防截断·省墨</small>
+          </div>
+
+          <div style="display: flex; flex-direction: column; gap: 6px;">
+            <label class="checkbox-item">
+              <input id="smartDensity" type="checkbox">
+              <span>按单词与释义长度智能调整每页词数</span>
+            </label>
+            <label class="checkbox-item">
+              <input id="printInkSaver" type="checkbox">
+              <span>黑白省墨（取消底色背景与重色装饰）</span>
+            </label>
+            <label class="checkbox-item">
+              <input id="printDecorations" type="checkbox" checked>
+              <span>保留装饰元素与复习打卡方框</span>
+            </label>
+          </div>
+
+          <div class="feature-grid" style="margin-top: 4px;">
+            <div class="feature-field wide">
+              <label for="overflowStrategy">内容溢出处理策略</label>
+              <select id="overflowStrategy">
+                <option value="auto">自动：分页＋微调字号</option>
+                <option value="move">移到下一页</option>
+                <option value="shrink">优先缩小字号</option>
+                <option value="brief">优先精简释义</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="feature-actions">
+            <button id="applyAutoLayoutFix" type="button">分析并自动修复排版溢出</button>
+          </div>
+          <div id="autoLayoutReport" class="feature-report" role="status">尚未执行智能排版分析。</div>
+        </section>
+
+        <!-- 5. 页眉页脚与学习者装帧 -->
+        <section class="sidebar-card">
+          <div class="sidebar-card-header">
+            <strong><span>🏷️</span> 页眉页脚与学习者装帧</strong>
+            <small>封面·姓名·自定义注头·练习</small>
+          </div>
+
+          <div style="display: flex; flex-direction: column; gap: 6px;">
+            <label class="checkbox-item">
+              <input type="checkbox" id="optCover" checked>
+              <span>生成精美专属 A4 封面页</span>
+            </label>
+            <label class="checkbox-item">
+              <input type="checkbox" id="optHeader" checked>
+              <span>显示页眉与学习日期横线</span>
+            </label>
+            <label class="checkbox-item">
+              <input id="showMorphology" type="checkbox">
+              <span>显示词根、词缀和同族词（有字段时优先）</span>
+            </label>
+            <label class="checkbox-item">
+              <input id="showPronunciationQr" type="checkbox">
+              <span>为单词生成发音/词典二维码</span>
+            </label>
+          </div>
+
+          <div class="feature-grid" style="margin-top: 4px;">
+            <div class="feature-field"><label for="studentName">学习者姓名</label><input id="studentName" maxlength="40" placeholder="例如：李雷"></div>
+            <div class="feature-field"><label for="className">班级 / 考期</label><input id="className" maxlength="40" placeholder="例如：考研一班"></div>
+            <div class="feature-field wide"><label for="customHeader">自定义页眉内容</label><input id="customHeader" maxlength="120" placeholder="{book} · {student} · {date}"></div>
+            <div class="feature-field wide"><label for="customFooter">自定义页脚内容</label><input id="customFooter" maxlength="120" placeholder="{class} · 第 {page}/{pages} 页"></div>
+            <div class="feature-field"><label for="exerciseMode">附加自测模式</label>
+              <select id="exerciseMode">
+                <option value="study">关闭附加自测</option>
+                <option value="en_to_zh">英译中练习</option>
+                <option value="zh_to_en">中译英练习</option>
+                <option value="first_letter">首字母提示</option>
+                <option value="missing_letters">隔字母挖空</option>
+                <option value="blank">完全空白</option>
+              </select>
+            </div>
+            <div class="feature-field"><label for="exampleMode">例句呈现</label>
+              <select id="exampleMode">
+                <option value="off">不显示例句</option>
+                <option value="show">显示完整原句</option>
+                <option value="cloze">目标词挖空练习</option>
+              </select>
+            </div>
+            <div class="feature-field wide"><label for="qrProvider">二维码词典源</label>
+              <select id="qrProvider">
+                <option value="youdao">有道词典</option>
+                <option value="cambridge">Cambridge Dictionary</option>
+                <option value="bing">必应词典</option>
+              </select>
+            </div>
+          </div>
+          <p class="feature-help" style="margin-top: 4px;">占位符支持：{book}、{page}、{pages}、{date}、{words}、{student}、{class}、{mode}。</p>
+
+          <!-- 兼容保留抽屉锚点 (无视觉干扰) -->
+          <button type="button" id="btnToggleAdvanced" style="display:none;" aria-hidden="true"></button>
+          <span id="drawerArrow" style="display:none;" aria-hidden="true"></span>
+          <div id="advancedDrawer" style="display:none;" aria-hidden="true"></div>
+        </section>
       </div>
 
-      <section class="workbench-panel">
-        <h3>筛选与学习工具</h3>
-        <label for="minLetters">最少英文字母数（0＝不限）</label>
-        <input id="minLetters" type="number" min="0" max="40" value="0">
-        <label><input id="keepPhrases" type="checkbox" checked> 保留短语（不受字母数限制）</label>
-        <label><input id="deduplicate" type="checkbox" checked> 自动去重（忽略大小写及多余空格）</label>
-        <details><summary>排除已掌握单词</summary><label for="familiarWords">每行一个单词或短语，也可用逗号分隔</label><textarea id="familiarWords" rows="4" placeholder="a, an, to&#10;look up"></textarea></details>
-        <p id="filterStats" role="status"></p>
-        <button id="manageWords" type="button">自选单词与错词</button>
-        <details><summary>合并词书</summary>
-          <select id="mergeBookSelect" aria-label="待合并词书"><option value="">选择第二本内置词书</option></select>
-          <button id="mergeRemote" type="button">合并到当前词书</button>
-          <button id="mergeLocal" type="button">合并本地 JSON（可多选）</button>
-          <p>去重时保留首次出现的词条；取消“自动去重”可保留不同释义。</p>
-        </details>
-        <details><summary>错词复习与备份</summary>
-          <p id="reviewStats" role="status"></p>
-          <label><input id="reviewOnly" type="checkbox"> 当前词书仅打印收藏错词</label>
-          <label><input id="reviewDueOnly" type="checkbox"> 仅打印到期待复习词</label>
-          <button id="openReview" type="button">打开全部错词本</button>
-          <button id="exportReview" type="button">导出错词 JSON</button>
-          <p>在自选列表点击“已复习”，按1、2、4、7、15、30天安排下次复习。</p>
-          <button id="backupLearning" type="button">备份学习数据与方案</button>
-          <button id="restoreLearning" type="button">恢复备份</button>
-        </details>
-        <details><summary>释义与省纸打印</summary>
-          <label for="definitionLanguage">释义语言</label><select id="definitionLanguage"><option value="both">中英双语</option><option value="zh">仅中文</option><option value="en">仅英文</option></select>
-          <label for="definitionDetail">释义显示</label><select id="definitionDetail"><option value="brief">精简释义（适合密集打印）</option><option value="full">完整释义（学术精读·最多4词/页·自动分页）</option></select>
-          <label for="zhDefinitionCount">中文释义条数</label><select id="zhDefinitionCount"><option value="all">全部</option><option value="1">1条</option><option value="2">2条</option><option value="3">3条</option></select>
-          <p>英文条数沿用“高级装订与排版细化”中的英文释义设置。</p>
-          <label for="printDuplex">双面装订</label><select id="printDuplex"><option value="off">单面</option><option value="long">双面长边翻页（内外边距交替）</option><option value="short">双面短边翻页</option></select>
-          <p>打印时仍需在打印机驱动中选择相同的双面翻页方向。</p>
-          <label><input id="printInkSaver" type="checkbox"> 黑白省墨（取消底色与装饰）</label>
-          <label><input id="printDecorations" type="checkbox" checked> 保留装饰和复习标记</label>
-          <button id="applyReadingLayout" type="button">一键精读排版（4词/页）</button>
-          <button id="applyEconomyLayout" type="button">一键省纸排版（12词/页·无封面）</button>
-        </details>
-        <details><summary>我的排版方案</summary>
-          <input id="presetName" aria-label="方案名称" placeholder="例如：考研每日默写" maxlength="60">
-          <button id="savePreset" type="button">保存当前方案</button>
-          <select id="presetSelect" aria-label="已保存方案"></select>
-          <button id="applyPreset" type="button">应用方案</button><button id="deletePreset" type="button">删除方案</button><button id="undoPreset" type="button" hidden>撤销上次方案修改</button>
-        </details>
-        <button id="checkLayout" type="button">打印前排版检查</button>
-        <div id="layoutReport" role="status"></div>
-      </section>
+      <!-- ================= TAB 3: 工具与复习 ================= -->
+      <div class="sidebar-tab-content" id="tab-tools" role="tabpanel" aria-labelledby="tab-btn-tools">
+        <!-- 1. 快捷方案与场景预设 -->
+        <section class="sidebar-card">
+          <div class="sidebar-card-header">
+            <strong><span>⚡</span> 场景预设与快捷方案</strong>
+            <small>考研·练字·默写·手账</small>
+          </div>
+
+          <div class="scenario-presets-grid">
+            <button type="button" class="scenario-btn" data-preset="exam"><strong>考研冲刺</strong><span>10词·学术蓝·艾宾浩斯</span></button>
+            <button type="button" class="scenario-btn" data-preset="calligraphy"><strong>书法练字</strong><span>4词·四线格·护眼绿</span></button>
+            <button type="button" class="scenario-btn" data-preset="cloze"><strong>自测默写</strong><span>12词·首字母提示·素黑</span></button>
+            <button type="button" class="scenario-btn" data-preset="journal"><strong>便携手账</strong><span>8词·双栏·牛津棕</span></button>
+          </div>
+
+          <div class="feature-actions" style="margin-top: 6px;">
+            <button id="applyEconomyLayout" type="button">一键省纸排版（12词/页·无封面）</button>
+          </div>
+        </section>
+
+        <!-- 2. 个人方案管理 -->
+        <section class="sidebar-card">
+          <div class="sidebar-card-header">
+            <strong><span>💾</span> 方案存档与管理</strong>
+            <small>将当前全部排版保存为方案</small>
+          </div>
+
+          <div class="form-group">
+            <label for="presetName">保存新方案</label>
+            <div style="display: flex; gap: 6px;">
+              <input id="presetName" aria-label="方案名称" placeholder="例如：每日30词默写" maxlength="60" style="flex: 1;">
+              <button id="savePreset" type="button" style="white-space: nowrap; padding: 6px 12px; font-weight: 600;">保存</button>
+            </div>
+          </div>
+
+          <div class="form-group" style="margin-top: 4px;">
+            <label for="presetSelect">已存方案</label>
+            <select id="presetSelect" aria-label="已保存方案"></select>
+            <div class="feature-actions" style="margin-top: 4px;">
+              <button id="applyPreset" type="button" style="font-weight: 600; color: #1d4ed8;">应用方案</button>
+              <button id="deletePreset" type="button" style="color: #dc2626;">删除方案</button>
+              <button id="undoPreset" type="button" hidden>撤销修改</button>
+            </div>
+          </div>
+        </section>
+
+        <!-- 3. 单词筛选与词书合并 -->
+        <section class="sidebar-card">
+          <div class="sidebar-card-header">
+            <strong><span>🔍</span> 单词筛选与熟词排除</strong>
+            <small>字母数·短语·自选词表</small>
+          </div>
+
+          <div class="filter-essentials">
+            <div>
+              <label for="minLetters">最少字母数</label>
+              <input id="minLetters" type="number" min="0" max="40" value="3">
+              <small>默认 3；设 0 不限</small>
+            </div>
+            <div class="filter-toggles">
+              <label><input id="keepPhrases" type="checkbox" checked> 保留短语</label>
+              <label><input id="deduplicate" type="checkbox" checked> 自动去重</label>
+            </div>
+          </div>
+
+          <div class="feature-field" style="margin-top: 4px;">
+            <label for="difficultyFilter">词汇难度分级筛选</label>
+            <select id="difficultyFilter">
+              <option value="all">全部难度</option>
+              <option value="basic">基础</option>
+              <option value="intermediate">进阶</option>
+              <option value="advanced">困难</option>
+            </select>
+          </div>
+
+          <p id="filterStats" role="status" style="margin: 3px 0;"></p>
+          <button id="manageWords" type="button" style="width: 100%; font-weight: 600;">自选单词与错词列表</button>
+
+          <details style="margin-top: 6px; border: 1px dashed #cbd5e1; border-radius: 6px; padding: 6px 8px; background: #fafafa;">
+            <summary style="font-size: 11px; color: #475569; cursor: pointer; font-weight: 600;">排除已掌握熟词与词书合并</summary>
+            <div style="margin-top: 6px;">
+              <label for="familiarWords" style="font-size: 10.5px; color: #475569; font-weight: 600;">排除熟词（每行一个或逗号隔开）</label>
+              <textarea id="familiarWords" rows="3" placeholder="a, an, to&#10;look up" style="margin-top: 3px; font-size: 11px;"></textarea>
+            </div>
+            <div style="margin-top: 6px; border-top: 1px solid #e2e8f0; padding-top: 6px;">
+              <label for="mergeBookSelect" style="font-size: 10.5px; color: #475569; font-weight: 600;">合并第二本词书</label>
+              <select id="mergeBookSelect" aria-label="待合并词书" style="margin-top: 3px;"><option value="">选择第二本内置词书</option></select>
+              <div class="feature-actions" style="margin-top: 4px;">
+                <button id="mergeRemote" type="button">合并到当前词书</button>
+                <button id="mergeLocal" type="button">合并本地 JSON</button>
+              </div>
+            </div>
+          </details>
+        </section>
+
+        <!-- 4. 错词本与艾宾浩斯复习 -->
+        <section class="sidebar-card">
+          <div class="sidebar-card-header">
+            <strong><span>🔄</span> 错词本与艾宾浩斯复习</strong>
+            <small>错词加练·间隔复习打卡</small>
+          </div>
+
+          <p id="reviewStats" role="status" style="margin: 0 0 4px;"></p>
+          <div style="display: flex; flex-direction: column; gap: 5px;">
+            <label class="checkbox-item"><input id="reviewOnly" type="checkbox"> 当前词书仅打印收藏错词</label>
+            <label class="checkbox-item"><input id="reviewDueOnly" type="checkbox"> 仅打印到期待复习词</label>
+            <label class="checkbox-item"><input id="weakWordBoost" type="checkbox" checked> 错误次数越多越优先，并增加抄写格</label>
+          </div>
+
+          <div class="feature-grid" style="margin-top: 6px;">
+            <div class="feature-field"><label for="reviewStartDate">首次学习日期</label><input id="reviewStartDate" type="date"></div>
+            <div class="feature-field"><label for="weakCopyBoost">错词最多增加抄写</label><input id="weakCopyBoost" type="number" min="0" max="5" value="3"></div>
+            <div class="feature-field wide"><label for="reviewIntervals">复习间隔周期（天）</label><input id="reviewIntervals" value="1,2,4,7,15,30" maxlength="80"></div>
+            <div class="feature-field wide"><label for="reviewPacketScope">复习包生成范围</label>
+              <select id="reviewPacketScope">
+                <option value="current">当前选定范围</option>
+                <option value="all">筛选后的全部单词</option>
+                <option value="wrong">仅错词收藏</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="feature-actions" style="margin-top: 5px;">
+            <button id="buildReviewSchedule" type="button">生成复习日期</button>
+            <button id="downloadReviewPack" type="button">下载艾宾浩斯复习包</button>
+          </div>
+          <div id="reviewScheduleReport" class="feature-report" role="status">按 1、2、4、7、15、30 天生成复习任务。</div>
+
+          <div class="feature-actions" style="margin-top: 5px; border-top: 1px solid #f1f5f9; padding-top: 5px;">
+            <button id="openReview" type="button">打开错词本</button>
+            <button id="exportReview" type="button">导出错词 JSON</button>
+            <button id="backupLearning" type="button">备份学习数据</button>
+            <button id="restoreLearning" type="button">恢复备份</button>
+          </div>
+        </section>
+
+        <!-- 5. 学习进度与每日任务 -->
+        <section class="sidebar-card" id="progressSection">
+          <div class="sidebar-card-header">
+            <strong><span>📊</span> 学习进度与每日任务</strong>
+            <span class="pc-badge" id="pcBadge">未开始</span>
+          </div>
+
+          <div class="progress-card" id="progressCard">
+            <div class="progress-bar-bg"><div class="progress-bar-fill" id="pcProgressBar" style="width: 0%;"></div></div>
+            <div class="progress-stats">
+              <span id="pcStatsText">尚未打印</span>
+              <span id="pcDateText" style="color:#94a3b8;"></span>
+            </div>
+            <button type="button" class="btn-continue" id="btnContinueBatch">接续打印下 5 页</button>
+            <div class="progress-links">
+              <button type="button" class="link-btn" id="btnMarkPrinted">标记已打</button>
+              <button type="button" class="link-btn" id="btnOpenHistory">打印档案</button>
+              <button type="button" class="link-btn text-danger" id="btnResetProgress">重置</button>
+            </div>
+          </div>
+
+          <div class="feature-grid" style="margin-top: 6px;">
+            <div class="feature-field"><label for="planStartDate">计划开始日期</label><input id="planStartDate" type="date"></div>
+            <div class="feature-field"><label for="planDeadline">目标完成日期</label><input id="planDeadline" type="date"></div>
+            <div class="feature-field"><label for="dailyWordTarget">每日目标词数</label><input id="dailyWordTarget" type="number" min="1" max="1000" value="30"></div>
+            <div class="feature-field"><label for="printCopies">打印份数</label><input id="printCopies" type="number" min="1" max="100" value="1"></div>
+            <div class="feature-field"><label for="paperPrice">每张纸单价 (元)</label><input id="paperPrice" type="number" min="0" max="100" step="0.01" value="0.10"></div>
+            <div class="feature-field"><label for="inkPrice">每面墨水成本 (元)</label><input id="inkPrice" type="number" min="0" max="100" step="0.01" value="0.05"></div>
+          </div>
+
+          <div class="feature-actions" style="margin-top: 5px;">
+            <button id="generateDailyPlan" type="button">生成每日任务</button>
+            <button id="applyTodayPlan" type="button">应用今天任务</button>
+            <button id="downloadDailyPlan" type="button">下载任务分册</button>
+          </div>
+          <div id="dailyPlanReport" class="feature-report" role="status">设置日期或每日词数后生成计划。</div>
+          <div id="costReport" class="feature-report" role="status">打印成本将在排版后自动估算。</div>
+        </section>
+
+        <!-- 6. 排版体检与批量导出 -->
+        <section class="sidebar-card" id="toolsSection">
+          <div class="sidebar-card-header">
+            <strong><span>🖨️</span> 排版体检与批量导出</strong>
+            <small>打印前体检·多格式导出</small>
+          </div>
+
+          <button id="checkLayout" type="button" style="width: 100%; font-weight: 600; padding: 7px; background: #eff6ff; border-color: #93c5fd; color: #1d4ed8;">打印前排版体检</button>
+          <div id="layoutReport" role="status" style="margin: 4px 0;"></div>
+
+          <div class="feature-actions" style="margin-top: 4px;">
+            <button id="exportCsv" type="button">导出 CSV</button>
+            <button id="exportAnki" type="button">导出 Anki TSV</button>
+            <button id="exportLearningReport" type="button">导出学习报告</button>
+          </div>
+
+          <details style="margin-top: 6px; border: 1px dashed #cbd5e1; border-radius: 6px; padding: 6px 8px; background: #fafafa;">
+            <summary style="font-size: 11px; color: #475569; cursor: pointer; font-weight: 600;">批量多词书打包导出队列</summary>
+            <div class="feature-field" style="margin-top: 6px;">
+              <label for="multiBookMode">多词书筛选规则</label>
+              <select id="multiBookMode">
+                <option value="union">并集：全部词条</option>
+                <option value="shared">共同出现：至少两本</option>
+                <option value="intersection">交集：每本都出现</option>
+                <option value="unique">独有：仅一本出现</option>
+              </select>
+            </div>
+            <div class="feature-field" style="margin-top: 4px;">
+              <label for="batchBookSelect">批量选择词书（Ctrl/Shift 多选，最多10本）</label>
+              <select id="batchBookSelect" multiple aria-label="批量导出词书"></select>
+            </div>
+            <div class="feature-inline" style="margin-top: 4px;">
+              <label for="batchExportFormat">导出格式</label>
+              <select id="batchExportFormat" style="flex: 1;">
+                <option value="pdf">PDF 压缩包</option>
+                <option value="csv">CSV 压缩包</option>
+                <option value="anki">Anki 压缩包</option>
+              </select>
+            </div>
+            <div class="feature-actions" style="margin-top: 6px;">
+              <button id="startBatchExport" type="button" style="width: 100%; font-weight: 600;">加入后台批量导出队列</button>
+            </div>
+            <div id="batchExportReport" class="feature-report" role="status">尚未选择批量任务。</div>
+          </details>
+        </section>
+      </div>
     </div>
 
     <!-- Sidebar Action Footer -->
     <div class="sidebar-footer">
       <button class="btn-direct-download" id="btnDirectDownload">
-        直接下载 (PDF / 离线文件·防卡死)
+        下载 / 导出
       </button>
       <button class="btn-secondary-print" id="btnPrint">
-        打开浏览器打印预览 (Ctrl+P)
+        浏览器打印
       </button>
       <div class="status-bar">
         <span id="pageCountStatus">正在生成预览...</span>
-        <span>A4 打印排版</span>
+        <span>A4 · 自动排版</span>
       </div>
     </div>
   </aside>
@@ -3436,7 +4380,7 @@
             <span style="font-size: 11px; background: #e2e8f0; color: #334155; padding: 2px 8px; border-radius: 12px;" id="modalPagesCountBadge">共 0 页 A4</span>
           </div>
           <div style="font-size: 11.5px; color: #64748b; line-height: 1.6;" id="modalConfigSummary">
-            排版规格：每页 10 词 · 学术精装风 · 商务蓝 · 标准字号
+            排版规格：每页最多 10 词 · 学术精装风 · 商务蓝 · 标准字号
           </div>
           
           <!-- 导出范围选择：整本书籍 vs 当前分批范围 -->
@@ -3654,8 +4598,9 @@
   </dialog>
   <input id="mergeFileInput" type="file" accept=".json" multiple hidden>
   <input id="learningFileInput" type="file" accept=".json" hidden>
-  <script src="workbench.js"></script>
-  <script src="catalog.js"></script>
+  <script src="advanced_features.js?v=20261018"></script>
+  <script src="workbench.js?v=20261018"></script>
+  <script src="catalog.js?v=20261017"></script>
   <script>
     let catalog = {};
     let currentBookWords = [];
@@ -3732,18 +4677,19 @@
     }
 
     // Words per page change
-    function setWordsPerPage(val) {
-      const maxWords = document.getElementById('definitionDetail')?.value === 'full' ? 4 : 16;
-      val = Math.max(4, Math.min(maxWords, parseInt(val) || 10));
+    function setWordsPerPage(val, refreshPreview = true) {
+      val = Math.max(4, Math.min(16, parseInt(val) || 10));
       wordsPerPage = val;
       wordsPerPageRange.value = val;
       wordsPerPageInput.value = val;
-      wppBadge.textContent = `${val} 词/页`;
+      wppBadge.textContent = `最多 ${val} 词/页`;
+      try { localStorage.setItem('vocab_print_words_per_page', String(val)); } catch (e) {}
 
       document.querySelectorAll('.preset-btn').forEach(btn => {
         btn.classList.toggle('active', parseInt(btn.dataset.val) === val);
       });
 
+      if (!refreshPreview) return;
       updateDaySelect();
       updateBatchSummary();
       updateAllScopeSummary();
@@ -3776,7 +4722,7 @@
     function setZoom(val) {
       zoom = Math.max(0.4, Math.min(1.5, Math.round(val * 100) / 100));
       zoomLevel.textContent = Math.round(zoom * 100) + '%';
-      document.querySelectorAll('.a4-page').forEach(page => {
+      previewArea.querySelectorAll(':scope > .a4-page').forEach(page => {
         page.style.transform = `scale(${zoom})`;
         page.style.marginBottom = `${(297 * (zoom - 1) * 3.78) + 20}px`;
       });
@@ -3917,6 +4863,7 @@
 
     let shuffledOrderCache = null;
     let lastShuffleBookKey = '';
+    let shuffleSeed = Date.now();
 
     function getProcessedBookWords() {
       if (!currentBookWords || currentBookWords.length === 0) return [];
@@ -3927,16 +4874,16 @@
       if (orderMode === 'alpha') {
         list = [...list].sort((a, b) => (a['单词'] || '').localeCompare(b['单词'] || ''));
       } else if (orderMode === 'shuffle') {
-        const key = `${getCurrentBookKey()}_${list.length}`;
+        const key = `${getCurrentBookKey()}_${list.length}_${shuffleSeed}`;
         if (!shuffledOrderCache || lastShuffleBookKey !== key) {
-          shuffledOrderCache = [...list];
-          for (let i = shuffledOrderCache.length - 1; i > 0; i--) {
-            const j = Math.floor(Math.random() * (i + 1));
-            [shuffledOrderCache[i], shuffledOrderCache[j]] = [shuffledOrderCache[j], shuffledOrderCache[i]];
-          }
+          shuffledOrderCache = VocabAdvanced.seededShuffle(list, key);
           lastShuffleBookKey = key;
         }
         list = shuffledOrderCache;
+      } else if (orderMode === 'difficulty') {
+        list = [...list].sort((a, b) => VocabAdvanced.difficultyScore(a) - VocabAdvanced.difficultyScore(b));
+      } else if (orderMode === 'weak') {
+        list = [...list].sort((a, b) => VocabAdvanced.reviewPriority(VocabWorkbench.reviewInfo(b) || {}) - VocabAdvanced.reviewPriority(VocabWorkbench.reviewInfo(a) || {}));
       }
       return list;
     }
@@ -4158,7 +5105,7 @@
 
       if (allTotalPagesBadge) allTotalPagesBadge.textContent = `共 ${totalPages} 页 A4`;
       if (allSummaryDetail) {
-        allSummaryDetail.innerHTML = `将一次性排版整本《<strong>${escapeHtml(bookName)}</strong>》（包含全部 <strong>${totalWords}</strong> 个单词 · 每页 ${wordsPerPage} 词 · 共 <strong>${totalPages}</strong> 页 A4 纸）。`;
+        allSummaryDetail.innerHTML = `将一次性排版整本《<strong>${escapeHtml(bookName)}</strong>》（包含全部 <strong>${totalWords}</strong> 个单词 · 每页最多 ${wordsPerPage} 词 · 共 <strong>${totalPages}</strong> 页 A4 纸）。`;
       }
     }
 
@@ -4357,7 +5304,7 @@
     }
 
     function getFontSizeName(size) {
-      if (size === 'compact') return '精简偏小';
+      if (size === 'small') return '精简偏小';
       if (size === 'medium') return '标准适中';
       if (size === 'large') return '清晰偏大';
       if (size === 'xlarge') return '字帖特大';
@@ -4379,13 +5326,26 @@
       const phoneticType = document.querySelector('input[name="phoneticType"]:checked')?.value || 'both';
       const enDefChoice = document.querySelector('input[name="enDefCount"]:checked')?.value || '2';
       const maxEnCount = (enDefChoice === 'all') ? 99 : (parseInt(enDefChoice) || 2);
-      const practiceLinesCount = Math.min(3, Math.max(1, (enDefChoice === 'all' ? 2 : maxEnCount)));
+      // 释义显示条数只控制词条内容；抄写遍数保持独立、稳定，避免切换条数时改变卡片结构。
+      const practiceLinesCount = 2;
       const cardStyle = document.querySelector('input[name="cardStyle"]:checked')?.value || 'academic';
       const wordTagMode = document.querySelector('input[name="wordTagMode"]:checked')?.value || 'full';
       const paperTheme = document.querySelector('input[name="paperTheme"]:checked')?.value || 'blue';
       const fontSizeMode = document.querySelector('input[name="fontSizeMode"]:checked')?.value || 'medium';
       const marginMode = document.querySelector('input[name="marginMode"]:checked')?.value || 'center';
+      const showWordSlot = document.getElementById('optWordSlot')?.checked ?? true;
       const showPhoneticSlot = document.getElementById('optPhoneticSlot')?.checked ?? true;
+      const showZhDefinitionSlot = document.getElementById('optZhDefinitionSlot')?.checked ?? true;
+      const showEnDefinitionSlot = document.getElementById('optEnDefinitionSlot')?.checked ?? false;
+      const copyFields = [
+        showWordSlot && '单词',
+        showPhoneticSlot && '音标',
+        showZhDefinitionSlot && '中释',
+        showEnDefinitionSlot && '英释'
+      ].filter(Boolean);
+      const copyFieldCount = copyFields.length;
+      const copyFieldsBadge = document.getElementById('copyFieldsBadge');
+      if (copyFieldsBadge) copyFieldsBadge.textContent = copyFieldCount ? copyFields.join(' · ') : '无抄写';
       const showCover = document.getElementById('optCover')?.checked ?? true;
       const showHeader = document.getElementById('optHeader')?.checked ?? true;
       const clozeType = document.querySelector('input[name="clozeType"]:checked')?.value || 'zh';
@@ -4393,6 +5353,13 @@
       const selectedBookName = previewBookTitle.textContent || bookSelect.options[bookSelect.selectedIndex]?.text.split(' (')[0] || '英语词汇记忆本';
 
       const extra = VocabWorkbench.options();
+      const calibration = VocabAdvanced.calibrationConfig({
+        scale: extra.calibrationScale,
+        offsetX: extra.calibrationOffsetX,
+        offsetY: extra.calibrationOffsetY
+      });
+      const bindingMargin = extra.bindingMode && extra.bindingMode !== 'none' ? extra.bindingMode : marginMode;
+      const reviewDates = VocabAdvanced.reviewSchedule(extra.reviewStartDate, extra.reviewIntervals);
       const edition = document.getElementById('exportEdition')?.value || 'current';
       return {
         ...extra,
@@ -4404,16 +5371,42 @@
         wordTagMode,
         paperTheme,
         fontSizeMode,
-        marginMode,
+        marginMode: bindingMargin,
+        showWordSlot,
         showPhoneticSlot,
+        showZhDefinitionSlot,
+        showEnDefinitionSlot,
         showCover,
         showHeader,
         clozeType,
         isFourLine,
         selectedBookName,
         wordsPerPage,
+        calibration,
+        reviewDates,
+        weakCopyBoost: Number(extra.weakCopyBoost) || 0,
+        bookletMode: Boolean(extra.bookletMode),
         ...(edition === 'exercise' ? {template:'cloze',clozeType:'word'} : edition === 'answer' ? {template:'standard'} : {})
       };
+    }
+
+    function getCopyPracticeState(config = {}) {
+      const state = {
+        word: config.showWordSlot !== false,
+        phonetic: config.showPhoneticSlot !== false,
+        zh: config.showZhDefinitionSlot === true,
+        en: config.showEnDefinitionSlot !== false
+      };
+      state.enabled = Object.keys(state).filter(key => state[key] === true);
+      state.count = state.enabled.length;
+      state.any = state.count > 0;
+      return state;
+    }
+
+    function getCopyPracticeSummary(config = {}) {
+      const state = getCopyPracticeState(config);
+      const labels = {word:'单词', phonetic:'音标', zh:'中文释义', en:'英文释义'};
+      return state.any ? state.enabled.map(key => labels[key]).join(' · ') : '纯背诵精读版（无抄写区）';
     }
 
     function buildCoverPageHtml(config) {
@@ -4432,37 +5425,44 @@
             </div>
             <div class="cover-form-row">
               <span>排版规格</span>
-              <span>每页 ${config.wordsPerPage} 词 · ${getTemplateName(config.template)}</span>
+              <span>每页最多 ${config.wordsPerPage} 词 · ${getTemplateName(config.template)}</span>
             </div>
             <div class="cover-form-row">
               <span>学习者姓名</span>
-              <span>____________________</span>
+              <span>${escapeHtml(config.studentName || '____________________')}</span>
             </div>
             <div class="cover-form-row">
               <span>开始日期</span>
-              <span>____ 年 ___ 月 ___ 日</span>
+              <span>${escapeHtml(config.planStartDate || config.reviewStartDate || '____ 年 ___ 月 ___ 日')}</span>
             </div>
             <div class="cover-form-row">
               <span>目标完成日期</span>
-              <span>____ 年 ___ 月 ___ 日</span>
+              <span>${escapeHtml(config.planDeadline || '____ 年 ___ 月 ___ 日')}</span>
             </div>
           </div>
           <div class="cover-bottom">
             <p>“Repetition is the mother of learning, the father of action.”</p>
-            <p style="margin-top:6px; font-weight:600;">每日规范抄写：音标 2 遍 · 英文释义 · 单词 5 遍</p>
+            <p style="margin-top:6px; font-weight:600;">每日抄写项目：${escapeHtml(getCopyPracticeSummary(config))}</p>
           </div>
         </div>
       `;
     }
 
     function buildSinglePageContentHtml(pageWords, p, totalContentPages, config) {
+      const copyPractice = getCopyPracticeState(config);
       let headerHtml = '';
+      const templateContext = {
+        book:config.selectedBookName, page:p + 1, pages:totalContentPages,
+        date:new Date().toLocaleDateString(), words:pageWords.length,
+        student:config.studentName || '', class:config.className || '', mode:getTemplateName(config.template)
+      };
       if (config.showHeader) {
+        const customTitle = config.customHeader ? VocabAdvanced.renderSafeTemplate(config.customHeader, templateContext) : escapeHtml(config.selectedBookName);
         headerHtml = `
           <div class="page-header">
-            <div class="doc-title">${escapeHtml(config.selectedBookName)}</div>
+            <div class="doc-title">${customTitle}</div>
             <div class="doc-meta">
-              <span>每页 ${config.wordsPerPage} 词</span>
+              <span>本页 ${pageWords.length} 词</span>
               <span>日期: ____________</span>
               <span>打卡: [ &nbsp; ]</span>
               <span>第 ${p + 1} / ${totalContentPages} 页</span>
@@ -4473,21 +5473,22 @@
 
       let wordsHtml = '<div class="word-list">';
       pageWords.forEach(w => {
+        const practiceWord = VocabAdvanced.buildPracticeWord(w, config.exerciseMode || 'study');
         let phoneticDisplay = '';
-        if (config.phoneticType === 'both') {
+        if (practiceWord.showPhonetic && config.phoneticType === 'both') {
           const us = w['美音'] ? `美: ${w['美音']}` : '';
           const uk = w['英音'] ? `英: ${w['英音']}` : '';
           phoneticDisplay = [us, uk].filter(Boolean).join('  ');
-        } else if (config.phoneticType === 'us') {
+        } else if (practiceWord.showPhonetic && config.phoneticType === 'us') {
           phoneticDisplay = w['美音'] || w['英音'] || '';
-        } else {
+        } else if (practiceWord.showPhonetic) {
           phoneticDisplay = w['英音'] || w['美音'] || '';
         }
 
         const zhCount = config.zhDefinitionCount === 'all' ? Infinity : Number(config.zhDefinitionCount) || Infinity;
-        const zhDefClean = String(w['释义(中文)'] || '—').split(/[\r\n；;]+/).filter(Boolean).slice(0, zhCount).join('； ').trim();
-        const formattedZh = escapeHtml(zhDefClean).replace(/\b(n|v|adj|adv|vi|vt|prep|conj|pron|num|art|int)\./gi, '<span class="pos-tag">$1.</span>');
-        const rawEn = String(w['释义(英文)'] || '').trim();
+        const zhDefClean = String(practiceWord.zh || '').split(/[\r\n；;]+/).filter(Boolean).slice(0, zhCount).join('； ').trim();
+        let formattedZh = escapeHtml(zhDefClean).replace(/\b(n|v|adj|adv|vi|vt|prep|conj|pron|num|art|int)\./gi, '<span class="pos-tag">$1.</span>');
+        const rawEn = String(practiceWord.en || '').trim();
         let enParts = (rawEn && rawEn !== '—' && rawEn.toLowerCase() !== 'none') ? rawEn.split(/[\r\n]+/).map(s => s.trim()).filter(Boolean) : [];
         const enSelected = config.definitionLanguage === 'zh' ? [] : enParts.slice(0, config.maxEnCount);
         let enDefClean = '';
@@ -4496,19 +5497,33 @@
         } else if (enSelected.length > 1) {
           enDefClean = enSelected.map((item, idx) => `(${idx + 1}) ${item}`).join('  ');
         }
+        if (config.exampleMode && config.exampleMode !== 'off') {
+          const originalExample = String(w['例句'] || w['英文例句'] || w.example || '').trim();
+          if (originalExample) {
+            const example = config.exampleMode === 'cloze' ? VocabAdvanced.blankExample(originalExample, w['单词']) : originalExample;
+            enDefClean = [enDefClean, `例: ${example}`].filter(Boolean).join('  ·  ');
+          }
+        }
+        if (config.showMorphology) {
+          const morphology = VocabAdvanced.morphology(w);
+          const morphologyText = [morphology.root && `词根 ${morphology.root}`, morphology.affix && `词缀 ${morphology.affix}`, morphology.family && `同族 ${morphology.family}`].filter(Boolean).join(' · ');
+          if (morphologyText) formattedZh += `<span class="morphology-note">${escapeHtml(morphologyText)}</span>`;
+        }
 
         let ebTrackHtml = '';
         if (config.template === 'ebbinghaus') {
+          const schedule = (config.reviewDates || []).slice(0, 6);
           ebTrackHtml = `
             <div class="ebbinghaus-track">
               <span>复习:</span>
-              <span class="eb-pill">1d</span>
-              <span class="eb-pill">2d</span>
-              <span class="eb-pill">4d</span>
-              <span class="eb-pill">7d</span>
-              <span class="eb-pill">15d</span>
+              ${schedule.map(item => `<span class="eb-pill" title="${escapeHtml(item.date)}">${item.day}d</span>`).join('')}
             </div>
           `;
+        }
+        if (config.showPronunciationQr) {
+          const audioUrl = VocabAdvanced.pronunciationUrl(w['单词'], config.qrProvider);
+          const qrUrl = VocabAdvanced.qrImageUrl(audioUrl, 72);
+          if (qrUrl) ebTrackHtml += `<a href="${escapeHtml(audioUrl)}" title="扫码查看 ${escapeHtml(w['单词'])} 的词典与发音"><img class="vocab-qr" src="${escapeHtml(qrUrl)}" alt="${escapeHtml(w['单词'])} 发音二维码"></a>`;
         }
 
         let tagText = '';
@@ -4520,12 +5535,14 @@
           tagText = w._dayTag || ('Day ' + (Math.floor((w._index - 1) / config.wordsPerPage) + 1));
         }
 
-        const displayWord = formatWordForCloze(w['单词'], config);
+        const displayWord = formatWordForCloze(practiceWord.word, config);
 
         const isSpacious = config.wordsPerPage <= 6;
         let slotClass = config.isFourLine ? (isSpacious ? 'spacious-slot four-lines' : 'c-slot four-lines') : (isSpacious ? 'spacious-slot' : 'c-slot');
         let wordSlots = '';
-        for (let s = 1; s <= 5; s++) {
+        const reviewMeta = VocabWorkbench.reviewInfo(w);
+        const copyCount = 5 + (config.weakWordBoost && reviewMeta ? Math.min(config.weakCopyBoost, Number(reviewMeta.mistakes) || 0) : 0);
+        for (let s = 1; s <= copyCount; s++) {
           wordSlots += `<div class="${slotClass}"><span class="slot-hint">${s}</span></div>`;
         }
         let phoneticSlots = '';
@@ -4536,6 +5553,8 @@
         for (let s = 1; s <= config.practiceLinesCount; s++) {
           enDefLines += `<div class="${isSpacious ? 'spacious-en-line' : 'c-slot'}"><span class="line-hint">${s}.</span></div>`;
         }
+        const zhDefLine = `<div class="${isSpacious ? 'spacious-en-line' : 'c-slot'}"><span class="slot-hint">中文释义整句抄写</span></div>`;
+        const enDefLine = `<div class="${slotClass}"><span class="slot-hint">英文释义整句抄写</span></div>`;
 
         if (config.cardStyle === 'academic') {
           if (isSpacious) {
@@ -4565,21 +5584,31 @@
                 </div>
                 ` : ''}
 
-                <div class="spacious-practice-zone">
-                  ${config.showPhoneticSlot ? `
-                  <div>
+                <div class="spacious-practice-zone" data-practice-container>
+                  ${copyPractice.phonetic ? `
+                  <div data-copy-field="phonetic">
                     <div class="spacious-row-header">音标抄写（2遍）</div>
                     <div class="spacious-phonetic-grid">${phoneticSlots}</div>
                   </div>
                   ` : ''}
-                  <div>
+                  ${copyPractice.zh ? `
+                  <div data-copy-field="zh">
+                    <div class="spacious-row-header">中文释义抄写</div>
+                    <div class="spacious-en-box">${zhDefLine}</div>
+                  </div>
+                  ` : ''}
+                  ${copyPractice.en ? `
+                  <div data-copy-field="en">
                     <div class="spacious-row-header">英文释义抄写（${config.practiceLinesCount}遍）</div>
                     <div class="spacious-en-box">${enDefLines}</div>
                   </div>
-                  <div>
-                    <div class="spacious-row-header">单词抄写（5遍）</div>
+                  ` : ''}
+                  ${copyPractice.word ? `
+                  <div data-copy-field="word">
+                    <div class="spacious-row-header">单词抄写（${copyCount}遍）</div>
                     <div class="spacious-word-grid">${wordSlots}</div>
                   </div>
+                  ` : ''}
                 </div>
               </div>
             `;
@@ -4608,23 +5637,33 @@
                   ` : ''}
                 </div>
 
-                <div class="academic-bottom-practice">
-                  ${config.showPhoneticSlot ? `
-                  <div class="academic-practice-row">
+                <div class="academic-bottom-practice" data-practice-container>
+                  ${copyPractice.phonetic ? `
+                  <div class="academic-practice-row" data-copy-field="phonetic">
                     <span class="p-tag">音标 (2)</span>
                     <div class="p-slots p-slots-2">${phoneticSlots}</div>
                   </div>
                   ` : ''}
-                  <div class="academic-practice-row">
-                    <span class="p-tag">英文释义</span>
+                  ${copyPractice.zh ? `
+                  <div class="academic-practice-row" data-copy-field="zh">
+                    <span class="p-tag">中文释义</span>
                     <div class="p-slots p-slots-1">
-                      <div class="${slotClass}"><span class="slot-hint">英释整句抄写</span></div>
+                      ${zhDefLine}
                     </div>
                   </div>
-                  <div class="academic-practice-row">
-                    <span class="p-tag">单词 (5)</span>
+                  ` : ''}
+                  ${copyPractice.en ? `
+                  <div class="academic-practice-row" data-copy-field="en">
+                    <span class="p-tag">英文释义</span>
+                    <div class="p-slots p-slots-1">${enDefLine}</div>
+                  </div>
+                  ` : ''}
+                  ${copyPractice.word ? `
+                  <div class="academic-practice-row" data-copy-field="word">
+                    <span class="p-tag">单词 (${copyCount})</span>
                     <div class="p-slots p-slots-5">${wordSlots}</div>
                   </div>
+                  ` : ''}
                 </div>
               </div>
             `;
@@ -4650,23 +5689,31 @@
                 </div>
               </div>
 
-              <div class="minimal-practice-zone">
-                ${config.showPhoneticSlot ? `
-                <div class="minimal-practice-line">
+              <div class="minimal-practice-zone" data-practice-container>
+                ${copyPractice.phonetic ? `
+                <div class="minimal-practice-line" data-copy-field="phonetic">
                   <span class="minimal-plabel">音标</span>
                   <div class="p-slots p-slots-2">${phoneticSlots}</div>
                 </div>
                 ` : ''}
-                <div class="minimal-practice-line">
-                  <span class="minimal-plabel">释义</span>
-                  <div class="p-slots p-slots-1">
-                    <div class="${slotClass} dotted-line"><span class="slot-hint">英文释义</span></div>
-                  </div>
+                ${copyPractice.zh ? `
+                <div class="minimal-practice-line" data-copy-field="zh">
+                  <span class="minimal-plabel">中释</span>
+                  <div class="p-slots p-slots-1">${zhDefLine}</div>
                 </div>
-                <div class="minimal-practice-line">
+                ` : ''}
+                ${copyPractice.en ? `
+                <div class="minimal-practice-line" data-copy-field="en">
+                  <span class="minimal-plabel">英释</span>
+                  <div class="p-slots p-slots-1">${enDefLine}</div>
+                </div>
+                ` : ''}
+                ${copyPractice.word ? `
+                <div class="minimal-practice-line" data-copy-field="word">
                   <span class="minimal-plabel">拼写</span>
                   <div class="p-slots p-slots-5">${wordSlots}</div>
                 </div>
+                ` : ''}
               </div>
             </div>
           `;
@@ -4689,23 +5736,31 @@
                 </div>
               </div>
 
-              <div class="split-right-col">
-                ${config.showPhoneticSlot ? `
-                <div class="split-row">
+              <div class="split-right-col" data-practice-container>
+                ${copyPractice.phonetic ? `
+                <div class="split-row" data-copy-field="phonetic">
                   <span class="split-label">音标 (2)</span>
                   <div class="p-slots p-slots-2">${phoneticSlots}</div>
                 </div>
                 ` : ''}
-                <div class="split-row">
-                  <span class="split-label">英文释义</span>
-                  <div class="p-slots p-slots-1">
-                    <div class="${slotClass}"><span class="slot-hint">英文释义</span></div>
-                  </div>
+                ${copyPractice.zh ? `
+                <div class="split-row" data-copy-field="zh">
+                  <span class="split-label">中文释义</span>
+                  <div class="p-slots p-slots-1">${zhDefLine}</div>
                 </div>
-                <div class="split-row">
-                  <span class="split-label">单词 (5)</span>
+                ` : ''}
+                ${copyPractice.en ? `
+                <div class="split-row" data-copy-field="en">
+                  <span class="split-label">英文释义</span>
+                  <div class="p-slots p-slots-1">${enDefLine}</div>
+                </div>
+                ` : ''}
+                ${copyPractice.word ? `
+                <div class="split-row" data-copy-field="word">
+                  <span class="split-label">单词 (${copyCount})</span>
                   <div class="p-slots p-slots-5">${wordSlots}</div>
                 </div>
+                ` : ''}
               </div>
             </div>
           `;
@@ -4733,30 +5788,38 @@
                 ` : ''}
               </div>
 
-              <div class="tb-bottom-practice">
-                <div class="tb-practice-row" style="justify-content: space-between;">
-                  ${config.showPhoneticSlot ? `
+              <div class="tb-bottom-practice" data-practice-container>
+                ${copyPractice.phonetic ? `
+                <div class="tb-practice-row" data-copy-field="phonetic" style="justify-content: space-between;">
                   <div style="display:flex; align-items:flex-end; gap:4px; flex:1.2; max-width:98mm;">
                     <span class="p-label">音(2):</span>
                     <div class="p-slots p-slots-2">${phoneticSlots}</div>
                   </div>
-                  ` : ''}
-                  <div class="tb-self-check" style="${config.showPhoneticSlot ? '' : 'margin-left:auto;'}">
+                  <div class="tb-self-check">
                     <span class="check-label">自测:</span>
                     <span class="check-box">[ &nbsp; ] 熟练</span>
                     <span class="check-box">[ &nbsp; ] 生疏</span>
                   </div>
                 </div>
-                <div class="tb-practice-row">
-                  <span class="p-label" title="英文释义整句抄写">释:</span>
-                  <div class="p-slots p-slots-1">
-                    <div class="${slotClass}"><span class="slot-hint">英文释义</span></div>
-                  </div>
+                ` : ''}
+                ${copyPractice.zh ? `
+                <div class="tb-practice-row" data-copy-field="zh">
+                  <span class="p-label">中:</span>
+                  <div class="p-slots p-slots-1">${zhDefLine}</div>
                 </div>
-                <div class="tb-practice-row">
-                  <span class="p-label">词(5):</span>
+                ` : ''}
+                ${copyPractice.en ? `
+                <div class="tb-practice-row" data-copy-field="en">
+                  <span class="p-label">英:</span>
+                  <div class="p-slots p-slots-1">${enDefLine}</div>
+                </div>
+                ` : ''}
+                ${copyPractice.word ? `
+                <div class="tb-practice-row" data-copy-field="word">
+                  <span class="p-label">词(${copyCount}):</span>
                   <div class="p-slots p-slots-5">${wordSlots}</div>
                 </div>
+                ` : ''}
               </div>
             </div>
           `;
@@ -4786,23 +5849,31 @@
                 ` : ''}
               </div>
 
-              <div class="dict-bottom-practice">
-                ${config.showPhoneticSlot ? `
-                <div class="academic-practice-row">
+              <div class="dict-bottom-practice" data-practice-container>
+                ${copyPractice.phonetic ? `
+                <div class="academic-practice-row" data-copy-field="phonetic">
                   <span class="p-tag">音标 (2)</span>
                   <div class="p-slots p-slots-2">${phoneticSlots}</div>
                 </div>
                 ` : ''}
-                <div class="academic-practice-row">
-                  <span class="p-tag">释义抄写</span>
-                  <div class="p-slots p-slots-1">
-                    <div class="${slotClass}"><span class="slot-hint">英文释义整句抄写</span></div>
-                  </div>
+                ${copyPractice.zh ? `
+                <div class="academic-practice-row" data-copy-field="zh">
+                  <span class="p-tag">中文释义</span>
+                  <div class="p-slots p-slots-1">${zhDefLine}</div>
                 </div>
-                <div class="academic-practice-row">
-                  <span class="p-tag">单词 (5)</span>
+                ` : ''}
+                ${copyPractice.en ? `
+                <div class="academic-practice-row" data-copy-field="en">
+                  <span class="p-tag">英文释义</span>
+                  <div class="p-slots p-slots-1">${enDefLine}</div>
+                </div>
+                ` : ''}
+                ${copyPractice.word ? `
+                <div class="academic-practice-row" data-copy-field="word">
+                  <span class="p-tag">单词 (${copyCount})</span>
                   <div class="p-slots p-slots-5">${wordSlots}</div>
                 </div>
+                ` : ''}
               </div>
             </div>
           `;
@@ -4817,17 +5888,31 @@
                   </div>
                   <span class="foldable-phonetic">${escapeHtml(phoneticDisplay)}</span>
                 </div>
-                <div class="foldable-slots-box">
-                  ${config.showPhoneticSlot ? `
-                  <div style="display:flex; align-items:flex-end; gap:4px;">
-                    <span style="font-size:6pt; color:#64748b; width:22px;">音标:</span>
+                <div class="foldable-slots-box" data-practice-container>
+                  ${copyPractice.phonetic ? `
+                  <div class="foldable-practice-item" data-copy-field="phonetic">
+                    <span class="copy-inline-label">音标</span>
                     <div class="p-slots p-slots-2">${phoneticSlots}</div>
                   </div>
                   ` : ''}
-                  <div style="display:flex; align-items:flex-end; gap:4px;">
-                    <span style="font-size:6pt; color:#64748b; width:22px;">默写:</span>
+                  ${copyPractice.zh ? `
+                  <div class="foldable-practice-item" data-copy-field="zh">
+                    <span class="copy-inline-label">中释</span>
+                    <div class="p-slots p-slots-1">${zhDefLine}</div>
+                  </div>
+                  ` : ''}
+                  ${copyPractice.en ? `
+                  <div class="foldable-practice-item" data-copy-field="en">
+                    <span class="copy-inline-label">英释</span>
+                    <div class="p-slots p-slots-1">${enDefLine}</div>
+                  </div>
+                  ` : ''}
+                  ${copyPractice.word ? `
+                  <div class="foldable-practice-item" data-copy-field="word">
+                    <span class="copy-inline-label">单词</span>
                     <div class="p-slots p-slots-5">${wordSlots}</div>
                   </div>
+                  ` : ''}
                 </div>
                 <div class="foldable-fold-hint">对折线 ⮐</div>
               </div>
@@ -4878,17 +5963,31 @@
                 </div>
               </div>
 
-              <div class="grid-bottom-row">
-                ${config.showPhoneticSlot ? `
-                <div style="display:flex; align-items:flex-end; gap:5px;">
+              <div class="grid-bottom-row" data-practice-container>
+                ${copyPractice.phonetic ? `
+                <div class="grid-practice-item" data-copy-field="phonetic">
                   <span class="p-tag">音标 (2)</span>
                   <div class="p-slots p-slots-2">${phoneticSlots}</div>
                 </div>
                 ` : ''}
-                <div style="display:flex; align-items:flex-end; gap:5px;">
-                  <span class="p-tag">网格抄写</span>
+                ${copyPractice.zh ? `
+                <div class="grid-practice-item" data-copy-field="zh">
+                  <span class="p-tag">中文释义</span>
+                  <div class="p-slots p-slots-1">${zhDefLine}</div>
+                </div>
+                ` : ''}
+                ${copyPractice.en ? `
+                <div class="grid-practice-item" data-copy-field="en">
+                  <span class="p-tag">英文释义</span>
+                  <div class="p-slots p-slots-1">${enDefLine}</div>
+                </div>
+                ` : ''}
+                ${copyPractice.word ? `
+                <div class="grid-practice-item" data-copy-field="word">
+                  <span class="p-tag">单词 (${copyCount})</span>
                   <div class="p-slots p-slots-5">${wordSlots}</div>
                 </div>
+                ` : ''}
               </div>
             </div>
           `;
@@ -4918,11 +6017,31 @@
               </div>
               ` : ''}
 
-              <div class="compact-practice-row">
-                ${config.showPhoneticSlot ? `
-                <div class="p-slots p-slots-2" style="max-width:65mm;">${phoneticSlots}</div>
+              <div class="compact-practice-row" data-practice-container>
+                ${copyPractice.phonetic ? `
+                <div class="compact-practice-item" data-copy-field="phonetic">
+                  <span class="p-tag">音标 (2)</span>
+                  <div class="p-slots p-slots-2">${phoneticSlots}</div>
+                </div>
                 ` : ''}
-                <div class="p-slots p-slots-5" style="flex:1;">${wordSlots}</div>
+                ${copyPractice.zh ? `
+                <div class="compact-practice-item" data-copy-field="zh">
+                  <span class="p-tag">中文释义</span>
+                  <div class="p-slots p-slots-1">${zhDefLine}</div>
+                </div>
+                ` : ''}
+                ${copyPractice.en ? `
+                <div class="compact-practice-item" data-copy-field="en">
+                  <span class="p-tag">英文释义</span>
+                  <div class="p-slots p-slots-1">${enDefLine}</div>
+                </div>
+                ` : ''}
+                ${copyPractice.word ? `
+                <div class="compact-practice-item" data-copy-field="word">
+                  <span class="p-tag">单词 (${copyCount})</span>
+                  <div class="p-slots p-slots-5">${wordSlots}</div>
+                </div>
+                ` : ''}
               </div>
             </div>
           `;
@@ -4930,9 +6049,10 @@
       });
       wordsHtml += '</div>';
 
+      const customFooter = config.customFooter ? VocabAdvanced.renderSafeTemplate(config.customFooter, templateContext) : '';
       const footerHtml = `
         <div class="page-footer">
-          <span>A4 专业记忆排版 · 每页 ${config.wordsPerPage} 词 · 音标2遍 / 英文释义抄写 / 单词5遍</span>
+          <span>${customFooter || `A4 专业记忆排版 · 本页 ${pageWords.length} 词 · 抄写：${escapeHtml(getCopyPracticeSummary(config))}`}</span>
           <span>第 ${p + 1} 页 (共 ${totalContentPages} 页)</span>
         </div>
       `;
@@ -4941,9 +6061,14 @@
     }
 
     function buildSinglePageHtml(p, pageWords, totalContentPages, config) {
+      const copyPractice = getCopyPracticeState(config);
       const extraClasses = `${config.printInkSaver ? 'ink-saver' : ''} ${config.printDecorations === false ? 'no-decoration' : ''} lang-${config.definitionLanguage || 'both'} ${config.definitionDetail === 'full' ? 'full-definitions' : ''} duplex-${config.printDuplex || 'off'} ${(p + (config.showCover ? 1 : 0)) % 2 ? 'sheet-back' : 'sheet-front'}`;
-      const className = `a4-page ${extraClasses} ${config.wordsPerPage >= 10 ? 'dense-page' : ''} card-style-${config.cardStyle} wpp-${config.wordsPerPage} theme-${config.paperTheme} fz-${config.fontSizeMode} margin-${config.marginMode || 'center'} ${config.template === 'cloze' ? 'mode-cloze-' + config.clozeType : ''}`;
-      return `<div class="${className}">${buildSinglePageContentHtml(pageWords, p, totalContentPages, config)}</div>`;
+      const overflowClass = config.smartDensity && ['auto','shrink'].includes(config.overflowStrategy) ? 'overflow-shrink' : '';
+      const copyClasses = `copy-practice-${copyPractice.count} ${copyPractice.any ? '' : 'copy-none'} ${['word','phonetic','zh','en'].map(key => `copy-${key}-${copyPractice[key] ? 'on' : 'off'}`).join(' ')}`;
+      const className = `a4-page calibrated ${extraClasses} ${overflowClass} ${config.wordsPerPage >= 10 && copyPractice.any ? 'dense-page' : ''} ${copyClasses} card-style-${config.cardStyle} wpp-${config.wordsPerPage} theme-${config.paperTheme} fz-${config.fontSizeMode} margin-${config.marginMode || 'center'} exercise-${config.exerciseMode || 'study'} ${config.template === 'cloze' ? 'mode-cloze-' + config.clozeType : ''}`;
+      const calibration = config.calibration || VocabAdvanced.calibrationConfig();
+      const style = `--calibration-scale:${calibration.scale / 100};--calibration-x:${calibration.offsetX}mm;--calibration-y:${calibration.offsetY}mm;`;
+      return `<div class="${className}" data-copy-fields="${copyPractice.enabled.join(',')}" style="${style}"><div class="page-content-shell">${buildSinglePageContentHtml(pageWords, p, totalContentPages, config)}</div></div>`;
     }
 
     const fullPaginationCache = new Map();
@@ -4956,17 +6081,25 @@
           hash = Math.imul(hash ^ value.charCodeAt(index), 16777619);
         }
       }
+      const copyPractice = getCopyPracticeState(config);
       const layout = [
         config.definitionDetail, config.definitionLanguage, config.zhDefinitionCount,
         config.maxEnCount, config.wordsPerPage, config.cardStyle, config.template,
         config.clozeType, config.phoneticType, config.fontSizeMode, config.marginMode,
-        config.paperTheme, config.showPhoneticSlot, config.showHeader, config.showCover,
-        config.printDuplex, config.printInkSaver, config.printDecorations, config.wordTagMode
+        config.paperTheme, copyPractice.word, copyPractice.phonetic, copyPractice.zh, copyPractice.en, config.showHeader, config.showCover,
+        config.printDuplex, config.printInkSaver, config.printDecorations, config.wordTagMode,
+        config.smartDensity, config.overflowStrategy, config.exerciseMode, config.exampleMode,
+        config.showMorphology, config.showPronunciationQr, config.qrProvider, config.weakWordBoost,
+        config.weakCopyBoost, config.customHeader, config.customFooter, config.studentName, config.className,
+        config.calibration?.scale, config.calibration?.offsetX, config.calibration?.offsetY
       ];
       return `${words.length}:${length}:${hash >>> 0}:${JSON.stringify(layout)}`;
     }
     function getPageGroups(words, config) {
       if (config.definitionDetail !== 'full') {
+        if (config.smartDensity && ['auto','move'].includes(config.overflowStrategy)) {
+          return VocabAdvanced.smartPageGroups(words, config);
+        }
         const groups = [];
         for (let i = 0; i < words.length; i += config.wordsPerPage) groups.push(words.slice(i, i + config.wordsPerPage));
         return groups;
@@ -5007,20 +6140,28 @@
       return groups;
     }
 
-    function buildAllPagesHtml(words, config, includeCover = null) {
+    function buildAllPagesHtml(words, config, includeCover = null, maxPhysicalPages = Infinity) {
       const showCover = (includeCover !== null) ? includeCover : config.showCover;
       config = {...config, showCover};
       const groups = getPageGroups(words, config);
       const totalContentPages = groups.length;
-      let html = '';
-      if (showCover) {
-        html += buildCoverPageHtml(config);
+      if (!config.bookletMode) {
+        let html = showCover ? buildCoverPageHtml(config) : '';
+        const limit = Math.min(totalContentPages, Number.isFinite(maxPhysicalPages) ? Math.max(0, maxPhysicalPages - (showCover ? 1 : 0)) : totalContentPages);
+        for (let p = 0; p < limit; p++) html += buildSinglePageHtml(p, groups[p], totalContentPages, config);
+        return html;
       }
-      for (let p = 0; p < totalContentPages; p++) {
-        const pageWords = groups[p];
-        html += buildSinglePageHtml(p, pageWords, totalContentPages, config);
-      }
-      return html;
+      const logicalCount = totalContentPages + (showCover ? 1 : 0);
+      const logicalPage = pageNumber => {
+        if (!pageNumber || pageNumber > logicalCount) return '';
+        if (showCover && pageNumber === 1) return buildCoverPageHtml(config);
+        const contentIndex = pageNumber - (showCover ? 2 : 1);
+        return buildSinglePageHtml(contentIndex, groups[contentIndex], totalContentPages, config);
+      };
+      return VocabAdvanced.bookletOrder(logicalCount).slice(0, maxPhysicalPages).map(pair => `
+        <div class="a4-page booklet-sheet" data-sheet="${pair.sheet}" data-side="${pair.side}">
+          ${pair.pages.map(pageNumber => pageNumber ? `<div class="booklet-half">${logicalPage(pageNumber)}</div>` : '<div class="booklet-half blank">空白页</div>').join('')}
+        </div>`).join('');
     }
 
     function buildStandalonePrintHtml(words, config, includeCover = null) {
@@ -5034,7 +6175,7 @@
   <style>
     ${styles}
     @page {
-      size: A4 portrait;
+      size: ${config.bookletMode ? 'A4 landscape' : 'A4 portrait'};
       margin: 0;
     }
     body {
@@ -5065,6 +6206,12 @@
     }
 
     // Render A4 Pages
+    function syncPrintOrientation(booklet) {
+      let style = document.getElementById('dynamicPrintOrientation');
+      if (!style) { style = document.createElement('style'); style.id = 'dynamicPrintOrientation'; document.head.appendChild(style); }
+      style.textContent = `@media print { @page { size: A4 ${booklet ? 'landscape' : 'portrait'}; margin:0; } }`;
+    }
+
     function renderPages(isFullRenderForPrint = false) {
       if (!currentBookWords || currentBookWords.length === 0) {
         previewArea.innerHTML = '<p style="color:#fff; padding:40px;">暂无数据</p>';
@@ -5086,6 +6233,26 @@
       const pageGroups = getPageGroups(words, config);
       const totalContentPages = pageGroups.length;
       const totalPagesWithCover = totalContentPages + (config.showCover ? 1 : 0);
+      syncPrintOrientation(config.bookletMode);
+      if (config.bookletMode) {
+        const physicalSides = VocabAdvanced.bookletOrder(totalPagesWithCover).length;
+        const renderLimit = (isFullRenderForPrint || showAllPreviewPages) ? physicalSides : Math.min(12, physicalSides);
+        previewArea.innerHTML = buildAllPagesHtml(words, config, null, renderLimit);
+        if (renderLimit < physicalSides && !isFullRenderForPrint) {
+          const notice = document.createElement('div');
+          notice.className = 'no-print preview-notice-card';
+          notice.style.cssText = 'background:#f0f9ff;border:1px solid #bae6fd;border-radius:8px;padding:14px 20px;margin:18px auto;max-width:650px;text-align:center;';
+          notice.innerHTML = `小册子共 ${physicalSides} 个打印面，当前预览前 ${renderLimit} 面。<button type="button" id="btnLoadAllPreview">展开全部</button>`;
+          previewArea.appendChild(notice);
+          notice.querySelector('button').onclick = () => { showAllPreviewPages = true; renderPages(); };
+        }
+        previewPageIndicator.textContent = `A5 小册子 · ${totalPagesWithCover} 个逻辑页 · ${physicalSides} 个打印面`;
+        pageCountStatus.textContent = `已生成 A4 横向小册子拼版（预计 ${Math.ceil(physicalSides / 2)} 张双面纸）`;
+        setZoom(zoom);
+        updateCostEstimate();
+        if (document.getElementById('layoutReport').textContent.trim()) updatePreflight();
+        return;
+      }
       const renderLimit = (isFullRenderForPrint || showAllPreviewPages) ? totalContentPages : Math.min(12, totalContentPages);
 
       const frag = document.createDocumentFragment();
@@ -5158,9 +6325,10 @@
         pageCountStatus.textContent = `极速预览前 ${renderLimit} 页 (全书共 ${totalPagesWithCover} 页 · 建议使用直接下载防卡死)`;
       } else {
         previewPageIndicator.textContent = `共 ${totalPagesWithCover} 页 A4 纸`;
-        pageCountStatus.textContent = `已生成 ${totalPagesWithCover} 页 A4 打印预览 (每页 ${config.wordsPerPage} 词)`;
+        pageCountStatus.textContent = `已生成 ${totalPagesWithCover} 页 A4 打印预览 (设置上限 ${config.wordsPerPage} 词/页)`;
       }
       setZoom(zoom);
+      updateCostEstimate();
       if (document.getElementById('layoutReport').textContent.trim()) updatePreflight();
     }
 
@@ -5358,7 +6526,7 @@
       };
     });
 
-    document.querySelectorAll('input[name="phoneticType"], input[name="clozeType"], input[name="enDefCount"], input[name="cardStyle"], input[name="wordTagMode"], input[name="paperTheme"], input[name="fontSizeMode"], input[name="marginMode"]').forEach(el => {
+    document.querySelectorAll('input[name="phoneticType"], input[name="clozeType"], input[name="cardStyle"], input[name="wordTagMode"], input[name="paperTheme"], input[name="fontSizeMode"], input[name="marginMode"]').forEach(el => {
       el.onchange = () => {
         clearScenarioPresetActive();
         if (el.name === 'paperTheme') {
@@ -5369,16 +6537,20 @@
         }
         if (el.name === 'cardStyle') {
           localStorage.setItem('vocab_print_cardstyle', el.value);
-          if (el.value !== 'academic' && document.getElementById('definitionDetail').value === 'full') {
-            document.getElementById('definitionDetail').value = 'brief';
-            document.getElementById('definitionDetail').dispatchEvent(new Event('change'));
-          }
         }
         if (el.name === 'marginMode') {
           localStorage.setItem('vocab_print_margin', el.value);
         }
         renderPages();
       };
+    });
+
+    // 英文释义条数由工作台统一保存和刷新；这里只负责退出场景预设高亮。
+    document.querySelectorAll('input[name="enDefCount"]').forEach(el => {
+      el.addEventListener('change', clearScenarioPresetActive);
+    });
+    ['definitionLanguage', 'definitionDetail', 'zhDefinitionCount'].forEach(id => {
+      document.getElementById(id)?.addEventListener('change', clearScenarioPresetActive);
     });
 
     const btnReshuffle = document.getElementById('btnReshuffle');
@@ -5396,6 +6568,7 @@
 
     if (btnReshuffle) {
       btnReshuffle.onclick = () => {
+        shuffleSeed++;
         shuffledOrderCache = null;
         renderPages();
       };
@@ -5413,12 +6586,57 @@
       };
     });
 
-    const optPhoneticSlot = document.getElementById('optPhoneticSlot');
-    if (optPhoneticSlot) optPhoneticSlot.onchange = renderPages;
     const optCover = document.getElementById('optCover');
     if (optCover) optCover.onchange = renderPages;
     const optHeader = document.getElementById('optHeader');
     if (optHeader) optHeader.onchange = renderPages;
+
+    function updateCopyPresetActive() {
+      const word = document.getElementById('optWordSlot')?.checked;
+      const phonetic = document.getElementById('optPhoneticSlot')?.checked;
+      const zh = document.getElementById('optZhDefinitionSlot')?.checked;
+      const en = document.getElementById('optEnDefinitionSlot')?.checked;
+      document.querySelectorAll('.copy-preset-btn').forEach(btn => {
+        const p = btn.dataset.copyPreset;
+        let active = false;
+        if (p === 'all') active = word && phonetic && zh && en;
+        else if (p === 'common') active = word && phonetic && zh && !en;
+        else if (p === 'word_def') active = word && !phonetic && zh && !en;
+        else if (p === 'word_only') active = word && !phonetic && !zh && !en;
+        else if (p === 'none') active = !word && !phonetic && !zh && !en;
+        btn.classList.toggle('active', Boolean(active));
+      });
+    }
+
+    function applyCopyPreset(preset) {
+      const word = document.getElementById('optWordSlot');
+      const phonetic = document.getElementById('optPhoneticSlot');
+      const zh = document.getElementById('optZhDefinitionSlot');
+      const en = document.getElementById('optEnDefinitionSlot');
+      if (!word || !phonetic || !zh || !en) return;
+      if (preset === 'all') {
+        word.checked = true; phonetic.checked = true; zh.checked = true; en.checked = true;
+      } else if (preset === 'common') {
+        word.checked = true; phonetic.checked = true; zh.checked = true; en.checked = false;
+      } else if (preset === 'word_def') {
+        word.checked = true; phonetic.checked = false; zh.checked = true; en.checked = false;
+      } else if (preset === 'word_only') {
+        word.checked = true; phonetic.checked = false; zh.checked = false; en.checked = false;
+      } else if (preset === 'none') {
+        word.checked = false; phonetic.checked = false; zh.checked = false; en.checked = false;
+      }
+      en.dispatchEvent(new Event('change'));
+      updateCopyPresetActive();
+    }
+
+    document.querySelectorAll('.copy-preset-btn').forEach(btn => {
+      btn.onclick = () => applyCopyPreset(btn.dataset.copyPreset);
+    });
+
+    ['optWordSlot', 'optPhoneticSlot', 'optZhDefinitionSlot', 'optEnDefinitionSlot'].forEach(id => {
+      const el = document.getElementById(id);
+      if (el) el.addEventListener('change', updateCopyPresetActive);
+    });
 
     const btnToggleAdvanced = document.getElementById('btnToggleAdvanced');
     const advancedDrawer = document.getElementById('advancedDrawer');
@@ -5429,6 +6647,48 @@
         btnToggleAdvanced.classList.toggle('open', !isOpen);
       };
     }
+
+    // ==========================================
+    // 侧栏三段式 Tab 切换 (基础排版 / 版式微调 / 工具与复习)
+    // ==========================================
+    const sidebarTabBtns = document.querySelectorAll('.sidebar-tab-btn');
+    const sidebarTabContents = document.querySelectorAll('.sidebar-tab-content');
+
+    function switchSidebarTab(tabId) {
+      const validTab = Array.from(sidebarTabContents).some(content => content.id === tabId);
+      if (!validTab) tabId = 'tab-basic';
+      sidebarTabBtns.forEach(btn => {
+        const isActive = btn.dataset.tab === tabId;
+        btn.classList.toggle('active', isActive);
+        btn.setAttribute('aria-selected', isActive ? 'true' : 'false');
+        btn.tabIndex = isActive ? 0 : -1;
+      });
+      sidebarTabContents.forEach(content => {
+        content.classList.toggle('active', content.id === tabId);
+      });
+      try {
+        localStorage.setItem('vocab_sidebar_tab', tabId);
+      } catch (e) {}
+    }
+
+    sidebarTabBtns.forEach((btn, index) => {
+      btn.onclick = () => switchSidebarTab(btn.dataset.tab);
+      btn.onkeydown = event => {
+        let targetIndex = null;
+        if (event.key === 'ArrowRight') targetIndex = (index + 1) % sidebarTabBtns.length;
+        if (event.key === 'ArrowLeft') targetIndex = (index - 1 + sidebarTabBtns.length) % sidebarTabBtns.length;
+        if (event.key === 'Home') targetIndex = 0;
+        if (event.key === 'End') targetIndex = sidebarTabBtns.length - 1;
+        if (targetIndex === null) return;
+        event.preventDefault();
+        const target = sidebarTabBtns[targetIndex];
+        switchSidebarTab(target.dataset.tab);
+        target.focus();
+      };
+    });
+
+    const savedSidebarTab = localStorage.getItem('vocab_sidebar_tab');
+    switchSidebarTab(savedSidebarTab || 'tab-basic');
 
     // Scenario Presets Binding
     function setRadioValue(name, val) {
@@ -5444,10 +6704,6 @@
 
     function applyScenarioPreset(presetName) {
       document.getElementById('definitionDetail').value = 'brief';
-      document.getElementById('definitionDetail').dispatchEvent(new Event('change'));
-      document.querySelectorAll('.scenario-btn').forEach(btn => {
-        btn.classList.toggle('active', btn.dataset.preset === presetName);
-      });
 
       if (presetName === 'exam') {
         // 考研冲刺: 10词/页, 学术精装, 商务蓝, 艾宾浩斯打卡, 2条英释, 完整标签
@@ -5458,7 +6714,7 @@
         setRadioValue('enDefCount', '2');
         setRadioValue('wordTagMode', 'full');
         setRadioValue('marginMode', 'center');
-        setWordsPerPage(10);
+        setWordsPerPage(10, false);
       } else if (presetName === 'calligraphy') {
         // 书法练字: 4词/页大字, 四线三格帖, 护眼绿, 特大字号, 经典线框
         setRadioValue('templateMode', 'fourline');
@@ -5468,7 +6724,7 @@
         setRadioValue('enDefCount', '1');
         setRadioValue('wordTagMode', 'index');
         setRadioValue('marginMode', 'center');
-        setWordsPerPage(4);
+        setWordsPerPage(4, false);
       } else if (presetName === 'cloze') {
         // 自测默写: 12词/页, 自测默写本(首字母提示), 极简手账, 素墨黑, 序号标签, 左侧装订
         setRadioValue('templateMode', 'cloze');
@@ -5479,7 +6735,7 @@
         setRadioValue('enDefCount', '2');
         setRadioValue('wordTagMode', 'index');
         setRadioValue('marginMode', 'left');
-        setWordsPerPage(12);
+        setWordsPerPage(12, false);
       } else if (presetName === 'journal') {
         // 便携手账: 8词/页, 黄金双栏, 牛津棕, 标准抄写本, 标准字号, 完整标签
         setRadioValue('templateMode', 'standard');
@@ -5489,11 +6745,15 @@
         setRadioValue('enDefCount', '2');
         setRadioValue('wordTagMode', 'full');
         setRadioValue('marginMode', 'center');
-        setWordsPerPage(8);
+        setWordsPerPage(8, false);
       }
 
       clozeSubGroup.style.display = (document.querySelector('input[name="templateMode"]:checked')?.value === 'cloze') ? 'flex' : 'none';
-      renderPages();
+      // 在全部控件就位后只刷新一次，避免预设应用过程中连续重排。
+      document.getElementById('definitionDetail').dispatchEvent(new Event('change'));
+      document.querySelectorAll('.scenario-btn').forEach(btn => {
+        btn.classList.toggle('active', btn.dataset.preset === presetName);
+      });
     }
 
     document.querySelectorAll('.scenario-btn').forEach(btn => {
@@ -5512,6 +6772,7 @@
     restoreRadioPreference('fontSizeMode', 'vocab_print_fontsize');
     restoreRadioPreference('cardStyle', 'vocab_print_cardstyle');
     restoreRadioPreference('marginMode', 'vocab_print_margin');
+    setWordsPerPage(localStorage.getItem('vocab_print_words_per_page') || wordsPerPage, false);
 
     daySelect.onchange = renderPages;
 
@@ -5633,7 +6894,7 @@
       if (modalBookNameDisplay) modalBookNameDisplay.textContent = config.selectedBookName;
       if (modalPagesCountBadge) modalPagesCountBadge.textContent = `全书共 ${totalAllPages} 页 A4 (${allWords.length} 词)`;
       if (modalConfigSummary) {
-        modalConfigSummary.textContent = `排版规格：每页 ${config.wordsPerPage} 词 · ${getCardStyleName(config.cardStyle)} · ${getThemeName(config.paperTheme)} · ${getFontSizeName(config.fontSizeMode)} · ${getTemplateName(config.template)}`;
+        modalConfigSummary.textContent = `排版规格：每页最多 ${config.wordsPerPage} 词 · ${getCardStyleName(config.cardStyle)} · ${getThemeName(config.paperTheme)} · ${getFontSizeName(config.fontSizeMode)} · ${getTemplateName(config.template)} · 抄写：${getCopyPracticeSummary(config)}`;
       }
 
       if (dlScopeAllLabel) dlScopeAllLabel.textContent = `全书完整内容 (全部 ${allWords.length} 词 · ${totalAllPages} 页)`;
@@ -5988,7 +7249,12 @@
         btnDownloadSelectedVolumeHtml,
         btnDownloadAllVolumesHtmlZip,
         btnDownloadOfflineHtml,
-        document.getElementById('downloadPracticePair')
+        document.getElementById('downloadPracticePair'),
+        document.getElementById('downloadReviewPack'),
+        document.getElementById('downloadDailyPlan'),
+        document.getElementById('exportCsv'),
+        document.getElementById('exportAnki'),
+        document.getElementById('startBatchExport')
       ];
       btns.forEach(b => {
         if (!b) return;
@@ -6267,9 +7533,14 @@
         return slot.top < row.top - 1 || slot.bottom > row.bottom + 1;
       });
       if (overlaps.length) result.warnings.push(`检测到 ${overlaps.length} 处练习格空间不足，请减少每页词数。`);
-      const pages = getPageGroups(words, config).length + (words.length && config.showCover ? 1 : 0);
-      const sheets = config.printDuplex === 'off' ? pages : Math.ceil(pages / 2);
-      const message = `${words.length}词 · ${pages}页 · 预计${sheets}张纸\n` + (result.warnings.length ? result.warnings.join('\n') : '未发现明显风险。请按实际纸张尺寸预览打印。');
+      const logicalPages = getPageGroups(words, config).length + (words.length && config.showCover ? 1 : 0);
+      const pages = config.bookletMode ? VocabAdvanced.bookletOrder(logicalPages).length : logicalPages;
+      const duplex = config.bookletMode || config.printDuplex !== 'off';
+      const sheets = duplex ? Math.ceil(pages / 2) : pages;
+      if (config.bookletMode && config.printDuplex === 'off') result.warnings.push('小册子需要在打印机设置中启用双面短边翻页。');
+      if (config.smartDensity) result.warnings.push('智能密度已启用：每页词数会按内容长度动态变化。');
+      const estimate = VocabAdvanced.estimateCost({pages,duplex,paperPrice:document.getElementById('paperPrice').value,inkPrice:document.getElementById('inkPrice').value,inkSaver:config.printInkSaver,copies:document.getElementById('printCopies').value});
+      const message = `${words.length}词 · ${config.bookletMode ? logicalPages + '个逻辑页 / ' : ''}${pages}个打印面 · 预计${sheets}张纸 · ¥${estimate.total.toFixed(2)}\n` + (result.warnings.length ? result.warnings.join('\n') : '未发现明显风险。请按实际纸张尺寸预览打印。');
       document.getElementById(forExport ? 'exportPreflight' : 'layoutReport').textContent = message;
       return result;
     }
@@ -6278,19 +7549,21 @@
       renderPages(); updatePreflight(true); updateVolumeSelectOptions();
     };
     document.getElementById('applyReadingLayout').onclick = () => {
+      clearScenarioPresetActive();
       document.getElementById('definitionDetail').value = 'full';
       setRadioValue('cardStyle', 'academic');
-      setWordsPerPage(4);
+      setWordsPerPage(4, false);
       document.getElementById('definitionDetail').dispatchEvent(new Event('change'));
       updatePreflight();
     };
     document.getElementById('applyEconomyLayout').onclick = () => {
+      clearScenarioPresetActive();
       document.getElementById('definitionDetail').value = 'brief';
       document.getElementById('printInkSaver').checked = true;
       document.getElementById('printDecorations').checked = false;
       document.getElementById('optCover').checked = false;
       setRadioValue('cardStyle', 'compact');
-      setWordsPerPage(12);
+      setWordsPerPage(12, false);
       document.getElementById('definitionDetail').dispatchEvent(new Event('change'));
       updatePreflight();
     };
@@ -6304,13 +7577,216 @@
         volTitle:override.volumeSubTitle,volFilenamePart:index ? '答案版' : '练习版',pageCount:getPageGroups(words,{...config,...override}).length}));
       await executeZipDownload(versions,'pdf',document.getElementById('downloadPracticePair'));
     };
+
+    function saveGeneratedBlob(blob, filename) {
+      const url = URL.createObjectURL(blob);
+      const anchor = document.createElement('a');
+      anchor.href = url; anchor.download = filename;
+      document.body.appendChild(anchor); anchor.click(); anchor.remove();
+      setTimeout(() => URL.revokeObjectURL(url), 1500);
+    }
+
+    async function runBackgroundExport(payload, kind, filename, triggerButton, label) {
+      if (isExportingPdf) return alert('已有导出任务正在运行，请等待完成或先取消。');
+      isExportingPdf = true;
+      const signal = beginExport();
+      const originalText = triggerButton?.textContent;
+      setExportButtonsDisabled(true, triggerButton);
+      if (triggerButton) { triggerButton.disabled = true; triggerButton.textContent = '后台处理中…'; }
+      showDownloadProgress(label || '正在生成文件…', '任务已进入安全导出队列，可在下方查看进度或取消。');
+      try {
+        const response = await VocabWorkbench.exportFile(payload, kind, signal, onExportProgress);
+        if (!response.ok) throw new Error((await response.json().catch(() => ({}))).error || '导出失败');
+        saveGeneratedBlob(await response.blob(), filename);
+        showDownloadProgress('导出完成', `${filename} 已开始下载。`);
+        downloadProgressTimer = setTimeout(hideDownloadProgress, 2500);
+      } catch (error) {
+        if (error.name === 'AbortError') showDownloadProgress('导出已取消', '任务已安全停止。');
+        else { hideDownloadProgress(); alert('导出失败：' + error.message); }
+      } finally {
+        isExportingPdf = false; exportController = null;
+        document.getElementById('cancelExport').disabled = true;
+        setExportButtonsDisabled(false);
+        if (triggerButton) { triggerButton.disabled = false; triggerButton.textContent = originalText; }
+      }
+    }
+
+    function safeExportName(value) {
+      return String(value || '单词学习').replace(/[<>:"/\\|?*\x00-\x1f]/g, '_').replace(/[. ]+$/g, '').slice(0, 100) || '单词学习';
+    }
+
+    function updateCostEstimate() {
+      const output = document.getElementById('costReport');
+      if (!output || !currentBookWords.length) return;
+      const config = getRenderConfig();
+      const words = getSelectedWords();
+      const logicalPages = getPageGroups(words, config).length + (words.length && config.showCover ? 1 : 0);
+      const printedSides = config.bookletMode ? VocabAdvanced.bookletOrder(logicalPages).length : logicalPages;
+      const estimate = VocabAdvanced.estimateCost({
+        pages:printedSides,
+        duplex:config.bookletMode || config.printDuplex !== 'off',
+        paperPrice:document.getElementById('paperPrice').value,
+        inkPrice:document.getElementById('inkPrice').value,
+        inkSaver:config.printInkSaver,
+        copies:document.getElementById('printCopies').value
+      });
+      output.textContent = `${estimate.pages} 个打印面 · ${estimate.sheets} 张纸 · 纸张 ¥${estimate.paperCost.toFixed(2)} · 墨水约 ¥${estimate.inkCost.toFixed(2)} · 合计约 ¥${estimate.total.toFixed(2)}`;
+    }
+
+    document.getElementById('applyAutoLayoutFix').onclick = () => {
+      clearScenarioPresetActive();
+      const config = getRenderConfig();
+      const words = getSelectedWords();
+      const recommendation = VocabAdvanced.overflowRecommendation(words, config);
+      document.getElementById('smartDensity').checked = true;
+      setRadioValue('fontSizeMode', recommendation.fontSizeMode);
+      if (config.overflowStrategy === 'brief') document.getElementById('definitionDetail').value = recommendation.definitionDetail;
+      setWordsPerPage(recommendation.wordsPerPage, false);
+      document.getElementById('autoLayoutReport').textContent = `${recommendation.reason}\n建议并已应用：每页最多 ${recommendation.wordsPerPage} 词、${recommendation.fontSizeMode === 'small' ? '精简字号' : '标准字号'}、动态分页。`;
+      // 触发一次统一保存和刷新，避免分析结果应用时重复渲染。
+      document.getElementById('definitionDetail').dispatchEvent(new Event('change'));
+      updatePreflight();
+    };
+
+    document.getElementById('buildReviewSchedule').onclick = () => {
+      const schedule = VocabAdvanced.reviewSchedule(document.getElementById('reviewStartDate').value, document.getElementById('reviewIntervals').value);
+      document.getElementById('reviewScheduleReport').textContent = schedule.map(item => `第 ${item.day} 天：${item.date}`).join('\n');
+      renderPages();
+    };
+
+    document.getElementById('downloadReviewPack').onclick = async event => {
+      const scope = document.getElementById('reviewPacketScope').value;
+      let words = scope === 'current' ? getSelectedWords() : scope === 'wrong' ? annotateBookWords(VocabWorkbench.reviewWords()) : annotateBookWords(getProcessedBookWords());
+      if (!words.length) return alert('当前复习包没有单词。');
+      const config = getRenderConfig();
+      const schedule = VocabAdvanced.reviewSchedule(config.reviewStartDate, config.reviewIntervals);
+      const volumes = schedule.map((item, index) => ({
+        words,
+        config:{...config, template:'ebbinghaus', reviewDates:schedule, volumeSubTitle:`第 ${item.day} 天复习 · ${item.date}`},
+        hasCover:index === 0 && config.showCover,
+        volTitle:`第 ${item.day} 天复习（${item.date}）`,
+        volFilenamePart:`复习_${String(item.day).padStart(2,'0')}天_${item.date}`,
+        pageCount:getPageGroups(words, config).length
+      }));
+      await executeZipDownload(volumes, 'pdf', event.currentTarget);
+    };
+
+    let generatedDailyPlan = null;
+    function createDailyPlan() {
+      generatedDailyPlan = VocabAdvanced.buildDailyPlan(getProcessedBookWords(), {
+        startDate:document.getElementById('planStartDate').value,
+        deadline:document.getElementById('planDeadline').value,
+        perDay:document.getElementById('dailyWordTarget').value
+      });
+      const samples = generatedDailyPlan.days.slice(0, 8).map(day => `${day.date}：第 ${day.start}～${day.end} 词（${day.words.length}词）`);
+      document.getElementById('dailyPlanReport').textContent = `共 ${generatedDailyPlan.totalDays} 天 · 每天约 ${generatedDailyPlan.perDay} 词 · ${generatedDailyPlan.startDate} 至 ${generatedDailyPlan.deadline}\n${samples.join('\n')}${generatedDailyPlan.totalDays > 8 ? '\n…' : ''}`;
+      return generatedDailyPlan;
+    }
+    document.getElementById('generateDailyPlan').onclick = createDailyPlan;
+    document.getElementById('applyTodayPlan').onclick = () => {
+      const plan = generatedDailyPlan || createDailyPlan();
+      const today = new Date().toISOString().slice(0, 10);
+      const task = plan.days.find(day => day.date === today) || plan.days[0];
+      if (!task) return alert('当前筛选没有可安排的单词。');
+      document.querySelector('input[name="scopeMode"][value="range"]').checked = true;
+      document.querySelector('input[name="scopeMode"][value="range"]').dispatchEvent(new Event('change'));
+      rangeStart.value = task.start; rangeEnd.value = task.end;
+      renderPages();
+    };
+    document.getElementById('downloadDailyPlan').onclick = async event => {
+      const plan = generatedDailyPlan || createDailyPlan();
+      if (!plan.days.length) return alert('当前筛选没有可导出的每日任务。');
+      const config = getRenderConfig();
+      const volumes = plan.days.map(day => ({
+        words:annotateBookWords(day.words), config:{...config,volumeSubTitle:`第 ${day.day} 天 · ${day.date}`}, hasCover:config.showCover,
+        volTitle:`第 ${day.day} 天（${day.date}）`, volFilenamePart:`Day_${String(day.day).padStart(3,'0')}_${day.date}`,
+        pageCount:getPageGroups(day.words, config).length
+      }));
+      await executeZipDownload(volumes, 'pdf', event.currentTarget);
+    };
+
+    document.getElementById('downloadCalibrationPage').onclick = () => {
+      const calibration = VocabAdvanced.calibrationConfig({
+        scale:document.getElementById('calibrationScale').value,
+        offsetX:document.getElementById('calibrationOffsetX').value,
+        offsetY:document.getElementById('calibrationOffsetY').value
+      });
+      const marks = Array.from({length:20}, (_, index) => `<span style="position:absolute;left:${10 + index * 10}mm;top:8mm;border-left:.2mm solid #111;height:${index % 5 ? 3 : 6}mm;font-size:7pt;padding-left:1mm">${index * 10}</span>`).join('');
+      const html = `<!doctype html><meta charset="utf-8"><title>打印校准页</title><style>@page{size:A4;margin:0}body{margin:0}.sheet{width:210mm;height:297mm;box-sizing:border-box;border:1mm solid #111;position:relative;font-family:Arial;padding:20mm}.cross{position:absolute;left:105mm;top:148.5mm;width:30mm;height:30mm;transform:translate(-15mm,-15mm)}.cross:before,.cross:after{content:'';position:absolute;background:#111}.cross:before{left:15mm;top:0;width:.2mm;height:30mm}.cross:after{left:0;top:15mm;width:30mm;height:.2mm}</style><div class="sheet">${marks}<h1>单词打印系统校准页</h1><p>请使用“实际大小 / 100%”打印，测量外框和中央十字。</p><p>当前设置：缩放 ${calibration.scale}% · 水平 ${calibration.offsetX}mm · 垂直 ${calibration.offsetY}mm</p><div class="cross"></div></div>`;
+      saveGeneratedBlob(new Blob([html], {type:'text/html;charset=utf-8'}), '打印机_A4_校准页.html');
+    };
+
+    document.getElementById('exportCsv').onclick = async event => {
+      const words = getSelectedWords(), filename = `${safeExportName(getRenderConfig().selectedBookName)}_学习数据.csv`;
+      await runBackgroundExport({format:'csv',filename,content:VocabAdvanced.toCsv(words)}, 'data', filename, event.currentTarget, '正在导出 CSV…');
+    };
+    document.getElementById('exportAnki').onclick = async event => {
+      const words = getSelectedWords(), filename = `${safeExportName(getRenderConfig().selectedBookName)}_Anki导入.tsv`;
+      await runBackgroundExport({format:'anki',filename,content:VocabAdvanced.toAnki(words)}, 'data', filename, event.currentTarget, '正在生成 Anki 文件…');
+    };
+    document.getElementById('exportLearningReport').onclick = () => {
+      const words = getProcessedBookWords();
+      const difficulty = {basic:0,intermediate:0,advanced:0};
+      words.forEach(word => difficulty[VocabAdvanced.classifyDifficulty(word)]++);
+      const report = {version:1,generatedAt:new Date().toISOString(),book:getRenderConfig().selectedBookName,totalWords:words.length,difficulty,review:VocabWorkbench.reviewSnapshot()};
+      saveGeneratedBlob(new Blob([JSON.stringify(report, null, 2)], {type:'application/json;charset=utf-8'}), `${safeExportName(report.book)}_学习报告.json`);
+    };
+
+    document.getElementById('startBatchExport').onclick = async event => {
+      const triggerButton = event.currentTarget;
+      const select = document.getElementById('batchBookSelect');
+      const choices = VocabAdvanced.prepareBatchQueue(Array.from(select.selectedOptions).map(option => ({path:option.value,name:option.textContent.replace(/\s*\(\d+词\)$/, '')})), 10);
+      if (!choices.length) return alert('请先在批量列表中选择至少一本词书。');
+      const format = document.getElementById('batchExportFormat').value;
+      const report = document.getElementById('batchExportReport');
+      triggerButton.disabled = true;
+      try {
+        const volumes = [];
+        for (let index = 0; index < choices.length; index++) {
+          report.textContent = `正在读取 ${index + 1}/${choices.length}：${choices[index].name}`;
+          const response = await fetch(`/api/book?path=${encodeURIComponent(choices[index].path)}`);
+          if (!response.ok) throw new Error(`无法读取 ${choices[index].name}`);
+          const words = VocabWorkbench.validateWords(await response.json());
+          const filenameBase = safeExportName(choices[index].name);
+          if (format === 'pdf') {
+            const config = {...getRenderConfig(),selectedBookName:choices[index].name};
+            volumes.push({filename:`${filenameBase}.pdf`,html:buildStandalonePrintHtml(annotateBookWords(words), config)});
+          } else {
+            const content = format === 'anki' ? VocabAdvanced.toAnki(words) : VocabAdvanced.toCsv(words);
+            volumes.push({filename:`${filenameBase}.${format === 'anki' ? 'tsv' : 'csv'}`,content,format});
+          }
+        }
+        const zipFilename = `批量词书_${choices.length}本_${format.toUpperCase()}.zip`;
+        report.textContent = `已准备 ${choices.length} 本，正在进入后台队列。`;
+        await runBackgroundExport({format:format === 'anki' ? 'anki' : format,filename:zipFilename,volumes}, format === 'pdf' ? 'zip' : 'data-zip', zipFilename, triggerButton, '正在批量打包…');
+        report.textContent = `批量任务完成：${choices.length} 本词书。`;
+      } catch (error) { report.textContent = `批量任务失败：${error.message}`; alert(report.textContent); }
+      finally { triggerButton.disabled = false; }
+    };
+
+    document.addEventListener('keydown', event => {
+      const action = VocabAdvanced.shortcutAction(event);
+      if (!action) return;
+      event.preventDefault();
+      if (action === 'search') quickSearchBook.focus();
+      else if (action === 'refresh') renderPages();
+      else if (action === 'download') openDirectDownloadModal();
+      else if (action === 'preflight') updatePreflight();
+      else if (action === 'next' || action === 'previous') {
+        const total = Math.max(1, getContentGroups().length);
+        const step = Math.max(1, Number(batchPageCount.value) || 1) * (action === 'next' ? 1 : -1);
+        batchStartPage.value = Math.max(1, Math.min(total, Number(batchStartPage.value) + step));
+        updateBatchSummary(); renderPages();
+      }
+    });
+
+    const todayValue = new Date().toISOString().slice(0, 10);
+    if (!document.getElementById('reviewStartDate').value) document.getElementById('reviewStartDate').value = todayValue;
+    if (!document.getElementById('planStartDate').value) document.getElementById('planStartDate').value = todayValue;
     VocabWorkbench.init({
       words: () => currentBookWords,
       refresh: () => {
         shuffledOrderCache = null;
-        if (document.getElementById('definitionDetail').value === 'full' && (wordsPerPage > 4 || document.querySelector('input[name="cardStyle"]:checked')?.value !== 'academic')) {
-          setRadioValue('cardStyle','academic'); setWordsPerPage(4);
-        }
         updateDaySelect(); updateBatchSummary(); updateAllScopeSummary(); renderProgressCard(); renderPages();
         bookWordCount.textContent = `${getProcessedBookWords().length} 词`;
         if (directDownloadModal.style.display === 'flex') { updateVolumeSelectOptions(); updatePreflight(true); }
@@ -6322,11 +7798,14 @@
         rangeEnd.value = Math.min(40, words.length); rangeEnd.max = words.length;
       },
       applyControls: () => {
-        setWordsPerPage(document.getElementById('wordsPerPageInput').value);
+        clearScenarioPresetActive();
+        setWordsPerPage(document.getElementById('wordsPerPageInput').value, false);
         document.querySelector('input[name="scopeMode"]:checked')?.dispatchEvent(new Event('change'));
         clozeSubGroup.style.display = document.querySelector('input[name="templateMode"]:checked')?.value === 'cloze' ? 'flex' : 'none';
+        updateCopyPresetActive();
       }
     });
+    updateCopyPresetActive();
     // Start
     initCatalog();
   </script>

@@ -4,10 +4,14 @@
 <h1>单词工具回归测试</h1>
 <pre id="results">运行中…</pre>
 <div id="fixture" hidden></div>
-<script src="../workbench.js"></script>
+<script src="../advanced_features.js?v=20261018"></script>
+<script src="../workbench.js?v=20261018"></script>
 <script>
 (async () => {
-  const storageKeys = ['vocab_workbench_settings_v1', 'vocab_review_v1', 'vocab_presets_v1'];
+  const storageKeys = [
+    'vocab_workbench_settings_v1', 'vocab_review_v1', 'vocab_presets_v1',
+    'vocab_print_theme', 'vocab_print_fontsize', 'vocab_print_cardstyle', 'vocab_print_margin'
+  ];
   const originalStorage = Object.fromEntries(storageKeys.map(key => [key, localStorage.getItem(key)]));
   const lines = [];
   let failures = 0;
@@ -37,6 +41,10 @@
       applyControls: () => {}
     });
     const $ = id => document.getElementById(id);
+    const chooseRadio = (name, value) => {
+      const radio = document.querySelector(`input[name="${name}"][value="${value}"]`);
+      if (radio) radio.checked = true;
+    };
 
     $('minLetters').value = '0';
     $('keepPhrases').checked = true;
@@ -92,7 +100,7 @@
 
     const fakeFile = new File([JSON.stringify([{'单词':'mergedfixture', '释义(中文)':'合并测试'}])], 'merge.json');
     await $('mergeFileInput').onchange({target:{files:[fakeFile], value:'test'}});
-    check('本地 JSON 合并保留原词书', currentWords.length === 12 && currentWords.at(-1)['单词'] === 'mergedfixture');
+    check('本地 JSON 合并保留原词书并归并重复词', currentWords.some(word => word['单词'] === 'mergedfixture') && currentWords.some(word => /apple/i.test(word['单词'])) && currentWords.some(word => /the/i.test(word['单词'])));
 
     const countBeforeInvalid = currentWords.length;
     const originalAlert = window.alert;
@@ -126,14 +134,38 @@
 
     $('presetName').value = '__regression_fixture__';
     $('minLetters').value = '3';
+    $('definitionDetail').value = 'full';
+    $('wordsPerPageInput').value = '13';
+    chooseRadio('templateMode', 'cloze');
+    chooseRadio('cardStyle', 'compact');
+    chooseRadio('paperTheme', 'purple');
+    chooseRadio('enDefCount', '3');
     $('savePreset').click();
     $('minLetters').value = '8';
+    $('definitionDetail').value = 'brief';
+    $('wordsPerPageInput').value = '4';
+    chooseRadio('templateMode', 'standard');
+    chooseRadio('cardStyle', 'academic');
+    chooseRadio('paperTheme', 'blue');
+    chooseRadio('enDefCount', '1');
     $('applyPreset').click();
-    check('个人方案保存并恢复筛选参数', $('minLetters').value === '3');
+    check('个人方案保存并恢复筛选、释义、密度和单选版式',
+      $('minLetters').value === '3' && $('definitionDetail').value === 'full' && $('wordsPerPageInput').value === '13' &&
+      document.querySelector('input[name="templateMode"]:checked')?.value === 'cloze' &&
+      document.querySelector('input[name="cardStyle"]:checked')?.value === 'compact' &&
+      document.querySelector('input[name="paperTheme"]:checked')?.value === 'purple' &&
+      document.querySelector('input[name="enDefCount"]:checked')?.value === '3' &&
+      localStorage.getItem('vocab_print_cardstyle') === 'compact');
     $('deletePreset').click();
     check('删除个人方案', !Array.from($('presetSelect').options).some(option => option.value === '__regression_fixture__'));
     $('undoPreset').click();
     check('撤销删除方案', Array.from($('presetSelect').options).some(option => option.value === '__regression_fixture__'));
+    $('definitionDetail').value = 'brief';
+    $('wordsPerPageInput').value = '10';
+    chooseRadio('templateMode', 'standard');
+    chooseRadio('cardStyle', 'academic');
+    chooseRadio('paperTheme', 'blue');
+    chooseRadio('enDefCount', '2');
 
     const bookValueBeforeRestore = $('bookSelect').value;
     const backup = new File([JSON.stringify({
@@ -156,6 +188,204 @@
 
     $('openReview').click();
     check('备份恢复的错词可打开为复习本', currentWords.some(word => word['单词'] === 'backupfixture'));
+
+    const advancedApi = [
+      'seededShuffle','classifyDifficulty','smartPageGroups','overflowRecommendation',
+      'buildPracticeWord','reviewSchedule','advanceReview','reviewPriority','bookletOrder',
+      'blankExample','morphology','renderTemplate','renderSafeTemplate','mergeWordbooks',
+      'toCsv','toTsv','toAnki','sanitizeHttpUrl','pronunciationUrl','qrImageUrl',
+      'buildDailyPlan','estimateCost','calibrationConfig','prepareBatchQueue','shortcutAction'
+    ];
+    check('高级功能公开完整且可独立测试', advancedApi.every(name => typeof VocabAdvanced?.[name] === 'function'));
+    const advancedControls = [
+      'optWordSlot','optPhoneticSlot','optZhDefinitionSlot','optEnDefinitionSlot',
+      'smartDensity','overflowStrategy','exerciseMode','exampleMode','difficultyFilter','showMorphology',
+      'applyAutoLayoutFix','reviewStartDate','reviewIntervals','weakCopyBoost','reviewPacketScope','weakWordBoost',
+      'buildReviewSchedule','downloadReviewPack','bindingMode','calibrationScale','calibrationOffsetX','calibrationOffsetY',
+      'bookletMode','customHeader','customFooter','studentName','className','downloadCalibrationPage','planStartDate',
+      'planDeadline','dailyWordTarget','printCopies','paperPrice','inkPrice','showPronunciationQr','qrProvider',
+      'generateDailyPlan','applyTodayPlan','downloadDailyPlan','multiBookMode','exportCsv','exportAnki',
+      'exportLearningReport','batchBookSelect','batchExportFormat','startBatchExport'
+    ];
+    check('全部可选功能都有稳定的界面控件', advancedControls.every(id => Boolean($(id))));
+    check('常用释义设置位于内容与排版页',
+      $('definitionSection')?.closest('.sidebar-tab-content')?.id === 'tab-basic' &&
+      Array.from($('definitionDetail')?.options || []).some(option => option.value === 'brief' && option.textContent.includes('精简释义')));
+    check('完整释义明确使用自动分页且说明设置互相独立',
+      Array.from($('definitionDetail').options).find(option => option.value === 'full')?.textContent.includes('自动分页') &&
+      $('definitionSection')?.textContent.includes('不会更改卡片风格和每页词数'));
+
+    const enDefinitionThree = document.querySelector('input[name="enDefCount"][value="3"]');
+    enDefinitionThree.checked = true;
+    enDefinitionThree.dispatchEvent(new Event('change'));
+    const storedDefinitionSettings = JSON.parse(localStorage.getItem('vocab_workbench_settings_v1') || '{}');
+    check('英文释义显示条数会进入设置并自动保存',
+      VocabWorkbench.options().enDefCount === '3' && storedDefinitionSettings.enDefCount === '3');
+
+    $('optWordSlot').checked = false;
+    $('optPhoneticSlot').checked = false;
+    $('optZhDefinitionSlot').checked = true;
+    $('optEnDefinitionSlot').checked = false;
+    $('optEnDefinitionSlot').dispatchEvent(new Event('change'));
+    const copySettings = VocabWorkbench.options();
+    const storedCopySettings = JSON.parse(localStorage.getItem('vocab_workbench_settings_v1') || '{}');
+    check('抄写项目任意组合会进入设置并持久化',
+      copySettings.optWordSlot === false && copySettings.optPhoneticSlot === false &&
+      copySettings.optZhDefinitionSlot === true && copySettings.optEnDefinitionSlot === false &&
+      storedCopySettings.optWordSlot === false && storedCopySettings.optPhoneticSlot === false &&
+      storedCopySettings.optZhDefinitionSlot === true && storedCopySettings.optEnDefinitionSlot === false);
+
+    $('presetName').value = '__copy_fields_fixture__';
+    $('savePreset').click();
+    $('optWordSlot').checked = true;
+    $('optPhoneticSlot').checked = true;
+    $('optZhDefinitionSlot').checked = false;
+    $('optEnDefinitionSlot').checked = true;
+    $('applyPreset').click();
+    check('个人方案精确恢复四项抄写选择',
+      !$('optWordSlot').checked && !$('optPhoneticSlot').checked &&
+      $('optZhDefinitionSlot').checked && !$('optEnDefinitionSlot').checked);
+    $('deletePreset').click();
+    $('optWordSlot').checked = true;
+    $('optPhoneticSlot').checked = true;
+    $('optZhDefinitionSlot').checked = false;
+    $('optEnDefinitionSlot').checked = true;
+    $('optEnDefinitionSlot').dispatchEvent(new Event('change'));
+
+    const copyPresetButtons = Array.from(document.querySelectorAll('.copy-preset-btn'));
+    check('提供完整的快捷抄写预设按钮', ['all', 'common', 'word_def', 'word_only', 'none'].every(p => copyPresetButtons.some(b => b.dataset.copyPreset === p)));
+    const wordOnlyBtn = copyPresetButtons.find(b => b.dataset.copyPreset === 'word_only');
+    if (wordOnlyBtn) wordOnlyBtn.click();
+    check('快捷预设仅单词生效', $('optWordSlot').checked && !$('optPhoneticSlot').checked && !$('optZhDefinitionSlot').checked && !$('optEnDefinitionSlot').checked);
+    const noneBtn = copyPresetButtons.find(b => b.dataset.copyPreset === 'none');
+    if (noneBtn) noneBtn.click();
+    check('快捷预设纯背诵全取消生效', !$('optWordSlot').checked && !$('optPhoneticSlot').checked && !$('optZhDefinitionSlot').checked && !$('optEnDefinitionSlot').checked);
+    const commonBtn = copyPresetButtons.find(b => b.dataset.copyPreset === 'common');
+    if (commonBtn) commonBtn.click();
+    check('快捷预设常用词音释生效', $('optWordSlot').checked && $('optPhoneticSlot').checked && $('optZhDefinitionSlot').checked && !$('optEnDefinitionSlot').checked);
+    $('optWordSlot').checked = true;
+    $('optPhoneticSlot').checked = true;
+    $('optZhDefinitionSlot').checked = false;
+    $('optEnDefinitionSlot').checked = true;
+    $('optEnDefinitionSlot').dispatchEvent(new Event('change'));
+
+    $('smartDensity').checked = true;
+    $('exerciseMode').value = 'missing_letters';
+    $('bookletMode').checked = true;
+    $('customHeader').value = '{student} · {book}';
+    const advancedSettings = VocabWorkbench.options();
+    const settingsIntegrated = advancedSettings.smartDensity === true && advancedSettings.exerciseMode === 'missing_letters' && advancedSettings.bookletMode === true && advancedSettings.customHeader === '{student} · {book}';
+    check('高级设置进入持久化与方案快照', settingsIntegrated);
+    if (!settingsIntegrated) lines.push('DEBUG settings ' + JSON.stringify(advancedSettings));
+    $('difficultyFilter').value = 'advanced';
+    $('minLetters').value = '0';
+    const difficultyFiltered = VocabWorkbench.process([
+      {'单词':'cat','释义(中文)':'猫'},
+      {'单词':'interdisciplinary','释义(中文)':'跨学科的复杂研究概念','释义(英文)':'involving two or more academic disciplines in a complex field of study'}
+    ]);
+    $('difficultyFilter').value = 'all';
+    $('multiBookMode').value = 'intersection';
+    const intersectionFiltered = VocabWorkbench.process([
+      {'单词':'shared',_sources:['A','B'],_sourceTotal:2},
+      {'单词':'unique',_sources:['A'],_sourceTotal:2}
+    ]);
+    $('multiBookMode').value = 'union';
+    const filtersIntegrated = difficultyFiltered.length === 1 && difficultyFiltered[0]['单词'] === 'interdisciplinary' && intersectionFiltered.length === 1 && intersectionFiltered[0]['单词'] === 'shared';
+    check('难度与多词书筛选实际影响打印词表', filtersIntegrated);
+    if (!filtersIntegrated) lines.push('DEBUG filters ' + JSON.stringify({difficultyFiltered,intersectionFiltered}));
+    VocabWorkbench.populateCatalog({测试分类:[{name:'批量词书A',path:'fixture/a.json',count:12},{name:'批量词书B',path:'fixture/b.json',count:8}]});
+    const catalogIntegrated = $('batchBookSelect').options.length === 2 && $('batchBookSelect').options[0].value === 'fixture/a.json';
+    check('批量队列词书选择器由目录安全填充', catalogIntegrated);
+    if (!catalogIntegrated) lines.push('DEBUG catalog ' + JSON.stringify(Array.from($('batchBookSelect').options).map(option => ({value:option.value,text:option.textContent}))));
+
+    const shuffledA = VocabAdvanced.seededShuffle(['a','b','c','d','e'], 'fixture');
+    const shuffledB = VocabAdvanced.seededShuffle(['a','b','c','d','e'], 'fixture');
+    const shuffledC = VocabAdvanced.seededShuffle(['a','b','c','d','e'], 'another');
+    check('随机打乱可按种子复现且不丢词', shuffledA.join() === shuffledB.join() && shuffledA.join() !== shuffledC.join() && [...shuffledA].sort().join() === 'a,b,c,d,e');
+
+    check('难度分级能区分基础词与复杂词',
+      VocabAdvanced.classifyDifficulty({'单词':'cat','释义(中文)':'猫'}) === 'basic' &&
+      VocabAdvanced.classifyDifficulty({'单词':'interdisciplinary','释义(中文)':'跨学科的复杂研究概念','释义(英文)':'involving two or more academic disciplines in a complex field of study'}) === 'advanced');
+
+    const shortEntries = Array.from({length:12}, (_, index) => ({'单词':`word${index}`,'释义(中文)':'短释义'}));
+    const longEntries = shortEntries.map((word, index) => ({...word,'单词':`interdisciplinary-expression-${index}`,'释义(中文)':'很长的释义'.repeat(30),'释义(英文)':'long definition '.repeat(35)}));
+    const shortGroups = VocabAdvanced.smartPageGroups(shortEntries, {wordsPerPage:12,definitionDetail:'brief'});
+    const longGroups = VocabAdvanced.smartPageGroups(longEntries, {wordsPerPage:12,definitionDetail:'full',showMorphology:true});
+    check('智能密度按内容长度自动减少每页词数', shortGroups.every(group => group.length <= 12) && longGroups.length > shortGroups.length && longGroups.flat().length === longEntries.length);
+    const repair = VocabAdvanced.overflowRecommendation(longEntries, {wordsPerPage:12,definitionDetail:'full',overflowStrategy:'brief'});
+    check('自动溢出修复会降密度并给出修复原因', repair.smartDensity === true && repair.wordsPerPage >= 4 && repair.wordsPerPage < 12 && repair.reason.length > 0);
+
+    const practiceFixture = {'单词':'remember','释义(中文)':'记住；记得','释义(英文)':'to keep something in your mind'};
+    const enZh = VocabAdvanced.buildPracticeWord(practiceFixture, 'en_to_zh');
+    const zhEn = VocabAdvanced.buildPracticeWord(practiceFixture, 'zh_to_en');
+    const initial = VocabAdvanced.buildPracticeWord(practiceFixture, 'first_letter');
+    const missing = VocabAdvanced.buildPracticeWord(practiceFixture, 'missing_letters');
+    const blank = VocabAdvanced.buildPracticeWord(practiceFixture, 'blank');
+    check('五种默写模式分别隐藏正确内容',
+      enZh.word === 'remember' && !enZh.zh && !enZh.en &&
+      zhEn.word !== 'remember' && zhEn.zh.includes('记住') && !zhEn.showPhonetic &&
+      initial.word.startsWith('r') && initial.word.includes('_') &&
+      missing.word.includes('_') && missing.word !== initial.word &&
+      !blank.zh && !blank.en && !blank.showPhonetic);
+
+    const schedule = VocabAdvanced.reviewSchedule('2026-10-01', [1,2,4,7,15,30]);
+    check('艾宾浩斯复习包生成六个准确日期', schedule.map(item => item.date).join() === '2026-10-02,2026-10-03,2026-10-05,2026-10-08,2026-10-16,2026-10-31');
+    const reviewNow = Date.UTC(2026, 9, 17);
+    const remembered = VocabAdvanced.advanceReview({stage:0,mistakes:2}, true, reviewNow);
+    const forgotten = VocabAdvanced.advanceReview({stage:3,mistakes:1}, false, reviewNow);
+    check('错词答对推进间隔，答错增加错误并回退', remembered.stage === 1 && remembered.successes === 1 && remembered.due === reviewNow + VocabAdvanced.DAY && forgotten.stage === 2 && forgotten.mistakes === 2 && forgotten.due === reviewNow + VocabAdvanced.DAY);
+    check('错词强化优先级随错误次数提高', VocabAdvanced.reviewPriority({mistakes:5,successes:0,due:Date.now()}) > VocabAdvanced.reviewPriority({mistakes:1,successes:4,due:Date.now()}));
+
+    const booklet = VocabAdvanced.bookletOrder(5);
+    const bookletPages = booklet.flatMap(side => side.pages).filter(Number).sort((a,b) => a-b);
+    check('A5小册子补齐四页并正确重排页码', booklet.length === 4 && bookletPages.join() === '1,2,3,4,5' && booklet.some(side => side.pages.includes(null)));
+
+    const clozedExample = VocabAdvanced.blankExample('Remember to remember REMEMBER.', 'remember');
+    check('例句挖空忽略大小写并安全处理目标词', !/remember/i.test(clozedExample) && (clozedExample.match(/_+/g) || []).length === 3 && VocabAdvanced.blankExample('Use C++ daily.', 'C++').includes('___'));
+    const explicitMorphology = VocabAdvanced.morphology({'单词':'unhappy','词根':'happy','词缀':'un-','同族词':'happiness'});
+    const inferredMorphology = VocabAdvanced.morphology({'单词':'unhelpful'});
+    check('词根词缀支持词书字段并可自动推断', explicitMorphology.root === 'happy' && explicitMorphology.family === 'happiness' && inferredMorphology.root === 'help' && /un-/.test(inferredMorphology.affix));
+
+    const headerText = VocabAdvanced.renderTemplate('{student} · {class} · {book} · {page}/{pages} · {unknown}', {student:'小明',class:'一班',book:'核心词汇',page:2,pages:8});
+    check('自定义页眉页脚只替换允许的占位符', headerText === '小明 · 一班 · 核心词汇 · 2/8 · {unknown}');
+    check('页眉页脚输出会转义HTML', VocabAdvanced.renderSafeTemplate('{student}', {student:'<img src=x onerror=1>'}).startsWith('&lt;img'));
+
+    const merged = VocabAdvanced.mergeWordbooks([
+      {name:'A',words:[{'单词':'Apple','释义(中文)':'苹果'},{'单词':'shared'}]},
+      {name:'B',words:[{'单词':' apple ','释义(英文)':'fruit'},{'单词':'shared'},{'单词':'unique'}]}
+    ]);
+    const shared = VocabAdvanced.mergeWordbooks([
+      {name:'A',words:[{'单词':'Apple'},{'单词':'shared'}]},
+      {name:'B',words:[{'单词':'apple'},{'单词':'shared'},{'单词':'unique'}]}
+    ], 'intersection');
+    check('多词书联合筛选合并字段并支持交集', merged.length === 3 && merged.every(word => word._sourceTotal === 2) && merged.find(word => /apple/i.test(word['单词']))._sources.length === 2 && shared.length === 2);
+
+    const exportFixture = [{'单词':'say "hello"','释义(中文)':'问候,打招呼','例句':'Hello\nworld'}];
+    const csv = VocabAdvanced.toCsv(exportFixture);
+    const tsv = VocabAdvanced.toTsv(exportFixture);
+    const anki = VocabAdvanced.toAnki(exportFixture);
+    check('CSV、TSV与Anki导出正确转义并带UTF-8标识', csv.startsWith('\ufeff') && csv.includes('"say ""hello"""') && csv.includes('"问候,打招呼"') && tsv.startsWith('\ufeff') && anki.includes('#separator:tab') && anki.includes('difficulty_'));
+
+    const pronunciation = VocabAdvanced.pronunciationUrl('look up', 'cambridge');
+    const qr = VocabAdvanced.qrImageUrl(pronunciation);
+    check('发音二维码只接受HTTP(S)并编码单词', pronunciation.startsWith('https://') && pronunciation.includes('look%20up') && qr.startsWith('https://') && !VocabAdvanced.sanitizeHttpUrl('javascript:alert(1)') && !VocabAdvanced.qrImageUrl('data:text/html,bad'));
+
+    const planWords = Array.from({length:10}, (_, index) => ({'单词':`plan-${index + 1}`}));
+    const dailyPlan = VocabAdvanced.buildDailyPlan(planWords, {startDate:'2026-10-01',deadline:'2026-10-03',perDay:8});
+    check('每日计划按截止日期均分且完整覆盖', dailyPlan.totalDays === 3 && dailyPlan.perDay === 4 && dailyPlan.days.flatMap(day => day.words).length === 10 && dailyPlan.days.at(-1).date === '2026-10-03');
+
+    const cost = VocabAdvanced.estimateCost({pages:5,duplex:true,paperPrice:0.2,inkPrice:0.1,inkSaver:true,copies:2});
+    check('打印成本同时计算双面纸张与省墨', cost.pages === 10 && cost.sheets === 6 && Math.abs(cost.paperCost - 1.2) < 1e-9 && Math.abs(cost.inkCost - 0.55) < 1e-9 && Math.abs(cost.total - 1.75) < 1e-9);
+    const calibration = VocabAdvanced.calibrationConfig({scale:300,offsetX:-99,offsetY:99});
+    check('打印校准参数限制在安全范围', calibration.scale === 110 && calibration.offsetX === -15 && calibration.offsetY === 15);
+
+    const queue = VocabAdvanced.prepareBatchQueue([{path:'a'},{path:'a'},{path:'b'},{path:'c'}], 2);
+    check('批量导出队列去重并执行数量限制', queue.map(item => item.path).join() === 'a,b');
+    check('键盘快捷键避开输入框并映射正确动作',
+      VocabAdvanced.shortcutAction({key:'/',target:{tagName:'INPUT'}}) === null &&
+      VocabAdvanced.shortcutAction({key:'/',target:{tagName:'BODY'}}) === 'search' &&
+      VocabAdvanced.shortcutAction({key:'Enter',ctrlKey:true,target:{tagName:'BODY'}}) === 'refresh' &&
+      VocabAdvanced.shortcutAction({key:'d',ctrlKey:true,shiftKey:true,target:{tagName:'BODY'}}) === 'download');
   } catch (error) {
     failures++;
     lines.push('ERROR ' + error.stack);

@@ -19,7 +19,13 @@
       const normalized = key(item.word['单词']);
       const due = Number(item.due), stage = Number(item.stage);
       if (!normalized || normalized !== storedKey || !Number.isFinite(due) || !Number.isInteger(stage) || stage < 0) continue;
-      output[normalized] = {word:item.word, due, stage:Math.min(stage, 100000)};
+      const advanced = window.VocabAdvanced?.normalizeReviewItem?.(item) || item;
+      output[normalized] = {
+        word:item.word, due, stage:Math.min(stage, 100000),
+        mistakes:Math.max(0, Math.min(100000, Number(advanced.mistakes) || 0)),
+        successes:Math.max(0, Math.min(100000, Number(advanced.successes) || 0)),
+        lastReviewed:Number.isFinite(Number(advanced.lastReviewed)) ? Number(advanced.lastReviewed) : 0
+      };
     }
     return output;
   }
@@ -37,8 +43,24 @@
   let presets = normalizePresets(read('vocab_presets_v1', {}));
   let lastPresetChange = null;
   let refreshTimer = null;
-  const settingsIds = ['minLetters','keepPhrases','deduplicate','familiarWords','definitionLanguage','definitionDetail','zhDefinitionCount','printDuplex','printInkSaver','printDecorations','reviewOnly','reviewDueOnly'];
-  const settings = () => Object.fromEntries(settingsIds.map(id => [id, $(id).type === 'checkbox' ? $(id).checked : $(id).value]));
+  const settingsIds = [
+    'minLetters','keepPhrases','deduplicate','familiarWords','definitionLanguage','definitionDetail','zhDefinitionCount',
+    'printDuplex','printInkSaver','printDecorations','reviewOnly','reviewDueOnly','smartDensity','overflowStrategy',
+    'exerciseMode','exampleMode','difficultyFilter','showMorphology','reviewStartDate','reviewIntervals','weakCopyBoost',
+    'reviewPacketScope','weakWordBoost','bindingMode','calibrationScale','calibrationOffsetX','calibrationOffsetY',
+    'bookletMode','customHeader','customFooter','studentName','className','planStartDate','planDeadline','dailyWordTarget',
+    'printCopies','paperPrice','inkPrice','showPronunciationQr','qrProvider','multiBookMode','batchExportFormat',
+    'optWordSlot','optPhoneticSlot','optZhDefinitionSlot','optEnDefinitionSlot'
+  ];
+  const radioSettings = ['enDefCount'];
+  function settings() {
+    const values = Object.fromEntries(settingsIds.filter(id => $(id)).map(id => [id, $(id).type === 'checkbox' ? $(id).checked : $(id).value]));
+    for (const name of radioSettings) {
+      const selected = document.querySelector(`input[name="${name}"]:checked`);
+      if (selected) values[name] = selected.value;
+    }
+    return values;
+  }
   function setValue(el, value) {
     if (!el) return;
     if (el.type === 'checkbox') {
@@ -59,6 +81,13 @@
   function restore(values) {
     if (!isRecord(values)) return;
     for (const id of settingsIds) if (Object.hasOwn(values, id)) setValue($(id), values[id]);
+    for (const name of radioSettings) {
+      if (!Object.hasOwn(values, name)) continue;
+      const radios = Array.from(document.querySelectorAll(`input[name="${name}"]`));
+      if (radios.some(el => el.value === String(values[name]))) {
+        radios.forEach(el => { el.checked = el.value === String(values[name]); });
+      }
+    }
   }
   function familiarSet() { return new Set($('familiarWords').value.split(/[\n,，;；]+/).map(key).filter(Boolean)); }
   function process(words, ignoreSelection = false) {
@@ -74,6 +103,14 @@
       if (familiar.has(normalized) || (!ignoreSelection && excluded.has(normalized))) return false;
       if ($('reviewOnly').checked && !review[normalized]) return false;
       if ($('reviewDueOnly').checked && (!review[normalized] || Number(review[normalized].due) > now)) return false;
+      const difficulty = $('difficultyFilter')?.value || 'all';
+      if (difficulty !== 'all' && window.VocabAdvanced?.classifyDifficulty?.(w) !== difficulty) return false;
+      const multiMode = $('multiBookMode')?.value || 'union';
+      const sourceCount = Array.isArray(w._sources) ? w._sources.length : 1;
+      const sourceTotal = Math.max(1, Number(w._sourceTotal) || 1);
+      if (multiMode === 'shared' && sourceCount < 2) return false;
+      if (multiMode === 'intersection' && sourceCount < sourceTotal) return false;
+      if (multiMode === 'unique' && sourceCount !== 1) return false;
       if ($('deduplicate').checked && seen.has(normalized)) return false;
       seen.add(normalized);
       return true;
@@ -108,7 +145,7 @@
     $('wordManagerCount').textContent = `共 ${all.length} 词 · 第 ${page + 1}/${count} 页（每页80词）`;
     $('wordRows').innerHTML = all.slice(page * 80, (page + 1) * 80).map(w => {
       const k = key(w['单词']), saved = review[k];
-      return `<tr><td><input type="checkbox" data-select-word="${escape(k)}" aria-label="打印 ${escape(w['单词'])}" ${excluded.has(k) ? '' : 'checked'}></td><td><strong>${escape(w['单词'])}</strong><small>${escape(w['释义(中文)'] || '')}</small></td><td><button type="button" data-review-word="${escape(k)}">${saved ? '移出错词' : '加入错词'}</button>${saved ? `<button type="button" data-reviewed="${escape(k)}">已复习</button><small>下次：${escape(new Date(saved.due).toLocaleDateString())}</small>` : ''}</td></tr>`;
+      return `<tr><td><input type="checkbox" data-select-word="${escape(k)}" aria-label="打印 ${escape(w['单词'])}" ${excluded.has(k) ? '' : 'checked'}></td><td><strong>${escape(w['单词'])}</strong><small>${escape(w['释义(中文)'] || '')}</small></td><td><button type="button" data-review-word="${escape(k)}">${saved ? '移出错词' : '加入错词'}</button>${saved ? `<button type="button" data-review-correct="${escape(k)}">答对</button><button type="button" data-review-wrong="${escape(k)}">答错</button><small>错 ${saved.mistakes || 0} 次 · 下次：${escape(new Date(saved.due).toLocaleDateString())}</small>` : ''}</td></tr>`;
     }).join('') || '<tr><td colspan="3">没有符合条件的单词，请调整筛选。</td></tr>';
     $('wordPrev').disabled = page === 0;
     $('wordNext').disabled = page >= count - 1;
@@ -117,7 +154,7 @@
     if (review[k]) delete review[k];
     else {
       const word = callbacks.words().find(w => key(w['单词']) === k);
-      if (word) review[k] = { word, stage: 0, due: Date.now() };
+      if (word) review[k] = { word, stage: 0, due: Date.now(), mistakes:0, successes:0, lastReviewed:0 };
     }
     write('vocab_review_v1', review);
     refresh();
@@ -129,7 +166,8 @@
     setTimeout(() => URL.revokeObjectURL(url), 1000);
   }
   function isPresetControl(el) {
-    return Boolean(el?.id && el.closest('.sidebar') && el.type !== 'file' &&
+    const hasIdentity = Boolean(el?.id || (el?.type === 'radio' && el?.name));
+    return Boolean(hasIdentity && el.closest('.sidebar') && el.type !== 'file' &&
       !['categorySelect','bookSelect','presetSelect','presetName'].includes(el.id));
   }
   function snapshot() {
@@ -146,19 +184,64 @@
     $('presetSelect').innerHTML = '<option value="">选择已保存方案</option>' + Object.keys(presets).map(n => `<option value="${escape(n)}">${escape(n)}</option>`).join('');
     if (Object.hasOwn(presets, previous)) $('presetSelect').value = previous;
   }
+  function updateCopyPresetActive() {
+    const word = $('optWordSlot')?.checked;
+    const phonetic = $('optPhoneticSlot')?.checked;
+    const zh = $('optZhDefinitionSlot')?.checked;
+    const en = $('optEnDefinitionSlot')?.checked;
+    document.querySelectorAll('.copy-preset-btn').forEach(btn => {
+      const p = btn.dataset.copyPreset;
+      let active = false;
+      if (p === 'all') active = word && phonetic && zh && en;
+      else if (p === 'common') active = word && phonetic && zh && !en;
+      else if (p === 'word_def') active = word && !phonetic && zh && !en;
+      else if (p === 'word_only') active = word && !phonetic && !zh && !en;
+      else if (p === 'none') active = !word && !phonetic && !zh && !en;
+      btn.classList.toggle('active', Boolean(active));
+    });
+  }
+  function applyCopyPreset(preset) {
+    const word = $('optWordSlot'), phonetic = $('optPhoneticSlot'), zh = $('optZhDefinitionSlot'), en = $('optEnDefinitionSlot');
+    if (!word || !phonetic || !zh || !en) return;
+    if (preset === 'all') { word.checked = true; phonetic.checked = true; zh.checked = true; en.checked = true; }
+    else if (preset === 'common') { word.checked = true; phonetic.checked = true; zh.checked = true; en.checked = false; }
+    else if (preset === 'word_def') { word.checked = true; phonetic.checked = false; zh.checked = true; en.checked = false; }
+    else if (preset === 'word_only') { word.checked = true; phonetic.checked = false; zh.checked = false; en.checked = false; }
+    else if (preset === 'none') { word.checked = false; phonetic.checked = false; zh.checked = false; en.checked = false; }
+    en.dispatchEvent(new Event('change'));
+    updateCopyPresetActive();
+  }
   function applyPreset(preset) {
     if (!isRecord(preset)) return;
-    restore(preset.settings || {});
-    for (const [id, value] of Object.entries(isRecord(preset.controls) ? preset.controls : {})) {
+    const controls = isRecord(preset.controls) ? preset.controls : {};
+    const presetSettings = isRecord(preset.settings) ? preset.settings : {};
+    const legacyCopyDefaults = {optWordSlot:true,optPhoneticSlot:true,optZhDefinitionSlot:false,optEnDefinitionSlot:true};
+    for (const [id, value] of Object.entries(legacyCopyDefaults)) {
+      if (!Object.hasOwn(controls, id) && !Object.hasOwn(presetSettings, id)) setValue($(id), value);
+    }
+    restore(presetSettings);
+    for (const [id, value] of Object.entries(controls)) {
       if (id.startsWith('radio:')) {
         const radioName = id.slice(6);
         const radios = Array.from(document.querySelectorAll('.sidebar input[type="radio"]')).filter(el => el.name === radioName);
-        if (radios.some(el => el.value === String(value))) radios.forEach(el => { el.checked = el.value === String(value); });
+        if (radios.some(el => el.value === String(value))) {
+          radios.forEach(el => { el.checked = el.value === String(value); });
+          const preferenceKeys = {
+            paperTheme:'vocab_print_theme',
+            fontSizeMode:'vocab_print_fontsize',
+            cardStyle:'vocab_print_cardstyle',
+            marginMode:'vocab_print_margin'
+          };
+          if (preferenceKeys[radioName]) {
+            try { localStorage.setItem(preferenceKeys[radioName], String(value)); } catch {}
+          }
+        }
       } else {
         const el = $(id); if (!isPresetControl(el)) continue;
         setValue(el, value);
       }
     }
+    updateCopyPresetActive();
     callbacks.applyControls();
     refresh();
   }
@@ -175,7 +258,8 @@
     const baseWords = callbacks.words();
     const batches = await Promise.all(selected.map(async file => validateWords(JSON.parse(await file.text()))));
     if (callbacks.words() !== baseWords) throw new Error('读取期间当前词书已切换，请重新选择要合并的文件');
-    const words = baseWords.concat(...batches);
+    const books = [{name:'当前词书', words:baseWords}, ...batches.map((words, index) => ({name:selected[index].name || `本地词书${index + 1}`, words}))];
+    const words = window.VocabAdvanced?.mergeWordbooks?.(books, 'union') || baseWords.concat(...batches);
     callbacks.replace(words, `合并词书（${words.length}条）`);
     refresh();
   }
@@ -184,9 +268,21 @@
     restore(read('vocab_workbench_settings_v1', {}));
     for (const id of settingsIds) {
       const el = $(id);
+      if (!el) continue;
       const liveInput = el.tagName === 'TEXTAREA' || el.type === 'number';
       el.addEventListener(liveInput ? 'input' : 'change', liveInput ? queueRefresh : refresh);
     }
+    for (const name of radioSettings) {
+      document.querySelectorAll(`input[name="${name}"]`).forEach(el => el.addEventListener('change', refresh));
+    }
+    document.querySelectorAll('.copy-preset-btn').forEach(btn => {
+      btn.onclick = () => applyCopyPreset(btn.dataset.copyPreset);
+    });
+    ['optWordSlot', 'optPhoneticSlot', 'optZhDefinitionSlot', 'optEnDefinitionSlot'].forEach(id => {
+      const el = $(id);
+      if (el) el.addEventListener('change', updateCopyPresetActive);
+    });
+    updateCopyPresetActive();
     $('manageWords').onclick = () => { page = 0; renderWords(); $('wordManager').showModal(); };
     $('closeWordManager').onclick = () => $('wordManager').close();
     $('wordSearch').oninput = () => { page = 0; renderWords(); };
@@ -200,11 +296,14 @@
     $('wordRows').onclick = event => {
       const k = event.target.dataset.reviewWord;
       if (k) toggleReview(k);
-      const reviewed = event.target.dataset.reviewed;
-      if (reviewed && review[reviewed]) {
-        const r = review[reviewed], intervals = [1,2,4,7,15,30];
-        r.due = Date.now() + intervals[Math.min(r.stage, intervals.length - 1)] * 86400000;
-        r.stage++; write('vocab_review_v1', review); refresh();
+      const correct = event.target.dataset.reviewCorrect;
+      const wrong = event.target.dataset.reviewWrong;
+      const target = correct || wrong;
+      if (target && review[target]) {
+        const intervals = window.VocabAdvanced?.parseIntervals?.($('reviewIntervals')?.value) || [1,2,4,7,15,30];
+        const updated = window.VocabAdvanced?.advanceReview?.(review[target], Boolean(correct), Date.now(), intervals);
+        review[target] = updated ? {...updated, word:review[target].word} : review[target];
+        write('vocab_review_v1', review); refresh();
       }
     };
     $('selectMatching').onclick = () => { rows().forEach(w => excluded.delete(key(w['单词']))); callbacks.refresh(); updateStats(); renderWords(); };
@@ -231,7 +330,10 @@
         if (!res.ok) throw new Error('无法读取词书');
         const added = validateWords(await res.json());
         if (callbacks.words() !== baseWords) throw new Error('下载期间当前词书已切换，请重新执行合并');
-        const words = baseWords.concat(added);
+        const sourceName = $('mergeBookSelect').selectedOptions?.[0]?.textContent || path;
+        const words = window.VocabAdvanced?.mergeWordbooks?.([
+          {name:'当前词书', words:baseWords}, {name:sourceName, words:added}
+        ], 'union') || baseWords.concat(added);
         callbacks.replace(words, `合并词书（${words.length}条）`); refresh();
       } catch(error) { alert('合并失败：' + error.message); }
       finally { $('mergeRemote').disabled = false; }
@@ -280,20 +382,25 @@
   }
   function populateCatalog(catalog) {
     $('mergeBookSelect').innerHTML = '<option value="">选择第二本内置词书</option>' + Object.entries(catalog).flatMap(([category,books]) => books.map(b => `<option value="${escape(b.path)}">${escape(category + ' / ' + b.name)}</option>`)).join('');
+    if ($('batchBookSelect')) $('batchBookSelect').innerHTML = Object.entries(catalog).flatMap(([category,books]) => books.map(b => `<option value="${escape(b.path)}">${escape(category + ' / ' + b.name)} (${Number(b.count) || 0}词)</option>`)).join('');
   }
   function bookChanged() { excluded.clear(); if (callbacks) updateStats(); }
   function options() { return settings(); }
+  function reviewInfo(wordOrKey) { return review[key(isRecord(wordOrKey) ? wordOrKey['单词'] : wordOrKey)] || null; }
+  function reviewWords() { return Object.values(review).map(item => item.word); }
+  function reviewSnapshot() { return typeof structuredClone === 'function' ? structuredClone(review) : JSON.parse(JSON.stringify(review)); }
   function preflight(words, config) {
     const warnings = [];
     if (!words.length) warnings.push('没有可打印的单词，请放宽筛选或恢复勾选。');
     const longWords = words.filter(w => String(w['单词']).length > 24);
     if (longWords.length) warnings.push(`${longWords.length} 个长单词或短语可能被截短，例如 ${longWords.slice(0,3).map(w=>w['单词']).join('、')}。`);
-    if (config.definitionDetail === 'full' && config.wordsPerPage > 6) warnings.push('完整释义建议每页4～6词；请点击“一键精读排版”调整。');
+    if (config.definitionDetail === 'full' && config.wordsPerPage > 6) warnings.push('完整释义建议每页4～6词；可在“释义显示”中应用精读推荐。');
     const longDefs = words.filter(w => String(w['释义(中文)'] || '').length > 65 || String(w['释义(英文)'] || '').length > 200);
     if (longDefs.length) warnings.push(config.definitionDetail === 'full'
       ? `${longDefs.length} 个词包含长释义，已启用完整显示与自动分页；异常超长的单条释义请检查打印续页。`
       : `${longDefs.length} 个词的释义较长；精简模式可能截短，可切换完整释义。`);
-    if (config.wordsPerPage >= 13) warnings.push('高密度模式书写空间较小，长释义精简显示。');
+    const hasCopyPractice = config.showWordSlot !== false || config.showPhoneticSlot !== false || config.showZhDefinitionSlot === true || config.showEnDefinitionSlot !== false;
+    if (config.wordsPerPage >= 13 && hasCopyPractice) warnings.push('高密度模式书写空间较小，长释义精简显示。');
     const pageCount = Math.ceil(words.length / config.wordsPerPage) + (config.showCover ? 1 : 0);
     const sheets = config.printDuplex === 'off' ? pageCount : Math.ceil(pageCount / 2);
     return {warnings,pageCount,sheets};
@@ -343,5 +450,5 @@
       signal.removeEventListener('abort', cancel);
     }
   }
-  window.VocabWorkbench = {init,process,options,bookChanged,populateCatalog,updateStats,validateWords,preflight,exportFile,key};
+  window.VocabWorkbench = {init,process,options,bookChanged,populateCatalog,updateStats,validateWords,preflight,exportFile,key,reviewInfo,reviewWords,reviewSnapshot,applyCopyPreset,updateCopyPresetActive};
 })();

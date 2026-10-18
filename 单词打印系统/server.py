@@ -121,6 +121,12 @@ class VocabularyPrintServer(SimpleHTTPRequestHandler):
         sys.stdout.write(f'[{self.log_date_time_string()}] {format % args}\n')
         sys.stdout.flush()
 
+    def end_headers(self):
+        path = urllib.parse.urlparse(self.path).path.lower()
+        if path.endswith(('.html', '.js', '.css')) or path in ('/', ''):
+            self.send_header('Cache-Control', 'no-store')
+        super().end_headers()
+
     def send_json(self, status, payload):
         data = json.dumps(payload, ensure_ascii=False).encode('utf-8')
         self.send_response(status)
@@ -158,7 +164,7 @@ class VocabularyPrintServer(SimpleHTTPRequestHandler):
         if size < 1:
             raise ApiRequestError(400, '请求内容为空')
         if size > maximum:
-            raise ApiRequestError(413, '排版内容过大，请减小分卷范围')
+            raise ApiRequestError(413, '导出内容过大，请减少分卷数量或内容后重试')
         try:
             payload = json.loads(self.rfile.read(size).decode('utf-8'))
         except (UnicodeDecodeError, json.JSONDecodeError) as error:

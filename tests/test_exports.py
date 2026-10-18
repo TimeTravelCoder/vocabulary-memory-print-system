@@ -136,6 +136,47 @@ class ExportTests(unittest.TestCase):
                 self.assertEqual(len(archive.namelist()), 2)
                 self.assertEqual(archive.read('第二册.html').decode(), '<h1>第二册</h1>')
 
+    def test_data_jobs_download_csv_and_anki_zip(self):
+        with self.request('/api/export-jobs', {
+            'kind': 'data', 'format': 'csv', 'filename': '学习记录',
+            'content': 'word,definition\nhello,你好',
+        }) as response:
+            self.assertEqual(response.status, 202)
+            csv_job = json.load(response)['id']
+        self.assertEqual(self.wait_http_job(csv_job)['format'], 'csv')
+        with self.request(f'/api/export-jobs/{csv_job}/file') as response:
+            self.assertEqual(response.headers.get_content_type(), 'text/csv')
+            self.assertIn('filename*=', response.headers['Content-Disposition'])
+            self.assertEqual(
+                response.read().decode('utf-8-sig'), 'word,definition\nhello,你好')
+
+        with self.request('/api/export-jobs', {
+            'kind': 'data-zip', 'format': 'anki', 'filename': '复习包',
+            'volumes': [
+                {'filename': '../第一组', 'content': 'one\t一'},
+                {'filename': '../第一组', 'content': 'two\t二'},
+            ],
+        }) as response:
+            self.assertEqual(response.status, 202)
+            zip_job = json.load(response)['id']
+        self.assertEqual(self.wait_http_job(zip_job)['completed'], 2)
+        with self.request(f'/api/export-jobs/{zip_job}/file') as response:
+            self.assertEqual(response.headers.get_content_type(), 'application/zip')
+            with zipfile.ZipFile(io.BytesIO(response.read())) as archive:
+                self.assertEqual(archive.namelist(), ['_第一组.txt', '_第一组 (2).txt'])
+                self.assertEqual(archive.read('_第一组.txt').decode(), 'one\t一')
+
+    def test_data_export_rejects_unsupported_or_missing_content(self):
+        for payload in (
+                {'kind': 'data', 'format': 'pdf', 'content': 'bad'},
+                {'kind': 'data', 'format': 'csv'},
+                {'kind': 'data-zip', 'format': 'pdf', 'volumes': [
+                    {'content': 'bad'},
+                ]}):
+            with self.request('/api/export-jobs', payload) as response:
+                self.assertEqual(response.status, 400)
+                self.assertTrue(json.load(response)['error'])
+
     def test_mutating_api_rejects_cross_site_and_non_json_requests(self):
         headers = {'Origin': 'https://attacker.example', 'Content-Type': 'text/plain'}
         with self.request('/api/export-jobs', {'kind': 'zip', 'volumes': []}, headers) as response:
@@ -159,6 +200,17 @@ class ExportTests(unittest.TestCase):
                 if os.name == 'nt':
                     with self.request('/api/book?path=C:%5CWindows%5Cwin.ini') as response:
                         self.assertEqual(response.status, 403)
+
+    def test_static_assets_avoid_stale_frontend_cache(self):
+        with self.request('/index.html') as response:
+            self.assertEqual(response.status, 200)
+            self.assertEqual(response.headers.get('Cache-Control'), 'no-store')
+            html = response.read().decode('utf-8')
+        self.assertIn('advanced_features.js?v=20261018', html)
+        self.assertIn('workbench.js?v=20261018', html)
+        with self.request('/workbench.js?v=20261018') as response:
+            self.assertEqual(response.status, 200)
+            self.assertEqual(response.headers.get('Cache-Control'), 'no-store')
 
 
 if __name__ == '__main__':

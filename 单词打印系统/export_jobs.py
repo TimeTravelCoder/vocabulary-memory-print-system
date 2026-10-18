@@ -1,4 +1,5 @@
-"""Bounded local export jobs with progress, cancellation, and disk-backed results."""
+"""Bounded FIFO export jobs with progress, cancellation, and disk-backed results."""
+from collections import deque
 import os
 from pathlib import Path
 import re
@@ -6,12 +7,13 @@ import shutil
 import tempfile
 import threading
 import time
+import unicodedata
 import uuid
 import zipfile
 
 
 class ExportBusyError(RuntimeError):
-    """Raised when both export worker slots are occupied."""
+    """Raised when the export queue has reached its configured limit."""
 
 
 class ExportConflictError(RuntimeError):
@@ -19,23 +21,60 @@ class ExportConflictError(RuntimeError):
 
 
 class ExportJobs:
-    def __init__(self, renderer, browser_finder, retention_seconds=1800, max_finished=20):
+    FORMAT_SPECS = {
+        'pdf': ('.pdf', 'application/pdf'),
+        'html': ('.html', 'text/html; charset=utf-8'),
+        'csv': ('.csv', 'text/csv; charset=utf-8'),
+        'tsv': ('.tsv', 'text/tab-separated-values; charset=utf-8'),
+        'anki': ('.txt', 'text/plain; charset=utf-8'),
+        'txt': ('.txt', 'text/plain; charset=utf-8'),
+    }
+    DATA_FORMATS = frozenset(('csv', 'tsv', 'anki', 'txt'))
+    MAX_VOLUMES = 1000
+    MAX_ITEM_BYTES = 25 * 1024 * 1024
+    MAX_TOTAL_BYTES = 100 * 1024 * 1024
+    WINDOWS_RESERVED_NAMES = frozenset({
+        'CON', 'PRN', 'AUX', 'NUL',
+        *(f'COM{index}' for index in range(1, 10)),
+        *(f'LPT{index}' for index in range(1, 10)),
+    })
+
+    def __init__(self, renderer, browser_finder, retention_seconds=1800,
+                 max_finished=20, max_workers=2, max_pending=20,
+                 max_queued_bytes=200 * 1024 * 1024):
+        if max_workers < 1 or max_pending < max_workers or max_queued_bytes < 1:
+            raise ValueError('导出并发和队列限制无效')
         self.renderer = renderer
         self.browser_finder = browser_finder
         self.retention_seconds = retention_seconds
         self.max_finished = max_finished
+        self.max_workers = max_workers
+        self.max_pending = max_pending
+        self.max_queued_bytes = max_queued_bytes
         self.jobs = {}
         self.lock = threading.RLock()
-        self.capacity = threading.BoundedSemaphore(2)
+        self.condition = threading.Condition(self.lock)
+        self.pending = deque()
         self._temp = tempfile.TemporaryDirectory(prefix='vocab_exports_')
         self.output_dir = Path(self._temp.name)
-        self.threads = set()
         self.closed = False
+        self.threads = {
+            threading.Thread(
+                target=self._worker, name=f'vocab-export-worker-{index + 1}', daemon=True)
+            for index in range(max_workers)
+        }
+        for thread in self.threads:
+            thread.start()
 
     @staticmethod
     def safe_name(value):
-        name = re.sub(r'[\\/:*?"<>|\x00-\x1f]', '_', str(value)).strip(' .')[:180]
-        return name or 'vocabulary'
+        name = unicodedata.normalize('NFC', str(value or ''))
+        name = re.sub(r'[\\/:*?"<>|\x00-\x1f\x7f]', '_', name).strip(' .')[:180]
+        if not name:
+            return 'vocabulary'
+        if name.split('.', 1)[0].upper() in ExportJobs.WINDOWS_RESERVED_NAMES:
+            name = '_' + name
+        return name
 
     @staticmethod
     def _with_extension(value, extension):
@@ -43,6 +82,97 @@ class ExportJobs:
         if not name.lower().endswith(extension):
             name += extension
         return name
+
+    @staticmethod
+    def _unique_name(filename, used_names):
+        key = filename.casefold()
+        if key not in used_names:
+            used_names.add(key)
+            return filename
+        suffix = Path(filename).suffix
+        stem = filename[:-len(suffix)] if suffix else filename
+        counter = 2
+        while True:
+            tail = f' ({counter}){suffix}'
+            candidate = stem[:max(1, 180 - len(tail))] + tail
+            key = candidate.casefold()
+            if key not in used_names:
+                used_names.add(key)
+                return candidate
+            counter += 1
+
+    @classmethod
+    def _format_content(cls, volume, fmt):
+        key = 'html' if fmt in ('pdf', 'html') else 'content'
+        content = volume.get(key)
+        if content is None and key == 'content':
+            content = volume.get('text')
+        if not isinstance(content, str) or not content.strip():
+            label = 'HTML 排版内容' if key == 'html' else '文本导出内容'
+            raise ValueError(f'缺少有效的{label}')
+        return content
+
+    @classmethod
+    def _normalise_request(cls, payload):
+        if not isinstance(payload, dict):
+            raise ValueError('请求内容必须是 JSON 对象')
+        kind = payload.get('kind')
+        if kind not in ('pdf', 'data', 'zip', 'data-zip'):
+            raise ValueError('不支持的任务类型')
+
+        if kind == 'pdf':
+            if payload.get('format', 'pdf') != 'pdf':
+                raise ValueError('PDF 任务不支持其他导出格式')
+            default_format = 'pdf'
+            allowed_formats = ('pdf',)
+            source_volumes = [payload]
+        elif kind == 'data':
+            default_format = payload.get('format', 'txt')
+            if default_format not in cls.DATA_FORMATS:
+                raise ValueError('单文件数据导出仅支持 CSV、TSV、Anki 或 TXT')
+            allowed_formats = cls.DATA_FORMATS
+            source_volumes = [payload]
+        else:
+            data_zip = kind == 'data-zip'
+            default_format = payload.get('format', 'txt' if data_zip else 'pdf')
+            allowed_formats = cls.DATA_FORMATS if data_zip else cls.FORMAT_SPECS
+            if default_format not in allowed_formats:
+                raise ValueError('不支持的 ZIP 内容格式')
+            source_volumes = payload.get('volumes')
+            kind = 'zip'
+
+        if (not isinstance(source_volumes, list) or not source_volumes or
+                len(source_volumes) > cls.MAX_VOLUMES):
+            raise ValueError(f'没有有效的导出内容，或分卷数量超过 {cls.MAX_VOLUMES}')
+
+        volumes = []
+        total_size = 0
+        for index, volume in enumerate(source_volumes):
+            if not isinstance(volume, dict):
+                raise ValueError(f'第 {index + 1} 个分卷无效')
+            fmt = volume.get('format', default_format) if kind == 'zip' else default_format
+            if fmt not in allowed_formats:
+                raise ValueError(f'第 {index + 1} 个分卷格式不受支持')
+            content = cls._format_content(volume, fmt)
+            size = len(content.encode('utf-8'))
+            if size > cls.MAX_ITEM_BYTES:
+                raise ValueError(f'第 {index + 1} 个分卷超过 25 MB')
+            total_size += size
+            if total_size > cls.MAX_TOTAL_BYTES:
+                raise ValueError('导出内容总计超过 100 MB')
+            volumes.append({
+                'format': fmt,
+                'content': content,
+                'filename': volume.get('filename', f'volume_{index + 1}'),
+            })
+        return kind, volumes, total_size
+
+    @staticmethod
+    def _encode_text(content, fmt):
+        # A UTF-8 BOM makes CSV/TSV open correctly in common Windows spreadsheet apps.
+        if fmt in ('csv', 'tsv'):
+            return content.removeprefix('\ufeff').encode('utf-8-sig')
+        return content.encode('utf-8')
 
     def _remove_job_locked(self, job_id):
         job = self.jobs.pop(job_id, None)
@@ -68,111 +198,114 @@ class ExportJobs:
             self._remove_job_locked(job['id'])
 
     def create(self, payload):
-        if not isinstance(payload, dict):
-            raise ValueError('请求内容必须是 JSON 对象')
-        kind = payload.get('kind')
-        if kind not in ('pdf', 'zip'):
-            raise ValueError('不支持的任务类型')
-        volumes = payload.get('volumes') if kind == 'zip' else [payload]
-        if (not isinstance(volumes, list) or not volumes or len(volumes) > 1000 or
-                any(not isinstance(v, dict) or not isinstance(v.get('html'), str) or
-                    not v['html'].strip() for v in volumes)):
-            raise ValueError('没有有效的排版内容，或分卷数量超过 1000')
-        fmt = payload.get('format', 'pdf')
-        if fmt not in ('pdf', 'html') or (kind == 'pdf' and fmt != 'pdf'):
-            raise ValueError('不支持的导出格式')
+        kind, volumes, input_bytes = self._normalise_request(payload)
         job_id = payload.get('id') or uuid.uuid4().hex
         if not isinstance(job_id, str) or not re.fullmatch(r'[a-f0-9]{32}', job_id):
             raise ValueError('任务编号无效')
 
-        with self.lock:
-            self._cleanup_locked()
-            if self.closed:
-                raise ExportBusyError('导出服务正在关闭')
-            if job_id in self.jobs:
-                raise ExportConflictError('任务编号重复')
-        if not self.capacity.acquire(blocking=False):
-            raise ExportBusyError('已有两个导出任务，请等待或取消后重试')
-
-        extension = '.zip' if kind == 'zip' else '.pdf'
-        requested_name = payload.get(
-            'zipFilename' if kind == 'zip' else 'filename', 'vocabulary' + extension)
+        if kind == 'zip':
+            extension, mime = '.zip', 'application/zip'
+            requested_name = payload.get(
+                'zipFilename', payload.get('filename', 'vocabulary.zip'))
+        else:
+            extension, mime = self.FORMAT_SPECS[volumes[0]['format']]
+            requested_name = payload.get('filename', 'vocabulary' + extension)
         job = {
             'id': job_id, 'state': 'queued', 'completed': 0, 'total': len(volumes),
             'error': '', 'cancel': threading.Event(), 'updated': time.time(),
             'path': None, 'size': 0,
             'filename': self._with_extension(requested_name, extension),
-            'mime': 'application/zip' if kind == 'zip' else 'application/pdf',
+            'mime': mime,
+            'format': 'zip' if kind == 'zip' else volumes[0]['format'],
+            'inputBytes': input_bytes,
         }
-        registered = False
-        try:
-            with self.lock:
-                if self.closed:
-                    raise ExportBusyError('导出服务正在关闭')
-                if job_id in self.jobs:
-                    raise ExportConflictError('任务编号重复')
-                self.jobs[job_id] = job
-                registered = True
-                thread = threading.Thread(
-                    target=self._run, args=(job, volumes, fmt, kind),
-                    name=f'vocab-export-{job_id[:8]}', daemon=False)
-                self.threads.add(thread)
-            thread.start()
-        except Exception:
-            with self.lock:
-                if registered:
-                    self.jobs.pop(job_id, None)
-                if 'thread' in locals():
-                    self.threads.discard(thread)
-            self.capacity.release()
-            raise
+
+        with self.condition:
+            self._cleanup_locked()
+            if self.closed:
+                raise ExportBusyError('导出服务正在关闭')
+            if job_id in self.jobs:
+                raise ExportConflictError('任务编号重复')
+            active = sum(
+                existing['state'] in ('queued', 'running') for existing in self.jobs.values())
+            if active >= self.max_pending:
+                raise ExportBusyError(f'导出队列已满（最多 {self.max_pending} 个任务）')
+            queued_bytes = sum(
+                existing['inputBytes'] for existing in self.jobs.values()
+                if existing['state'] in ('queued', 'running'))
+            if queued_bytes + input_bytes > self.max_queued_bytes:
+                raise ExportBusyError('导出队列内容过大，请等待现有任务完成后重试')
+            self.jobs[job_id] = job
+            self.pending.append((job, volumes, kind))
+            self.condition.notify()
         return job_id
 
-    def _run(self, job, volumes, fmt, kind):
-        final_path = self.output_dir / (job['id'] + ('.zip' if kind == 'zip' else '.pdf'))
+    def _worker(self):
+        while True:
+            with self.condition:
+                while not self.pending and not self.closed:
+                    self.condition.wait()
+                if self.closed and not self.pending:
+                    return
+                job, volumes, kind = self.pending.popleft()
+                if job['cancel'].is_set():
+                    job['state'] = 'cancelled'
+                    job['updated'] = time.time()
+                    continue
+                job['state'] = 'running'
+                job['updated'] = time.time()
+            self._run(job, volumes, kind)
+            del volumes, kind
+
+    def _run(self, job, volumes, kind):
+        result_extension = '.zip' if kind == 'zip' else self.FORMAT_SPECS[volumes[0]['format']][0]
+        final_path = self.output_dir / (job['id'] + result_extension)
         partial_path = final_path.with_suffix(final_path.suffix + '.part')
         try:
             if job['cancel'].is_set():
                 raise InterruptedError('已取消导出')
-            with self.lock:
-                job['state'] = 'running'
-                job['updated'] = time.time()
-            browser = self.browser_finder() if fmt == 'pdf' else None
-            if fmt == 'pdf' and not browser:
+            needs_browser = any(volume['format'] == 'pdf' for volume in volumes)
+            browser = self.browser_finder() if needs_browser else None
+            if needs_browser and not browser:
                 raise RuntimeError('未找到 Edge 或 Chrome 浏览器程序')
 
             used_names = set()
             with tempfile.TemporaryDirectory(prefix='vocab_job_') as directory:
-                if kind == 'pdf':
-                    source = Path(directory) / '0.html'
-                    target = Path(directory) / '0.pdf'
-                    source.write_text(volumes[0]['html'], encoding='utf-8')
-                    self.renderer(browser, str(source), str(target), job['cancel'])
-                    if job['cancel'].is_set():
-                        raise InterruptedError('已取消导出')
-                    shutil.copyfile(target, partial_path)
+                if kind != 'zip':
+                    volume = volumes[0]
+                    if volume['format'] == 'pdf':
+                        source = Path(directory) / '0.html'
+                        target = Path(directory) / '0.pdf'
+                        source.write_text(volume['content'], encoding='utf-8')
+                        self.renderer(browser, str(source), str(target), job['cancel'])
+                        if job['cancel'].is_set():
+                            raise InterruptedError('已取消导出')
+                        shutil.copyfile(target, partial_path)
+                    else:
+                        partial_path.write_bytes(self._encode_text(
+                            volume['content'], volume['format']))
                     with self.lock:
                         job['completed'] = 1
                         job['updated'] = time.time()
                 else:
-                    with zipfile.ZipFile(partial_path, 'w', compression=zipfile.ZIP_DEFLATED) as archive:
+                    with zipfile.ZipFile(
+                            partial_path, 'w', compression=zipfile.ZIP_DEFLATED) as archive:
                         for index, volume in enumerate(volumes):
                             if job['cancel'].is_set():
                                 raise InterruptedError('已取消导出')
-                            extension = '.' + fmt
-                            filename = self._with_extension(
-                                volume.get('filename', f'volume_{index + 1}'), extension)
-                            if filename in used_names:
-                                filename = f'{index + 1}_{filename}'
-                            used_names.add(filename)
+                            fmt = volume['format']
+                            extension = self.FORMAT_SPECS[fmt][0]
+                            filename = self._with_extension(volume['filename'], extension)
+                            filename = self._unique_name(filename, used_names)
                             if fmt == 'pdf':
                                 source = Path(directory) / f'{index}.html'
                                 target = Path(directory) / f'{index}.pdf'
-                                source.write_text(volume['html'], encoding='utf-8')
+                                source.write_text(volume['content'], encoding='utf-8')
                                 self.renderer(browser, str(source), str(target), job['cancel'])
                                 archive.write(target, arcname=filename)
                             else:
-                                archive.writestr(filename, volume['html'].encode('utf-8'))
+                                archive.writestr(
+                                    filename, self._encode_text(volume['content'], fmt))
                             if job['cancel'].is_set():
                                 raise InterruptedError('已取消导出')
                             with self.lock:
@@ -209,9 +342,6 @@ class ExportJobs:
                         Path(path).unlink(missing_ok=True)
                     except OSError:
                         pass
-            with self.lock:
-                self.threads.discard(threading.current_thread())
-            self.capacity.release()
 
     def get(self, job_id):
         with self.lock:
@@ -220,10 +350,19 @@ class ExportJobs:
             return dict(job) if job else None
 
     def status(self, job_id):
-        job = self.get(job_id)
-        if not job:
-            return None
-        return {key: job[key] for key in ('id', 'state', 'completed', 'total', 'error')}
+        with self.lock:
+            self._cleanup_locked()
+            job = self.jobs.get(job_id)
+            if not job:
+                return None
+            status = {
+                key: job[key]
+                for key in ('id', 'state', 'completed', 'total', 'error', 'format')
+            }
+            if job['state'] == 'queued':
+                waiting = [entry[0]['id'] for entry in self.pending if not entry[0]['cancel'].is_set()]
+                status['queuePosition'] = waiting.index(job_id) + 1 if job_id in waiting else 0
+            return status
 
     def file(self, job_id):
         with self.lock:
@@ -241,22 +380,36 @@ class ExportJobs:
             }
 
     def cancel(self, job_id):
-        with self.lock:
+        with self.condition:
             self._cleanup_locked()
             job = self.jobs.get(job_id)
             if not job:
                 return None
-            if job['state'] in ('queued', 'running'):
+            original_state = job['state']
+            if original_state == 'queued':
+                job['cancel'].set()
+                self.pending = deque(
+                    entry for entry in self.pending if entry[0]['id'] != job_id)
+                job['state'] = 'cancelled'
+                job['updated'] = time.time()
+            elif original_state == 'running':
                 job['cancel'].set()
                 job['updated'] = time.time()
-            return job['state']
+            return original_state
 
     def shutdown(self, timeout=5):
-        with self.lock:
-            self.closed = True
-            for job in self.jobs.values():
-                if job['state'] in ('queued', 'running'):
-                    job['cancel'].set()
+        with self.condition:
+            if not self.closed:
+                self.closed = True
+                for job in self.jobs.values():
+                    if job['state'] == 'queued':
+                        job['cancel'].set()
+                        job['state'] = 'cancelled'
+                        job['updated'] = time.time()
+                    elif job['state'] == 'running':
+                        job['cancel'].set()
+                self.pending.clear()
+                self.condition.notify_all()
             threads = list(self.threads)
         deadline = time.monotonic() + timeout
         for thread in threads:
@@ -264,7 +417,8 @@ class ExportJobs:
         with self.lock:
             for job_id in list(self.jobs):
                 self._remove_job_locked(job_id)
-        try:
-            self._temp.cleanup()
-        except OSError:
-            pass
+        if not any(thread.is_alive() for thread in threads):
+            try:
+                self._temp.cleanup()
+            except OSError:
+                pass
