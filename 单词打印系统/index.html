@@ -3526,7 +3526,7 @@
               <label for="definitionDetail">释义完整度</label>
               <select id="definitionDetail">
                 <option value="brief">精简释义（适合密集）</option>
-                <option value="full">完整释义（自动分页）</option>
+                <option value="full">完整释义（自动分页，每页数量为上限）</option>
               </select>
             </div>
             <div class="feature-field">
@@ -3598,7 +3598,7 @@
               <button type="button" id="btnPreviewWordsDirect" style="flex:0 0 auto; white-space:nowrap; background:#2563eb; color:#fff; border:none; border-radius:4px; padding:3px 8px; font-size:10.5px; cursor:pointer;">查看效果 ↓</button>
             </div>
             <div style="font-size: 10.5px; color: #64748b; margin-top: 3px;">
-              点击预设按钮、拖动滑块或按微调箭头均会立即更新并直达单词页；精读推荐 4～6 词，常规 10 词。
+              手动选择数量时以每页词数为准，并自动关闭智能密度；8～16 词会使用精简释义以保证数量准确。完整释义模式下，该数量仅作为每页上限。
             </div>
           </div>
         </section>
@@ -4697,7 +4697,25 @@
 
     const applyWppValue = (value) => {
       clearScenarioPresetActive();
-      setWordsPerPage(value, true, true);
+      const requested = Math.max(4, Math.min(16, parseInt(value) || 10));
+      const smartDensity = document.getElementById('smartDensity');
+      const definitionDetail = document.getElementById('definitionDetail');
+      let settingsChanged = false;
+
+      // 手动指定数量代表“固定每页词数”。关闭动态密度，避免实际分页再次降到 4 词。
+      if (smartDensity?.checked) {
+        smartDensity.checked = false;
+        settingsChanged = true;
+      }
+      // 完整释义会按内容高度自动分页。高于 6 词时改用精简释义，保证用户指定的数量真实生效。
+      if (requested > 6 && definitionDetail?.value === 'full') {
+        definitionDetail.value = 'brief';
+        settingsChanged = true;
+      }
+
+      setWordsPerPage(requested, true, true);
+      // 统一保存被联动调整的设置；Workbench 会读取所有控件的当前值。
+      if (settingsChanged) (definitionDetail || smartDensity)?.dispatchEvent(new Event('change'));
     };
 
     wordsPerPageRange.addEventListener('input', event => applyWppValue(event.target.value));
@@ -4712,8 +4730,7 @@
     document.querySelectorAll('.preset-btn').forEach(btn => {
       btn.addEventListener('click', (e) => {
         e.preventDefault();
-        clearScenarioPresetActive();
-        setWordsPerPage(btn.dataset.val, true, true);
+        applyWppValue(btn.dataset.val);
       });
     });
 
